@@ -1,0 +1,2447 @@
+[
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Sr\nNo": "1",
+      "Time period": "O ctober- 5th January, 2012",
+      "Activity": "Summary Revision 2012"
+    },
+    "source": {
+      "pdf": "656c16e66a3e367ee29e0d0bc4522fe0.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Sr\nNo": "2",
+      "Time period": "5-1-12 to 17-1-12",
+      "Activity": "Young Voters drive and drive to enroll women\nvoters OR First Supplementary"
+    },
+    "source": {
+      "pdf": "656c16e66a3e367ee29e0d0bc4522fe0.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Sr\nNo": "3",
+      "Time period": "18-1-12 till today",
+      "Activity": "Continuous revision OR second\nsupplementary"
+    },
+    "source": {
+      "pdf": "656c16e66a3e367ee29e0d0bc4522fe0.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Format Number": "1B",
+      "Related to": "Gender ratio"
+    },
+    "source": {
+      "pdf": "656c16e66a3e367ee29e0d0bc4522fe0.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Format Number": "2B",
+      "Related to": "Elector Population ratio"
+    },
+    "source": {
+      "pdf": "656c16e66a3e367ee29e0d0bc4522fe0.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Format Number": "3B",
+      "Related to": "Age cohort"
+    },
+    "source": {
+      "pdf": "656c16e66a3e367ee29e0d0bc4522fe0.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Format Number": "4",
+      "Related to": "Inclusion and deletion in Current roll over previous roll"
+    },
+    "source": {
+      "pdf": "656c16e66a3e367ee29e0d0bc4522fe0.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Format Number": "5B",
+      "Related to": "EPIC and Photo coverage in current roll"
+    },
+    "source": {
+      "pdf": "656c16e66a3e367ee29e0d0bc4522fe0.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Format Number": "5C",
+      "Related to": "Photo coverage in current rolls"
+    },
+    "source": {
+      "pdf": "656c16e66a3e367ee29e0d0bc4522fe0.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Format Number": "5D",
+      "Related to": "EPIC coverage in current rolls"
+    },
+    "source": {
+      "pdf": "656c16e66a3e367ee29e0d0bc4522fe0.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Format Number": "6",
+      "Related to": "Polling station locations (urban/rural)"
+    },
+    "source": {
+      "pdf": "656c16e66a3e367ee29e0d0bc4522fe0.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Format Number": "7",
+      "Related to": "Information on service voters"
+    },
+    "source": {
+      "pdf": "656c16e66a3e367ee29e0d0bc4522fe0.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Format Number": "8B",
+      "Related to": "AC wise information on migrated electors"
+    },
+    "source": {
+      "pdf": "656c16e66a3e367ee29e0d0bc4522fe0.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Format Number": "",
+      "Related to": "66"
+    },
+    "source": {
+      "pdf": "656c16e66a3e367ee29e0d0bc4522fe0.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "null": null,
+      "1004 1004 1004": null
+    },
+    "source": {
+      "pdf": "656c16e66a3e367ee29e0d0bc4522fe0.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "null": null,
+      "1004 1004 1004": ""
+    },
+    "source": {
+      "pdf": "656c16e66a3e367ee29e0d0bc4522fe0.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "null": null,
+      "1004 1004 1004": ""
+    },
+    "source": {
+      "pdf": "656c16e66a3e367ee29e0d0bc4522fe0.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "null": null,
+      "1004 1004 1004": null
+    },
+    "source": {
+      "pdf": "656c16e66a3e367ee29e0d0bc4522fe0.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "null": "",
+      "1004 1004 1004": ""
+    },
+    "source": {
+      "pdf": "656c16e66a3e367ee29e0d0bc4522fe0.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "null": null,
+      "1004 1004 1004": "171-Vyara"
+    },
+    "source": {
+      "pdf": "656c16e66a3e367ee29e0d0bc4522fe0.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "null": null,
+      "1004 1004 1004": "1004"
+    },
+    "source": {
+      "pdf": "656c16e66a3e367ee29e0d0bc4522fe0.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "null": "",
+      "60.05\n58.24": "55.88\n53.28"
+    },
+    "source": {
+      "pdf": "656c16e66a3e367ee29e0d0bc4522fe0.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "null": null,
+      "60.05\n58.24": null
+    },
+    "source": {
+      "pdf": "656c16e66a3e367ee29e0d0bc4522fe0.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "null": null,
+      "60.05\n58.24": null
+    },
+    "source": {
+      "pdf": "656c16e66a3e367ee29e0d0bc4522fe0.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "null": "",
+      "60.05\n58.24": ""
+    },
+    "source": {
+      "pdf": "656c16e66a3e367ee29e0d0bc4522fe0.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "null": null,
+      "60.05\n58.24": null
+    },
+    "source": {
+      "pdf": "656c16e66a3e367ee29e0d0bc4522fe0.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "null": "",
+      "60.05\n58.24": ""
+    },
+    "source": {
+      "pdf": "656c16e66a3e367ee29e0d0bc4522fe0.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "null": null,
+      "60.05\n58.24": "171-Vyara"
+    },
+    "source": {
+      "pdf": "656c16e66a3e367ee29e0d0bc4522fe0.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "null": null,
+      "60.05\n58.24": "53.28"
+    },
+    "source": {
+      "pdf": "656c16e66a3e367ee29e0d0bc4522fe0.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Age Group": "18-19",
+      "Final Roll 2012": "1.33"
+    },
+    "source": {
+      "pdf": "656c16e66a3e367ee29e0d0bc4522fe0.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Age Group": "20-29",
+      "Final Roll 2012": "16.15"
+    },
+    "source": {
+      "pdf": "656c16e66a3e367ee29e0d0bc4522fe0.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Age Group": "30-39",
+      "Final Roll 2012": "16.83"
+    },
+    "source": {
+      "pdf": "656c16e66a3e367ee29e0d0bc4522fe0.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Age Group": "40-49",
+      "Final Roll 2012": "12.41"
+    },
+    "source": {
+      "pdf": "656c16e66a3e367ee29e0d0bc4522fe0.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Age Group": "50-59",
+      "Final Roll 2012": "7.50"
+    },
+    "source": {
+      "pdf": "656c16e66a3e367ee29e0d0bc4522fe0.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Age Group": "60-69",
+      "Final Roll 2012": "3.89"
+    },
+    "source": {
+      "pdf": "656c16e66a3e367ee29e0d0bc4522fe0.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Age Group": "70-79",
+      "Final Roll 2012": "1.85"
+    },
+    "source": {
+      "pdf": "656c16e66a3e367ee29e0d0bc4522fe0.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Age Group": "80+",
+      "Final Roll 2012": "0.53"
+    },
+    "source": {
+      "pdf": "656c16e66a3e367ee29e0d0bc4522fe0.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "null": null,
+      "58.24\n53.28 55.28": null
+    },
+    "source": {
+      "pdf": "656c16e66a3e367ee29e0d0bc4522fe0.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "null": null,
+      "58.24\n53.28 55.28": null
+    },
+    "source": {
+      "pdf": "656c16e66a3e367ee29e0d0bc4522fe0.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "null": "",
+      "58.24\n53.28 55.28": "1.09"
+    },
+    "source": {
+      "pdf": "656c16e66a3e367ee29e0d0bc4522fe0.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "null": null,
+      "58.24\n53.28 55.28": "171-Vyara"
+    },
+    "source": {
+      "pdf": "656c16e66a3e367ee29e0d0bc4522fe0.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "null": null,
+      "58.24\n53.28 55.28": "1.09"
+    },
+    "source": {
+      "pdf": "656c16e66a3e367ee29e0d0bc4522fe0.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "null": null,
+      "58.24\n53.28 55.28": "53.28"
+    },
+    "source": {
+      "pdf": "656c16e66a3e367ee29e0d0bc4522fe0.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "null": null,
+      "98.27": null
+    },
+    "source": {
+      "pdf": "656c16e66a3e367ee29e0d0bc4522fe0.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "null": null,
+      "98.27": ""
+    },
+    "source": {
+      "pdf": "656c16e66a3e367ee29e0d0bc4522fe0.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "null": null,
+      "98.27": null
+    },
+    "source": {
+      "pdf": "656c16e66a3e367ee29e0d0bc4522fe0.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "null": "",
+      "98.27": ""
+    },
+    "source": {
+      "pdf": "656c16e66a3e367ee29e0d0bc4522fe0.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "null": null,
+      "98.27": null
+    },
+    "source": {
+      "pdf": "656c16e66a3e367ee29e0d0bc4522fe0.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "null": "",
+      "98.27": ""
+    },
+    "source": {
+      "pdf": "656c16e66a3e367ee29e0d0bc4522fe0.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "null": null,
+      "98.27": "171-Vyara"
+    },
+    "source": {
+      "pdf": "656c16e66a3e367ee29e0d0bc4522fe0.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "null": null,
+      "98.27": "98.38"
+    },
+    "source": {
+      "pdf": "656c16e66a3e367ee29e0d0bc4522fe0.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "null": null,
+      "2.69": null
+    },
+    "source": {
+      "pdf": "656c16e66a3e367ee29e0d0bc4522fe0.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "null": null,
+      "2.69": ""
+    },
+    "source": {
+      "pdf": "656c16e66a3e367ee29e0d0bc4522fe0.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "null": null,
+      "2.69": null
+    },
+    "source": {
+      "pdf": "656c16e66a3e367ee29e0d0bc4522fe0.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "null": "",
+      "2.69": ""
+    },
+    "source": {
+      "pdf": "656c16e66a3e367ee29e0d0bc4522fe0.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "null": null,
+      "2.69": "171-Vyara"
+    },
+    "source": {
+      "pdf": "656c16e66a3e367ee29e0d0bc4522fe0.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "null": null,
+      "2.69": "2.69"
+    },
+    "source": {
+      "pdf": "656c16e66a3e367ee29e0d0bc4522fe0.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "No. Of AC": "171-Vyara",
+      "PS with 60-\n70%\nPhoto-\nElector": "0",
+      "PS with 70-\n80% Photo-\nElector": "0",
+      "PS with 80-\n90% Photo-\nElector": "9",
+      "PS with\n90+%\nPhoto-\nElector": "226",
+      "Percentage of\nNon Photo\nElector": "2.69"
+    },
+    "source": {
+      "pdf": "656c16e66a3e367ee29e0d0bc4522fe0.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "No. Of AC": "172-Nizar",
+      "PS with 60-\n70%\nPhoto-\nElector": "1",
+      "PS with 70-\n80% Photo-\nElector": "1",
+      "PS with 80-\n90% Photo-\nElector": "9",
+      "PS with\n90+%\nPhoto-\nElector": "296",
+      "Percentage of\nNon Photo\nElector": "2.66"
+    },
+    "source": {
+      "pdf": "656c16e66a3e367ee29e0d0bc4522fe0.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "No. Of AC": "Total",
+      "PS with 60-\n70%\nPhoto-\nElector": "1",
+      "PS with 70-\n80% Photo-\nElector": "1",
+      "PS with 80-\n90% Photo-\nElector": "18",
+      "PS with\n90+%\nPhoto-\nElector": "522",
+      "Percentage of\nNon Photo\nElector": "2.67"
+    },
+    "source": {
+      "pdf": "656c16e66a3e367ee29e0d0bc4522fe0.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "No. Of AC": "171-Vyara",
+      "PS with 60-\n70% EPIC": "0",
+      "PS with 70-\n80% EPIC": "0",
+      "PS with 80-\n90% EPIC": "1",
+      "PS with\n90+% EPIC": "234",
+      "Percentage\nof Residual\nElectors": "1.62"
+    },
+    "source": {
+      "pdf": "656c16e66a3e367ee29e0d0bc4522fe0.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "No. Of AC": "172-Nizar",
+      "PS with 60-\n70% EPIC": "1",
+      "PS with 70-\n80% EPIC": "1",
+      "PS with 80-\n90% EPIC": "2",
+      "PS with\n90+% EPIC": "303",
+      "Percentage\nof Residual\nElectors": "1.82"
+    },
+    "source": {
+      "pdf": "656c16e66a3e367ee29e0d0bc4522fe0.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "No. Of AC": "Total",
+      "PS with 60-\n70% EPIC": "1",
+      "PS with 70-\n80% EPIC": "1",
+      "PS with 80-\n90% EPIC": "3",
+      "PS with\n90+% EPIC": "537",
+      "Percentage\nof Residual\nElectors": "1.73"
+    },
+    "source": {
+      "pdf": "656c16e66a3e367ee29e0d0bc4522fe0.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of AC": null,
+      "Total Polling\nStations": "Urban",
+      "null": "Rural",
+      "Total": null,
+      "Total Polling Station\nLocation": "Urban"
+    },
+    "source": {
+      "pdf": "656c16e66a3e367ee29e0d0bc4522fe0.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of AC": "171-Vyara",
+      "Total Polling\nStations": "31",
+      "null": "149",
+      "Total": "172",
+      "Total Polling Station\nLocation": "23"
+    },
+    "source": {
+      "pdf": "656c16e66a3e367ee29e0d0bc4522fe0.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of AC": "172-Nizar",
+      "Total Polling\nStations": "23",
+      "null": "218",
+      "Total": "228",
+      "Total Polling Station\nLocation": "10"
+    },
+    "source": {
+      "pdf": "656c16e66a3e367ee29e0d0bc4522fe0.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of AC": "Total",
+      "Total Polling\nStations": "54",
+      "null": "367",
+      "Total": "400",
+      "Total Polling Station\nLocation": "33"
+    },
+    "source": {
+      "pdf": "656c16e66a3e367ee29e0d0bc4522fe0.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "General Election to State\nLegislative Assembly-2007": "Electors",
+      "null": "Polling\nStations",
+      "General Election to\nLok Sabha-2009": "Electors",
+      "General Election to\nLegislative Assembly-\n2012": "Elector\ns"
+    },
+    "source": {
+      "pdf": "656c16e66a3e367ee29e0d0bc4522fe0.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "General Election to State\nLegislative Assembly-2007": "363548",
+      "null": "542\n(as on\ntoday)",
+      "General Election to\nLok Sabha-2009": "392340",
+      "General Election to\nLegislative Assembly-\n2012": "415766"
+    },
+    "source": {
+      "pdf": "656c16e66a3e367ee29e0d0bc4522fe0.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "AC NAME": "171-Vyara",
+      "IDCARD GROUPS": "7",
+      "TOTAL SIMILAR CARDS": "14"
+    },
+    "source": {
+      "pdf": "656c16e66a3e367ee29e0d0bc4522fe0.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "AC NAME": "172-Nizar",
+      "IDCARD GROUPS": "9",
+      "TOTAL SIMILAR CARDS": "18"
+    },
+    "source": {
+      "pdf": "656c16e66a3e367ee29e0d0bc4522fe0.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "AC NAME": "TOTAL",
+      "IDCARD GROUPS": "16",
+      "TOTAL SIMILAR CARDS": "32"
+    },
+    "source": {
+      "pdf": "656c16e66a3e367ee29e0d0bc4522fe0.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Date": "1-6-12",
+      "Activity": "Draft roll publication"
+    },
+    "source": {
+      "pdf": "656c16e66a3e367ee29e0d0bc4522fe0.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Date": "1-6-12 to 18-6-12",
+      "Activity": "Claims and objections"
+    },
+    "source": {
+      "pdf": "656c16e66a3e367ee29e0d0bc4522fe0.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Date": "10-6-12 and 17-6-12",
+      "Activity": "Special campaign days"
+    },
+    "source": {
+      "pdf": "656c16e66a3e367ee29e0d0bc4522fe0.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "1990-Lagislative Assembly Election Voters\nTurn Out\nTapi District\n1000000\n10000\n57.28 43.40 50.24\n100\n1\n171-Vyara 172-Nizar Disrict": null,
+      "null": null
+    },
+    "source": {
+      "pdf": "656c16e66a3e367ee29e0d0bc4522fe0.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "1990-Lagislative Assembly Election Voters\nTurn Out\nTapi District\n1000000\n10000\n57.28 43.40 50.24\n100\n1\n171-Vyara 172-Nizar Disrict": null,
+      "null": null
+    },
+    "source": {
+      "pdf": "656c16e66a3e367ee29e0d0bc4522fe0.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "1990-Lagislative Assembly Election Voters\nTurn Out\nTapi District\n1000000\n10000\n57.28 43.40 50.24\n100\n1\n171-Vyara 172-Nizar Disrict": null,
+      "null": null
+    },
+    "source": {
+      "pdf": "656c16e66a3e367ee29e0d0bc4522fe0.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "1990-Lagislative Assembly Election Voters\nTurn Out\nTapi District\n1000000\n10000\n57.28 43.40 50.24\n100\n1\n171-Vyara 172-Nizar Disrict": null,
+      "null": null
+    },
+    "source": {
+      "pdf": "656c16e66a3e367ee29e0d0bc4522fe0.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "1990-Lagislative Assembly Election Voters\nTurn Out\nTapi District\n1000000\n10000\n57.28 43.40 50.24\n100\n1\n171-Vyara 172-Nizar Disrict": null,
+      "null": null
+    },
+    "source": {
+      "pdf": "656c16e66a3e367ee29e0d0bc4522fe0.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "1990-Lagislative Assembly Election Voters\nTurn Out\nTapi District\n1000000\n10000\n57.28 43.40 50.24\n100\n1\n171-Vyara 172-Nizar Disrict": null,
+      "null": "50.24"
+    },
+    "source": {
+      "pdf": "656c16e66a3e367ee29e0d0bc4522fe0.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "1990-Lagislative Assembly Election Voters\nTurn Out\nTapi District\n1000000\n10000\n57.28 43.40 50.24\n100\n1\n171-Vyara 172-Nizar Disrict": null,
+      "null": ""
+    },
+    "source": {
+      "pdf": "656c16e66a3e367ee29e0d0bc4522fe0.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "1990-Lagislative Assembly Election Voters\nTurn Out\nTapi District\n1000000\n10000\n57.28 43.40 50.24\n100\n1\n171-Vyara 172-Nizar Disrict": null,
+      "null": null
+    },
+    "source": {
+      "pdf": "656c16e66a3e367ee29e0d0bc4522fe0.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "1990-Lagislative Assembly Election Voters\nTurn Out\nTapi District\n1000000\n10000\n57.28 43.40 50.24\n100\n1\n171-Vyara 172-Nizar Disrict": "Total Voters",
+      "null": null
+    },
+    "source": {
+      "pdf": "656c16e66a3e367ee29e0d0bc4522fe0.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "1990-Lagislative Assembly Election Voters\nTurn Out\nTapi District\n1000000\n10000\n57.28 43.40 50.24\n100\n1\n171-Vyara 172-Nizar Disrict": "Voter Turn Out",
+      "null": null
+    },
+    "source": {
+      "pdf": "656c16e66a3e367ee29e0d0bc4522fe0.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "1990-Lagislative Assembly Election Voters\nTurn Out\nTapi District\n1000000\n10000\n57.28 43.40 50.24\n100\n1\n171-Vyara 172-Nizar Disrict": "Percentage",
+      "null": null
+    },
+    "source": {
+      "pdf": "656c16e66a3e367ee29e0d0bc4522fe0.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "1990-Lagislative Assembly Election Voters\nTurn Out\nTapi District\n1000000\n10000\n57.28 43.40 50.24\n100\n1\n171-Vyara 172-Nizar Disrict": "",
+      "null": null
+    },
+    "source": {
+      "pdf": "656c16e66a3e367ee29e0d0bc4522fe0.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "null": null,
+      "73.07": "74.30\n71.88"
+    },
+    "source": {
+      "pdf": "656c16e66a3e367ee29e0d0bc4522fe0.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "null": null,
+      "73.07": null
+    },
+    "source": {
+      "pdf": "656c16e66a3e367ee29e0d0bc4522fe0.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "null": "",
+      "73.07": ""
+    },
+    "source": {
+      "pdf": "656c16e66a3e367ee29e0d0bc4522fe0.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "null": null,
+      "73.07": null
+    },
+    "source": {
+      "pdf": "656c16e66a3e367ee29e0d0bc4522fe0.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "null": null,
+      "73.07": null
+    },
+    "source": {
+      "pdf": "656c16e66a3e367ee29e0d0bc4522fe0.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "null": "",
+      "73.07": ""
+    },
+    "source": {
+      "pdf": "656c16e66a3e367ee29e0d0bc4522fe0.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "null": null,
+      "73.07": "171-Vyara"
+    },
+    "source": {
+      "pdf": "656c16e66a3e367ee29e0d0bc4522fe0.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "null": null,
+      "73.07": "152634"
+    },
+    "source": {
+      "pdf": "656c16e66a3e367ee29e0d0bc4522fe0.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "null": null,
+      "73.07": "113410"
+    },
+    "source": {
+      "pdf": "656c16e66a3e367ee29e0d0bc4522fe0.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "null": null,
+      "73.07": "74.30"
+    },
+    "source": {
+      "pdf": "656c16e66a3e367ee29e0d0bc4522fe0.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "null": null,
+      "61.56": "59.62\n63.55"
+    },
+    "source": {
+      "pdf": "656c16e66a3e367ee29e0d0bc4522fe0.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "null": "",
+      "61.56": ""
+    },
+    "source": {
+      "pdf": "656c16e66a3e367ee29e0d0bc4522fe0.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "null": null,
+      "61.56": null
+    },
+    "source": {
+      "pdf": "656c16e66a3e367ee29e0d0bc4522fe0.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "null": "",
+      "61.56": ""
+    },
+    "source": {
+      "pdf": "656c16e66a3e367ee29e0d0bc4522fe0.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "null": null,
+      "61.56": "171-Vyara"
+    },
+    "source": {
+      "pdf": "656c16e66a3e367ee29e0d0bc4522fe0.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "null": null,
+      "61.56": "153048"
+    },
+    "source": {
+      "pdf": "656c16e66a3e367ee29e0d0bc4522fe0.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "null": null,
+      "61.56": "97260"
+    },
+    "source": {
+      "pdf": "656c16e66a3e367ee29e0d0bc4522fe0.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "null": null,
+      "61.56": "63.55"
+    },
+    "source": {
+      "pdf": "656c16e66a3e367ee29e0d0bc4522fe0.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "null": null,
+      "65.17": null
+    },
+    "source": {
+      "pdf": "656c16e66a3e367ee29e0d0bc4522fe0.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "null": null,
+      "65.17": "65.79 64.58"
+    },
+    "source": {
+      "pdf": "656c16e66a3e367ee29e0d0bc4522fe0.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "null": null,
+      "65.17": null
+    },
+    "source": {
+      "pdf": "656c16e66a3e367ee29e0d0bc4522fe0.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "null": "",
+      "65.17": ""
+    },
+    "source": {
+      "pdf": "656c16e66a3e367ee29e0d0bc4522fe0.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "null": null,
+      "65.17": null
+    },
+    "source": {
+      "pdf": "656c16e66a3e367ee29e0d0bc4522fe0.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "null": null,
+      "65.17": null
+    },
+    "source": {
+      "pdf": "656c16e66a3e367ee29e0d0bc4522fe0.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "null": null,
+      "65.17": null
+    },
+    "source": {
+      "pdf": "656c16e66a3e367ee29e0d0bc4522fe0.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "null": "",
+      "65.17": ""
+    },
+    "source": {
+      "pdf": "656c16e66a3e367ee29e0d0bc4522fe0.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "null": null,
+      "65.17": "171-Vyara"
+    },
+    "source": {
+      "pdf": "656c16e66a3e367ee29e0d0bc4522fe0.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "null": null,
+      "65.17": "166335"
+    },
+    "source": {
+      "pdf": "656c16e66a3e367ee29e0d0bc4522fe0.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "null": null,
+      "65.17": "109440"
+    },
+    "source": {
+      "pdf": "656c16e66a3e367ee29e0d0bc4522fe0.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "null": null,
+      "65.17": "65.79"
+    },
+    "source": {
+      "pdf": "656c16e66a3e367ee29e0d0bc4522fe0.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "null": null,
+      "66.86": null
+    },
+    "source": {
+      "pdf": "656c16e66a3e367ee29e0d0bc4522fe0.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "null": null,
+      "66.86": "68.15 65.65"
+    },
+    "source": {
+      "pdf": "656c16e66a3e367ee29e0d0bc4522fe0.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "null": null,
+      "66.86": null
+    },
+    "source": {
+      "pdf": "656c16e66a3e367ee29e0d0bc4522fe0.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "null": "",
+      "66.86": ""
+    },
+    "source": {
+      "pdf": "656c16e66a3e367ee29e0d0bc4522fe0.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "null": null,
+      "66.86": null
+    },
+    "source": {
+      "pdf": "656c16e66a3e367ee29e0d0bc4522fe0.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "null": null,
+      "66.86": null
+    },
+    "source": {
+      "pdf": "656c16e66a3e367ee29e0d0bc4522fe0.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "null": null,
+      "66.86": null
+    },
+    "source": {
+      "pdf": "656c16e66a3e367ee29e0d0bc4522fe0.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "null": "",
+      "66.86": ""
+    },
+    "source": {
+      "pdf": "656c16e66a3e367ee29e0d0bc4522fe0.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "null": null,
+      "66.86": "171-Vyara"
+    },
+    "source": {
+      "pdf": "656c16e66a3e367ee29e0d0bc4522fe0.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "null": null,
+      "66.86": "175145"
+    },
+    "source": {
+      "pdf": "656c16e66a3e367ee29e0d0bc4522fe0.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "null": null,
+      "66.86": "119358"
+    },
+    "source": {
+      "pdf": "656c16e66a3e367ee29e0d0bc4522fe0.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "null": null,
+      "66.86": "68.15"
+    },
+    "source": {
+      "pdf": "656c16e66a3e367ee29e0d0bc4522fe0.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "": "Population",
+      "Census year 2001": "719634",
+      "Census year 2011": "806489"
+    },
+    "source": {
+      "pdf": "656c16e66a3e367ee29e0d0bc4522fe0.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "": "Population male",
+      "Census year 2001": "360467",
+      "Census year 2011": "402398"
+    },
+    "source": {
+      "pdf": "656c16e66a3e367ee29e0d0bc4522fe0.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "": "Population female",
+      "Census year 2001": "359167",
+      "Census year 2011": "404091"
+    },
+    "source": {
+      "pdf": "656c16e66a3e367ee29e0d0bc4522fe0.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "": "Sex ratio",
+      "Census year 2001": "996",
+      "Census year 2011": "1004"
+    },
+    "source": {
+      "pdf": "656c16e66a3e367ee29e0d0bc4522fe0.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "": "Sex ratio (rural)",
+      "Census year 2001": "931",
+      "Census year 2011": "939"
+    },
+    "source": {
+      "pdf": "656c16e66a3e367ee29e0d0bc4522fe0.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "": "Sex ratio (urban)",
+      "Census year 2001": "908",
+      "Census year 2011": "915"
+    },
+    "source": {
+      "pdf": "656c16e66a3e367ee29e0d0bc4522fe0.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "": "Decadal growth rate(total)",
+      "Census year 2001": "14.78",
+      "Census year 2011": "12.07"
+    },
+    "source": {
+      "pdf": "656c16e66a3e367ee29e0d0bc4522fe0.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "": "Literacy rate",
+      "Census year 2001": "57.05",
+      "Census year 2011": "69.23"
+    },
+    "source": {
+      "pdf": "656c16e66a3e367ee29e0d0bc4522fe0.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "": "Literacy rate (male)",
+      "Census year 2001": "66.23",
+      "Census year 2011": "76.86"
+    },
+    "source": {
+      "pdf": "656c16e66a3e367ee29e0d0bc4522fe0.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "": "Literacy rate (female)",
+      "Census year 2001": "47.91",
+      "Census year 2011": "61.69 2288"
+    },
+    "source": {
+      "pdf": "656c16e66a3e367ee29e0d0bc4522fe0.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "S\nR\nN\no": "1",
+      "Medium for\nSVEEP": "Cable operator",
+      "Target area\n(whether whole\nDistrict /Ac /\nparticular Polling\nBooth": "Through out\nDistrict /All PS\nArea",
+      "Target period\nFrom/To": "1/05/12 to\n18/06/12",
+      "Partnership\nif any": "Local Cable\nOperator",
+      "Responsible\nofficer / office\nfor\nimplementation": "DEO/ERO/ AERO"
+    },
+    "source": {
+      "pdf": "656c16e66a3e367ee29e0d0bc4522fe0.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "S\nR\nN\no": "2",
+      "Medium for\nSVEEP": "Press Release",
+      "Target area\n(whether whole\nDistrict /Ac /\nparticular Polling\nBooth": "Through out\nDistrict /All PS\nArea",
+      "Target period\nFrom/To": "Every Monday,\nThursday, till\ncampaign",
+      "Partnership\nif any": "Information\nDepartment,\nLocal\nNewspaper",
+      "Responsible\nofficer / office\nfor\nimplementation": "DEO/ERO/ AERO"
+    },
+    "source": {
+      "pdf": "656c16e66a3e367ee29e0d0bc4522fe0.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "S\nR\nN\no": "3",
+      "Medium for\nSVEEP": "Radio/ Cable\nAdvertisement",
+      "Target area\n(whether whole\nDistrict /Ac /\nparticular Polling\nBooth": "Through out\nDistrict /All PS\nArea",
+      "Target period\nFrom/To": "Daily\nGujarat News",
+      "Partnership\nif any": "-",
+      "Responsible\nofficer / office\nfor\nimplementation": "DEO/ERO/ AERO"
+    },
+    "source": {
+      "pdf": "656c16e66a3e367ee29e0d0bc4522fe0.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "S\nR\nN\no": "4",
+      "Medium for SVEEP": "Information to\nVoters at E-Gram",
+      "Target area\n(whether whole\nDistrict /Ac\n/particular Polling\nBooth": "Through out District\n/All PS Area",
+      "Target period\nFrom /To": "1/05/12 to\n18/06/12",
+      "Partnership\nif any": "Gram\nPanchayat",
+      "Responsible\nofficer / office\nfor\nimplementation": "AERO"
+    },
+    "source": {
+      "pdf": "656c16e66a3e367ee29e0d0bc4522fe0.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "S\nR\nN\no": "5",
+      "Medium for SVEEP": "Press\nAdvertisement",
+      "Target area\n(whether whole\nDistrict /Ac\n/particular Polling\nBooth": "Through out District\n/All PS Area",
+      "Target period\nFrom /To": "01/06/12 to\n18/06/12",
+      "Partnership\nif any": "-",
+      "Responsible\nofficer / office\nfor\nimplementation": "DEO/ AERO"
+    },
+    "source": {
+      "pdf": "656c16e66a3e367ee29e0d0bc4522fe0.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "S\nR\nN\no": "6",
+      "Medium for SVEEP": "Hordings & Banners",
+      "Target area\n(whether whole\nDistrict /Ac\n/particular Polling\nBooth": "Through out District\n/All PS Area",
+      "Target period\nFrom /To": "01/06/12 to\n18/06/12",
+      "Partnership\nif any": "-",
+      "Responsible\nofficer / office\nfor\nimplementation": "DEO/ERO/ AERO"
+    },
+    "source": {
+      "pdf": "656c16e66a3e367ee29e0d0bc4522fe0.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "S\nR\nN\no": "7",
+      "Medium for SVEEP": "Reading out names\nof residuals in\nGram Sabha",
+      "Target area\n(whether whole\nDistrict /Ac\n/particular Polling\nBooth": "Through out District\n/All PS Area",
+      "Target period\nFrom /To": "During Gram\nSabha\nProgramme",
+      "Partnership\nif any": "Gram\nPanchayat",
+      "Responsible\nofficer / office\nfor\nimplementation": "ERO/ AERO"
+    },
+    "source": {
+      "pdf": "656c16e66a3e367ee29e0d0bc4522fe0.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "SR\nNo": "8",
+      "Medium for\nSVEEP": "-Nagarpalika\n-135-D Notice",
+      "Target area\n(whether whole\nDistrict /Ac\n/particular Polling\nBooth": "Through out District\n/All PS Area",
+      "Target period\nFrom / To": "1/05/12 to\n18/06/12",
+      "Partnership\nif any": "Nagarpalika\nMamlatdar",
+      "Responsible\nofficer / office\nfor\nimplementation": "DEO/ ERO /\nAERO"
+    },
+    "source": {
+      "pdf": "656c16e66a3e367ee29e0d0bc4522fe0.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "SR\nNo": "9",
+      "Medium for\nSVEEP": "NGOs\nAnganwadi\nSakhi Mandal\nAsha Worker",
+      "Target area\n(whether whole\nDistrict /Ac\n/particular Polling\nBooth": "Through out District\n/All PS Area",
+      "Target period\nFrom / To": "15/05/12 to\n18/06/12",
+      "Partnership\nif any": "-",
+      "Responsible\nofficer / office\nfor\nimplementation": "ERO/ AERO"
+    },
+    "source": {
+      "pdf": "656c16e66a3e367ee29e0d0bc4522fe0.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "SR\nNo": "10",
+      "Medium for\nSVEEP": "SMS",
+      "Target area\n(whether whole\nDistrict /Ac\n/particular Polling\nBooth": "Through out District\n/All PS Area",
+      "Target period\nFrom / To": "25/05/12 to\n18/06/12",
+      "Partnership\nif any": "Cell Service\nProvider",
+      "Responsible\nofficer / office\nfor\nimplementation": "ERO/ AERO"
+    },
+    "source": {
+      "pdf": "656c16e66a3e367ee29e0d0bc4522fe0.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "SR\nNo": "11",
+      "Medium for\nSVEEP": "Coverage of\nhomeless",
+      "Target area\n(whether whole\nDistrict/Ac/\nparticular Polling\nBooth)": "Through out District\n/All PS Area",
+      "Target period\nFrom / To": "25/05/12 to\n31/05/12",
+      "Partnership\nif any": "BLOs",
+      "Responsible\nofficer /office\nfor\nimplementation": "ERO/ AERO"
+    },
+    "source": {
+      "pdf": "656c16e66a3e367ee29e0d0bc4522fe0.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "SR\nNo": "12",
+      "Medium for\nSVEEP": "Youths\n12th STD\nUniversity",
+      "Target area\n(whether whole\nDistrict/Ac/\nparticular Polling\nBooth)": "Through out District\n/All PS Area",
+      "Target period\nFrom / To": "May\nJune",
+      "Partnership\nif any": "Education\nDepartment,\nUniversity",
+      "Responsible\nofficer /office\nfor\nimplementation": "ERO / AERO"
+    },
+    "source": {
+      "pdf": "656c16e66a3e367ee29e0d0bc4522fe0.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "SR\nNo": "13",
+      "Medium for\nSVEEP": "Special Drive for\noldage home ,\npensioner and\ngroups attending\nreligious places",
+      "Target area\n(whether whole\nDistrict/Ac/\nparticular Polling\nBooth)": "Through out District\n/All PS Area",
+      "Target period\nFrom / To": "May",
+      "Partnership\nif any": "Trust\nSenior citizen\nclub",
+      "Responsible\nofficer /office\nfor\nimplementation": "DEO/ ERO/\nAERO"
+    },
+    "source": {
+      "pdf": "656c16e66a3e367ee29e0d0bc4522fe0.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "SR\nNo": "14",
+      "Medium for SVEEP": "Distribution of Hand bill\nand stickers",
+      "Target area\n(whether\nwhole District\n/Ac\n/particular\nPolling Booth": "Through out\nDistrict /All PS\nArea",
+      "Target\nperiod From\n/ To": "01/05/12 to\n18/06/12",
+      "Partnership\nif any": "Private &\nCo-op Dairy,\nRegistrar Co-\nop. Society",
+      "Responsible\nofficer / office\nfor\nimplementatio\nn": "AERO/ERO"
+    },
+    "source": {
+      "pdf": "656c16e66a3e367ee29e0d0bc4522fe0.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "SR\nNo": "15",
+      "Medium for SVEEP": "Display of Hording &\nbanners during Special\nCampaign of Krushi\nMahotsav & Pravesotsav\nat each Village",
+      "Target area\n(whether\nwhole District\n/Ac\n/particular\nPolling Booth": "Through out\nDistrict /All PS\nArea",
+      "Target\nperiod From\n/ To": "During Krushi\nMahotsav\nPraves-Utsav",
+      "Partnership\nif any": "Agri . Dept.\nEdu. Dept.",
+      "Responsible\nofficer / office\nfor\nimplementatio\nn": "TDO/\nERO/\nAERO"
+    },
+    "source": {
+      "pdf": "656c16e66a3e367ee29e0d0bc4522fe0.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "SR\nNo": "16",
+      "Medium for SVEEP": "Special drive for\ncollection of\nphotographs and\nverification of residual\nvoters and SVEEP related\nactivities by class 1 & 2\nOfficer",
+      "Target area\n(whether\nwhole District\n/Ac\n/particular\nPolling Booth": "Through out\nDistrict /All PS\nArea",
+      "Target\nperiod From\n/ To": "01/05/12 to\n15/05/12",
+      "Partnership\nif any": "-",
+      "Responsible\nofficer / office\nfor\nimplementatio\nn": "DEO/\nERO/\nAERO"
+    },
+    "source": {
+      "pdf": "656c16e66a3e367ee29e0d0bc4522fe0.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  }
+]

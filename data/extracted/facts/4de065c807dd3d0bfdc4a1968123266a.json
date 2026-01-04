@@ -1,0 +1,5185 @@
+[
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "S.\nNo.": null,
+      "of Area": null,
+      "1991": "Km2",
+      "null": "%",
+      "2001": "Km2",
+      "2011": "Km2"
+    },
+    "source": {
+      "pdf": "c515a8bac5126da18a0743efe7ebd048.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "S.\nNo.": "1.",
+      "of Area": "",
+      "1991": "797.66",
+      "null": "24.90",
+      "2001": "558.32",
+      "2011": "369.35"
+    },
+    "source": {
+      "pdf": "c515a8bac5126da18a0743efe7ebd048.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "S.\nNo.": "2.",
+      "of Area": "Urban",
+      "1991": "685.34",
+      "null": "75.1",
+      "2001": "924.68",
+      "2011": "1113.65"
+    },
+    "source": {
+      "pdf": "c515a8bac5126da18a0743efe7ebd048.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "S.\nNo.": "3.",
+      "of Area": "Total",
+      "1991": "1483.00",
+      "null": "100.00",
+      "2001": "1483.00",
+      "2011": "1483.00"
+    },
+    "source": {
+      "pdf": "c515a8bac5126da18a0743efe7ebd048.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "S.\nNo.": null,
+      "Year": null,
+      "Delhi\ns": null,
+      "null": "",
+      "India": "",
+      "Share of\nDelhi’s\nin All Indi": null
+    },
+    "source": {
+      "pdf": "c515a8bac5126da18a0743efe7ebd048.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "S.\nNo.": "1.",
+      "Year": "1951",
+      "Delhi\ns": "17.44",
+      "null": "--",
+      "India": "3610.88",
+      "Share of\nDelhi’s\nin All Indi": "0.48"
+    },
+    "source": {
+      "pdf": "c515a8bac5126da18a0743efe7ebd048.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "S.\nNo.": "2.",
+      "Year": "1961",
+      "Delhi\ns": "26.59",
+      "null": "21.64",
+      "India": "4392.35",
+      "Share of\nDelhi’s\nin All Indi": "0.61"
+    },
+    "source": {
+      "pdf": "c515a8bac5126da18a0743efe7ebd048.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "S.\nNo.": "3.",
+      "Year": "1971",
+      "Delhi\ns": "40.66",
+      "null": "24.80",
+      "India": "5481.60",
+      "Share of\nDelhi’s\nin All Indi": "0.74"
+    },
+    "source": {
+      "pdf": "c515a8bac5126da18a0743efe7ebd048.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "S.\nNo.": "4.",
+      "Year": "1981",
+      "Delhi\ns": "62.20",
+      "null": "24.66",
+      "India": "6833.29",
+      "Share of\nDelhi’s\nin All Indi": "0.91"
+    },
+    "source": {
+      "pdf": "c515a8bac5126da18a0743efe7ebd048.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "S.\nNo.": "5.",
+      "Year": "1991",
+      "Delhi\ns": "94.21",
+      "null": "23.87",
+      "India": "8464.21",
+      "Share of\nDelhi’s\nin All Indi": "1.11"
+    },
+    "source": {
+      "pdf": "c515a8bac5126da18a0743efe7ebd048.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "S.\nNo.": "6.",
+      "Year": "2001",
+      "Delhi\ns": "138.51",
+      "null": "21.54",
+      "India": "10287.37",
+      "Share of\nDelhi’s\nin All Indi": "1.35"
+    },
+    "source": {
+      "pdf": "c515a8bac5126da18a0743efe7ebd048.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "S.\nNo.": "7.",
+      "Year": "2011",
+      "Delhi\ns": "167.88",
+      "null": "17.70",
+      "India": "12108.55",
+      "Share of\nDelhi’s\nin All Indi": "1.39"
+    },
+    "source": {
+      "pdf": "c515a8bac5126da18a0743efe7ebd048.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "S.\nNo.": null,
+      "": null,
+      "2001": "Number",
+      "null": "Rank",
+      "2011": "Number"
+    },
+    "source": {
+      "pdf": "c515a8bac5126da18a0743efe7ebd048.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "S.\nNo.": "1.",
+      "": "North West",
+      "2001": "2860869",
+      "null": "1",
+      "2011": "3656539"
+    },
+    "source": {
+      "pdf": "c515a8bac5126da18a0743efe7ebd048.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "S.\nNo.": "2.",
+      "": "South",
+      "2001": "2267023",
+      "null": "2",
+      "2011": "2731929"
+    },
+    "source": {
+      "pdf": "c515a8bac5126da18a0743efe7ebd048.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "S.\nNo.": "3",
+      "": "West",
+      "2001": "2128908",
+      "null": "3",
+      "2011": "2543243"
+    },
+    "source": {
+      "pdf": "c515a8bac5126da18a0743efe7ebd048.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "S.\nNo.": "4",
+      "": "North East",
+      "2001": "1768061",
+      "null": "5",
+      "2011": "2241624"
+    },
+    "source": {
+      "pdf": "c515a8bac5126da18a0743efe7ebd048.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "S.\nNo.": "5.",
+      "": "South West",
+      "2001": "1755041",
+      "null": "4",
+      "2011": "2292958"
+    },
+    "source": {
+      "pdf": "c515a8bac5126da18a0743efe7ebd048.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "S.\nNo.": "6.",
+      "": "East",
+      "2001": "1463583",
+      "null": "6",
+      "2011": "1709345"
+    },
+    "source": {
+      "pdf": "c515a8bac5126da18a0743efe7ebd048.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "S.\nNo.": "7.",
+      "": "North",
+      "2001": "781525",
+      "null": "7",
+      "2011": "887978"
+    },
+    "source": {
+      "pdf": "c515a8bac5126da18a0743efe7ebd048.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "S.\nNo.": "8.",
+      "": "Central",
+      "2001": "646385",
+      "null": "8",
+      "2011": "582320"
+    },
+    "source": {
+      "pdf": "c515a8bac5126da18a0743efe7ebd048.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "S.\nNo.": "9.",
+      "": "New Delhi",
+      "2001": "179112",
+      "null": "9",
+      "2011": "142004"
+    },
+    "source": {
+      "pdf": "c515a8bac5126da18a0743efe7ebd048.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "S.\nNo.": "",
+      "": "Total",
+      "2001": "13850507",
+      "null": "",
+      "2011": "16787941"
+    },
+    "source": {
+      "pdf": "c515a8bac5126da18a0743efe7ebd048.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "S.\nNo.": null,
+      "": null,
+      "2001 Rank 2011 Rank": null,
+      "null": "Rank"
+    },
+    "source": {
+      "pdf": "c515a8bac5126da18a0743efe7ebd048.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "S.\nNo.": "1.",
+      "": "North East",
+      "2001 Rank 2011 Rank": "849",
+      "null": "2"
+    },
+    "source": {
+      "pdf": "c515a8bac5126da18a0743efe7ebd048.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "S.\nNo.": "2.",
+      "": "East",
+      "2001 Rank 2011 Rank": "843",
+      "null": "3"
+    },
+    "source": {
+      "pdf": "c515a8bac5126da18a0743efe7ebd048.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "S.\nNo.": "3",
+      "": "Central",
+      "2001 Rank 2011 Rank": "842",
+      "null": "1"
+    },
+    "source": {
+      "pdf": "c515a8bac5126da18a0743efe7ebd048.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "S.\nNo.": "4",
+      "": "West",
+      "2001 Rank 2011 Rank": "830",
+      "null": "4"
+    },
+    "source": {
+      "pdf": "c515a8bac5126da18a0743efe7ebd048.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "S.\nNo.": "5.",
+      "": "North",
+      "2001 Rank 2011 Rank": "826",
+      "null": "5"
+    },
+    "source": {
+      "pdf": "c515a8bac5126da18a0743efe7ebd048.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "S.\nNo.": "6.",
+      "": "North West",
+      "2001 Rank 2011 Rank": "820",
+      "null": "6"
+    },
+    "source": {
+      "pdf": "c515a8bac5126da18a0743efe7ebd048.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "S.\nNo.": "7.",
+      "": "South",
+      "2001 Rank 2011 Rank": "799",
+      "null": "7"
+    },
+    "source": {
+      "pdf": "c515a8bac5126da18a0743efe7ebd048.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "S.\nNo.": "8.",
+      "": "New Delhi",
+      "2001 Rank 2011 Rank": "792",
+      "null": "9"
+    },
+    "source": {
+      "pdf": "c515a8bac5126da18a0743efe7ebd048.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "S.\nNo.": "9.",
+      "": "South West",
+      "2001 Rank 2011 Rank": "784",
+      "null": "8"
+    },
+    "source": {
+      "pdf": "c515a8bac5126da18a0743efe7ebd048.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "S.\nNo.": "",
+      "": "Delhi",
+      "2001 Rank 2011 Rank": "821",
+      "null": ""
+    },
+    "source": {
+      "pdf": "c515a8bac5126da18a0743efe7ebd048.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "S.\nNo.": null,
+      "States": null,
+      "": "2001",
+      "null": "2011"
+    },
+    "source": {
+      "pdf": "c515a8bac5126da18a0743efe7ebd048.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "S.\nNo.": "1.",
+      "States": "Jammu and Kashmir",
+      "": "892",
+      "null": "889"
+    },
+    "source": {
+      "pdf": "c515a8bac5126da18a0743efe7ebd048.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "S.\nNo.": "2.",
+      "States": "Himachal Pradesh",
+      "": "968",
+      "null": "972"
+    },
+    "source": {
+      "pdf": "c515a8bac5126da18a0743efe7ebd048.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "S.\nNo.": "3",
+      "States": "Punjab",
+      "": "876",
+      "null": "895"
+    },
+    "source": {
+      "pdf": "c515a8bac5126da18a0743efe7ebd048.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "S.\nNo.": "4.",
+      "States": "Chandigarh",
+      "": "777",
+      "null": "818"
+    },
+    "source": {
+      "pdf": "c515a8bac5126da18a0743efe7ebd048.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "S.\nNo.": "5",
+      "States": "Uttarakhand",
+      "": "962",
+      "null": "963"
+    },
+    "source": {
+      "pdf": "c515a8bac5126da18a0743efe7ebd048.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "S.\nNo.": "6.",
+      "States": "Haryana",
+      "": "861",
+      "null": "879"
+    },
+    "source": {
+      "pdf": "c515a8bac5126da18a0743efe7ebd048.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "S.\nNo.": "7.",
+      "States": "",
+      "": "921",
+      "null": "928"
+    },
+    "source": {
+      "pdf": "c515a8bac5126da18a0743efe7ebd048.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "S.\nNo.": "8.",
+      "States": "Uttar Pradesh",
+      "": "898",
+      "null": "912"
+    },
+    "source": {
+      "pdf": "c515a8bac5126da18a0743efe7ebd048.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "S.\nNo.": "9.",
+      "States": "Delhi",
+      "": "821",
+      "null": "868"
+    },
+    "source": {
+      "pdf": "c515a8bac5126da18a0743efe7ebd048.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "S.\nNo.": "",
+      "States": "India",
+      "": "933",
+      "null": "943"
+    },
+    "source": {
+      "pdf": "c515a8bac5126da18a0743efe7ebd048.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "S.\nNo": null,
+      "Years": null,
+      "": null,
+      "null": "Female"
+    },
+    "source": {
+      "pdf": "c515a8bac5126da18a0743efe7ebd048.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "S.\nNo": "1.",
+      "Years": "2001",
+      "": "809",
+      "null": "132471 (44.71)"
+    },
+    "source": {
+      "pdf": "c515a8bac5126da18a0743efe7ebd048.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "S.\nNo": "2.",
+      "Years": "2002",
+      "": "831",
+      "null": "136475 (45.39)"
+    },
+    "source": {
+      "pdf": "c515a8bac5126da18a0743efe7ebd048.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "S.\nNo": "3.",
+      "Years": "2003",
+      "": "823",
+      "null": "135992 (45.16)"
+    },
+    "source": {
+      "pdf": "c515a8bac5126da18a0743efe7ebd048.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "S.\nNo": "4.",
+      "Years": "2004",
+      "": "823",
+      "null": "138125 (45.14)"
+    },
+    "source": {
+      "pdf": "c515a8bac5126da18a0743efe7ebd048.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "S.\nNo": "5.",
+      "Years": "2005",
+      "": "822",
+      "null": "146305 (45.11)"
+    },
+    "source": {
+      "pdf": "c515a8bac5126da18a0743efe7ebd048.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "S.\nNo": "6.",
+      "Years": "2006",
+      "": "831",
+      "null": "146508 (45.39)"
+    },
+    "source": {
+      "pdf": "c515a8bac5126da18a0743efe7ebd048.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "S.\nNo": "7.",
+      "Years": "2007",
+      "": "848",
+      "null": "147755 (45.88)"
+    },
+    "source": {
+      "pdf": "c515a8bac5126da18a0743efe7ebd048.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "S.\nNo": "8.",
+      "Years": "2008",
+      "": "1004",
+      "null": "167325 (50.11)"
+    },
+    "source": {
+      "pdf": "c515a8bac5126da18a0743efe7ebd048.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "S.\nNo": "9.",
+      "Years": "2009",
+      "": "915",
+      "null": "169351 (47.78)"
+    },
+    "source": {
+      "pdf": "c515a8bac5126da18a0743efe7ebd048.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "S.\nNo": "10.",
+      "Years": "2010",
+      "": "901",
+      "null": "170341(47.39)"
+    },
+    "source": {
+      "pdf": "c515a8bac5126da18a0743efe7ebd048.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "S.\nNo": "11.",
+      "Years": "2011",
+      "": "893",
+      "null": "166889(47.18)"
+    },
+    "source": {
+      "pdf": "c515a8bac5126da18a0743efe7ebd048.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "S.\nNo": "12.",
+      "Years": "2012",
+      "": "886",
+      "null": "169344(46.98)"
+    },
+    "source": {
+      "pdf": "c515a8bac5126da18a0743efe7ebd048.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "S.\nNo": "13.",
+      "Years": "2013",
+      "": "895",
+      "null": "174774(47.24)"
+    },
+    "source": {
+      "pdf": "c515a8bac5126da18a0743efe7ebd048.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "S.\nNo": "14.",
+      "Years": "2014",
+      "": "896",
+      "null": "176615(47.26)"
+    },
+    "source": {
+      "pdf": "c515a8bac5126da18a0743efe7ebd048.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "S.\nNo": "15.",
+      "Years": "2015",
+      "": "898",
+      "null": "176932(47.31)"
+    },
+    "source": {
+      "pdf": "c515a8bac5126da18a0743efe7ebd048.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "S.\nNo": "16.",
+      "Years": "2016",
+      "": "902",
+      "null": "179738(47.40)"
+    },
+    "source": {
+      "pdf": "c515a8bac5126da18a0743efe7ebd048.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "S.\nNo": "17.",
+      "Years": "2017",
+      "": "913",
+      "null": "175090(47.70)"
+    },
+    "source": {
+      "pdf": "c515a8bac5126da18a0743efe7ebd048.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "S.\nNo": "18.",
+      "Years": "2018",
+      "": "924",
+      "null": "174196(48.01)"
+    },
+    "source": {
+      "pdf": "c515a8bac5126da18a0743efe7ebd048.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "S.\nNo": "19.",
+      "Years": "2019",
+      "": "920",
+      "null": "175267(47.90)"
+    },
+    "source": {
+      "pdf": "c515a8bac5126da18a0743efe7ebd048.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "S.\nNo": "20.",
+      "Years": "2020",
+      "": "933",
+      "null": "145597(48.27)"
+    },
+    "source": {
+      "pdf": "c515a8bac5126da18a0743efe7ebd048.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "S.\nNo": "21.",
+      "Years": "2021",
+      "": "932",
+      "null": "131112(48.24)"
+    },
+    "source": {
+      "pdf": "c515a8bac5126da18a0743efe7ebd048.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "S.\nNo.": null,
+      "": "2001",
+      "null": "Rank"
+    },
+    "source": {
+      "pdf": "c515a8bac5126da18a0743efe7ebd048.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "S.\nNo.": "1.",
+      "": "29,468",
+      "null": "1"
+    },
+    "source": {
+      "pdf": "c515a8bac5126da18a0743efe7ebd048.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "S.\nNo.": "2.",
+      "": "25,855",
+      "null": "2"
+    },
+    "source": {
+      "pdf": "c515a8bac5126da18a0743efe7ebd048.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "S.\nNo.": "3",
+      "": "22,868",
+      "null": "3"
+    },
+    "source": {
+      "pdf": "c515a8bac5126da18a0743efe7ebd048.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "S.\nNo.": "4",
+      "": "16,503",
+      "null": "4"
+    },
+    "source": {
+      "pdf": "c515a8bac5126da18a0743efe7ebd048.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "S.\nNo.": "5.",
+      "": "13,246",
+      "null": "5"
+    },
+    "source": {
+      "pdf": "c515a8bac5126da18a0743efe7ebd048.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "S.\nNo.": "6.",
+      "": "9,068",
+      "null": "6"
+    },
+    "source": {
+      "pdf": "c515a8bac5126da18a0743efe7ebd048.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "S.\nNo.": "7.",
+      "": "6,502",
+      "null": "7"
+    },
+    "source": {
+      "pdf": "c515a8bac5126da18a0743efe7ebd048.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "S.\nNo.": "8.",
+      "": "5,117",
+      "null": "9"
+    },
+    "source": {
+      "pdf": "c515a8bac5126da18a0743efe7ebd048.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "S.\nNo.": "9.",
+      "": "4,169",
+      "null": "8"
+    },
+    "source": {
+      "pdf": "c515a8bac5126da18a0743efe7ebd048.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "S.\nNo.": "",
+      "": "9340",
+      "null": ""
+    },
+    "source": {
+      "pdf": "c515a8bac5126da18a0743efe7ebd048.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "S.\nNo.": null,
+      "Size of\nHousehold": null,
+      "No. of Household": "2001",
+      "null": "2011",
+      "Household": "2001"
+    },
+    "source": {
+      "pdf": "c515a8bac5126da18a0743efe7ebd048.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "S.\nNo.": "1.",
+      "Size of\nHousehold": "One member",
+      "No. of Household": "99786",
+      "null": "3.70",
+      "Household": "3.90"
+    },
+    "source": {
+      "pdf": "c515a8bac5126da18a0743efe7ebd048.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "S.\nNo.": "2.",
+      "Size of\nHousehold": "Two members",
+      "No. of Household": "206925",
+      "null": "7.60",
+      "Household": "8.10"
+    },
+    "source": {
+      "pdf": "c515a8bac5126da18a0743efe7ebd048.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "S.\nNo.": "3.",
+      "Size of\nHousehold": "Three\nmembers",
+      "No. of Household": "295216",
+      "null": "12.80",
+      "Household": "11.56"
+    },
+    "source": {
+      "pdf": "c515a8bac5126da18a0743efe7ebd048.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "S. S\nNo. H": null,
+      "ize of\nousehold": null,
+      "No. of Household": "2001",
+      "null": "2011",
+      "Household": "2001"
+    },
+    "source": {
+      "pdf": "c515a8bac5126da18a0743efe7ebd048.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "S. S\nNo. H": "4.\nM",
+      "ize of\nousehold": "embers",
+      "No. of Household": "544289",
+      "null": "24.00",
+      "Household": "21.31"
+    },
+    "source": {
+      "pdf": "c515a8bac5126da18a0743efe7ebd048.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "S. S\nNo. H": "5.",
+      "ize of\nousehold": "",
+      "No. of Household": "506711",
+      "null": "20.40",
+      "Household": "19.84"
+    },
+    "source": {
+      "pdf": "c515a8bac5126da18a0743efe7ebd048.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "S. S\nNo. H": "6. S\nM",
+      "ize of\nousehold": "ix to Eight\nembers",
+      "No. of Household": "680065",
+      "null": "25.60",
+      "Household": "26.63"
+    },
+    "source": {
+      "pdf": "c515a8bac5126da18a0743efe7ebd048.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "S. S\nNo. H": "7. N\nm",
+      "ize of\nousehold": "ine or more\nembers",
+      "No. of Household": "221157",
+      "null": "5.90",
+      "Household": "8.66"
+    },
+    "source": {
+      "pdf": "c515a8bac5126da18a0743efe7ebd048.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "S. S\nNo. H": "H",
+      "ize of\nousehold": "ouseholds",
+      "No. of Household": "2554149",
+      "null": "100.00",
+      "Household": "100.00"
+    },
+    "source": {
+      "pdf": "c515a8bac5126da18a0743efe7ebd048.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "S.\nNo": "1.",
+      "Age\nGroup": "0-14",
+      "1991\nNumber": "3273482",
+      "null": "27.19",
+      "2001\nNumber": "4492939",
+      "2011\nNumber": "4565319"
+    },
+    "source": {
+      "pdf": "c515a8bac5126da18a0743efe7ebd048.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "S.\nNo": "2.",
+      "Age\nGroup": "15-19",
+      "1991\nNumber": "914871",
+      "null": "9.93",
+      "2001\nNumber": "1427979",
+      "2011\nNumber": "1667375"
+    },
+    "source": {
+      "pdf": "c515a8bac5126da18a0743efe7ebd048.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "S.\nNo": "3.",
+      "Age\nGroup": "20-24",
+      "1991\nNumber": "982866",
+      "null": "10.51",
+      "2001\nNumber": "1426860",
+      "2011\nNumber": "1764060"
+    },
+    "source": {
+      "pdf": "c515a8bac5126da18a0743efe7ebd048.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "S.\nNo": "4.",
+      "Age\nGroup": "25-29",
+      "1991\nNumber": "956788",
+      "null": "9.94",
+      "2001\nNumber": "1358925",
+      "2011\nNumber": "1668326"
+    },
+    "source": {
+      "pdf": "c515a8bac5126da18a0743efe7ebd048.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "S.\nNo": "5.",
+      "Age\nGroup": "30-39",
+      "1991\nNumber": "1438035",
+      "null": "16.40",
+      "2001\nNumber": "2211006",
+      "2011\nNumber": "2753943"
+    },
+    "source": {
+      "pdf": "c515a8bac5126da18a0743efe7ebd048.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "S.\nNo": "6.",
+      "Age\nGroup": "40-49",
+      "1991\nNumber": "867731",
+      "null": "11.96",
+      "2001\nNumber": "1432467",
+      "2011\nNumber": "2008410"
+    },
+    "source": {
+      "pdf": "c515a8bac5126da18a0743efe7ebd048.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "S.\nNo": "7.",
+      "Age\nGroup": "50-59",
+      "1991\nNumber": "504149",
+      "null": "7.13",
+      "2001\nNumber": "759505",
+      "2011\nNumber": "1196361"
+    },
+    "source": {
+      "pdf": "c515a8bac5126da18a0743efe7ebd048.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "S.\nNo": "8.",
+      "Age\nGroup": "60 or more",
+      "1991\nNumber": "439520",
+      "null": "6.83",
+      "2001\nNumber": "719650",
+      "2011\nNumber": "1147445"
+    },
+    "source": {
+      "pdf": "c515a8bac5126da18a0743efe7ebd048.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "S.\nNo": "9.",
+      "Age\nGroup": "Age not\nstated",
+      "1991\nNumber": "43202",
+      "null": "0.1",
+      "2001\nNumber": "21176",
+      "2011\nNumber": "16702"
+    },
+    "source": {
+      "pdf": "c515a8bac5126da18a0743efe7ebd048.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "S.\nNo": "",
+      "Age\nGroup": null,
+      "1991\nNumber": "9420644",
+      "null": "100.00",
+      "2001\nNumber": "13850507",
+      "2011\nNumber": "16787941"
+    },
+    "source": {
+      "pdf": "c515a8bac5126da18a0743efe7ebd048.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "S.\nNo.": null,
+      "": "2001 2011",
+      "null": null,
+      "Ranks": "2001 2011"
+    },
+    "source": {
+      "pdf": "c515a8bac5126da18a0743efe7ebd048.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "S.\nNo.": "1. M",
+      "": "16434386",
+      "null": "1",
+      "Ranks": "1"
+    },
+    "source": {
+      "pdf": "c515a8bac5126da18a0743efe7ebd048.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "S.\nNo.": "2. D",
+      "": "13850507",
+      "null": "2",
+      "Ranks": "2"
+    },
+    "source": {
+      "pdf": "c515a8bac5126da18a0743efe7ebd048.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "S.\nNo.": "3. K",
+      "": "13251339",
+      "null": "3",
+      "Ranks": "3"
+    },
+    "source": {
+      "pdf": "c515a8bac5126da18a0743efe7ebd048.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "S.\nNo.": "4. C",
+      "": "6686140",
+      "null": "4",
+      "Ranks": "4"
+    },
+    "source": {
+      "pdf": "c515a8bac5126da18a0743efe7ebd048.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "S.\nNo.": "5. B",
+      "": "5701446",
+      "null": "5",
+      "Ranks": "6"
+    },
+    "source": {
+      "pdf": "c515a8bac5126da18a0743efe7ebd048.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "S.\nNo.": "6. H",
+      "": "5756729",
+      "null": "6",
+      "Ranks": "5"
+    },
+    "source": {
+      "pdf": "c515a8bac5126da18a0743efe7ebd048.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "S.\nNo.": null,
+      "Census Year": null,
+      "": "Decadal AEGR",
+      "null": null
+    },
+    "source": {
+      "pdf": "c515a8bac5126da18a0743efe7ebd048.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "S.\nNo.": "1",
+      "Census Year": "1901",
+      "": "",
+      "null": ""
+    },
+    "source": {
+      "pdf": "c515a8bac5126da18a0743efe7ebd048.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "S.\nNo.": "2",
+      "Census Year": "1911",
+      "": "11.13",
+      "null": "1.1"
+    },
+    "source": {
+      "pdf": "c515a8bac5126da18a0743efe7ebd048.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "S.\nNo.": "3",
+      "Census Year": "1921",
+      "": "27.94",
+      "null": "2.5"
+    },
+    "source": {
+      "pdf": "c515a8bac5126da18a0743efe7ebd048.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "S.\nNo.": "4",
+      "Census Year": "1931",
+      "": "46.98",
+      "null": "3.9"
+    },
+    "source": {
+      "pdf": "c515a8bac5126da18a0743efe7ebd048.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "S.\nNo.": "5",
+      "Census Year": "1941",
+      "": "55.48",
+      "null": "4.4"
+    },
+    "source": {
+      "pdf": "c515a8bac5126da18a0743efe7ebd048.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "S.\nNo.": "6",
+      "Census Year": "1951",
+      "": "106.58",
+      "null": "7.3"
+    },
+    "source": {
+      "pdf": "c515a8bac5126da18a0743efe7ebd048.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "S.\nNo.": "7",
+      "Census Year": "1961",
+      "": "64.17",
+      "null": "5.0"
+    },
+    "source": {
+      "pdf": "c515a8bac5126da18a0743efe7ebd048.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "S.\nNo.": "8",
+      "Census Year": "1971",
+      "": "54.57",
+      "null": "4.4"
+    },
+    "source": {
+      "pdf": "c515a8bac5126da18a0743efe7ebd048.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "S.\nNo.": "9",
+      "Census Year": "1981",
+      "": "58.16",
+      "null": "4.6"
+    },
+    "source": {
+      "pdf": "c515a8bac5126da18a0743efe7ebd048.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "S.\nNo.": "10.",
+      "Census Year": "1991",
+      "": "46.87",
+      "null": "3.8"
+    },
+    "source": {
+      "pdf": "c515a8bac5126da18a0743efe7ebd048.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "S.\nNo.": "11",
+      "Census Year": "2001",
+      "": "52.34",
+      "null": "4.2"
+    },
+    "source": {
+      "pdf": "c515a8bac5126da18a0743efe7ebd048.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "S.\nNo.": "12",
+      "Census Year": "2011",
+      "": "26.83",
+      "null": "1.92"
+    },
+    "source": {
+      "pdf": "c515a8bac5126da18a0743efe7ebd048.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "S.\nNo.": null,
+      "": "Urban",
+      "null": "",
+      "% of Urban": null
+    },
+    "source": {
+      "pdf": "c515a8bac5126da18a0743efe7ebd048.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "S.\nNo.": "1.",
+      "": "3442589",
+      "null": "3656539",
+      "% of Urban": "94.15"
+    },
+    "source": {
+      "pdf": "c515a8bac5126da18a0743efe7ebd048.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "S.\nNo.": "2.",
+      "": "870232",
+      "null": "887978",
+      "% of Urban": "98.00"
+    },
+    "source": {
+      "pdf": "c515a8bac5126da18a0743efe7ebd048.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "S.\nNo.": "3",
+      "": "2220097",
+      "null": "2241624",
+      "% of Urban": "99.04"
+    },
+    "source": {
+      "pdf": "c515a8bac5126da18a0743efe7ebd048.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "S.\nNo.": "4.",
+      "": "1705816",
+      "null": "1709346",
+      "% of Urban": "99.79"
+    },
+    "source": {
+      "pdf": "c515a8bac5126da18a0743efe7ebd048.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "S.\nNo.": "5.",
+      "": "142004",
+      "null": "142004",
+      "% of Urban": "100.00"
+    },
+    "source": {
+      "pdf": "c515a8bac5126da18a0743efe7ebd048.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "S.\nNo.": "6.",
+      "": "582320",
+      "null": "582320",
+      "% of Urban": "100.00"
+    },
+    "source": {
+      "pdf": "c515a8bac5126da18a0743efe7ebd048.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "S.\nNo. Urban": "7. West 2536823"
+    },
+    "source": {
+      "pdf": "c515a8bac5126da18a0743efe7ebd048.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "S.\nNo. Urban": "8. South West 2149282 1"
+    },
+    "source": {
+      "pdf": "c515a8bac5126da18a0743efe7ebd048.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "S.\nNo. Urban": "9. South 2719736 1"
+    },
+    "source": {
+      "pdf": "c515a8bac5126da18a0743efe7ebd048.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "S.\nNo. Urban": "Delhi 16368899 4"
+    },
+    "source": {
+      "pdf": "c515a8bac5126da18a0743efe7ebd048.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "S.\nNo": null,
+      "Year": null,
+      "Mid-Year": null,
+      "": "",
+      "null": null
+    },
+    "source": {
+      "pdf": "c515a8bac5126da18a0743efe7ebd048.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "S.\nNo": null,
+      "Year": null,
+      "Mid-Year": null,
+      "": "CRS*",
+      "null": "SRS"
+    },
+    "source": {
+      "pdf": "c515a8bac5126da18a0743efe7ebd048.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "S.\nNo": "1.",
+      "Year": "2003",
+      "Mid-Year": "144.86",
+      "": "20.78",
+      "null": "28"
+    },
+    "source": {
+      "pdf": "c515a8bac5126da18a0743efe7ebd048.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "S.\nNo": "2.",
+      "Year": "2004",
+      "Mid-Year": "147.68",
+      "": "20.72",
+      "null": "32"
+    },
+    "source": {
+      "pdf": "c515a8bac5126da18a0743efe7ebd048.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "S.\nNo": "3.",
+      "Year": "2005",
+      "Mid-Year": "150.54",
+      "": "21.52",
+      "null": "35"
+    },
+    "source": {
+      "pdf": "c515a8bac5126da18a0743efe7ebd048.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "S.\nNo": "4.",
+      "Year": "2006",
+      "Mid-Year": "153.47",
+      "": "21.05",
+      "null": "37"
+    },
+    "source": {
+      "pdf": "c515a8bac5126da18a0743efe7ebd048.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "S.\nNo": "5.",
+      "Year": "2007",
+      "Mid-Year": "156.45",
+      "": "20.58",
+      "null": "36"
+    },
+    "source": {
+      "pdf": "c515a8bac5126da18a0743efe7ebd048.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "S.\nNo": "6.",
+      "Year": "2008",
+      "Mid-Year": "159.49",
+      "": "20.94",
+      "null": "35"
+    },
+    "source": {
+      "pdf": "c515a8bac5126da18a0743efe7ebd048.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "S.\nNo": "7.",
+      "Year": "2009",
+      "Mid-Year": "162.58",
+      "": "21.77",
+      "null": "33"
+    },
+    "source": {
+      "pdf": "c515a8bac5126da18a0743efe7ebd048.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "S.\nNo": "8.",
+      "Year": "2010",
+      "Mid-Year": "165.74",
+      "": "21.66",
+      "null": "30"
+    },
+    "source": {
+      "pdf": "c515a8bac5126da18a0743efe7ebd048.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "S.\nNo": "9.",
+      "Year": "2011",
+      "Mid-Year": "169.14",
+      "": "20.92",
+      "null": "28"
+    },
+    "source": {
+      "pdf": "c515a8bac5126da18a0743efe7ebd048.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "S.\nNo": "10.",
+      "Year": "2012",
+      "Mid-Year": "172.92",
+      "": "20.87",
+      "null": "25"
+    },
+    "source": {
+      "pdf": "c515a8bac5126da18a0743efe7ebd048.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "S.\nNo": "11.",
+      "Year": "2013",
+      "Mid-Year": "176.70",
+      "": "20.94",
+      "null": "24"
+    },
+    "source": {
+      "pdf": "c515a8bac5126da18a0743efe7ebd048.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "S.\nNo": "12.",
+      "Year": "2014",
+      "Mid-Year": "180.47",
+      "": "20.71",
+      "null": "20"
+    },
+    "source": {
+      "pdf": "c515a8bac5126da18a0743efe7ebd048.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "S.\nNo": "13.",
+      "Year": "2015",
+      "Mid-Year": "184.25",
+      "": "20.30",
+      "null": "18"
+    },
+    "source": {
+      "pdf": "c515a8bac5126da18a0743efe7ebd048.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "S.\nNo": "14.",
+      "Year": "2016",
+      "Mid-Year": "188.03",
+      "": "20.16",
+      "null": "18"
+    },
+    "source": {
+      "pdf": "c515a8bac5126da18a0743efe7ebd048.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "S.\nNo": "15.",
+      "Year": "2017",
+      "Mid-Year": "191.82",
+      "": "19.13",
+      "null": "16"
+    },
+    "source": {
+      "pdf": "c515a8bac5126da18a0743efe7ebd048.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "S.\nNo": "16.",
+      "Year": "2018",
+      "Mid-Year": "195.61",
+      "": "18.55",
+      "null": "13"
+    },
+    "source": {
+      "pdf": "c515a8bac5126da18a0743efe7ebd048.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "S.\nNo": "17.",
+      "Year": "2019",
+      "Mid-Year": "199.40",
+      "": "18.35",
+      "null": "11"
+    },
+    "source": {
+      "pdf": "c515a8bac5126da18a0743efe7ebd048.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "S.\nNo": "18.",
+      "Year": "2020",
+      "Mid-Year": "203.19",
+      "": "14.85",
+      "null": "12"
+    },
+    "source": {
+      "pdf": "c515a8bac5126da18a0743efe7ebd048.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "S.\nNo": "19.",
+      "Year": "2021",
+      "Mid-Year": "207.03",
+      "": "13.13",
+      "null": "NA"
+    },
+    "source": {
+      "pdf": "c515a8bac5126da18a0743efe7ebd048.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "S.\nNo.": null,
+      "Year": null,
+      "Mid-Year": null,
+      "Increased\nOver Previous\nYear": null,
+      "": null,
+      "null": "",
+      "Increase": null
+    },
+    "source": {
+      "pdf": "c515a8bac5126da18a0743efe7ebd048.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "S.\nNo.": "1.",
+      "Year": "2003",
+      "Mid-Year": "144.86",
+      "Increased\nOver Previous\nYear": "2.76",
+      "": "0.63",
+      "null": "0.88",
+      "Increase": "2.13"
+    },
+    "source": {
+      "pdf": "c515a8bac5126da18a0743efe7ebd048.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "S.\nNo.": "2.",
+      "Year": "2004",
+      "Mid-Year": "147.68",
+      "Increased\nOver Previous\nYear": "2.82",
+      "": "0.61",
+      "null": "0.85",
+      "Increase": "2.21"
+    },
+    "source": {
+      "pdf": "c515a8bac5126da18a0743efe7ebd048.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "S.\nNo.": "3.",
+      "Year": "2005",
+      "Mid-Year": "150.54",
+      "Increased\nOver Previous\nYear": "2.86",
+      "": "0.56",
+      "null": "0.94",
+      "Increase": "2.30"
+    },
+    "source": {
+      "pdf": "c515a8bac5126da18a0743efe7ebd048.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "S.\nNo.": "4.",
+      "Year": "2006",
+      "Mid-Year": "153.47",
+      "Increased\nOver Previous\nYear": "2.93",
+      "": "0.69",
+      "null": "0.99",
+      "Increase": "2.24"
+    },
+    "source": {
+      "pdf": "c515a8bac5126da18a0743efe7ebd048.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "S.\nNo.": "5.",
+      "Year": "2007",
+      "Mid-Year": "156.45",
+      "Increased\nOver Previous\nYear": "2.98",
+      "": "0.77",
+      "null": "1.01",
+      "Increase": "2.21"
+    },
+    "source": {
+      "pdf": "c515a8bac5126da18a0743efe7ebd048.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "S.\nNo.": "6.",
+      "Year": "2008",
+      "Mid-Year": "159.49",
+      "Increased\nOver Previous\nYear": "3.04",
+      "": "0.78",
+      "null": "1.08",
+      "Increase": "2.26"
+    },
+    "source": {
+      "pdf": "c515a8bac5126da18a0743efe7ebd048.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "S.\nNo.": "7.",
+      "Year": "2009",
+      "Mid-Year": "162.58",
+      "Increased\nOver Previous\nYear": "3.09",
+      "": "0.67",
+      "null": "1.12",
+      "Increase": "2.42"
+    },
+    "source": {
+      "pdf": "c515a8bac5126da18a0743efe7ebd048.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "S.\nNo.": "8.",
+      "Year": "2010",
+      "Mid-Year": "165.74",
+      "Increased\nOver Previous\nYear": "3.16",
+      "": "0.81",
+      "null": "1.24",
+      "Increase": "2.35"
+    },
+    "source": {
+      "pdf": "c515a8bac5126da18a0743efe7ebd048.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "S.\nNo.": "9.",
+      "Year": "2011",
+      "Mid-Year": "169.14",
+      "Increased\nOver Previous\nYear": "3.40",
+      "": "0.99",
+      "null": "1.12",
+      "Increase": "2.41"
+    },
+    "source": {
+      "pdf": "c515a8bac5126da18a0743efe7ebd048.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "S.\nNo.": "10.",
+      "Year": "2012",
+      "Mid-Year": "172.92",
+      "Increased\nOver Previous\nYear": "3.78",
+      "": "1.23",
+      "null": "1.05",
+      "Increase": "2.55"
+    },
+    "source": {
+      "pdf": "c515a8bac5126da18a0743efe7ebd048.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "S.\nNo.": "11.",
+      "Year": "2013",
+      "Mid-Year": "176.70",
+      "Increased\nOver Previous\nYear": "3.78",
+      "": "1.05",
+      "null": "0.97",
+      "Increase": "2.73"
+    },
+    "source": {
+      "pdf": "c515a8bac5126da18a0743efe7ebd048.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "S.\nNo.": "12",
+      "Year": "2014",
+      "Mid-Year": "180.47",
+      "Increased\nOver Previous\nYear": "3.77",
+      "": "1.24",
+      "null": "1.21",
+      "Increase": "2.53"
+    },
+    "source": {
+      "pdf": "c515a8bac5126da18a0743efe7ebd048.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "S.\nNo.": "13",
+      "Year": "2015",
+      "Mid-Year": "184.25",
+      "Increased\nOver Previous\nYear": "3.78",
+      "": "1.29",
+      "null": "1.25",
+      "Increase": "2.49"
+    },
+    "source": {
+      "pdf": "c515a8bac5126da18a0743efe7ebd048.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "S.\nNo.": "14",
+      "Year": "2016",
+      "Mid-Year": "188.03",
+      "Increased\nOver Previous\nYear": "3.78",
+      "": "1.41",
+      "null": "1.42",
+      "Increase": "2.37"
+    },
+    "source": {
+      "pdf": "c515a8bac5126da18a0743efe7ebd048.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "S.\nNo.": "15",
+      "Year": "2017",
+      "Mid-Year": "191.82",
+      "Increased\nOver Previous\nYear": "3.79",
+      "": "1.48",
+      "null": "1.36",
+      "Increase": "2.31"
+    },
+    "source": {
+      "pdf": "c515a8bac5126da18a0743efe7ebd048.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "S.\nNo.": "16",
+      "Year": "2018",
+      "Mid-Year": "195.61",
+      "Increased\nOver Previous\nYear": "3.79",
+      "": "1.62",
+      "null": "1.46",
+      "Increase": "2.17"
+    },
+    "source": {
+      "pdf": "c515a8bac5126da18a0743efe7ebd048.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "S.\nNo.": "17",
+      "Year": "2019",
+      "Mid-Year": "199.40",
+      "Increased\nOver Previous\nYear": "3.79",
+      "": "1.58",
+      "null": "1.45",
+      "Increase": "2.21"
+    },
+    "source": {
+      "pdf": "c515a8bac5126da18a0743efe7ebd048.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "S.\nNo.": "18",
+      "Year": "2020",
+      "Mid-Year": "203.19",
+      "Increased\nOver Previous\nYear": "3.79",
+      "": "2.2",
+      "null": "1.43",
+      "Increase": "1.59"
+    },
+    "source": {
+      "pdf": "c515a8bac5126da18a0743efe7ebd048.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "S.\nNo.": "19",
+      "Year": "2021",
+      "Mid-Year": "207.03",
+      "Increased\nOver Previous\nYear": "3.84",
+      "": "2.83",
+      "null": "1.71",
+      "Increase": "1.01"
+    },
+    "source": {
+      "pdf": "c515a8bac5126da18a0743efe7ebd048.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "Year": "2011",
+      "Age Group": "0-14 Years",
+      "India": "373893",
+      "Delhi": "4570",
+      "": "3134",
+      "UP": "71892"
+    },
+    "source": {
+      "pdf": "c515a8bac5126da18a0743efe7ebd048.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "Year": null,
+      "Age Group": "15-29\nYears",
+      "India": "334458",
+      "Delhi": "5041",
+      "": "2887",
+      "UP": "55954"
+    },
+    "source": {
+      "pdf": "c515a8bac5126da18a0743efe7ebd048.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "Year": null,
+      "Age Group": "30-44\nYears",
+      "India": "247730",
+      "Delhi": "3867",
+      "": "1942",
+      "UP": "35995"
+    },
+    "source": {
+      "pdf": "c515a8bac5126da18a0743efe7ebd048.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "Year": null,
+      "Age Group": "45-59\nyears",
+      "India": "153236",
+      "Delhi": "2147",
+      "": "1228",
+      "UP": "21178"
+    },
+    "source": {
+      "pdf": "c515a8bac5126da18a0743efe7ebd048.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "Year": null,
+      "Age Group": "60 and\nabove",
+      "India": "101538",
+      "Delhi": "1163",
+      "": "894",
+      "UP": "14792"
+    },
+    "source": {
+      "pdf": "c515a8bac5126da18a0743efe7ebd048.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "Year": null,
+      "Age Group": "All Age\nGroups",
+      "India": "1210855",
+      "Delhi": "16788",
+      "": "10086",
+      "UP": "199812"
+    },
+    "source": {
+      "pdf": "c515a8bac5126da18a0743efe7ebd048.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "Year": "2016",
+      "Age Group": "0-14 Years",
+      "India": "362202",
+      "Delhi": "4498",
+      "": "2884",
+      "UP": "70581"
+    },
+    "source": {
+      "pdf": "c515a8bac5126da18a0743efe7ebd048.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "Year": null,
+      "Age Group": "15-29\nYears",
+      "India": "359600",
+      "Delhi": "5500",
+      "": "3216",
+      "UP": "64494"
+    },
+    "source": {
+      "pdf": "c515a8bac5126da18a0743efe7ebd048.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "Year": null,
+      "Age Group": "30-44\nYears",
+      "India": "271914",
+      "Delhi": "4496",
+      "": "2187",
+      "UP": "39642"
+    },
+    "source": {
+      "pdf": "c515a8bac5126da18a0743efe7ebd048.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "Year": null,
+      "Age Group": "45-59\nyears",
+      "India": "179173",
+      "Delhi": "2688",
+      "": "1422",
+      "UP": "24711"
+    },
+    "source": {
+      "pdf": "c515a8bac5126da18a0743efe7ebd048.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "Year": null,
+      "Age Group": "60 and\nabove",
+      "India": "118185",
+      "Delhi": "1496",
+      "": "1046",
+      "UP": "16658"
+    },
+    "source": {
+      "pdf": "c515a8bac5126da18a0743efe7ebd048.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "Year": null,
+      "Age Group": "All Age\nGroups",
+      "India": "1291074",
+      "Delhi": "18677",
+      "": "10755",
+      "UP": "216087"
+    },
+    "source": {
+      "pdf": "c515a8bac5126da18a0743efe7ebd048.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "Year": "2021",
+      "Age Group": "0-14 Years",
+      "India": "349990",
+      "Delhi": "4479",
+      "": "2708",
+      "UP": "69468"
+    },
+    "source": {
+      "pdf": "c515a8bac5126da18a0743efe7ebd048.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "Year": null,
+      "Age Group": "15-29\nYears",
+      "India": "371426",
+      "Delhi": "5791",
+      "": "3329",
+      "UP": "68947"
+    },
+    "source": {
+      "pdf": "c515a8bac5126da18a0743efe7ebd048.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "Year": null,
+      "Age Group": "30-44\nYears",
+      "India": "297203",
+      "Delhi": "5119",
+      "": "2511",
+      "UP": "44698"
+    },
+    "source": {
+      "pdf": "c515a8bac5126da18a0743efe7ebd048.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "Year": null,
+      "Age Group": "45-59\nyears",
+      "India": "206817",
+      "Delhi": "3279",
+      "": "1640",
+      "UP": "29021"
+    },
+    "source": {
+      "pdf": "c515a8bac5126da18a0743efe7ebd048.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "Year": null,
+      "Age Group": "60 and\nabove",
+      "India": "137570",
+      "Delhi": "1904",
+      "": "1208",
+      "UP": "18772"
+    },
+    "source": {
+      "pdf": "c515a8bac5126da18a0743efe7ebd048.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "Year": null,
+      "Age Group": "All Age\nGroups",
+      "India": "1363006",
+      "Delhi": "20571",
+      "": "11399",
+      "UP": "230907"
+    },
+    "source": {
+      "pdf": "c515a8bac5126da18a0743efe7ebd048.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "Year": "2026",
+      "Age Group": "0-14 Years",
+      "India": "339222",
+      "Delhi": "4586",
+      "": "2592",
+      "UP": "68479"
+    },
+    "source": {
+      "pdf": "c515a8bac5126da18a0743efe7ebd048.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "Year": null,
+      "Age Group": "15-29\nYears",
+      "India": "367415",
+      "Delhi": "5883",
+      "": "3227",
+      "UP": "67450"
+    },
+    "source": {
+      "pdf": "c515a8bac5126da18a0743efe7ebd048.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "Year": null,
+      "Age Group": "30-44\nYears",
+      "India": "324725",
+      "Delhi": "5761",
+      "": "2909",
+      "UP": "52284"
+    },
+    "source": {
+      "pdf": "c515a8bac5126da18a0743efe7ebd048.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "Year": null,
+      "Age Group": "45-59\nyears",
+      "India": "231717",
+      "Delhi": "3884",
+      "": "1853",
+      "UP": "32873"
+    },
+    "source": {
+      "pdf": "c515a8bac5126da18a0743efe7ebd048.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "Year": "",
+      "Age Group": "60 and\nabove",
+      "India": "162829",
+      "Delhi": "2424",
+      "": "1409",
+      "UP": "21774"
+    },
+    "source": {
+      "pdf": "c515a8bac5126da18a0743efe7ebd048.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "Year": null,
+      "Age Group": "All Age\nGroups",
+      "India": "1425908",
+      "Delhi": "22540",
+      "": "11993",
+      "UP": "242859"
+    },
+    "source": {
+      "pdf": "c515a8bac5126da18a0743efe7ebd048.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "Year": "2031",
+      "Age Group": "0-14 Years",
+      "India": "323258",
+      "Delhi": "4723",
+      "": "2542",
+      "UP": "62951"
+    },
+    "source": {
+      "pdf": "c515a8bac5126da18a0743efe7ebd048.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "Year": null,
+      "Age Group": "15-29\nYears",
+      "India": "356593",
+      "Delhi": "5955",
+      "": "2993",
+      "UP": "66122"
+    },
+    "source": {
+      "pdf": "c515a8bac5126da18a0743efe7ebd048.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "Year": null,
+      "Age Group": "30-44\nYears",
+      "India": "349924",
+      "Delhi": "6304",
+      "": "3242",
+      "UP": "60579"
+    },
+    "source": {
+      "pdf": "c515a8bac5126da18a0743efe7ebd048.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "Year": null,
+      "Age Group": "45-59\nyears",
+      "India": "255574",
+      "Delhi": "4513",
+      "": "2096",
+      "UP": "36457"
+    },
+    "source": {
+      "pdf": "c515a8bac5126da18a0743efe7ebd048.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "Year": null,
+      "Age Group": "60 and\nabove",
+      "India": "193426",
+      "Delhi": "3056",
+      "": "1653",
+      "UP": "25853"
+    },
+    "source": {
+      "pdf": "c515a8bac5126da18a0743efe7ebd048.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "Year": null,
+      "Age Group": "All Age\nGroups",
+      "India": "1478775",
+      "Delhi": "24552",
+      "": "12524",
+      "UP": "251963"
+    },
+    "source": {
+      "pdf": "c515a8bac5126da18a0743efe7ebd048.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "Year": "2036",
+      "Age Group": "0-14 Years",
+      "India": "306374",
+      "Delhi": "4910",
+      "": "2436",
+      "UP": "56989"
+    },
+    "source": {
+      "pdf": "c515a8bac5126da18a0743efe7ebd048.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "Year": null,
+      "Age Group": "15-29\nYears",
+      "India": "345498",
+      "Delhi": "6081",
+      "": "2832",
+      "UP": "65022"
+    },
+    "source": {
+      "pdf": "c515a8bac5126da18a0743efe7ebd048.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "Year": null,
+      "Age Group": "30-44\nYears",
+      "India": "362336",
+      "Delhi": "6685",
+      "": "3363",
+      "UP": "64914"
+    },
+    "source": {
+      "pdf": "c515a8bac5126da18a0743efe7ebd048.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "Year": null,
+      "Age Group": "45-59\nyears",
+      "India": "280642",
+      "Delhi": "5139",
+      "": "2416",
+      "UP": "41385"
+    },
+    "source": {
+      "pdf": "c515a8bac5126da18a0743efe7ebd048.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "Year": null,
+      "Age Group": "60 and\nabove",
+      "India": "227438",
+      "Delhi": "3777",
+      "": "1928",
+      "UP": "30680"
+    },
+    "source": {
+      "pdf": "c515a8bac5126da18a0743efe7ebd048.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "Year": null,
+      "Age Group": "All Age\nGroups",
+      "India": "1522288",
+      "Delhi": "26591",
+      "": "12974",
+      "UP": "258990"
+    },
+    "source": {
+      "pdf": "c515a8bac5126da18a0743efe7ebd048.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "Year": "2011",
+      "Age Group": "0-14 Years",
+      "India": "30.88",
+      "Delhi": "27.22",
+      "": "31.07",
+      "UP": "35.98"
+    },
+    "source": {
+      "pdf": "c515a8bac5126da18a0743efe7ebd048.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "Year": null,
+      "Age Group": "15-29 Years",
+      "India": "27.62",
+      "Delhi": "30.03",
+      "": "28.62",
+      "UP": "28.00"
+    },
+    "source": {
+      "pdf": "c515a8bac5126da18a0743efe7ebd048.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "Year": null,
+      "Age Group": "30-44 Years",
+      "India": "20.46",
+      "Delhi": "23.03",
+      "": "19.25",
+      "UP": "18.01"
+    },
+    "source": {
+      "pdf": "c515a8bac5126da18a0743efe7ebd048.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "Year": null,
+      "Age Group": "45-59 years",
+      "India": "12.66",
+      "Delhi": "12.79",
+      "": "12.18",
+      "UP": "10.60"
+    },
+    "source": {
+      "pdf": "c515a8bac5126da18a0743efe7ebd048.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "Year": null,
+      "Age Group": "60 and above",
+      "India": "8.39",
+      "Delhi": "6.93",
+      "": "8.86",
+      "UP": "7.40"
+    },
+    "source": {
+      "pdf": "c515a8bac5126da18a0743efe7ebd048.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "Year": null,
+      "Age Group": "All Age\nGroups",
+      "India": "100.00",
+      "Delhi": "100.00",
+      "": "100.00",
+      "UP": "100.00"
+    },
+    "source": {
+      "pdf": "c515a8bac5126da18a0743efe7ebd048.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "Year": "2016",
+      "Age Group": "0-14 Years",
+      "India": "28.05",
+      "Delhi": "24.08",
+      "": "26.82",
+      "UP": "32.66"
+    },
+    "source": {
+      "pdf": "c515a8bac5126da18a0743efe7ebd048.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "Year": null,
+      "Age Group": "15-29 Years",
+      "India": "27.85",
+      "Delhi": "29.45",
+      "": "29.90",
+      "UP": "29.85"
+    },
+    "source": {
+      "pdf": "c515a8bac5126da18a0743efe7ebd048.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "Year": null,
+      "Age Group": "30-44 Years",
+      "India": "21.06",
+      "Delhi": "24.07",
+      "": "20.33",
+      "UP": "18.35"
+    },
+    "source": {
+      "pdf": "c515a8bac5126da18a0743efe7ebd048.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "Year": null,
+      "Age Group": "45-59 years",
+      "India": "13.88",
+      "Delhi": "14.39",
+      "": "13.22",
+      "UP": "11.44"
+    },
+    "source": {
+      "pdf": "c515a8bac5126da18a0743efe7ebd048.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "Year": null,
+      "Age Group": "60 and above",
+      "India": "9.15",
+      "Delhi": "8.01",
+      "": "9.73",
+      "UP": "7.71"
+    },
+    "source": {
+      "pdf": "c515a8bac5126da18a0743efe7ebd048.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "Year": null,
+      "Age Group": "All Age\nGroups",
+      "India": "100.00",
+      "Delhi": "100.00",
+      "": "100.00",
+      "UP": "100.00"
+    },
+    "source": {
+      "pdf": "c515a8bac5126da18a0743efe7ebd048.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "Year": "2021",
+      "Age Group": "0-14 Years",
+      "India": "25.68",
+      "Delhi": "21.77",
+      "": "23.76",
+      "UP": "30.08"
+    },
+    "source": {
+      "pdf": "c515a8bac5126da18a0743efe7ebd048.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "Year": null,
+      "Age Group": "15-29 Years",
+      "India": "27.25",
+      "Delhi": "28.15",
+      "": "29.20",
+      "UP": "29.86"
+    },
+    "source": {
+      "pdf": "c515a8bac5126da18a0743efe7ebd048.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "Year": null,
+      "Age Group": "30-44 Years",
+      "India": "21.80",
+      "Delhi": "24.88",
+      "": "22.03",
+      "UP": "19.36"
+    },
+    "source": {
+      "pdf": "c515a8bac5126da18a0743efe7ebd048.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "Year": null,
+      "Age Group": "45-59 years",
+      "India": "15.17",
+      "Delhi": "15.94",
+      "": "14.39",
+      "UP": "12.57"
+    },
+    "source": {
+      "pdf": "c515a8bac5126da18a0743efe7ebd048.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "Year": null,
+      "Age Group": "60 and above",
+      "India": "10.09",
+      "Delhi": "9.26",
+      "": "10.60",
+      "UP": "8.13"
+    },
+    "source": {
+      "pdf": "c515a8bac5126da18a0743efe7ebd048.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "Year": null,
+      "Age Group": "All Age\nGroups",
+      "India": "100.00",
+      "Delhi": "100.00",
+      "": "100.00",
+      "UP": "100.00"
+    },
+    "source": {
+      "pdf": "c515a8bac5126da18a0743efe7ebd048.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "Year": "2026",
+      "Age Group": "0-14 Years",
+      "India": "23.79",
+      "Delhi": "20.35",
+      "": "21.61",
+      "UP": "28.20"
+    },
+    "source": {
+      "pdf": "c515a8bac5126da18a0743efe7ebd048.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "Year": null,
+      "Age Group": "15-29 Years",
+      "India": "25.77",
+      "Delhi": "26.10",
+      "": "26.91",
+      "UP": "27.77"
+    },
+    "source": {
+      "pdf": "c515a8bac5126da18a0743efe7ebd048.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "Year": null,
+      "Age Group": "30-44 Years",
+      "India": "22.77",
+      "Delhi": "25.56",
+      "": "24.26",
+      "UP": "21.53"
+    },
+    "source": {
+      "pdf": "c515a8bac5126da18a0743efe7ebd048.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "Year": null,
+      "Age Group": "45-59 years",
+      "India": "16.25",
+      "Delhi": "17.23",
+      "": "15.45",
+      "UP": "13.54"
+    },
+    "source": {
+      "pdf": "c515a8bac5126da18a0743efe7ebd048.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "Year": null,
+      "Age Group": "60 and above",
+      "India": "11.42",
+      "Delhi": "10.75",
+      "": "11.75",
+      "UP": "8.97"
+    },
+    "source": {
+      "pdf": "c515a8bac5126da18a0743efe7ebd048.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "Year": null,
+      "Age Group": "All Age\nGroups",
+      "India": "100.00",
+      "Delhi": "100.00",
+      "": "100.00",
+      "UP": "100.00"
+    },
+    "source": {
+      "pdf": "c515a8bac5126da18a0743efe7ebd048.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "Year": "2031",
+      "Age Group": "0-14 Years",
+      "India": "21.86",
+      "Delhi": "19.24",
+      "": "20.30",
+      "UP": "24.98"
+    },
+    "source": {
+      "pdf": "c515a8bac5126da18a0743efe7ebd048.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "Year": null,
+      "Age Group": "15-29 Years",
+      "India": "24.11",
+      "Delhi": "24.25",
+      "": "23.90",
+      "UP": "26.24"
+    },
+    "source": {
+      "pdf": "c515a8bac5126da18a0743efe7ebd048.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "Year": null,
+      "Age Group": "30-44 Years",
+      "India": "23.66",
+      "Delhi": "25.68",
+      "": "25.89",
+      "UP": "24.04"
+    },
+    "source": {
+      "pdf": "c515a8bac5126da18a0743efe7ebd048.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "Year": null,
+      "Age Group": "45-59 years",
+      "India": "17.28",
+      "Delhi": "18.38",
+      "": "16.74",
+      "UP": "14.47"
+    },
+    "source": {
+      "pdf": "c515a8bac5126da18a0743efe7ebd048.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "Year": null,
+      "Age Group": "60 and above",
+      "India": "13.08",
+      "Delhi": "12.45",
+      "": "13.20",
+      "UP": "10.26"
+    },
+    "source": {
+      "pdf": "c515a8bac5126da18a0743efe7ebd048.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "Year": null,
+      "Age Group": "All Age\nGroups",
+      "India": "100.00",
+      "Delhi": "100.00",
+      "": "100.00",
+      "UP": "100.00"
+    },
+    "source": {
+      "pdf": "c515a8bac5126da18a0743efe7ebd048.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "Year": "2036",
+      "Age Group": "0-14 Years",
+      "India": "20.13",
+      "Delhi": "18.46",
+      "": "18.78",
+      "UP": "22.00"
+    },
+    "source": {
+      "pdf": "c515a8bac5126da18a0743efe7ebd048.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "Year": null,
+      "Age Group": "15-29 Years",
+      "India": "22.70",
+      "Delhi": "22.87",
+      "": "21.83",
+      "UP": "25.11"
+    },
+    "source": {
+      "pdf": "c515a8bac5126da18a0743efe7ebd048.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "Year": null,
+      "Age Group": "30-44 Years",
+      "India": "23.80",
+      "Delhi": "25.14",
+      "": "25.92",
+      "UP": "25.06"
+    },
+    "source": {
+      "pdf": "c515a8bac5126da18a0743efe7ebd048.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "Year": null,
+      "Age Group": "45-59 years",
+      "India": "18.44",
+      "Delhi": "19.33",
+      "": "18.62",
+      "UP": "15.98"
+    },
+    "source": {
+      "pdf": "c515a8bac5126da18a0743efe7ebd048.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "Year": null,
+      "Age Group": "60 and above",
+      "India": "14.94",
+      "Delhi": "14.20",
+      "": "14.86",
+      "UP": "11.85"
+    },
+    "source": {
+      "pdf": "c515a8bac5126da18a0743efe7ebd048.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "Year": null,
+      "Age Group": "All Age\nGroups",
+      "India": "100.00",
+      "Delhi": "100.00",
+      "": "100.00",
+      "UP": "100.00"
+    },
+    "source": {
+      "pdf": "c515a8bac5126da18a0743efe7ebd048.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "Year": "2011-\n2021",
+      "Age Group": "0-14 Years",
+      "India": "-6.39",
+      "Delhi": "-1.99",
+      "": "-13.59",
+      "UP": "-3.37"
+    },
+    "source": {
+      "pdf": "c515a8bac5126da18a0743efe7ebd048.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "Year": null,
+      "Age Group": "15-29 Years",
+      "India": "11.05",
+      "Delhi": "14.88",
+      "": "15.31",
+      "UP": "23.22"
+    },
+    "source": {
+      "pdf": "c515a8bac5126da18a0743efe7ebd048.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "Year": null,
+      "Age Group": "30-44 Years",
+      "India": "19.97",
+      "Delhi": "32.38",
+      "": "29.30",
+      "UP": "24.18"
+    },
+    "source": {
+      "pdf": "c515a8bac5126da18a0743efe7ebd048.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "Year": null,
+      "Age Group": "45-59 years",
+      "India": "34.97",
+      "Delhi": "52.72",
+      "": "33.55",
+      "UP": "37.03"
+    },
+    "source": {
+      "pdf": "c515a8bac5126da18a0743efe7ebd048.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "Year": null,
+      "Age Group": "60 and above",
+      "India": "35.49",
+      "Delhi": "63.71",
+      "": "35.12",
+      "UP": "26.91"
+    },
+    "source": {
+      "pdf": "c515a8bac5126da18a0743efe7ebd048.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "Year": null,
+      "Age Group": "All Age Groups",
+      "India": "12.57",
+      "Delhi": "22.53",
+      "": "13.02",
+      "UP": "15.56"
+    },
+    "source": {
+      "pdf": "c515a8bac5126da18a0743efe7ebd048.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "Year": "2021-\n2026",
+      "Age Group": "0-14 Years",
+      "India": "-3.08",
+      "Delhi": "2.39",
+      "": "-4.28",
+      "UP": "-1.42"
+    },
+    "source": {
+      "pdf": "c515a8bac5126da18a0743efe7ebd048.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "Year": null,
+      "Age Group": "15-29 Years",
+      "India": "-1.08",
+      "Delhi": "1.59",
+      "": "-3.06",
+      "UP": "-2.17"
+    },
+    "source": {
+      "pdf": "c515a8bac5126da18a0743efe7ebd048.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "Year": null,
+      "Age Group": "30-44 Years",
+      "India": "9.26",
+      "Delhi": "12.54",
+      "": "15.85",
+      "UP": "16.97"
+    },
+    "source": {
+      "pdf": "c515a8bac5126da18a0743efe7ebd048.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "Year": null,
+      "Age Group": "45-59 years",
+      "India": "12.04",
+      "Delhi": "18.45",
+      "": "12.99",
+      "UP": "13.27"
+    },
+    "source": {
+      "pdf": "c515a8bac5126da18a0743efe7ebd048.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "Year": null,
+      "Age Group": "60 and above",
+      "India": "18.36",
+      "Delhi": "27.31",
+      "": "16.64",
+      "UP": "15.99"
+    },
+    "source": {
+      "pdf": "c515a8bac5126da18a0743efe7ebd048.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "Year": "",
+      "Age Group": "All Age Groups",
+      "India": "4.61",
+      "Delhi": "9.57",
+      "": "5.21",
+      "UP": "5.18"
+    },
+    "source": {
+      "pdf": "c515a8bac5126da18a0743efe7ebd048.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "Year": "2021-\n2031",
+      "Age Group": "0-14 Years",
+      "India": "-7.64",
+      "Delhi": "5.45",
+      "": "-6.13",
+      "UP": "-9.38"
+    },
+    "source": {
+      "pdf": "c515a8bac5126da18a0743efe7ebd048.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "Year": null,
+      "Age Group": "15-29 Years",
+      "India": "-3.99",
+      "Delhi": "2.83",
+      "": "-10.09",
+      "UP": "-4.10"
+    },
+    "source": {
+      "pdf": "c515a8bac5126da18a0743efe7ebd048.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "Year": null,
+      "Age Group": "30-44 Years",
+      "India": "17.74",
+      "Delhi": "23.15",
+      "": "29.11",
+      "UP": "35.53"
+    },
+    "source": {
+      "pdf": "c515a8bac5126da18a0743efe7ebd048.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "Year": null,
+      "Age Group": "45-59 years",
+      "India": "23.57",
+      "Delhi": "37.63",
+      "": "27.80",
+      "UP": "25.62"
+    },
+    "source": {
+      "pdf": "c515a8bac5126da18a0743efe7ebd048.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "Year": null,
+      "Age Group": "60 and above",
+      "India": "40.60",
+      "Delhi": "60.50",
+      "": "36.84",
+      "UP": "37.72"
+    },
+    "source": {
+      "pdf": "c515a8bac5126da18a0743efe7ebd048.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "Year": null,
+      "Age Group": "All Age Groups",
+      "India": "8.49",
+      "Delhi": "19.35",
+      "": "9.87",
+      "UP": "9.12"
+    },
+    "source": {
+      "pdf": "c515a8bac5126da18a0743efe7ebd048.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "Year": "2021-\n2036",
+      "Age Group": "0-14 Years",
+      "India": "-12.46",
+      "Delhi": "9.62",
+      "": "-10.04",
+      "UP": "-17.96"
+    },
+    "source": {
+      "pdf": "c515a8bac5126da18a0743efe7ebd048.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "Year": null,
+      "Age Group": "15-29 Years",
+      "India": "-6.98",
+      "Delhi": "5.01",
+      "": "-14.93",
+      "UP": "-5.69"
+    },
+    "source": {
+      "pdf": "c515a8bac5126da18a0743efe7ebd048.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "Year": null,
+      "Age Group": "30-44 Years",
+      "India": "21.92",
+      "Delhi": "30.59",
+      "": "33.93",
+      "UP": "45.23"
+    },
+    "source": {
+      "pdf": "c515a8bac5126da18a0743efe7ebd048.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "Year": null,
+      "Age Group": "45-59 years",
+      "India": "35.70",
+      "Delhi": "56.72",
+      "": "47.32",
+      "UP": "42.60"
+    },
+    "source": {
+      "pdf": "c515a8bac5126da18a0743efe7ebd048.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "Year": null,
+      "Age Group": "60 and above",
+      "India": "65.33",
+      "Delhi": "98.37",
+      "": "59.60",
+      "UP": "63.43"
+    },
+    "source": {
+      "pdf": "c515a8bac5126da18a0743efe7ebd048.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "Year": null,
+      "Age Group": "All Age Groups",
+      "India": "11.69",
+      "Delhi": "29.26",
+      "": "13.82",
+      "UP": "12.16"
+    },
+    "source": {
+      "pdf": "c515a8bac5126da18a0743efe7ebd048.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "",
+      "Delhi is one of the fastest growing cities in the country. Due to rapid pace of ur-\nbanization, the landscape of Delhi has undergone a change from a rural majority to\nurban.": "The growth in the urban area during 2001-2011 was observed at 20.44 percent. Ac-\ncording to Census 2011, about 97.50 per cent of the population of Delhi lives in urban\nareas and the remaining 2.5 percent in rural areas."
+    },
+    "source": {
+      "pdf": "c515a8bac5126da18a0743efe7ebd048.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "",
+      "Delhi is one of the fastest growing cities in the country. Due to rapid pace of ur-\nbanization, the landscape of Delhi has undergone a change from a rural majority to\nurban.": "The annual rate of growth of population in Delhi during the last decade was 2.12 per\ncent per annum, which was higher than the national level of 0.35 per cent per annum."
+    },
+    "source": {
+      "pdf": "c515a8bac5126da18a0743efe7ebd048.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "",
+      "-\nhanced from 809 in 2001 to 932 in 2021.": "At the beginning of the 21st century, more than 93 per cent of the population was in\nurban areas as compared to 53 per cent in 1901."
+    },
+    "source": {
+      "pdf": "c515a8bac5126da18a0743efe7ebd048.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "",
+      "-\nhanced from 809 in 2001 to 932 in 2021.": "The growth in population at all India level is projected to be 11.69 percent between\n2021 and 2036 as compared to 29.26 percent growth projected for Delhi during the\nsame period."
+    },
+    "source": {
+      "pdf": "c515a8bac5126da18a0743efe7ebd048.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "",
+      "-\nhanced from 809 in 2001 to 932 in 2021.": "Delhi Jal Board supply about 89 MGD of treated waste water to the Irrigation Depart-\ntreated waste water supply from 89 MGD to 210 MGD in subsequent years."
+    },
+    "source": {
+      "pdf": "c515a8bac5126da18a0743efe7ebd048.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  }
+]

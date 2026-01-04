@@ -1,0 +1,4785 @@
+[
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "null": null,
+      "": ""
+    },
+    "source": {
+      "pdf": "2d8915f7502bec678977501dd870ea0b.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "null": null,
+      "": ""
+    },
+    "source": {
+      "pdf": "2d8915f7502bec678977501dd870ea0b.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "null": null,
+      "": ""
+    },
+    "source": {
+      "pdf": "2d8915f7502bec678977501dd870ea0b.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "null": null,
+      "": ""
+    },
+    "source": {
+      "pdf": "2d8915f7502bec678977501dd870ea0b.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "null": null,
+      "": null
+    },
+    "source": {
+      "pdf": "2d8915f7502bec678977501dd870ea0b.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "null": "",
+      "": ""
+    },
+    "source": {
+      "pdf": "2d8915f7502bec678977501dd870ea0b.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "null": "",
+      "": ""
+    },
+    "source": {
+      "pdf": "2d8915f7502bec678977501dd870ea0b.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "null": null,
+      "": ""
+    },
+    "source": {
+      "pdf": "2d8915f7502bec678977501dd870ea0b.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "null": null,
+      "": ""
+    },
+    "source": {
+      "pdf": "2d8915f7502bec678977501dd870ea0b.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "null": null,
+      "": ""
+    },
+    "source": {
+      "pdf": "2d8915f7502bec678977501dd870ea0b.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "null": "",
+      "": ""
+    },
+    "source": {
+      "pdf": "2d8915f7502bec678977501dd870ea0b.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "null": "",
+      "": ""
+    },
+    "source": {
+      "pdf": "2d8915f7502bec678977501dd870ea0b.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of the district": null,
+      "% Turn Out in\nPrevious Assembly\nElection 2006": "Male\nTurnou\nt",
+      "null": null,
+      "% Turn Out in\nLast Assembly Election 2011": "Male\nTurnout"
+    },
+    "source": {
+      "pdf": "2d8915f7502bec678977501dd870ea0b.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of the district": "Coochbehar",
+      "% Turn Out in\nPrevious Assembly\nElection 2006": "85.58",
+      "null": "",
+      "% Turn Out in\nLast Assembly Election 2011": "84.80"
+    },
+    "source": {
+      "pdf": "2d8915f7502bec678977501dd870ea0b.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of the district": "Jalpaiguri",
+      "% Turn Out in\nPrevious Assembly\nElection 2006": "84.44",
+      "null": null,
+      "% Turn Out in\nLast Assembly Election 2011": "85.00"
+    },
+    "source": {
+      "pdf": "2d8915f7502bec678977501dd870ea0b.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of the district": "Darjeeling",
+      "% Turn Out in\nPrevious Assembly\nElection 2006": "74.57",
+      "null": null,
+      "% Turn Out in\nLast Assembly Election 2011": "79.94"
+    },
+    "source": {
+      "pdf": "2d8915f7502bec678977501dd870ea0b.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of the district": "Uttar Dinajpur",
+      "% Turn Out in\nPrevious Assembly\nElection 2006": "81.15",
+      "null": "",
+      "% Turn Out in\nLast Assembly Election 2011": "80.39"
+    },
+    "source": {
+      "pdf": "2d8915f7502bec678977501dd870ea0b.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of the district": null,
+      "% Turn Out in\nPrevious Assembly\nElection 2006": null,
+      "null": null,
+      "% Turn Out in\nLast Assembly Election 2011": null
+    },
+    "source": {
+      "pdf": "2d8915f7502bec678977501dd870ea0b.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of the district": "Dakhsin Dinajpur",
+      "% Turn Out in\nPrevious Assembly\nElection 2006": "88.51",
+      "null": null,
+      "% Turn Out in\nLast Assembly Election 2011": "88.35"
+    },
+    "source": {
+      "pdf": "2d8915f7502bec678977501dd870ea0b.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of the district": "Malda",
+      "% Turn Out in\nPrevious Assembly\nElection 2006": "81.35",
+      "null": null,
+      "% Turn Out in\nLast Assembly Election 2011": "79.31"
+    },
+    "source": {
+      "pdf": "2d8915f7502bec678977501dd870ea0b.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of the district": "Murshidabad",
+      "% Turn Out in\nPrevious Assembly\nElection 2006": "84.93",
+      "null": null,
+      "% Turn Out in\nLast Assembly Election 2011": "85.08"
+    },
+    "source": {
+      "pdf": "2d8915f7502bec678977501dd870ea0b.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of the district": "Nadia",
+      "% Turn Out in\nPrevious Assembly\nElection 2006": "88.07",
+      "null": "",
+      "% Turn Out in\nLast Assembly Election 2011": "86.85"
+    },
+    "source": {
+      "pdf": "2d8915f7502bec678977501dd870ea0b.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of the district": "North 24 Parganas",
+      "% Turn Out in\nPrevious Assembly\nElection 2006": "83.56",
+      "null": null,
+      "% Turn Out in\nLast Assembly Election 2011": "85.61"
+    },
+    "source": {
+      "pdf": "2d8915f7502bec678977501dd870ea0b.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of the district": "South 24 Parganas",
+      "% Turn Out in\nPrevious Assembly\nElection 2006": "82.47",
+      "null": null,
+      "% Turn Out in\nLast Assembly Election 2011": "85.66"
+    },
+    "source": {
+      "pdf": "2d8915f7502bec678977501dd870ea0b.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of the district": "Kolkata South",
+      "% Turn Out in\nPrevious Assembly\nElection 2006": "62.91",
+      "null": null,
+      "% Turn Out in\nLast Assembly Election 2011": "66.47"
+    },
+    "source": {
+      "pdf": "2d8915f7502bec678977501dd870ea0b.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of the district": "Kolkata North",
+      "% Turn Out in\nPrevious Assembly\nElection 2006": null,
+      "null": null,
+      "% Turn Out in\nLast Assembly Election 2011": "65.05"
+    },
+    "source": {
+      "pdf": "2d8915f7502bec678977501dd870ea0b.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of the district": "Howrah",
+      "% Turn Out in\nPrevious Assembly\nElection 2006": "78.58",
+      "null": null,
+      "% Turn Out in\nLast Assembly Election 2011": "82.29"
+    },
+    "source": {
+      "pdf": "2d8915f7502bec678977501dd870ea0b.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of the district": "Hooghly",
+      "% Turn Out in\nPrevious Assembly\nElection 2006": "82.58",
+      "null": null,
+      "% Turn Out in\nLast Assembly Election 2011": "84.17"
+    },
+    "source": {
+      "pdf": "2d8915f7502bec678977501dd870ea0b.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of the district": "Purbo Medinipur",
+      "% Turn Out in\nPrevious Assembly\nElection 2006": "89.23",
+      "null": null,
+      "% Turn Out in\nLast Assembly Election 2011": "88.86"
+    },
+    "source": {
+      "pdf": "2d8915f7502bec678977501dd870ea0b.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of the district": "Paschim Medinipur",
+      "% Turn Out in\nPrevious Assembly\nElection 2006": "86.03",
+      "null": null,
+      "% Turn Out in\nLast Assembly Election 2011": "87.81"
+    },
+    "source": {
+      "pdf": "2d8915f7502bec678977501dd870ea0b.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of the district": "Purulia",
+      "% Turn Out in\nPrevious Assembly\nElection 2006": "79.66",
+      "null": null,
+      "% Turn Out in\nLast Assembly Election 2011": "81.55"
+    },
+    "source": {
+      "pdf": "2d8915f7502bec678977501dd870ea0b.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of the district": "Bankura",
+      "% Turn Out in\nPrevious Assembly\nElection 2006": "84.63",
+      "null": null,
+      "% Turn Out in\nLast Assembly Election 2011": "86.88"
+    },
+    "source": {
+      "pdf": "2d8915f7502bec678977501dd870ea0b.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of the district": "Bardhaman",
+      "% Turn Out in\nPrevious Assembly\nElection 2006": "82.12",
+      "null": null,
+      "% Turn Out in\nLast Assembly Election 2011": "86.44"
+    },
+    "source": {
+      "pdf": "2d8915f7502bec678977501dd870ea0b.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of the district": "Birbhum",
+      "% Turn Out in\nPrevious Assembly\nElection 2006": "84.67",
+      "null": null,
+      "% Turn Out in\nLast Assembly Election 2011": "87.45"
+    },
+    "source": {
+      "pdf": "2d8915f7502bec678977501dd870ea0b.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of the district": "State Total",
+      "% Turn Out in\nPrevious Assembly\nElection 2006": "82.46",
+      "null": null,
+      "% Turn Out in\nLast Assembly Election 2011": "84.39"
+    },
+    "source": {
+      "pdf": "2d8915f7502bec678977501dd870ea0b.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "No of ACs below State Average: 114": "Range (% of VTR)",
+      "null": "No of ACs"
+    },
+    "source": {
+      "pdf": "2d8915f7502bec678977501dd870ea0b.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "No of ACs below State Average: 114": "50-60",
+      "null": "2"
+    },
+    "source": {
+      "pdf": "2d8915f7502bec678977501dd870ea0b.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "No of ACs below State Average: 114": "60-70",
+      "null": "7"
+    },
+    "source": {
+      "pdf": "2d8915f7502bec678977501dd870ea0b.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "No of ACs below State Average: 114": "70-80",
+      "null": "42"
+    },
+    "source": {
+      "pdf": "2d8915f7502bec678977501dd870ea0b.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "No of ACs below State Average: 114": "80-84.40",
+      "null": "63"
+    },
+    "source": {
+      "pdf": "2d8915f7502bec678977501dd870ea0b.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "No of ACs below State Average: 114": "Total",
+      "null": "114"
+    },
+    "source": {
+      "pdf": "2d8915f7502bec678977501dd870ea0b.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of the District": "",
+      "null": "",
+      "No of ACs having\nVT below State\nAverage": "",
+      "Total No of ACs in\nthe district": "",
+      "% of ACs in the district\nhaving VT below State\nAverage": ""
+    },
+    "source": {
+      "pdf": "2d8915f7502bec678977501dd870ea0b.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of the District": "",
+      "null": "",
+      "No of ACs having\nVT below State\nAverage": "",
+      "Total No of ACs in\nthe district": "",
+      "% of ACs in the district\nhaving VT below State\nAverage": ""
+    },
+    "source": {
+      "pdf": "2d8915f7502bec678977501dd870ea0b.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of the District": "",
+      "null": "",
+      "No of ACs having\nVT below State\nAverage": "",
+      "Total No of ACs in\nthe district": "",
+      "% of ACs in the district\nhaving VT below State\nAverage": ""
+    },
+    "source": {
+      "pdf": "2d8915f7502bec678977501dd870ea0b.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of the District": "",
+      "null": "",
+      "No of ACs having\nVT below State\nAverage": "",
+      "Total No of ACs in\nthe district": "",
+      "% of ACs in the district\nhaving VT below State\nAverage": ""
+    },
+    "source": {
+      "pdf": "2d8915f7502bec678977501dd870ea0b.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of the District": "",
+      "null": "",
+      "No of ACs having\nVT below State\nAverage": "",
+      "Total No of ACs in\nthe district": "",
+      "% of ACs in the district\nhaving VT below State\nAverage": ""
+    },
+    "source": {
+      "pdf": "2d8915f7502bec678977501dd870ea0b.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of the District": "",
+      "null": "",
+      "No of ACs having\nVT below State\nAverage": "",
+      "Total No of ACs in\nthe district": "",
+      "% of ACs in the district\nhaving VT below State\nAverage": ""
+    },
+    "source": {
+      "pdf": "2d8915f7502bec678977501dd870ea0b.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of the District": "",
+      "null": "",
+      "No of ACs having\nVT below State\nAverage": "",
+      "Total No of ACs in\nthe district": "",
+      "% of ACs in the district\nhaving VT below State\nAverage": ""
+    },
+    "source": {
+      "pdf": "2d8915f7502bec678977501dd870ea0b.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of the District": "",
+      "null": "",
+      "No of ACs having\nVT below State\nAverage": "",
+      "Total No of ACs in\nthe district": "",
+      "% of ACs in the district\nhaving VT below State\nAverage": ""
+    },
+    "source": {
+      "pdf": "2d8915f7502bec678977501dd870ea0b.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of the District": "",
+      "null": "",
+      "No of ACs having\nVT below State\nAverage": "",
+      "Total No of ACs in\nthe district": "",
+      "% of ACs in the district\nhaving VT below State\nAverage": ""
+    },
+    "source": {
+      "pdf": "2d8915f7502bec678977501dd870ea0b.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of the District": "",
+      "null": "",
+      "No of ACs having\nVT below State\nAverage": "",
+      "Total No of ACs in\nthe district": "",
+      "% of ACs in the district\nhaving VT below State\nAverage": ""
+    },
+    "source": {
+      "pdf": "2d8915f7502bec678977501dd870ea0b.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of the District": "",
+      "null": "",
+      "No of ACs having\nVT below State\nAverage": "",
+      "Total No of ACs in\nthe district": "",
+      "% of ACs in the district\nhaving VT below State\nAverage": ""
+    },
+    "source": {
+      "pdf": "2d8915f7502bec678977501dd870ea0b.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of the District": "",
+      "null": "",
+      "No of ACs having\nVT below State\nAverage": "",
+      "Total No of ACs in\nthe district": "",
+      "% of ACs in the district\nhaving VT below State\nAverage": ""
+    },
+    "source": {
+      "pdf": "2d8915f7502bec678977501dd870ea0b.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of the District": "",
+      "null": "",
+      "No of ACs having\nVT below State\nAverage": "",
+      "Total No of ACs in\nthe district": "",
+      "% of ACs in the district\nhaving VT below State\nAverage": ""
+    },
+    "source": {
+      "pdf": "2d8915f7502bec678977501dd870ea0b.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of the District": "",
+      "null": "",
+      "No of ACs having\nVT below State\nAverage": "",
+      "Total No of ACs in\nthe district": "",
+      "% of ACs in the district\nhaving VT below State\nAverage": ""
+    },
+    "source": {
+      "pdf": "2d8915f7502bec678977501dd870ea0b.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of the District": "",
+      "null": "",
+      "No of ACs having\nVT below State\nAverage": "",
+      "Total No of ACs in\nthe district": "",
+      "% of ACs in the district\nhaving VT below State\nAverage": ""
+    },
+    "source": {
+      "pdf": "2d8915f7502bec678977501dd870ea0b.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of the District": "",
+      "null": "",
+      "No of ACs having\nVT below State\nAverage": "",
+      "Total No of ACs in\nthe district": "",
+      "% of ACs in the district\nhaving VT below State\nAverage": ""
+    },
+    "source": {
+      "pdf": "2d8915f7502bec678977501dd870ea0b.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of the District": "",
+      "null": "",
+      "No of ACs having\nVT below State\nAverage": "",
+      "Total No of ACs in\nthe district": "",
+      "% of ACs in the district\nhaving VT below State\nAverage": ""
+    },
+    "source": {
+      "pdf": "2d8915f7502bec678977501dd870ea0b.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of the District": "",
+      "null": "",
+      "No of ACs having\nVT below State\nAverage": "",
+      "Total No of ACs in\nthe district": "",
+      "% of ACs in the district\nhaving VT below State\nAverage": ""
+    },
+    "source": {
+      "pdf": "2d8915f7502bec678977501dd870ea0b.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of the District": "",
+      "null": "",
+      "No of ACs having\nVT below State\nAverage": "",
+      "Total No of ACs in\nthe district": "",
+      "% of ACs in the district\nhaving VT below State\nAverage": ""
+    },
+    "source": {
+      "pdf": "2d8915f7502bec678977501dd870ea0b.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of the District": "",
+      "null": "",
+      "No of ACs having\nVT below State\nAverage": "",
+      "Total No of ACs in\nthe district": "",
+      "% of ACs in the district\nhaving VT below State\nAverage": ""
+    },
+    "source": {
+      "pdf": "2d8915f7502bec678977501dd870ea0b.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of the District": "Total",
+      "null": null,
+      "No of ACs having\nVT below State\nAverage": "114",
+      "Total No of ACs in\nthe district": "294",
+      "% of ACs in the district\nhaving VT below State\nAverage": "39"
+    },
+    "source": {
+      "pdf": "2d8915f7502bec678977501dd870ea0b.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Share of Districts: PS having lowest VT (Bottom\n20)": "Dakshin Dinajpur",
+      "null": "1"
+    },
+    "source": {
+      "pdf": "2d8915f7502bec678977501dd870ea0b.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Share of Districts: PS having lowest VT (Bottom\n20)": "Purulia",
+      "null": "2"
+    },
+    "source": {
+      "pdf": "2d8915f7502bec678977501dd870ea0b.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Share of Districts: PS having lowest VT (Bottom\n20)": "Kolkata North",
+      "null": "4"
+    },
+    "source": {
+      "pdf": "2d8915f7502bec678977501dd870ea0b.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Share of Districts: PS having lowest VT (Bottom\n20)": "Kolkata South",
+      "null": "4"
+    },
+    "source": {
+      "pdf": "2d8915f7502bec678977501dd870ea0b.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Share of Districts: PS having lowest VT (Bottom\n20)": "Hooghly",
+      "null": "1"
+    },
+    "source": {
+      "pdf": "2d8915f7502bec678977501dd870ea0b.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Share of Districts: PS having lowest VT (Bottom\n20)": "Howraah",
+      "null": "1"
+    },
+    "source": {
+      "pdf": "2d8915f7502bec678977501dd870ea0b.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Share of Districts: PS having lowest VT (Bottom\n20)": "Bardhaman",
+      "null": "1"
+    },
+    "source": {
+      "pdf": "2d8915f7502bec678977501dd870ea0b.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Share of Districts: PS having lowest VT (Bottom\n20)": "Birbhum",
+      "null": "1"
+    },
+    "source": {
+      "pdf": "2d8915f7502bec678977501dd870ea0b.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Share of Districts: PS having lowest VT (Bottom\n20)": "South 24 Parganas",
+      "null": "1"
+    },
+    "source": {
+      "pdf": "2d8915f7502bec678977501dd870ea0b.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Share of Districts: PS having lowest VT (Bottom\n20)": "North 24 Parganas",
+      "null": "1"
+    },
+    "source": {
+      "pdf": "2d8915f7502bec678977501dd870ea0b.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Share of Districts: PS having lowest VT (Bottom\n20)": "Murshidabad",
+      "null": "1"
+    },
+    "source": {
+      "pdf": "2d8915f7502bec678977501dd870ea0b.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Share of Districts: PS having lowest VT (Bottom\n20)": "Darjeeling",
+      "null": "2"
+    },
+    "source": {
+      "pdf": "2d8915f7502bec678977501dd870ea0b.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Share of Districts: PS having lowest VT (Bottom\n20)": "Total",
+      "null": "20"
+    },
+    "source": {
+      "pdf": "2d8915f7502bec678977501dd870ea0b.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "": "",
+      "null": null
+    },
+    "source": {
+      "pdf": "2d8915f7502bec678977501dd870ea0b.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "": "",
+      "null": null
+    },
+    "source": {
+      "pdf": "2d8915f7502bec678977501dd870ea0b.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "": "R\nU\nP\nI",
+      "null": "A\nIL\nU"
+    },
+    "source": {
+      "pdf": "2d8915f7502bec678977501dd870ea0b.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "": "G\nN\nA\nJ",
+      "null": "R\nU\nP"
+    },
+    "source": {
+      "pdf": "2d8915f7502bec678977501dd870ea0b.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "VTR Compared : Kolkata South district\n80.00\n60.00\n40.00\n20.00\n0.00\nKOKATA PORT BHABANIPORE RASHBEHARI BALLYGUNGE\n% of Voter Turnout 2009 55.63 57.33 62.95 59.28\n% of Voter Turnout 2014 63.16 64.91 66.82 64.03": "VTR Compared: Kolkata North district\n80.00\n70.00\n60.00\n50.00\n40.00\n30.00\n20.00\n10.00\n0.00\nCHOWRA ENTALLY BELEGHA JORASAN SHYAMP MANIKT KASHIPU\nNGEE TA KO UKUR ALA R-\nBELGACH\nIA\n% of Voter Turnout 2009 54.18 68.60 70.05 54.64 66.57 70.80 65.75\n% of Voter Turnout 2014 57.73 73.61 69.57 58.54 68.65 70.81 67.02"
+    },
+    "source": {
+      "pdf": "2d8915f7502bec678977501dd870ea0b.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "% of Voter Turnout 2009": "% of Voter Turnout 2014",
+      "55.63": "63.16",
+      "57.33": "64.91",
+      "62.95": "66.82",
+      "59.28": "64.03"
+    },
+    "source": {
+      "pdf": "2d8915f7502bec678977501dd870ea0b.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "% of Voter Turnout 2009": "% of Voter Turnout 2014",
+      "54.18": "57.73",
+      "68.60": "73.61",
+      "70.05": "69.57",
+      "54.64": "58.54",
+      "66.57": "68.65",
+      "70.80": "70.81",
+      "65.75": "67.02"
+    },
+    "source": {
+      "pdf": "2d8915f7502bec678977501dd870ea0b.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Urban ACs : Voters' Turnout": "District Name",
+      "null": "2014"
+    },
+    "source": {
+      "pdf": "2d8915f7502bec678977501dd870ea0b.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Urban ACs : Voters' Turnout": "JALPAIGURI",
+      "null": "84.28"
+    },
+    "source": {
+      "pdf": "2d8915f7502bec678977501dd870ea0b.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Urban ACs : Voters' Turnout": "DARJEELING",
+      "null": "80.82"
+    },
+    "source": {
+      "pdf": "2d8915f7502bec678977501dd870ea0b.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Urban ACs : Voters' Turnout": "MALDA",
+      "null": "81.41"
+    },
+    "source": {
+      "pdf": "2d8915f7502bec678977501dd870ea0b.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Urban ACs : Voters' Turnout": "MURSHIDABAD",
+      "null": "81.87"
+    },
+    "source": {
+      "pdf": "2d8915f7502bec678977501dd870ea0b.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Urban ACs : Voters' Turnout": "NADIA",
+      "null": "84.01"
+    },
+    "source": {
+      "pdf": "2d8915f7502bec678977501dd870ea0b.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Urban ACs : Voters' Turnout": "NORTH 24 PARGANAS",
+      "null": "81.00"
+    },
+    "source": {
+      "pdf": "2d8915f7502bec678977501dd870ea0b.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Urban ACs : Voters' Turnout": "SOUTH 24 PARGANAS",
+      "null": "76.81"
+    },
+    "source": {
+      "pdf": "2d8915f7502bec678977501dd870ea0b.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Urban ACs : Voters' Turnout": "HOWRAH",
+      "null": "75.43"
+    },
+    "source": {
+      "pdf": "2d8915f7502bec678977501dd870ea0b.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Urban ACs : Voters' Turnout": "HOOGHLY",
+      "null": "78.52"
+    },
+    "source": {
+      "pdf": "2d8915f7502bec678977501dd870ea0b.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Urban ACs : Voters' Turnout": "PURBO MEDINIPUR",
+      "null": "89.79"
+    },
+    "source": {
+      "pdf": "2d8915f7502bec678977501dd870ea0b.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Urban ACs : Voters' Turnout": "PASCHIM MEDINIPUR",
+      "null": "78.86"
+    },
+    "source": {
+      "pdf": "2d8915f7502bec678977501dd870ea0b.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Urban ACs : Voters' Turnout": "BURDWAN",
+      "null": "79"
+    },
+    "source": {
+      "pdf": "2d8915f7502bec678977501dd870ea0b.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District": null,
+      "State Assembly General Election, 2011": "Male turnout",
+      "null": "Total turnout",
+      "Lok Sabha General Election, 2014": "Male turnout"
+    },
+    "source": {
+      "pdf": "2d8915f7502bec678977501dd870ea0b.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District": "COOCHBEHAR",
+      "State Assembly General Election, 2011": "800373",
+      "null": "1665315",
+      "Lok Sabha General Election, 2014": "861055"
+    },
+    "source": {
+      "pdf": "2d8915f7502bec678977501dd870ea0b.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District": "JALPAIGURI",
+      "State Assembly General Election, 2011": "1021360",
+      "null": "2184302",
+      "Lok Sabha General Election, 2014": "1119796"
+    },
+    "source": {
+      "pdf": "2d8915f7502bec678977501dd870ea0b.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District": "DARJEELING",
+      "State Assembly General Election, 2011": "455308",
+      "null": "981674",
+      "Lok Sabha General Election, 2014": "503918"
+    },
+    "source": {
+      "pdf": "2d8915f7502bec678977501dd870ea0b.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District": "UTTAR DINAJPUR",
+      "State Assembly General Election, 2011": "649653",
+      "null": "1419125",
+      "Lok Sabha General Election, 2014": "723974"
+    },
+    "source": {
+      "pdf": "2d8915f7502bec678977501dd870ea0b.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District": "DAKHSIN DINAJPUR",
+      "State Assembly General Election, 2011": "428079",
+      "null": "907887",
+      "Lok Sabha General Election, 2014": "470840"
+    },
+    "source": {
+      "pdf": "2d8915f7502bec678977501dd870ea0b.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District": "MALDA",
+      "State Assembly General Election, 2011": "861671",
+      "null": "1952899",
+      "Lok Sabha General Election, 2014": "974982"
+    },
+    "source": {
+      "pdf": "2d8915f7502bec678977501dd870ea0b.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District": "MURSHIDABAD",
+      "State Assembly General Election, 2011": "1724692",
+      "null": "3667236",
+      "Lok Sabha General Election, 2014": "1847265"
+    },
+    "source": {
+      "pdf": "2d8915f7502bec678977501dd870ea0b.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District": "NADIA",
+      "State Assembly General Election, 2011": "1509197",
+      "null": "3150522",
+      "Lok Sabha General Election, 2014": "1617790"
+    },
+    "source": {
+      "pdf": "2d8915f7502bec678977501dd870ea0b.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District": "NORTH 24 PARGANAS",
+      "State Assembly General Election, 2011": "2717052",
+      "null": "5625606",
+      "Lok Sabha General Election, 2014": "2963039"
+    },
+    "source": {
+      "pdf": "2d8915f7502bec678977501dd870ea0b.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District": "SOUTH 24 PARGANAS",
+      "State Assembly General Election, 2011": "2732473",
+      "null": "5585749",
+      "Lok Sabha General Election, 2014": "2952751"
+    },
+    "source": {
+      "pdf": "2d8915f7502bec678977501dd870ea0b.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District": "KOLKATA SOUTH",
+      "State Assembly General Election, 2011": "308542",
+      "null": "573920",
+      "Lok Sabha General Election, 2014": "319498"
+    },
+    "source": {
+      "pdf": "2d8915f7502bec678977501dd870ea0b.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District": "KOLKATA NORTH",
+      "State Assembly General Election, 2011": "532760",
+      "null": "955848",
+      "Lok Sabha General Election, 2014": "535471"
+    },
+    "source": {
+      "pdf": "2d8915f7502bec678977501dd870ea0b.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District": "HOWRAH",
+      "State Assembly General Election, 2011": "1383466",
+      "null": "2717266",
+      "Lok Sabha General Election, 2014": "1465780"
+    },
+    "source": {
+      "pdf": "2d8915f7502bec678977501dd870ea0b.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District": "HOOGHLY",
+      "State Assembly General Election, 2011": "1656532",
+      "null": "3384553",
+      "Lok Sabha General Election, 2014": "1763181"
+    },
+    "source": {
+      "pdf": "2d8915f7502bec678977501dd870ea0b.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District": "PURBO MEDINIPUR",
+      "State Assembly General Election, 2011": "1446646",
+      "null": "3024982",
+      "Lok Sabha General Election, 2014": "1551181"
+    },
+    "source": {
+      "pdf": "2d8915f7502bec678977501dd870ea0b.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District": "PASCHIM MEDINIPUR",
+      "State Assembly General Election, 2011": "1671661",
+      "null": "3496390",
+      "Lok Sabha General Election, 2014": "1789905"
+    },
+    "source": {
+      "pdf": "2d8915f7502bec678977501dd870ea0b.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District": "PURULIA",
+      "State Assembly General Election, 2011": "740024",
+      "null": "1587076",
+      "Lok Sabha General Election, 2014": "827456"
+    },
+    "source": {
+      "pdf": "2d8915f7502bec678977501dd870ea0b.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District": "BANKURA",
+      "State Assembly General Election, 2011": "1034614",
+      "null": "2138442",
+      "Lok Sabha General Election, 2014": "1115829"
+    },
+    "source": {
+      "pdf": "2d8915f7502bec678977501dd870ea0b.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District": "BARDHAMAN",
+      "State Assembly General Election, 2011": "2253439",
+      "null": "4531975",
+      "Lok Sabha General Election, 2014": "2403955"
+    },
+    "source": {
+      "pdf": "2d8915f7502bec678977501dd870ea0b.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District": "BIRBHUM",
+      "State Assembly General Election, 2011": "953101",
+      "null": "2024836",
+      "Lok Sabha General Election, 2014": "1061588"
+    },
+    "source": {
+      "pdf": "2d8915f7502bec678977501dd870ea0b.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District": "Total",
+      "State Assembly General Election, 2011": "24880643",
+      "null": "51575603",
+      "Lok Sabha General Election, 2014": "26869254"
+    },
+    "source": {
+      "pdf": "2d8915f7502bec678977501dd870ea0b.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "": "",
+      "null": ""
+    },
+    "source": {
+      "pdf": "2d8915f7502bec678977501dd870ea0b.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "": "",
+      "null": null
+    },
+    "source": {
+      "pdf": "2d8915f7502bec678977501dd870ea0b.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "": "",
+      "null": ""
+    },
+    "source": {
+      "pdf": "2d8915f7502bec678977501dd870ea0b.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "": "",
+      "null": ""
+    },
+    "source": {
+      "pdf": "2d8915f7502bec678977501dd870ea0b.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "": "",
+      "null": ""
+    },
+    "source": {
+      "pdf": "2d8915f7502bec678977501dd870ea0b.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "": "",
+      "null": ""
+    },
+    "source": {
+      "pdf": "2d8915f7502bec678977501dd870ea0b.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "": "",
+      "null": ""
+    },
+    "source": {
+      "pdf": "2d8915f7502bec678977501dd870ea0b.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "": "",
+      "null": ""
+    },
+    "source": {
+      "pdf": "2d8915f7502bec678977501dd870ea0b.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "": "",
+      "null": ""
+    },
+    "source": {
+      "pdf": "2d8915f7502bec678977501dd870ea0b.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "": "",
+      "null": ""
+    },
+    "source": {
+      "pdf": "2d8915f7502bec678977501dd870ea0b.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "": "",
+      "null": ""
+    },
+    "source": {
+      "pdf": "2d8915f7502bec678977501dd870ea0b.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "": "",
+      "null": ""
+    },
+    "source": {
+      "pdf": "2d8915f7502bec678977501dd870ea0b.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "": "",
+      "null": ""
+    },
+    "source": {
+      "pdf": "2d8915f7502bec678977501dd870ea0b.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "": "",
+      "null": ""
+    },
+    "source": {
+      "pdf": "2d8915f7502bec678977501dd870ea0b.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "": "",
+      "null": ""
+    },
+    "source": {
+      "pdf": "2d8915f7502bec678977501dd870ea0b.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "": "",
+      "null": ""
+    },
+    "source": {
+      "pdf": "2d8915f7502bec678977501dd870ea0b.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "": "",
+      "null": ""
+    },
+    "source": {
+      "pdf": "2d8915f7502bec678977501dd870ea0b.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "": "",
+      "null": ""
+    },
+    "source": {
+      "pdf": "2d8915f7502bec678977501dd870ea0b.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "": "",
+      "null": ""
+    },
+    "source": {
+      "pdf": "2d8915f7502bec678977501dd870ea0b.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "": "",
+      "null": ""
+    },
+    "source": {
+      "pdf": "2d8915f7502bec678977501dd870ea0b.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "": "",
+      "null": ""
+    },
+    "source": {
+      "pdf": "2d8915f7502bec678977501dd870ea0b.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "": "",
+      "null": ""
+    },
+    "source": {
+      "pdf": "2d8915f7502bec678977501dd870ea0b.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "": "",
+      "null": ""
+    },
+    "source": {
+      "pdf": "2d8915f7502bec678977501dd870ea0b.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "": "",
+      "null": null
+    },
+    "source": {
+      "pdf": "2d8915f7502bec678977501dd870ea0b.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "": "",
+      "null": "",
+      "Female VTR": null
+    },
+    "source": {
+      "pdf": "2d8915f7502bec678977501dd870ea0b.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "": null,
+      "null": null,
+      "Female VTR": "2014"
+    },
+    "source": {
+      "pdf": "2d8915f7502bec678977501dd870ea0b.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "": "",
+      "null": null,
+      "Female VTR": null
+    },
+    "source": {
+      "pdf": "2d8915f7502bec678977501dd870ea0b.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "": "86.63",
+      "null": null,
+      "Female VTR": null
+    },
+    "source": {
+      "pdf": "2d8915f7502bec678977501dd870ea0b.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "": "85.74",
+      "null": null,
+      "Female VTR": null
+    },
+    "source": {
+      "pdf": "2d8915f7502bec678977501dd870ea0b.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "": "79.5",
+      "null": null,
+      "Female VTR": null
+    },
+    "source": {
+      "pdf": "2d8915f7502bec678977501dd870ea0b.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "": "83.41",
+      "null": null,
+      "Female VTR": null
+    },
+    "source": {
+      "pdf": "2d8915f7502bec678977501dd870ea0b.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "": "88.64",
+      "null": null,
+      "Female VTR": null
+    },
+    "source": {
+      "pdf": "2d8915f7502bec678977501dd870ea0b.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "": "85.43",
+      "null": null,
+      "Female VTR": null
+    },
+    "source": {
+      "pdf": "2d8915f7502bec678977501dd870ea0b.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "": "86.51",
+      "null": null,
+      "Female VTR": null
+    },
+    "source": {
+      "pdf": "2d8915f7502bec678977501dd870ea0b.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "": "88.57",
+      "null": null,
+      "Female VTR": null
+    },
+    "source": {
+      "pdf": "2d8915f7502bec678977501dd870ea0b.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "": "84.25",
+      "null": null,
+      "Female VTR": null
+    },
+    "source": {
+      "pdf": "2d8915f7502bec678977501dd870ea0b.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "": "82.28",
+      "null": null,
+      "Female VTR": null
+    },
+    "source": {
+      "pdf": "2d8915f7502bec678977501dd870ea0b.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "": "65.02",
+      "null": null,
+      "Female VTR": null
+    },
+    "source": {
+      "pdf": "2d8915f7502bec678977501dd870ea0b.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "": "65.88",
+      "null": null,
+      "Female VTR": null
+    },
+    "source": {
+      "pdf": "2d8915f7502bec678977501dd870ea0b.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "": "80.77",
+      "null": null,
+      "Female VTR": null
+    },
+    "source": {
+      "pdf": "2d8915f7502bec678977501dd870ea0b.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "": "84.71",
+      "null": null,
+      "Female VTR": null
+    },
+    "source": {
+      "pdf": "2d8915f7502bec678977501dd870ea0b.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "": "91.23",
+      "null": null,
+      "Female VTR": null
+    },
+    "source": {
+      "pdf": "2d8915f7502bec678977501dd870ea0b.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "": "88.58",
+      "null": null,
+      "Female VTR": null
+    },
+    "source": {
+      "pdf": "2d8915f7502bec678977501dd870ea0b.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "": "80",
+      "null": null,
+      "Female VTR": null
+    },
+    "source": {
+      "pdf": "2d8915f7502bec678977501dd870ea0b.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "": "86.55",
+      "null": null,
+      "Female VTR": null
+    },
+    "source": {
+      "pdf": "2d8915f7502bec678977501dd870ea0b.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "": "85.44",
+      "null": null,
+      "Female VTR": null
+    },
+    "source": {
+      "pdf": "2d8915f7502bec678977501dd870ea0b.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "": "85.49",
+      "null": null,
+      "Female VTR": null
+    },
+    "source": {
+      "pdf": "2d8915f7502bec678977501dd870ea0b.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "": "84.53",
+      "null": null,
+      "Female VTR": null
+    },
+    "source": {
+      "pdf": "2d8915f7502bec678977501dd870ea0b.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Media": "Doordarshan",
+      "Role Expectations": "Scroll through Doordarshan: major news items/date and time of Poll/EVMs and\nalternate documents /VVPATs"
+    },
+    "source": {
+      "pdf": "2d8915f7502bec678977501dd870ea0b.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Media": null,
+      "Role Expectations": "News events in districts : News lines with a difference"
+    },
+    "source": {
+      "pdf": "2d8915f7502bec678977501dd870ea0b.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Media": null,
+      "Role Expectations": "Development of audio-visual creative spots"
+    },
+    "source": {
+      "pdf": "2d8915f7502bec678977501dd870ea0b.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Media": null,
+      "Role Expectations": "Interactive Discussions: Talk Shows"
+    },
+    "source": {
+      "pdf": "2d8915f7502bec678977501dd870ea0b.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Media": null,
+      "Role Expectations": "Telecast of Audio-Visual spots on commercial basis"
+    },
+    "source": {
+      "pdf": "2d8915f7502bec678977501dd870ea0b.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Media": null,
+      "Role Expectations": "Transmission of programmes in Santali/Nepali languages"
+    },
+    "source": {
+      "pdf": "2d8915f7502bec678977501dd870ea0b.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Media": null,
+      "Role Expectations": "Innovative Programmes like Quiz"
+    },
+    "source": {
+      "pdf": "2d8915f7502bec678977501dd870ea0b.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "All India Radio": null,
+      "Audio Spots to be broadcast": "Development of audio spots"
+    },
+    "source": {
+      "pdf": "2d8915f7502bec678977501dd870ea0b.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "All India Radio": null,
+      "Audio Spots to be broadcast": "News items broadcast on a frequently regular basis"
+    },
+    "source": {
+      "pdf": "2d8915f7502bec678977501dd870ea0b.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "All India Radio": null,
+      "Audio Spots to be broadcast": "Broadcast of News snippets"
+    },
+    "source": {
+      "pdf": "2d8915f7502bec678977501dd870ea0b.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "All India Radio": null,
+      "Audio Spots to be broadcast": "DEOs’ appeal to the Voters and interviews"
+    },
+    "source": {
+      "pdf": "2d8915f7502bec678977501dd870ea0b.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "All India Radio": null,
+      "Audio Spots to be broadcast": "Interactive Discussions on AIR and Rainbow FM"
+    },
+    "source": {
+      "pdf": "2d8915f7502bec678977501dd870ea0b.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Media": "Electronic Media : Television",
+      "Role Expectations": "A-V Spots in major news channels on commercial basis"
+    },
+    "source": {
+      "pdf": "2d8915f7502bec678977501dd870ea0b.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Media": null,
+      "Role Expectations": "A-V Spots in major entertainment channels on commercial basis"
+    },
+    "source": {
+      "pdf": "2d8915f7502bec678977501dd870ea0b.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Media": null,
+      "Role Expectations": "Integration of theme of election in serials in entertainment channels"
+    },
+    "source": {
+      "pdf": "2d8915f7502bec678977501dd870ea0b.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Media": null,
+      "Role Expectations": "Snippets about the number of dates left of Poll in entertainment/news\nchannels"
+    },
+    "source": {
+      "pdf": "2d8915f7502bec678977501dd870ea0b.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Media": null,
+      "Role Expectations": "Scroll about major news items of Poll"
+    },
+    "source": {
+      "pdf": "2d8915f7502bec678977501dd870ea0b.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Media": "Electronic Media: FM Radios",
+      "Role Expectations": "Audio Spots to be broadcast on commercial basis"
+    },
+    "source": {
+      "pdf": "2d8915f7502bec678977501dd870ea0b.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Media": null,
+      "Role Expectations": "DEOs’ appeal and messages to the voters"
+    },
+    "source": {
+      "pdf": "2d8915f7502bec678977501dd870ea0b.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Media": null,
+      "Role Expectations": "Frequent RJ mentions"
+    },
+    "source": {
+      "pdf": "2d8915f7502bec678977501dd870ea0b.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Media": null,
+      "Role Expectations": "Interviews with election functionaries"
+    },
+    "source": {
+      "pdf": "2d8915f7502bec678977501dd870ea0b.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Media": null,
+      "Role Expectations": "Event Sponsoring by Radio FMs in Partnership mode"
+    },
+    "source": {
+      "pdf": "2d8915f7502bec678977501dd870ea0b.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Media": "Campaign in association with\nBSNL Network",
+      "Role Expectations": "Free SMS to be sent phase wise to the voters before Poll"
+    },
+    "source": {
+      "pdf": "2d8915f7502bec678977501dd870ea0b.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Media": null,
+      "Role Expectations": "Free Voice Callers"
+    },
+    "source": {
+      "pdf": "2d8915f7502bec678977501dd870ea0b.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Media": null,
+      "Role Expectations": "Free Reminder SMS on the day of Poll"
+    },
+    "source": {
+      "pdf": "2d8915f7502bec678977501dd870ea0b.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Media": "Campaign through\nMobile Telecom Companies",
+      "Role Expectations": "Free SMS to be sent phase-wise to the Voters"
+    },
+    "source": {
+      "pdf": "2d8915f7502bec678977501dd870ea0b.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Media": null,
+      "Role Expectations": "Free Reminder SMS on the day of Poll"
+    },
+    "source": {
+      "pdf": "2d8915f7502bec678977501dd870ea0b.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Media": null,
+      "Role Expectations": "Sounding of Caller Tune"
+    },
+    "source": {
+      "pdf": "2d8915f7502bec678977501dd870ea0b.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Media": null,
+      "Role Expectations": "Free Whatsapp audio-video messages"
+    },
+    "source": {
+      "pdf": "2d8915f7502bec678977501dd870ea0b.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Media": "Electronic display of messages",
+      "Role Expectations": "At Metros : KOLKATA/ANSOLE/ SILIGURI/MALDA/BURDWAN"
+    },
+    "source": {
+      "pdf": "2d8915f7502bec678977501dd870ea0b.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Media": null,
+      "Role Expectations": "Road Junctions at District Headquarters through Electronic Scroll"
+    },
+    "source": {
+      "pdf": "2d8915f7502bec678977501dd870ea0b.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Media": null,
+      "Role Expectations": "Bus Terminus at District and SD Headquarters through electronic scroll"
+    },
+    "source": {
+      "pdf": "2d8915f7502bec678977501dd870ea0b.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Media": "Campaign through Cable\nNetwork",
+      "Role Expectations": "Display of A-V Spots"
+    },
+    "source": {
+      "pdf": "2d8915f7502bec678977501dd870ea0b.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Media": null,
+      "Role Expectations": "Display of static campaign material and dissemination of important district\ninformation"
+    },
+    "source": {
+      "pdf": "2d8915f7502bec678977501dd870ea0b.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Media": null,
+      "Role Expectations": "Telecast of DEOs’ appeal to Voters and important information"
+    },
+    "source": {
+      "pdf": "2d8915f7502bec678977501dd870ea0b.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Media": null,
+      "Role Expectations": "Interaction of Senior Officials ( DEOs/SPs/ADMs/SDMs) on MCC/Law &\nOrder/SVEEP/ Measures taken up in districts to bolster Voters’ Confidence/\nDistrict Control Room"
+    },
+    "source": {
+      "pdf": "2d8915f7502bec678977501dd870ea0b.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Media": null,
+      "Role Expectations": "Scroll : Advertisement of District /SDM/BDO’s Control Rooms and Helpline\nNumbers"
+    },
+    "source": {
+      "pdf": "2d8915f7502bec678977501dd870ea0b.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Media": null,
+      "Role Expectations": "The film on Voting Procedure"
+    },
+    "source": {
+      "pdf": "2d8915f7502bec678977501dd870ea0b.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Media": "Campaign through\nPVR/INOX/Cinema Halls",
+      "Role Expectations": "Display of A-V Spots"
+    },
+    "source": {
+      "pdf": "2d8915f7502bec678977501dd870ea0b.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Media": null,
+      "Role Expectations": "Telecast of DEO’s appeal to Voters"
+    },
+    "source": {
+      "pdf": "2d8915f7502bec678977501dd870ea0b.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Media": null,
+      "Role Expectations": "The film on Voting Procedure"
+    },
+    "source": {
+      "pdf": "2d8915f7502bec678977501dd870ea0b.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "SVEEP Objectives": "Increasing Overall\nTurn-Out of Voters",
+      "Campaign Motif": "Turn-out of Voters",
+      "Campaign Method": "Hoarding",
+      "Context": "General : Icon"
+    },
+    "source": {
+      "pdf": "2d8915f7502bec678977501dd870ea0b.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "SVEEP Objectives": null,
+      "Campaign Motif": "Turn-out of Voters",
+      "Campaign Method": "Hoarding",
+      "Context": "Rural"
+    },
+    "source": {
+      "pdf": "2d8915f7502bec678977501dd870ea0b.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "SVEEP Objectives": null,
+      "Campaign Motif": "Turn-out of Voters",
+      "Campaign Method": "Hoarding",
+      "Context": "Rural: Icon"
+    },
+    "source": {
+      "pdf": "2d8915f7502bec678977501dd870ea0b.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "SVEEP Objectives": null,
+      "Campaign Motif": "Turn-out of Women Voters",
+      "Campaign Method": "Hoarding",
+      "Context": "General : Icon"
+    },
+    "source": {
+      "pdf": "2d8915f7502bec678977501dd870ea0b.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "SVEEP Objectives": null,
+      "Campaign Motif": "Turn-Out of Women Voters",
+      "Campaign Method": "Hoarding",
+      "Context": "Rural"
+    },
+    "source": {
+      "pdf": "2d8915f7502bec678977501dd870ea0b.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "SVEEP Objectives": null,
+      "Campaign Motif": "Turn-Out of Young Women Voters",
+      "Campaign Method": "Hoarding / Posters",
+      "Context": "Urban"
+    },
+    "source": {
+      "pdf": "2d8915f7502bec678977501dd870ea0b.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "SVEEP Objectives": null,
+      "Campaign Motif": "Turn-Out of Young Voters",
+      "Campaign Method": "Hoarding /Posters",
+      "Context": "General"
+    },
+    "source": {
+      "pdf": "2d8915f7502bec678977501dd870ea0b.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "SVEEP Objectives": "SAMADHAN",
+      "Campaign Motif": "Online Complaint Management System:\nCitizens’ Interface",
+      "Campaign Method": "Hoarding",
+      "Context": "General"
+    },
+    "source": {
+      "pdf": "2d8915f7502bec678977501dd870ea0b.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "SVEEP Objectives": null,
+      "Campaign Motif": "Methodology",
+      "Campaign Method": "Poster",
+      "Context": "General"
+    },
+    "source": {
+      "pdf": "2d8915f7502bec678977501dd870ea0b.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "SVEEP Objectives": "SUVIDHA",
+      "Campaign Motif": "Methodology",
+      "Campaign Method": "Poster : General",
+      "Context": "General"
+    },
+    "source": {
+      "pdf": "2d8915f7502bec678977501dd870ea0b.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "SVEEP Objectives": "Ethical Voting",
+      "Campaign Motif": "Inducement free Voting",
+      "Campaign Method": "Hoarding",
+      "Context": "General"
+    },
+    "source": {
+      "pdf": "2d8915f7502bec678977501dd870ea0b.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "SVEEP Objectives": null,
+      "Campaign Motif": "Inducement free Voting: Icon",
+      "Campaign Method": "Hoarding",
+      "Context": "General"
+    },
+    "source": {
+      "pdf": "2d8915f7502bec678977501dd870ea0b.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "SVEEP Objectives": null,
+      "Campaign Motif": "Inducement free Voting: Icon",
+      "Campaign Method": "Hoarding",
+      "Context": "General"
+    },
+    "source": {
+      "pdf": "2d8915f7502bec678977501dd870ea0b.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "SVEEP Objectives": null,
+      "Campaign Motif": "Inducement free Voting: Cartoon",
+      "Campaign Method": "Hoarding",
+      "Context": "General"
+    },
+    "source": {
+      "pdf": "2d8915f7502bec678977501dd870ea0b.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Communication\nMeans": "Outdoor\nCampaign",
+      "Methods": "Hoarding /Banners",
+      "Activity": "Prominent Places: Road Junctions /Markets /Offices of Cities /towns (\nH/B)"
+    },
+    "source": {
+      "pdf": "2d8915f7502bec678977501dd870ea0b.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Communication\nMeans": null,
+      "Methods": null,
+      "Activity": "Collector’s Office ( H)"
+    },
+    "source": {
+      "pdf": "2d8915f7502bec678977501dd870ea0b.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Communication\nMeans": null,
+      "Methods": null,
+      "Activity": "SDM Office (H)"
+    },
+    "source": {
+      "pdf": "2d8915f7502bec678977501dd870ea0b.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Communication\nMeans": null,
+      "Methods": null,
+      "Activity": "Block/Municipality Office ( H)"
+    },
+    "source": {
+      "pdf": "2d8915f7502bec678977501dd870ea0b.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Communication\nMeans": null,
+      "Methods": null,
+      "Activity": "Gram Panchayat Office (H/B)"
+    },
+    "source": {
+      "pdf": "2d8915f7502bec678977501dd870ea0b.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Communication\nMeans": null,
+      "Methods": null,
+      "Activity": "Railways Stations/Bus Terminus/Markets/Malls (H)"
+    },
+    "source": {
+      "pdf": "2d8915f7502bec678977501dd870ea0b.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Communication\nMeans": null,
+      "Methods": null,
+      "Activity": "Universities /Colleges ( H/P)"
+    },
+    "source": {
+      "pdf": "2d8915f7502bec678977501dd870ea0b.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Communication\nMeans": null,
+      "Methods": "Poster",
+      "Activity": "All Polling Stations"
+    },
+    "source": {
+      "pdf": "2d8915f7502bec678977501dd870ea0b.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Communication\nMeans": null,
+      "Methods": null,
+      "Activity": "All HS /Secondary Schools/Colleges"
+    },
+    "source": {
+      "pdf": "2d8915f7502bec678977501dd870ea0b.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Communication\nMeans": null,
+      "Methods": "Stickers : Surface\nTransport",
+      "Activity": "Auto-Rickshaw/TOTO and Public Transport : Bus/Trucks etc"
+    },
+    "source": {
+      "pdf": "2d8915f7502bec678977501dd870ea0b.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Communication\nMeans": null,
+      "Methods": null,
+      "Activity": "Audio Campaign at Bus Terminus"
+    },
+    "source": {
+      "pdf": "2d8915f7502bec678977501dd870ea0b.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "": "Wall Writing\nOn Issues of basic electoral\nliteracy",
+      "Tram Branding": "DM Office/SDO Office/Block Office"
+    },
+    "source": {
+      "pdf": "2d8915f7502bec678977501dd870ea0b.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "": "Campaign at Routes of\nWater Transport",
+      "Tram Branding": "Boats/Launches through water transport routes : Kolkata/Howrah/North\n24 Parganas /Hooghly/Malda and other districts"
+    },
+    "source": {
+      "pdf": "2d8915f7502bec678977501dd870ea0b.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Campaign Motif": "Voters’ Education",
+      "Activity": "Walk Through to the Polling\nStation",
+      "Campaign method": "Animation : Icon",
+      "Context": "Polling Station"
+    },
+    "source": {
+      "pdf": "2d8915f7502bec678977501dd870ea0b.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Campaign Motif": null,
+      "Activity": "Walk Through on Voters’ Slips",
+      "Campaign method": null,
+      "Context": null
+    },
+    "source": {
+      "pdf": "2d8915f7502bec678977501dd870ea0b.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Campaign Motif": null,
+      "Activity": "On Facilitation of Voters",
+      "Campaign method": null,
+      "Context": null
+    },
+    "source": {
+      "pdf": "2d8915f7502bec678977501dd870ea0b.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Campaign Motif": "Ethical Campaign",
+      "Activity": "Ethical Choice",
+      "Campaign method": "Animation : Icon",
+      "Context": "On Way to\nPolling Station"
+    },
+    "source": {
+      "pdf": "2d8915f7502bec678977501dd870ea0b.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Campaign Motif": null,
+      "Activity": "Inducement free Voting I",
+      "Campaign method": null,
+      "Context": null
+    },
+    "source": {
+      "pdf": "2d8915f7502bec678977501dd870ea0b.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Campaign Motif": null,
+      "Activity": "Inducement free Voting II",
+      "Campaign method": "Chhau",
+      "Context": "General"
+    },
+    "source": {
+      "pdf": "2d8915f7502bec678977501dd870ea0b.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Campaign Motif": null,
+      "Activity": "Inducement free Voting III",
+      "Campaign method": "Pledging",
+      "Context": "General"
+    },
+    "source": {
+      "pdf": "2d8915f7502bec678977501dd870ea0b.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Campaign Motif": "Turn Out",
+      "Activity": "Vote Aschhey",
+      "Campaign method": "Pencil Art Drawing",
+      "Context": "General"
+    },
+    "source": {
+      "pdf": "2d8915f7502bec678977501dd870ea0b.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Campaign Motif": null,
+      "Activity": "Best Use of EPIC",
+      "Campaign method": "Animation Graphics",
+      "Context": "General"
+    },
+    "source": {
+      "pdf": "2d8915f7502bec678977501dd870ea0b.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Campaign Motif": null,
+      "Activity": "My Story",
+      "Campaign method": "Shoot",
+      "Context": "General"
+    },
+    "source": {
+      "pdf": "2d8915f7502bec678977501dd870ea0b.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Facilitation\nInitiatives in\ndistricts": null,
+      "District Helpline up to the Poll Day": "Sub- Divisional Helpline\nup to the Poll Day",
+      "DEO": "SDO",
+      "From the date of\nannouncement to the\nPoll date": null
+    },
+    "source": {
+      "pdf": "2d8915f7502bec678977501dd870ea0b.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Facilitation\nInitiatives in\ndistricts": null,
+      "District Helpline up to the Poll Day": "Whatsapp Number for Citizens at Sub-\ndivisional level",
+      "DEO": null,
+      "From the date of\nannouncement to the\nPoll date": null
+    },
+    "source": {
+      "pdf": "2d8915f7502bec678977501dd870ea0b.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Facilitation\nInitiatives in\ndistricts": null,
+      "District Helpline up to the Poll Day": "Block Helpline up to the Poll Day",
+      "DEO": "BDO",
+      "From the date of\nannouncement to the\nPoll date": null
+    },
+    "source": {
+      "pdf": "2d8915f7502bec678977501dd870ea0b.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Facilitation\nInitiatives in\ndistricts": null,
+      "District Helpline up to the Poll Day": "Voters’ Facilitation Centers at Blocks",
+      "DEO": null,
+      "From the date of\nannouncement to the\nPoll date": null
+    },
+    "source": {
+      "pdf": "2d8915f7502bec678977501dd870ea0b.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Campaign Activity": "Static Outdoor",
+      "Campaign Mode": "Through I &\nCA/PWD/CMC and\nDistricts",
+      "From": "01.03.2016",
+      "TO": "Till the\nCompletion of\nElection Process"
+    },
+    "source": {
+      "pdf": "2d8915f7502bec678977501dd870ea0b.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Campaign Activity": "Radio Campaign at AIR including regional\nAIR Centers in the State",
+      "Campaign Mode": "Director, All India Radio",
+      "From": "01.03.2016",
+      "TO": "15.05.2016"
+    },
+    "source": {
+      "pdf": "2d8915f7502bec678977501dd870ea0b.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Campaign Activity": "Radio Campaign: Private Radio\nFMs",
+      "Campaign Mode": "By CEO Office, WB",
+      "From": "05.03.2016",
+      "TO": "20.04.2016"
+    },
+    "source": {
+      "pdf": "2d8915f7502bec678977501dd870ea0b.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Campaign Activity": "Campaign through Doordarshan",
+      "Campaign Mode": "Additional Director,\nDoordarshan",
+      "From": "01.03.2016",
+      "TO": "15.05.2016"
+    },
+    "source": {
+      "pdf": "2d8915f7502bec678977501dd870ea0b.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Campaign Activity": "Electronic Media Campaign at\nPrivate News Channels",
+      "Campaign Mode": "By CEO Office, WB",
+      "From": "05.03.2016",
+      "TO": "20.04.2016"
+    },
+    "source": {
+      "pdf": "2d8915f7502bec678977501dd870ea0b.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Campaign Activity": "Electronic Media Campaign at\nPrivate Entertainment Channels",
+      "Campaign Mode": "By CEO Office, WB",
+      "From": "05.03.2016",
+      "TO": "20.04.2016"
+    },
+    "source": {
+      "pdf": "2d8915f7502bec678977501dd870ea0b.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Campaign Activity": "Campaign through Metro Railways",
+      "Campaign Mode": "By CEO Office, WB",
+      "From": "05.03.2016",
+      "TO": "15.05.2016"
+    },
+    "source": {
+      "pdf": "2d8915f7502bec678977501dd870ea0b.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Campaign Activity": "Volvo/Other Bus Branding/Tram Branding/\nOther forms of campaign through Surface\nTransport including through stickers",
+      "Campaign Mode": "Through CSTC/CTC in\npartnership mode",
+      "From": "01.03.2016",
+      "TO": "15.05.2016"
+    },
+    "source": {
+      "pdf": "2d8915f7502bec678977501dd870ea0b.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Campaign through Eastern Railways": "Electronic display board",
+      "By CEO Office, WB, in\nPartnership mode": "By CEO Office, WB",
+      "01.03.2016": "01.03.2016",
+      "15.05.2016": "15.05.2016"
+    },
+    "source": {
+      "pdf": "2d8915f7502bec678977501dd870ea0b.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Campaign through Eastern Railways": "Mass SMS-ing",
+      "By CEO Office, WB, in\nPartnership mode": "By CEO Office, WB",
+      "01.03.2016": "In Partnership Mode,\nwith Private Mobile\nNetworks",
+      "15.05.2016": "Phase-wise to all\ndistricts"
+    },
+    "source": {
+      "pdf": "2d8915f7502bec678977501dd870ea0b.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Campaign through Eastern Railways": null,
+      "By CEO Office, WB, in\nPartnership mode": null,
+      "01.03.2016": "Triggering sms\nthrough NIC from\nour Electoral Roll\ndatabase",
+      "15.05.2016": "Phase-wise to all\ndistricts"
+    },
+    "source": {
+      "pdf": "2d8915f7502bec678977501dd870ea0b.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Campaign through Eastern Railways": "Cinema Halls",
+      "By CEO Office, WB, in\nPartnership mode": "By CEO office : In\nPVR/INOX/ District\n/Sub-Divisional/Block\nheadquarters",
+      "01.03.2016": "05.03.2016",
+      "15.05.2016": "20.04.2016"
+    },
+    "source": {
+      "pdf": "2d8915f7502bec678977501dd870ea0b.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Area of Activity": "Content\nDevelopment",
+      "Activity": "Content Creation",
+      "From": "By February",
+      "TO": null,
+      "null": null
+    },
+    "source": {
+      "pdf": "2d8915f7502bec678977501dd870ea0b.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Area of Activity": "Static Outdoor\nCampaign",
+      "Activity": "Production of Campaign material /\nHoisting/Pasting/Erecting/ Labour\nCharges etc",
+      "From": "01.01.2016",
+      "TO": null,
+      "null": "31.05.2016"
+    },
+    "source": {
+      "pdf": "2d8915f7502bec678977501dd870ea0b.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Area of Activity": null,
+      "Activity": "Signage",
+      "From": "15.03.2016",
+      "TO": null,
+      "null": null
+    },
+    "source": {
+      "pdf": "2d8915f7502bec678977501dd870ea0b.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Area of Activity": "traditional\nCampaign\nmethods",
+      "Activity": "Public Announcements with\ndistribution of leaflets",
+      "From": "01.03.2016",
+      "TO": "31.05.2016",
+      "null": null
+    },
+    "source": {
+      "pdf": "2d8915f7502bec678977501dd870ea0b.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Area of Activity": null,
+      "Activity": "Tableau\n(1@ each district)",
+      "From": null,
+      "TO": null,
+      "null": null
+    },
+    "source": {
+      "pdf": "2d8915f7502bec678977501dd870ea0b.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Area of Activity": null,
+      "Activity": "Play acting",
+      "From": null,
+      "TO": null,
+      "null": null
+    },
+    "source": {
+      "pdf": "2d8915f7502bec678977501dd870ea0b.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Area of Activity": null,
+      "Activity": "Other Means innovated by districts",
+      "From": null,
+      "TO": null,
+      "null": null
+    },
+    "source": {
+      "pdf": "2d8915f7502bec678977501dd870ea0b.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Area of Activity": "Non-traditional\nCampaign\nmethods",
+      "Activity": "Boat/Launch Branding\n(Wherever applicable)",
+      "From": "01.02.2015",
+      "TO": "15.03.2015",
+      "null": null
+    },
+    "source": {
+      "pdf": "2d8915f7502bec678977501dd870ea0b.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Area of Activity": null,
+      "Activity": "Tram / Bus Branding /\nStickers on Auto/TOTO",
+      "From": null,
+      "TO": null,
+      "null": null
+    },
+    "source": {
+      "pdf": "2d8915f7502bec678977501dd870ea0b.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Area of Activity": null,
+      "Activity": "Train Branding",
+      "From": null,
+      "TO": null,
+      "null": null
+    },
+    "source": {
+      "pdf": "2d8915f7502bec678977501dd870ea0b.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Electronic Media": null,
+      "Electronic Display Board /\nElectronic Scroll at Railway\nStations/ Bus Terminus": "Cable Networks",
+      "01.03.2016": null,
+      "15.05.2016": null
+    },
+    "source": {
+      "pdf": "2d8915f7502bec678977501dd870ea0b.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Electronic Media": "Mobile\nNetworking",
+      "Electronic Display Board /\nElectronic Scroll at Railway\nStations/ Bus Terminus": "Reminder SMS",
+      "01.03.2016": "On the Day of Poll",
+      "15.05.2016": null
+    },
+    "source": {
+      "pdf": "2d8915f7502bec678977501dd870ea0b.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Electronic Media": "Mass Mobilizing\nInitiatives",
+      "Electronic Display Board /\nElectronic Scroll at Railway\nStations/ Bus Terminus": "Students’ Initiatives based in\nUniversities and Colleges :\nSeminar/Human Chains/Mass\nRally/ Competitions/ Quiz etc",
+      "01.03.2016": "01.02.2016",
+      "15.05.2016": "31.05.2016"
+    },
+    "source": {
+      "pdf": "2d8915f7502bec678977501dd870ea0b.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Electronic Media": null,
+      "Electronic Display Board /\nElectronic Scroll at Railway\nStations/ Bus Terminus": "Other Initiatives of Districts\ninvolving greater Participation of\nCitizens",
+      "01.03.2016": "01.03.2016",
+      "15.05.2016": "15.05.2016"
+    },
+    "source": {
+      "pdf": "2d8915f7502bec678977501dd870ea0b.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Electronic Media": "Facilitation\nInitiatives",
+      "Electronic Display Board /\nElectronic Scroll at Railway\nStations/ Bus Terminus": "District Helpline up to the Poll\nDay",
+      "01.03.2016": "01.03.2016",
+      "15.05.2016": "31.03.2016"
+    },
+    "source": {
+      "pdf": "2d8915f7502bec678977501dd870ea0b.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Electronic Media": "Interpersonal\nCommunication",
+      "Electronic Display Board /\nElectronic Scroll at Railway\nStations/ Bus Terminus": "Door to Door Visit by BLOs/ field\nfunctionaries",
+      "01.03.2016": "01.03.2016",
+      "15.05.2016": "15.04.2016"
+    },
+    "source": {
+      "pdf": "2d8915f7502bec678977501dd870ea0b.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Electronic Media": null,
+      "Electronic Display Board /\nElectronic Scroll at Railway\nStations/ Bus Terminus": "Distribution of Appeal letters",
+      "01.03.2016": null,
+      "15.05.2016": "15.04.2016"
+    },
+    "source": {
+      "pdf": "2d8915f7502bec678977501dd870ea0b.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Electronic Media": "EVM\nDemonstration\nCamps",
+      "Electronic Display Board /\nElectronic Scroll at Railway\nStations/ Bus Terminus": "Intensive Demonstration Camps",
+      "01.03.2016": "01.3.2016",
+      "15.05.2016": "31.03.2016"
+    },
+    "source": {
+      "pdf": "2d8915f7502bec678977501dd870ea0b.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Milestones": "DEOs’ Press Briefings",
+      "District": "yes",
+      "Sub_Division": "no",
+      "Block": "no"
+    },
+    "source": {
+      "pdf": "2d8915f7502bec678977501dd870ea0b.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Milestones": "Nomination",
+      "District": "yes",
+      "Sub_Division": "yes",
+      "Block": "no"
+    },
+    "source": {
+      "pdf": "2d8915f7502bec678977501dd870ea0b.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Milestones": "MCC",
+      "District": "Glimpses of Major Meetings of Political heavyweights/Major MCC violations/ Works of the Election\nMachineries in removal of MCC Violations and others as directed by the DEOs",
+      "Sub_Division": null,
+      "Block": null
+    },
+    "source": {
+      "pdf": "2d8915f7502bec678977501dd870ea0b.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Milestones": "Training",
+      "District": "Training of Polling Personnel/Cells",
+      "Sub_Division": null,
+      "Block": null
+    },
+    "source": {
+      "pdf": "2d8915f7502bec678977501dd870ea0b.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Milestones": "EVMs Setting",
+      "District": "YES",
+      "Sub_Division": "yes",
+      "Block": "no"
+    },
+    "source": {
+      "pdf": "2d8915f7502bec678977501dd870ea0b.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Milestones": "SVEEP activities",
+      "District": "SVEEP ACTIVITIES OF ALL DIMENSIONS IN THE DISTRICT. THERE WILL BE\nSPECIAL BRIEFING ON THIS AT STATE AND DISTRICT LEVELS",
+      "Sub_Division": null,
+      "Block": null
+    },
+    "source": {
+      "pdf": "2d8915f7502bec678977501dd870ea0b.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Milestones": "Material Bagging",
+      "District": "yes",
+      "Sub_Division": "yes",
+      "Block": "No"
+    },
+    "source": {
+      "pdf": "2d8915f7502bec678977501dd870ea0b.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Milestones": "DC/P-1 day",
+      "District": "yes",
+      "Sub_Division": "yes",
+      "Block": "No"
+    },
+    "source": {
+      "pdf": "2d8915f7502bec678977501dd870ea0b.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Milestones": "Poll Day",
+      "District": "yes",
+      "Sub_Division": "yes",
+      "Block": "yes"
+    },
+    "source": {
+      "pdf": "2d8915f7502bec678977501dd870ea0b.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Milestones": "RC",
+      "District": "yes",
+      "Sub_Division": "yes",
+      "Block": "No"
+    },
+    "source": {
+      "pdf": "2d8915f7502bec678977501dd870ea0b.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Milestones": "Counting",
+      "District": "yes",
+      "Sub_Division": "yes",
+      "Block": "No"
+    },
+    "source": {
+      "pdf": "2d8915f7502bec678977501dd870ea0b.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Milestones": "SAMADHAN",
+      "District": "Process Documentation at CEO/DEO/RO/BDO level",
+      "Sub_Division": null,
+      "Block": null
+    },
+    "source": {
+      "pdf": "2d8915f7502bec678977501dd870ea0b.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Milestones": "SUVIDHA",
+      "District": "Process Documentation at CEO/DEO/RO/BDO level",
+      "Sub_Division": null,
+      "Block": null
+    },
+    "source": {
+      "pdf": "2d8915f7502bec678977501dd870ea0b.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Milestones": "SUGAM",
+      "District": "Process Documentation at CEO/DEO/RO/BDO level",
+      "Sub_Division": null,
+      "Block": null
+    },
+    "source": {
+      "pdf": "2d8915f7502bec678977501dd870ea0b.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Milestones": "LMSA and other IT\napplications",
+      "District": "yes",
+      "Sub_Division": "yes",
+      "Block": "yes"
+    },
+    "source": {
+      "pdf": "2d8915f7502bec678977501dd870ea0b.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Milestones": "Expenditure Surveillance",
+      "District": "Throughout the district",
+      "Sub_Division": null,
+      "Block": null
+    },
+    "source": {
+      "pdf": "2d8915f7502bec678977501dd870ea0b.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Milestones": "Media Monitoring",
+      "District": "State/District level Monitoring",
+      "Sub_Division": null,
+      "Block": null
+    },
+    "source": {
+      "pdf": "2d8915f7502bec678977501dd870ea0b.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Milestones": "Innovations",
+      "District": "At all levels as per directions of the CEO/DEO",
+      "Sub_Division": null,
+      "Block": null
+    },
+    "source": {
+      "pdf": "2d8915f7502bec678977501dd870ea0b.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  }
+]

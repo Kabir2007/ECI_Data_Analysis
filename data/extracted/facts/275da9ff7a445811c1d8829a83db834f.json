@@ -1,0 +1,5547 @@
+[
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "S.NO": "1",
+      "NAME OF CD BLOCK": "Drass"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "S.NO": "2",
+      "NAME OF CD BLOCK": "Kargil"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "S.NO": "3",
+      "NAME OF CD BLOCK": "Shanker Chiktan"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "S.NO": "4",
+      "NAME OF CD BLOCK": "Shargole"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "S.NO": "5",
+      "NAME OF CD BLOCK": "Zanskar"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "S.NO": "6",
+      "NAME OF CD BLOCK": "Lungnak"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "S.NO": "7",
+      "NAME OF CD BLOCK": "Sankoo"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "S.NO": "8",
+      "NAME OF CD BLOCK": "Taifsuru"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "S.NO": "9",
+      "NAME OF CD BLOCK": "Undmagalpur Trespo"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "Tehsil": null,
+      "No of Villages 127": "Inhabited",
+      "null": "Total"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "Tehsil": "Kargil",
+      "No of Villages 127": "64",
+      "null": "66"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "Tehsil": "Sanku",
+      "No of Villages 127": "36",
+      "null": "36"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "Tehsil": "Zanskar",
+      "No of Villages 127": "25",
+      "null": "25"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "Population": null,
+      "Total": null,
+      "Persons": "Males",
+      "140802": "77785"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "Population": null,
+      "Total": null,
+      "Persons": "Females",
+      "140802": "63017"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "Population": null,
+      "Total": "Urban",
+      "Persons": "Persons",
+      "140802": "16338"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "Population": null,
+      "Total": null,
+      "Persons": "Males",
+      "140802": "10082"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "Population": null,
+      "Total": null,
+      "Persons": "Females",
+      "140802": "6256"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "Population": null,
+      "Total": "Rural",
+      "Persons": "Persons",
+      "140802": "124464"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "Population": null,
+      "Total": null,
+      "Persons": "Males",
+      "140802": "67703"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "Population": null,
+      "Total": null,
+      "Persons": "Females",
+      "140802": "56761"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "Important Statistics": "State District"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "DISTRICT CENSUS HANDBOOK : KARGIL": "DISTRICT PRIMARY"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "DISTRICT CENSUS HANDBOOK : KARGIL": "Locatio Total/ Area in Total population (including institutional\nn code District/ CD Block/ Rural/ Square Number of and houseless population) Population in the age-group 0-6\nnumber Town Urban Kilometre households Persons Males Females Persons Males Females"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "DISTRICT CENSUS HANDBOOK : KARGIL": "1 2 3 4 5 6 7 8 9 10 11"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "PRIMARY CENSUS ABSTRACT": "CENSUS ABSTRACT"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "PRIMARY CENSUS ABSTRACT": "Total/\nScheduled Castes population Scheduled Tribes population Literates Rural/ District/ CD Block/\nPersons Males Females Persons Males Females Persons Males Females Urban Town"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "PRIMARY CENSUS ABSTRACT": "12 13 14 15 16 17 18 19 20 3 2"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "DISTRICT CENSUS HANDBOOK : KARGIL": "DISTRICT PRIMARY"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "DISTRICT CENSUS HANDBOOK : KARGIL": "Industrial category\nLocatio Total/\nn code District/ CD Block/ Rural/ Total workers Main workers Cultivators\nnumber Town Urban Persons Males Females Persons Males Females Persons Males Females"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "DISTRICT CENSUS HANDBOOK : KARGIL": "1 2 3 21 22 23 24 25 26 27 28 29"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "PRIMARY CENSUS ABSTRACT": "CENSUS ABSTRACT"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "PRIMARY CENSUS ABSTRACT": "of main workers\nTotal/\nAgricultural labourers Household industry workers Other workers Rural/ District/ CD Block/\nPersons Males Females Persons Males Females Persons Males Females Urban Town"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "PRIMARY CENSUS ABSTRACT": "30 31 32 33 34 35 36 37 38 3 2"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "DISTRICT CENSUS HANDBOOK : KARGIL": "DISTRICT PRIMARY"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "DISTRICT CENSUS HANDBOOK : KARGIL": "Industrial category\nLocatio Total/\nn code District/ CD Block/ Rural/ Marginal workers Cultivators Agricultural labourers\nnumber Town Urban Persons Males Females Persons Males Females Persons Males Females"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "DISTRICT CENSUS HANDBOOK : KARGIL": "1 2 3 39 40 41 42 43 44 45 46 47"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "PRIMARY CENSUS ABSTRACT": "CENSUS ABSTRACT"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "PRIMARY CENSUS ABSTRACT": "of marginal workers\nTotal/ Locatio\nHousehold industry workers Other workers Non-workers Rural/ District/ CD Block/ n code\nPersons Males Females Persons Males Females Persons Males Females Urban Town number"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "PRIMARY CENSUS ABSTRACT": "48 49 50 51 52 53 54 55 56 3 2 1"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "APPENDIX TO DISTRICT PRIMARY CENSUS ABSTRACT\nTOTAL, SCHEDULED CASTES AND SCHEDULED TRIBES POPULATION - URBAN BLOCK WISE": "Location Name of Town Name of Ward Boundaries of Urban Block / Total Scheduled Scheduled\nCode EB Number Population Castes Tribes\nPopulation Population"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "APPENDIX TO DISTRICT PRIMARY CENSUS ABSTRACT\nTOTAL, SCHEDULED CASTES AND SCHEDULED TRIBES POPULATION - URBAN BLOCK WISE": "1 2 3 4 5 6 7"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "APPENDIX TO DISTRICT PRIMARY CENSUS ABSTRACT\nTOTAL, SCHEDULED CASTES AND SCHEDULED TRIBES POPULATION - URBAN BLOCK WISE": "Location Name of Town Name of Ward Boundaries of Urban Block / Total Scheduled Scheduled\nCode EB Number Population Castes Tribes\nPopulation Population"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "APPENDIX TO DISTRICT PRIMARY CENSUS ABSTRACT\nTOTAL, SCHEDULED CASTES AND SCHEDULED TRIBES POPULATION - URBAN BLOCK WISE": "1 2 3 4 5 6 7"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "DISTRICT CENSUS HANDBOOK : KARGIL": "PRIMARY CENSUS ABSTRACT"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "DISTRICT CENSUS HANDBOOK : KARGIL": "Number of\nLocation Total/ households Total population (including institutional\ncode District/ CD Block/ Rural/ with SC as and houseless population) Population in the age-group 0-6\nnumber Town Urban head Persons Males Females Persons Males Females"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "DISTRICT CENSUS HANDBOOK : KARGIL": "1 2 3 4 5 6 7 8 9 10"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "PRIMARY CENSUS ABSTRACT": "FOR SCHEDULED CASTES"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "PRIMARY CENSUS ABSTRACT": "Total/\nLiterates Illiterates Total workers Rural/ District/ CD Block/\nPersons Males Females Persons Males Females Persons Males Females Urban Town"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "PRIMARY CENSUS ABSTRACT": "11 12 13 14 15 16 17 18 19 3 2"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "DISTRICT CENSUS HANDBOOK : KARGIL": "PRIMARY CENSUS ABSTRACT"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "DISTRICT CENSUS HANDBOOK : KARGIL": "Industrial category\nLocation Total/\ncode District/ CD Block/ Rural/ Main workers Cultivators Agricultural labourers\nnumber Town Urban Persons Males Females Persons Males Females Persons Males Females"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "DISTRICT CENSUS HANDBOOK : KARGIL": "1 2 3 20 21 22 23 24 25 26 27 28"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "PRIMARY CENSUS ABSTRACT": "FOR SCHEDULED CASTES"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "PRIMARY CENSUS ABSTRACT": "of main workers\nTotal/\nHousehold industry workers Other workers Marginal workers Rural/ District/ CD Block/\nPersons Males Females Persons Males Females Persons Males Females Urban Town"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "PRIMARY CENSUS ABSTRACT": "29 30 31 32 33 34 35 36 37 3 2"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "DISTRICT CENSUS HANDBOOK : KARGIL": "PRIMARY CENSUS ABSTRACT"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "DISTRICT CENSUS HANDBOOK : KARGIL": "Industrial category of\nLocation Total/\ncode District/ CD Block/ Rural/ Cultivators Agricultural labourers Household industry workers\nnumber Town Urban Persons Males Females Persons Males Females Persons Males Females"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "DISTRICT CENSUS HANDBOOK : KARGIL": "1 2 3 38 39 40 41 42 43 44 45 46"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "PRIMARY CENSUS ABSTRACT": "FOR SCHEDULED CASTES"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "PRIMARY CENSUS ABSTRACT": "marginal workers\nTotal/ Location\nOther workers Non-workers Rural/ District/ CD Block/ code\nPersons Males Females Persons Males Females Urban Town number"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "PRIMARY CENSUS ABSTRACT": "47 48 49 50 51 52 3 2 1"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "DISTRICT CENSUS HANDBOOK : KARGIL": "PRIMARY CENSUS ABSTRACT"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "DISTRICT CENSUS HANDBOOK : KARGIL": "Number of\nLocation Total/ households Total population (including institutional\ncode District/ CD Block/ Rural/ with ST as and houseless population) Population in the age-group 0-6\nnumber Town Urban head Persons Males Females Persons Males Females"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "DISTRICT CENSUS HANDBOOK : KARGIL": "1 2 3 4 5 6 7 8 9 10"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "PRIMARY CENSUS ABSTRACT": "FOR SCHEDULED TRIBES"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "PRIMARY CENSUS ABSTRACT": "Total/\nLiterates Illiterates Total workers Rural/ District/ CD Block/\nPersons Males Females Persons Males Females Persons Males Females Urban Town"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "PRIMARY CENSUS ABSTRACT": "11 12 13 14 15 16 17 18 19 3 2"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "DISTRICT CENSUS HANDBOOK : KARGIL": "PRIMARY CENSUS ABSTRACT"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "DISTRICT CENSUS HANDBOOK : KARGIL": "Industrial category\nLocation Total/\ncode District/ CD Block/ Rural/ Main workers Cultivators Agricultural labourers\nnumber Town Urban Persons Males Females Persons Males Females Persons Males Females"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "DISTRICT CENSUS HANDBOOK : KARGIL": "1 2 3 20 21 22 23 24 25 26 27 28"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "PRIMARY CENSUS ABSTRACT": "FOR SCHEDULED TRIBES"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "PRIMARY CENSUS ABSTRACT": "of main workers\nTotal/\nHousehold industry workers Other workers Marginal workers Rural/ District/ CD Block/\nPersons Males Females Persons Males Females Persons Males Females Urban Town"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "PRIMARY CENSUS ABSTRACT": "29 30 31 32 33 34 35 36 37 3 2"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "DISTRICT CENSUS HANDBOOK : KARGIL": "PRIMARY CENSUS ABSTRACT"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "DISTRICT CENSUS HANDBOOK : KARGIL": "Industrial category of\nLocation Total/\ncode District/ CD Block/ Rural/ Cultivators Agricultural labourers Household industry workers\nnumber Town Urban Persons Males Females Persons Males Females Persons Males Females"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "DISTRICT CENSUS HANDBOOK : KARGIL": "1 2 3 38 39 40 41 42 43 44 45 46"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "PRIMARY CENSUS ABSTRACT": "FOR SCHEDULED TRIBES"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "PRIMARY CENSUS ABSTRACT": "marginal workers\nTotal/ Location\nOther workers Non-workers Rural/ District/ CD Block/ code\nPersons Males Females Persons Males Females Urban Town number"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "PRIMARY CENSUS ABSTRACT": "47 48 49 50 51 52 3 2 1"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "DISTRICT CENSUS HANDBOOK : KARGIL": "VILLAGE PRIMARY\nC D Block -"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "DISTRICT CENSUS HANDBOOK : KARGIL": "Total population (including\nLocation Area of institutional and houseless\ncode Village in Number of population) Population in the age-group 0-6\nnumber Name of Village hectares households Persons Males Females Persons Males Females"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "DISTRICT CENSUS HANDBOOK : KARGIL": "1 2 3 4 5 6 7 8 9 10"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "PRIMARY CENSUS ABSTRACT": "CENSUS ABSTRACT\nDrass"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "PRIMARY CENSUS ABSTRACT": "Scheduled Castes population Scheduled Tribes population Literates\nPersons Males Females Persons Males Females Persons Males Females Name of Village"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "PRIMARY CENSUS ABSTRACT": "11 12 13 14 15 16 17 18 19 2"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "DISTRICT CENSUS HANDBOOK : KARGIL": "VILLAGE PRIMARY\nC D Block -"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "DISTRICT CENSUS HANDBOOK : KARGIL": "Location\ncode Illiterates Total workers Main workers\nnumber Name of Village Persons Males Females Persons Males Females Persons Males Females"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "DISTRICT CENSUS HANDBOOK : KARGIL": "1 2 20 21 22 23 24 25 26 27 28"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "PRIMARY CENSUS ABSTRACT": "CENSUS ABSTRACT\nDrass"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "PRIMARY CENSUS ABSTRACT": "Industrial category of main workers\nHousehold industry\nCultivators Agricultural labourers workers Other workers\nPersons Males Females Persons Males Females PersonsMalesFemales Persons Males Females Name of Village"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "PRIMARY CENSUS ABSTRACT": "29 30 31 32 33 34 35 36 37 38 39 40 2"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "DISTRICT CENSUS HANDBOOK : KARGIL": "VILLAGE PRIMARY\nC D Block -"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "DISTRICT CENSUS HANDBOOK : KARGIL": "Industrial category\nLocation\ncode Marginal workers Cultivators Agricultural labourers\nnumber Name of Village Persons Males Females Persons Males Females Persons Males Females"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "DISTRICT CENSUS HANDBOOK : KARGIL": "1 2 41 42 43 44 45 46 47 48 49"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "PRIMARY CENSUS ABSTRACT": "CENSUS ABSTRACT\nDrass"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "PRIMARY CENSUS ABSTRACT": "of marginal workers\nLocation\nHousehold industry workers Other workers Non-workers code\nPersons Males Females Persons Males Females Persons Males Females Name of Village number"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "PRIMARY CENSUS ABSTRACT": "50 51 52 53 54 55 56 57 58 2 1"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "DISTRICT CENSUS HANDBOOK : KARGIL": "VILLAGE PRIMARY\nC D Block -"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "DISTRICT CENSUS HANDBOOK : KARGIL": "Total population (including\nLocation Area of institutional and houseless\ncode Village in Number of population) Population in the age-group 0-6\nnumber Name of Village hectares households Persons Males Females Persons Males Females"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "DISTRICT CENSUS HANDBOOK : KARGIL": "1 2 3 4 5 6 7 8 9 10"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "PRIMARY CENSUS ABSTRACT": "CENSUS ABSTRACT\nKargil"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "PRIMARY CENSUS ABSTRACT": "Scheduled Castes population Scheduled Tribes population Literates\nPersons Males Females Persons Males Females Persons Males Females Name of Village"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "PRIMARY CENSUS ABSTRACT": "11 12 13 14 15 16 17 18 19 2"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "DISTRICT CENSUS HANDBOOK : KARGIL": "VILLAGE PRIMARY\nC D Block -"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "DISTRICT CENSUS HANDBOOK : KARGIL": "Location\ncode Illiterates Total workers Main workers\nnumber Name of Village Persons Males Females Persons Males Females Persons Males Females"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "DISTRICT CENSUS HANDBOOK : KARGIL": "1 2 20 21 22 23 24 25 26 27 28"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "PRIMARY CENSUS ABSTRACT": "CENSUS ABSTRACT\nKargil"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "PRIMARY CENSUS ABSTRACT": "Industrial category of main workers\nHousehold industry\nCultivators Agricultural labourers workers Other workers\nPersons Males Females Persons Males Females PersonsMalesFemales Persons Males Females Name of Village"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "PRIMARY CENSUS ABSTRACT": "29 30 31 32 33 34 35 36 37 38 39 40 2"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "DISTRICT CENSUS HANDBOOK : KARGIL": "VILLAGE PRIMARY\nC D Block -"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "DISTRICT CENSUS HANDBOOK : KARGIL": "Industrial category\nLocation\ncode Marginal workers Cultivators Agricultural labourers\nnumber Name of Village Persons Males Females Persons Males Females Persons Males Females"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "DISTRICT CENSUS HANDBOOK : KARGIL": "1 2 41 42 43 44 45 46 47 48 49"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "PRIMARY CENSUS ABSTRACT": "CENSUS ABSTRACT\nKargil"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "PRIMARY CENSUS ABSTRACT": "of marginal workers\nLocation\nHousehold industry workers Other workers Non-workers code\nPersons Males Females Persons Males Females Persons Males Females Name of Village number"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "PRIMARY CENSUS ABSTRACT": "50 51 52 53 54 55 56 57 58 2 1"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "DISTRICT CENSUS HANDBOOK : KARGIL": "VILLAGE PRIMARY\nC D Block -"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "DISTRICT CENSUS HANDBOOK : KARGIL": "Total population (including\nLocation Area of institutional and houseless\ncode Village in Number of population) Population in the age-group 0-6\nnumber Name of Village hectares households Persons Males Females Persons Males Females"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "DISTRICT CENSUS HANDBOOK : KARGIL": "1 2 3 4 5 6 7 8 9 10"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "PRIMARY CENSUS ABSTRACT": "CENSUS ABSTRACT\nShakar Chiktan"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "PRIMARY CENSUS ABSTRACT": "Scheduled Castes population Scheduled Tribes population Literates\nPersons Males Females Persons Males Females Persons Males Females Name of Village"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "PRIMARY CENSUS ABSTRACT": "11 12 13 14 15 16 17 18 19 2"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "DISTRICT CENSUS HANDBOOK : KARGIL": "VILLAGE PRIMARY\nC D Block -"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "DISTRICT CENSUS HANDBOOK : KARGIL": "Location\ncode Illiterates Total workers Main workers\nnumber Name of Village Persons Males Females Persons Males Females Persons Males Females"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "DISTRICT CENSUS HANDBOOK : KARGIL": "1 2 20 21 22 23 24 25 26 27 28"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "PRIMARY CENSUS ABSTRACT": "CENSUS ABSTRACT\nShakar Chiktan"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "PRIMARY CENSUS ABSTRACT": "Industrial category of main workers\nHousehold industry\nCultivators Agricultural labourers workers Other workers\nPersons Males Females Persons Males Females PersonsMalesFemales Persons Males Females Name of Village"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "PRIMARY CENSUS ABSTRACT": "29 30 31 32 33 34 35 36 37 38 39 40 2"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "DISTRICT CENSUS HANDBOOK : KARGIL": "VILLAGE PRIMARY\nC D Block -"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "DISTRICT CENSUS HANDBOOK : KARGIL": "Industrial category\nLocation\ncode Marginal workers Cultivators Agricultural labourers\nnumber Name of Village Persons Males Females Persons Males Females Persons Males Females"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "DISTRICT CENSUS HANDBOOK : KARGIL": "1 2 41 42 43 44 45 46 47 48 49"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "PRIMARY CENSUS ABSTRACT": "CENSUS ABSTRACT\nShakar Chiktan"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "PRIMARY CENSUS ABSTRACT": "of marginal workers\nLocation\nHousehold industry workers Other workers Non-workers code\nPersons Males Females Persons Males Females Persons Males Females Name of Village number"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "PRIMARY CENSUS ABSTRACT": "50 51 52 53 54 55 56 57 58 2 1"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "DISTRICT CENSUS HANDBOOK : KARGIL": "VILLAGE PRIMARY\nC D Block -"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "DISTRICT CENSUS HANDBOOK : KARGIL": "Total population (including\nLocation Area of institutional and houseless\ncode Village in Number of population) Population in the age-group 0-6\nnumber Name of Village hectares households Persons Males Females Persons Males Females"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "DISTRICT CENSUS HANDBOOK : KARGIL": "1 2 3 4 5 6 7 8 9 10"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "PRIMARY CENSUS ABSTRACT": "CENSUS ABSTRACT\nShargole"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "PRIMARY CENSUS ABSTRACT": "Scheduled Castes population Scheduled Tribes population Literates\nPersons Males Females Persons Males Females Persons Males Females Name of Village"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "PRIMARY CENSUS ABSTRACT": "11 12 13 14 15 16 17 18 19 2"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "DISTRICT CENSUS HANDBOOK : KARGIL": "VILLAGE PRIMARY\nC D Block -"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "DISTRICT CENSUS HANDBOOK : KARGIL": "Location\ncode Illiterates Total workers Main workers\nnumber Name of Village Persons Males Females Persons Males Females Persons Males Females"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "DISTRICT CENSUS HANDBOOK : KARGIL": "1 2 20 21 22 23 24 25 26 27 28"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "PRIMARY CENSUS ABSTRACT": "CENSUS ABSTRACT\nShargole"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "PRIMARY CENSUS ABSTRACT": "Industrial category of main workers\nHousehold industry\nCultivators Agricultural labourers workers Other workers\nPersons Males Females Persons Males Females PersonsMalesFemales Persons Males Females Name of Village"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "PRIMARY CENSUS ABSTRACT": "29 30 31 32 33 34 35 36 37 38 39 40 2"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "DISTRICT CENSUS HANDBOOK : KARGIL": "VILLAGE PRIMARY\nC D Block -"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "DISTRICT CENSUS HANDBOOK : KARGIL": "Industrial category\nLocation\ncode Marginal workers Cultivators Agricultural labourers\nnumber Name of Village Persons Males Females Persons Males Females Persons Males Females"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "DISTRICT CENSUS HANDBOOK : KARGIL": "1 2 41 42 43 44 45 46 47 48 49"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "PRIMARY CENSUS ABSTRACT": "CENSUS ABSTRACT\nShargole"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "PRIMARY CENSUS ABSTRACT": "of marginal workers\nLocation\nHousehold industry workers Other workers Non-workers code\nPersons Males Females Persons Males Females Persons Males Females Name of Village number"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "PRIMARY CENSUS ABSTRACT": "50 51 52 53 54 55 56 57 58 2 1"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "DISTRICT CENSUS HANDBOOK : KARGIL": "VILLAGE PRIMARY\nC D Block -"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "DISTRICT CENSUS HANDBOOK : KARGIL": "Total population (including\nLocation Area of institutional and houseless\ncode Village in Number of population) Population in the age-group 0-6\nnumber Name of Village hectares households Persons Males Females Persons Males Females"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "DISTRICT CENSUS HANDBOOK : KARGIL": "1 2 3 4 5 6 7 8 9 10"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "PRIMARY CENSUS ABSTRACT": "CENSUS ABSTRACT\nZanskar"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "PRIMARY CENSUS ABSTRACT": "Scheduled Castes population Scheduled Tribes population Literates\nPersons Males Females Persons Males Females Persons Males Females Name of Village"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "PRIMARY CENSUS ABSTRACT": "11 12 13 14 15 16 17 18 19 2"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "DISTRICT CENSUS HANDBOOK : KARGIL": "VILLAGE PRIMARY\nC D Block -"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "DISTRICT CENSUS HANDBOOK : KARGIL": "Location\ncode Illiterates Total workers Main workers\nnumber Name of Village Persons Males Females Persons Males Females Persons Males Females"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "DISTRICT CENSUS HANDBOOK : KARGIL": "1 2 20 21 22 23 24 25 26 27 28"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "PRIMARY CENSUS ABSTRACT": "CENSUS ABSTRACT\nZanskar"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "PRIMARY CENSUS ABSTRACT": "Industrial category of main workers\nHousehold industry\nCultivators Agricultural labourers workers Other workers\nPersons Males Females Persons Males Females PersonsMalesFemales Persons Males Females Name of Village"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "PRIMARY CENSUS ABSTRACT": "29 30 31 32 33 34 35 36 37 38 39 40 2"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "DISTRICT CENSUS HANDBOOK : KARGIL": "VILLAGE PRIMARY\nC D Block -"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "DISTRICT CENSUS HANDBOOK : KARGIL": "Industrial category\nLocation\ncode Marginal workers Cultivators Agricultural labourers\nnumber Name of Village Persons Males Females Persons Males Females Persons Males Females"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "DISTRICT CENSUS HANDBOOK : KARGIL": "1 2 41 42 43 44 45 46 47 48 49"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "PRIMARY CENSUS ABSTRACT": "CENSUS ABSTRACT\nZanskar"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "PRIMARY CENSUS ABSTRACT": "of marginal workers\nLocation\nHousehold industry workers Other workers Non-workers code\nPersons Males Females Persons Males Females Persons Males Females Name of Village number"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "PRIMARY CENSUS ABSTRACT": "50 51 52 53 54 55 56 57 58 2 1"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "DISTRICT CENSUS HANDBOOK : KARGIL": "VILLAGE PRIMARY\nC D Block -"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "DISTRICT CENSUS HANDBOOK : KARGIL": "Total population (including\nLocation Area of institutional and houseless\ncode Village in Number of population) Population in the age-group 0-6\nnumber Name of Village hectares households Persons Males Females Persons Males Females"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "DISTRICT CENSUS HANDBOOK : KARGIL": "1 2 3 4 5 6 7 8 9 10"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "PRIMARY CENSUS ABSTRACT": "CENSUS ABSTRACT\nLungnak"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "PRIMARY CENSUS ABSTRACT": "Scheduled Castes population Scheduled Tribes population Literates\nPersons Males Females Persons Males Females Persons Males Females Name of Village"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "PRIMARY CENSUS ABSTRACT": "11 12 13 14 15 16 17 18 19 2"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "DISTRICT CENSUS HANDBOOK : KARGIL": "VILLAGE PRIMARY\nC D Block -"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "DISTRICT CENSUS HANDBOOK : KARGIL": "Location\ncode Illiterates Total workers Main workers\nnumber Name of Village Persons Males Females Persons Males Females Persons Males Females"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "DISTRICT CENSUS HANDBOOK : KARGIL": "1 2 20 21 22 23 24 25 26 27 28"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "PRIMARY CENSUS ABSTRACT": "CENSUS ABSTRACT\nLungnak"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "PRIMARY CENSUS ABSTRACT": "Industrial category of main workers\nHousehold industry\nCultivators Agricultural labourers workers Other workers\nPersons Males Females Persons Males Females PersonsMalesFemales Persons Males Females Name of Village"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "PRIMARY CENSUS ABSTRACT": "29 30 31 32 33 34 35 36 37 38 39 40 2"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "DISTRICT CENSUS HANDBOOK : KARGIL": "VILLAGE PRIMARY\nC D Block -"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "DISTRICT CENSUS HANDBOOK : KARGIL": "Industrial category\nLocation\ncode Marginal workers Cultivators Agricultural labourers\nnumber Name of Village Persons Males Females Persons Males Females Persons Males Females"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "DISTRICT CENSUS HANDBOOK : KARGIL": "1 2 41 42 43 44 45 46 47 48 49"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "PRIMARY CENSUS ABSTRACT": "CENSUS ABSTRACT\nLungnak"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "PRIMARY CENSUS ABSTRACT": "of marginal workers\nLocation\nHousehold industry workers Other workers Non-workers code\nPersons Males Females Persons Males Females Persons Males Females Name of Village number"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "PRIMARY CENSUS ABSTRACT": "50 51 52 53 54 55 56 57 58 2 1"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "DISTRICT CENSUS HANDBOOK : KARGIL": "VILLAGE PRIMARY\nC D Block -"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "DISTRICT CENSUS HANDBOOK : KARGIL": "Total population (including\nLocation Area of institutional and houseless\ncode Village in Number of population) Population in the age-group 0-6\nnumber Name of Village hectares households Persons Males Females Persons Males Females"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "DISTRICT CENSUS HANDBOOK : KARGIL": "1 2 3 4 5 6 7 8 9 10"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "PRIMARY CENSUS ABSTRACT": "CENSUS ABSTRACT\nSankoo"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "PRIMARY CENSUS ABSTRACT": "Scheduled Castes population Scheduled Tribes population Literates\nPersons Males Females Persons Males Females Persons Males Females Name of Village"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "PRIMARY CENSUS ABSTRACT": "11 12 13 14 15 16 17 18 19 2"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "DISTRICT CENSUS HANDBOOK : KARGIL": "VILLAGE PRIMARY\nC D Block -"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "DISTRICT CENSUS HANDBOOK : KARGIL": "Location\ncode Illiterates Total workers Main workers\nnumber Name of Village Persons Males Females Persons Males Females Persons Males Females"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "DISTRICT CENSUS HANDBOOK : KARGIL": "1 2 20 21 22 23 24 25 26 27 28"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "PRIMARY CENSUS ABSTRACT": "CENSUS ABSTRACT\nSankoo"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "PRIMARY CENSUS ABSTRACT": "Industrial category of main workers\nHousehold industry\nCultivators Agricultural labourers workers Other workers\nPersons Males Females Persons Males Females PersonsMalesFemales Persons Males Females Name of Village"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "PRIMARY CENSUS ABSTRACT": "29 30 31 32 33 34 35 36 37 38 39 40 2"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "DISTRICT CENSUS HANDBOOK : KARGIL": "VILLAGE PRIMARY\nC D Block -"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "DISTRICT CENSUS HANDBOOK : KARGIL": "Industrial category\nLocation\ncode Marginal workers Cultivators Agricultural labourers\nnumber Name of Village Persons Males Females Persons Males Females Persons Males Females"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "DISTRICT CENSUS HANDBOOK : KARGIL": "1 2 41 42 43 44 45 46 47 48 49"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "PRIMARY CENSUS ABSTRACT": "CENSUS ABSTRACT\nSankoo"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "PRIMARY CENSUS ABSTRACT": "of marginal workers\nLocation\nHousehold industry workers Other workers Non-workers code\nPersons Males Females Persons Males Females Persons Males Females Name of Village number"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "PRIMARY CENSUS ABSTRACT": "50 51 52 53 54 55 56 57 58 2 1"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "DISTRICT CENSUS HANDBOOK : KARGIL": "VILLAGE PRIMARY\nC D Block -"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "DISTRICT CENSUS HANDBOOK : KARGIL": "Total population (including\nLocation Area of institutional and houseless\ncode Village in Number of population) Population in the age-group 0-6\nnumber Name of Village hectares households Persons Males Females Persons Males Females"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "DISTRICT CENSUS HANDBOOK : KARGIL": "1 2 3 4 5 6 7 8 9 10"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "PRIMARY CENSUS ABSTRACT": "CENSUS ABSTRACT\nTaifsuru"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "PRIMARY CENSUS ABSTRACT": "Scheduled Castes population Scheduled Tribes population Literates\nPersons Males Females Persons Males Females Persons Males Females Name of Village"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "PRIMARY CENSUS ABSTRACT": "11 12 13 14 15 16 17 18 19 2"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "DISTRICT CENSUS HANDBOOK : KARGIL": "VILLAGE PRIMARY\nC D Block -"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "DISTRICT CENSUS HANDBOOK : KARGIL": "Location\ncode Illiterates Total workers Main workers\nnumber Name of Village Persons Males Females Persons Males Females Persons Males Females"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "DISTRICT CENSUS HANDBOOK : KARGIL": "1 2 20 21 22 23 24 25 26 27 28"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "PRIMARY CENSUS ABSTRACT": "CENSUS ABSTRACT\nTaifsuru"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "PRIMARY CENSUS ABSTRACT": "Industrial category of main workers\nHousehold industry\nCultivators Agricultural labourers workers Other workers\nPersons Males Females Persons Males Females PersonsMalesFemales Persons Males Females Name of Village"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "PRIMARY CENSUS ABSTRACT": "29 30 31 32 33 34 35 36 37 38 39 40 2"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "DISTRICT CENSUS HANDBOOK : KARGIL": "VILLAGE PRIMARY\nC D Block -"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "DISTRICT CENSUS HANDBOOK : KARGIL": "Industrial category\nLocation\ncode Marginal workers Cultivators Agricultural labourers\nnumber Name of Village Persons Males Females Persons Males Females Persons Males Females"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "DISTRICT CENSUS HANDBOOK : KARGIL": "1 2 41 42 43 44 45 46 47 48 49"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "PRIMARY CENSUS ABSTRACT": "CENSUS ABSTRACT\nTaifsuru"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "PRIMARY CENSUS ABSTRACT": "of marginal workers\nLocation\nHousehold industry workers Other workers Non-workers code\nPersons Males Females Persons Males Females Persons Males Females Name of Village number"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "PRIMARY CENSUS ABSTRACT": "50 51 52 53 54 55 56 57 58 2 1"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "DISTRICT CENSUS HANDBOOK : KARGIL": "VILLAGE PRIMARY\nC D Block -"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "DISTRICT CENSUS HANDBOOK : KARGIL": "Total population (including\nLocation Area of institutional and houseless\ncode Village in Number of population) Population in the age-group 0-6\nnumber Name of Village hectares households Persons Males Females Persons Males Females"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "DISTRICT CENSUS HANDBOOK : KARGIL": "1 2 3 4 5 6 7 8 9 10"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "PRIMARY CENSUS ABSTRACT": "CENSUS ABSTRACT\nGundmagalpur Trespore"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "PRIMARY CENSUS ABSTRACT": "Scheduled Castes population Scheduled Tribes population Literates\nPersons Males Females Persons Males Females Persons Males Females Name of Village"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "PRIMARY CENSUS ABSTRACT": "11 12 13 14 15 16 17 18 19 2"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "DISTRICT CENSUS HANDBOOK : KARGIL": "VILLAGE PRIMARY\nC D Block -"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "DISTRICT CENSUS HANDBOOK : KARGIL": "Location\ncode Illiterates Total workers Main workers\nnumber Name of Village Persons Males Females Persons Males Females Persons Males Females"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "DISTRICT CENSUS HANDBOOK : KARGIL": "1 2 20 21 22 23 24 25 26 27 28"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "PRIMARY CENSUS ABSTRACT": "CENSUS ABSTRACT\nGundmagalpur Trespore"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "PRIMARY CENSUS ABSTRACT": "Industrial category of main workers\nHousehold industry\nCultivators Agricultural labourers workers Other workers\nPersons Males Females Persons Males Females PersonsMalesFemales Persons Males Females Name of Village"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "PRIMARY CENSUS ABSTRACT": "29 30 31 32 33 34 35 36 37 38 39 40 2"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "DISTRICT CENSUS HANDBOOK : KARGIL": "VILLAGE PRIMARY\nC D Block -"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "DISTRICT CENSUS HANDBOOK : KARGIL": "Industrial category\nLocation\ncode Marginal workers Cultivators Agricultural labourers\nnumber Name of Village Persons Males Females Persons Males Females Persons Males Females"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "DISTRICT CENSUS HANDBOOK : KARGIL": "1 2 41 42 43 44 45 46 47 48 49"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "PRIMARY CENSUS ABSTRACT": "CENSUS ABSTRACT\nGundmagalpur Trespore"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "PRIMARY CENSUS ABSTRACT": "of marginal workers\nLocation\nHousehold industry workers Other workers Non-workers code\nPersons Males Females Persons Males Females Persons Males Females Name of Village number"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "PRIMARY CENSUS ABSTRACT": "50 51 52 53 54 55 56 57 58 2 1"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "DISTRICT CENSUS HANDBOOK : KARGIL": "URBAN PRIMARY"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "DISTRICT CENSUS HANDBOOK : KARGIL": "Area in Total population (including\nLocation Square institutional and houseless\ncode Kilometr Number of population) Population in the age-group 0-6\nnumber Name of Town/ Ward e households Persons Males Females Persons Males Females"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "DISTRICT CENSUS HANDBOOK : KARGIL": "1 2 3 4 5 6 7 8 9 10"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "PRIMARY CENSUS ABSTRACT": "CENSUS ABSTRACT"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "PRIMARY CENSUS ABSTRACT": "Scheduled Castes population Scheduled Tribes population Literates\nPersons Males Females Persons Males Females Persons Males Females Name of Town/ Ward"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "PRIMARY CENSUS ABSTRACT": "11 12 13 14 15 16 17 18 19 2"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "DISTRICT CENSUS HANDBOOK : KARGIL": "URBAN PRIMARY"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "DISTRICT CENSUS HANDBOOK : KARGIL": "Location\ncode Illiterates Total workers Main workers\nnumber Name of Town/ Ward Persons Males Females Persons Males Females Persons Males Females"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "DISTRICT CENSUS HANDBOOK : KARGIL": "1 2 20 21 22 23 24 25 26 27 28"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "PRIMARY CENSUS ABSTRACT": "CENSUS ABSTRACT"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "PRIMARY CENSUS ABSTRACT": "Industrial category of main workers\nHousehold industry\nCultivators Agricultural labourers workers Other workers\nPersons Males Females Persons Males Females Persons Males Females Persons Males Females Name of Town/ Ward"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "PRIMARY CENSUS ABSTRACT": "29 30 31 32 33 34 35 36 37 38 39 40 2"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "DISTRICT CENSUS HANDBOOK : KARGIL": "URBAN PRIMARY"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "DISTRICT CENSUS HANDBOOK : KARGIL": "Industrial category\nLocation\ncode Marginal workers Cultivators Agricultural labourers\nnumber Name of Town/ Ward Persons Males Females Persons Males Females Persons Males Females"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "DISTRICT CENSUS HANDBOOK : KARGIL": "1 2 41 42 43 44 45 46 47 48 49"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "PRIMARY CENSUS ABSTRACT": "CENSUS ABSTRACT"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "PRIMARY CENSUS ABSTRACT": "of marginal workers\nLocation\nHousehold industry workers Other workers Non-workers code\nPersons Males Females Persons Males Females Persons Males Females Name of Town/ Ward number"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "PRIMARY CENSUS ABSTRACT": "50 51 52 53 54 55 56 57 58 2 1"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "Table -1: Households by Ownership Status and by Number of Dwelling rooms occupied in the District, 2011": "Name of\ndistrict",
+      "null": null
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "Table -1: Households by Ownership Status and by Number of Dwelling rooms occupied in the District, 2011": null,
+      "null": null
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "Table -1: Households by Ownership Status and by Number of Dwelling rooms occupied in the District, 2011": null,
+      "null": "Urban"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "Table -1: Households by Ownership Status and by Number of Dwelling rooms occupied in the District, 2011": "1",
+      "null": "12"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "null": "District -",
+      "3+ rooms 9 6 3 1 1 - 7 5 2": null
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "null": "Kargil One room 3,204 2,198 1,006 58 47 11 2,952 2,102 850",
+      "3+ rooms 9 6 3 1 1 - 7 5 2": null
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "null": "(01004)",
+      "3+ rooms 9 6 3 1 1 - 7 5 2": null
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "null": "Three rooms 3,881 3,554 327 19 17 2 3,846 3,525 321",
+      "3+ rooms 9 6 3 1 1 - 7 5 2": null
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "null": "",
+      "3+ rooms 9 6 3 1 1 - 7 5 2": null
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "Table - 2 : Percentage distribution of Households living in Permanent,": "Sl. No.",
+      "null": ""
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "Table - 2 : Percentage distribution of Households living in Permanent,": null,
+      "null": "Permanent"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "Table - 2 : Percentage distribution of Households living in Permanent,": "1",
+      "null": "6"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "Semi permanent and Temporary Houses , 2011": "Rural",
+      "null": "Name of Sub-District"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "Semi permanent and Temporary Houses , 2011": "Semi permanent",
+      "null": null
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "Semi permanent and Temporary Houses , 2011": "7",
+      "null": "2"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "Table -3 : Number and Percentage of Households": "Sl.\nNo.",
+      "null": null
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "Table -3 : Number and Percentage of Households": null,
+      "null": "Un-covered well"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "Table -3 : Number and Percentage of Households": "1",
+      "null": "8"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "Sub-District - Sanku Total 4,935 347 (7.03%) 3,704 (75.06%) 11 (0.22%) 0 (0%)": "(0100400014)"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "Sub-District - Sanku Total 4,935 347 (7.03%) 3,704 (75.06%) 11 (0.22%) 0 (0%)": "Urban 0 (0%) 0 (0%) 0 (0%) 0 (0%) 0 (0%)"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "District - Kargil (01004) Total 18,212 1,934 (10.62%) 8,835 (48.51%) 85 (0.47%) 1 (0.01%)": ""
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "District - Kargil (01004) Total 18,212 1,934 (10.62%) 8,835 (48.51%) 85 (0.47%) 1 (0.01%)": "Urban 2,770 630 (22.74%) 685 (24.73%) 7 (0.25%) 1 (0.04%)"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "by main source of Drinking water, 2011.": "having following source of drinking water",
+      "null": "Name of Sub-District"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "by main source of Drinking water, 2011.": "Handpump",
+      "null": null
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "by main source of Drinking water, 2011.": "9",
+      "null": "2"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "485 (9.83%) 2 (0.04%) 32 (0.65%) 273 (5.53%) 2 (0.04%) 79 (1.6%) Total Sub-District - Sanku": null,
+      "null": "(0100400014)"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "485 (9.83%) 2 (0.04%) 32 (0.65%) 273 (5.53%) 2 (0.04%) 79 (1.6%) Total Sub-District - Sanku": "0 (0%) 0 (0%) 0 (0%) 0 (0%) 0 (0%) 0 (0%) Urban",
+      "null": null
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "3,270 (17.96%) 19 (0.1%) 323 (1.77%) 2,641 (14.5%) 197 (1.08%) 907 (4.98%) Total District - Kargil (01004)": null,
+      "null": ""
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "3,270 (17.96%) 19 (0.1%) 323 (1.77%) 2,641 (14.5%) 197 (1.08%) 907 (4.98%) Total District - Kargil (01004)": "1,078 (38.92%) 5 (0.18%) 0 (0%) 41 (1.48%) 27 (0.97%) 296 (10.69%) Urban",
+      "null": null
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "Table- 4 : Number and Percentage of Households": "Sl.\nNo.",
+      "null": null
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "Table- 4 : Number and Percentage of Households": null,
+      "null": "Solar"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "Table- 4 : Number and Percentage of Households": "1",
+      "null": "7"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "Sub-District - Sanku (0100400014) Total 4,935 4,264 (86.4%) 224 (4.54%) 414 (8.39%)": ""
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "Sub-District - Sanku (0100400014) Total 4,935 4,264 (86.4%) 224 (4.54%) 414 (8.39%)": "Urban 0 (0%) 0 (0%) 0 (0%) 0 (0%)"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "District - Kargil (01004) Total 18,212 15,824 (86.89%) 525 (2.88%) 1,811 (9.94%)": ""
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "District - Kargil (01004) Total 18,212 15,824 (86.89%) 525 (2.88%) 1,811 (9.94%)": "Urban 2,770 2,756 (99.49%) 11 (0.4%) 1 (0.04%)"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "by main source of Lighting, 2011.": "having following main source of lighting",
+      "null": "Name of Sub-District"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "by main source of Lighting, 2011.": "Other oil",
+      "null": null
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "by main source of Lighting, 2011.": "8",
+      "null": "2"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "6 (0.12%) 3 (0.06%) 24 (0.49%) Total Sub-District - Sanku (0100400014)": null,
+      "null": ""
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "6 (0.12%) 3 (0.06%) 24 (0.49%) Total Sub-District - Sanku (0100400014)": "0 (0%) 0 (0%) 0 (0%) Urban",
+      "null": null
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "10 (0.05%) 8 (0.04%) 34 (0.19%) Total District - Kargil (01004)": null,
+      "null": ""
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "10 (0.05%) 8 (0.04%) 34 (0.19%) Total District - Kargil (01004)": "2 (0.07%) 0 (0%) 0 (0%) Urban",
+      "null": null
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "Table -5 : Number and Percentage of Households": "Sl.\nNo.",
+      "null": null
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "Table -5 : Number and Percentage of Households": null,
+      "null": "Pit"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "Table -5 : Number and Percentage of Households": null,
+      "null": "With\nslab/Ventilated\nimproved pit"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "Table -5 : Number and Percentage of Households": "1",
+      "null": "8"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "Sub-District - Sanku Total 4,935 59 (1.2%) 57 (1.16%) 3,081 (62.43%) 3 (0.06%)": "(0100400014)"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "Sub-District - Sanku Total 4,935 59 (1.2%) 57 (1.16%) 3,081 (62.43%) 3 (0.06%)": "Urban 0 (0%) 0 (0%) 0 (0%) 0 (0%) 0 (0%)"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "District - Kargil (01004) Total 18,212 506 (2.78%) 1,097 (6.02%) 9,610 (52.77%) 167 (0.92%)": ""
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "District - Kargil (01004) Total 18,212 506 (2.78%) 1,097 (6.02%) 9,610 (52.77%) 167 (0.92%)": "Urban 2,770 298 (10.76%) 879 (31.73%) 1,444 (52.13%) 5 (0.18%)"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "by type of Latrine facility, 2011": "having following type of latrine facility",
+      "null": "Name of Sub-District"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "by type of Latrine facility, 2011": "Latrine",
+      "null": null
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "by type of Latrine facility, 2011": "Without\nslab/open pit",
+      "null": null
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "by type of Latrine facility, 2011": "9",
+      "null": "2"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "4 (0.08%) 0 (0%) 1,626 (32.95%) 2 (0.04%) 19 (0.39%) 84 (1.7%) Total Sub-District - Sanku": null,
+      "null": "(0100400014)"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "4 (0.08%) 0 (0%) 1,626 (32.95%) 2 (0.04%) 19 (0.39%) 84 (1.7%) Total Sub-District - Sanku": "0 (0%) 0 (0%) 0 (0%) 0 (0%) 0 (0%) 0 (0%) Urban",
+      "null": null
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "1,537 (8.44%) 37 (0.2%) 4,639 (25.47%) 56 (0.31%) 81 (0.44%) 482 (2.65%) Total District - Kargil (01004)": null,
+      "null": ""
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "1,537 (8.44%) 37 (0.2%) 4,639 (25.47%) 56 (0.31%) 81 (0.44%) 482 (2.65%) Total District - Kargil (01004)": "1 (0.04%) 1 (0.04%) 50 (1.81%) 22 (0.79%) 4 (0.14%) 66 (2.38%) Urban",
+      "null": null
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "Table -6 : Number and Percentage of Households by type of Drainage connectivity for waste water outlet , 2011": "Sl. No.",
+      "null": null
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "Table -6 : Number and Percentage of Households by type of Drainage connectivity for waste water outlet , 2011": null,
+      "null": "No drainage"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "Table -6 : Number and Percentage of Households by type of Drainage connectivity for waste water outlet , 2011": "1",
+      "null": "7"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "Total 4,935 666 (13.5%) 1,242 (25.17%) 3,027 (61.34%)": "Sub-District - Sanku (0100400014)"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "Total 4,935 666 (13.5%) 1,242 (25.17%) 3,027 (61.34%)": "Urban 0 0 (0%) 0 (0%) 0 (0%)"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "Total 18,212 2,520 (13.84%) 3,507 (19.26%) 12,185 (66.91%)": "District - Kargil (01004)"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "Total 18,212 2,520 (13.84%) 3,507 (19.26%) 12,185 (66.91%)": "Urban 2,770 1,132 (40.87%) 482 (17.4%) 1,156 (41.73%)"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "Table -7 : Number and Percentage of Households by availablity of Kitchen facility, 2011": "Sl.\nNo.",
+      "null": null
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "Table -7 : Number and Percentage of Households by availablity of Kitchen facility, 2011": null,
+      "null": "No cooking"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "Table -7 : Number and Percentage of Households by availablity of Kitchen facility, 2011": null,
+      "null": null
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "Table -7 : Number and Percentage of Households by availablity of Kitchen facility, 2011": "1",
+      "null": "9"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "Sub-District - Sanku Total 4,935 4,514 (91.47%) 305 (6.18%) 29 (0.59%) 85 (1.72%) 2 (0.04%)": "(0100400014)"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "Sub-District - Sanku Total 4,935 4,514 (91.47%) 305 (6.18%) 29 (0.59%) 85 (1.72%) 2 (0.04%)": "Urban 0 0 (0%) 0 (0%) 0 (0%) 0 (0%) 0 (0%)"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "District - Kargil Total 18,212 15,928 (87.46%) 1,823 (10.01%) 153 (0.84%) 295 (1.62%) 13 (0.07%)": "(01004)"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "District - Kargil Total 18,212 15,928 (87.46%) 1,823 (10.01%) 153 (0.84%) 295 (1.62%) 13 (0.07%)": "Urban 2,770 2,190 (79.06%) 493 (17.8%) 68 (2.45%) 14 (0.51%) 5 (0.18%)"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "Table -8 : Number and Percentage of Households": "Sl.\nNo.",
+      "null": null
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "Table -8 : Number and Percentage of Households": null,
+      "null": "Coal/ lignite/\ncharcoal"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "Table -8 : Number and Percentage of Households": "1",
+      "null": "8"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "Sub-District - Sanku (0100400014) Total 4,935 4,683 (94.89%) 46 (0.93%) 101 (2.05%) 1 (0.02%)": ""
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "Sub-District - Sanku (0100400014) Total 4,935 4,683 (94.89%) 46 (0.93%) 101 (2.05%) 1 (0.02%)": "Urban 0 0 (0%) 0 (0%) 0 (0%) 0 (0%)"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "District - Kargil (01004) Total 18,212 12,569 (69.01%) 143 (0.79%) 1,632 (8.96%) 3 (0.02%)": ""
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "District - Kargil (01004) Total 18,212 12,569 (69.01%) 143 (0.79%) 1,632 (8.96%) 3 (0.02%)": "Urban 2,770 863 (31.16%) 7 (0.25%) 4 (0.14%) 0 (0%)"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "by type of fuel used for Cooking, 2011": "availability of fuel used for cooking",
+      "null": "Name of Sub-District"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "by type of fuel used for Cooking, 2011": "Kerosene",
+      "null": null
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "by type of fuel used for Cooking, 2011": "9",
+      "null": "2"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "12 (0.24%) 88 (1.78%) 1 (0.02%) 1 (0.02%) 0 (0%) 2 (0.04%) Total Sub-District - Sanku": null,
+      "null": "(0100400014)"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "12 (0.24%) 88 (1.78%) 1 (0.02%) 1 (0.02%) 0 (0%) 2 (0.04%) Total Sub-District - Sanku": "0 (0%) 0 (0%) 0 (0%) 0 (0%) 0 (0%) 0 (0%) Urban",
+      "null": null
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "152 (0.83%) 3,285 (18.04%) 2 (0.01%) 37 (0.2%) 376 (2.06%) 13 (0.07%) Total District - Kargil (01004)": null,
+      "null": ""
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "152 (0.83%) 3,285 (18.04%) 2 (0.01%) 37 (0.2%) 376 (2.06%) 13 (0.07%) Total District - Kargil (01004)": "103 (3.72%) 1,785 (64.44%) 0 (0%) 3 (0.11%) 0 (0%) 5 (0.18%) Urban",
+      "null": null
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "Table -9 : Number and Percentage of Households availing Banking services and": "Sl.\nNo.",
+      "null": null
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "Table -9 : Number and Percentage of Households availing Banking services and": null,
+      "null": "Computer/ laptop-\nWithout Internet"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "Table -9 : Number and Percentage of Households availing Banking services and": "1",
+      "null": "9"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "Sub-District - Total 4,935 3,124 (63.3%) 2,062 (41.78%) 1,224 (24.8%) 19 (0.39%) 147 (2.98%)": "Sanku"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "Sub-District - Total 4,935 3,124 (63.3%) 2,062 (41.78%) 1,224 (24.8%) 19 (0.39%) 147 (2.98%)": "(0100400014)\nUrban 0 0 (0%) 0 (0%) 0 (0%) 0 (0%) 0 (0%)"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "District - Kargil Total 18,212 14,078 (77.3%) 10,895 (59.82%) 8,008 (43.97%) 235 (1.29%) 770 (4.23%)": "(01004)"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "District - Kargil Total 18,212 14,078 (77.3%) 10,895 (59.82%) 8,008 (43.97%) 235 (1.29%) 770 (4.23%)": "Urban 2,770 2,427 (87.62%) 1,848 (66.71%) 1,983 (71.59%) 96 (3.47%) 201 (7.26%)"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "number of Households having each of the specified assets in, 2011": "having each of the following specified assets",
+      "null": "Name of Sub-\nDistrict"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "number of Households having each of the specified assets in, 2011": "Land line\nTelephone",
+      "null": null
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "number of Households having each of the specified assets in, 2011": "10",
+      "null": "2"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "226 (4.58%) 1,426 (28.9%) 191 (3.87%) 80 (1.62%) 76 (1.54%) 192 (3.89%) 1,861 (37.71%)Total Sub-District -": null,
+      "null": "Sanku"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "226 (4.58%) 1,426 (28.9%) 191 (3.87%) 80 (1.62%) 76 (1.54%) 192 (3.89%) 1,861 (37.71%)Total Sub-District -": "(0100400014)\n0 (0%) 0 (0%) 0 (0%) 0 (0%) 0 (0%) 0 (0%) 0 (0%)Urban",
+      "null": null
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "899 (4.94%) 7,733 (42.46%) 1,930 (10.6%) 488 (2.68%) 652 (3.58%) 1,847 (10.14%) 3,538 (19.43%)Total District - Kargil": null,
+      "null": "(01004)"
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district",
+    "values": {
+      "899 (4.94%) 7,733 (42.46%) 1,930 (10.6%) 488 (2.68%) 652 (3.58%) 1,847 (10.14%) 3,538 (19.43%)Total District - Kargil": "51 (1.84%) 2,024 (73.07%) 383 (13.83%) 85 (3.07%) 86 (3.1%) 488 (17.62%) 130 (4.69%)Urban",
+      "null": null
+    },
+    "source": {
+      "pdf": "37ecd7aa44b7c063848052fdba409815.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "S.No": "1.",
+      "Activity": "House to House Enumeration",
+      "Period": "04.11.2025 (Tuesday)\nto 04.12.2025\n(Thursday)"
+    },
+    "source": {
+      "pdf": "d879d67fd004528142b37dcfd2430dfa.pdf",
+      "task": "sir_2002"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "S.No": "2.",
+      "Activity": "Publication of draft electoral roll",
+      "Period": "On 09.12.2025\n(Tuesday)"
+    },
+    "source": {
+      "pdf": "d879d67fd004528142b37dcfd2430dfa.pdf",
+      "task": "sir_2002"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "S.No": "3.",
+      "Activity": "Period of filing claims & objections",
+      "Period": "09.12.2025 (Tuesday)\nto 08.01.2026\n(Thursday)"
+    },
+    "source": {
+      "pdf": "d879d67fd004528142b37dcfd2430dfa.pdf",
+      "task": "sir_2002"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "S.No": "4.",
+      "Activity": "Notice Phase (Issuance, hearing &\nverification); decision on\nEnumeration Forms and disposal of\nclaims and objections to be done\nconcurrently by the EROs",
+      "Period": "09.12.2025 (Tuesday)\nto 31.01.2026\n(Saturday)"
+    },
+    "source": {
+      "pdf": "d879d67fd004528142b37dcfd2430dfa.pdf",
+      "task": "sir_2002"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "S.No": "5.",
+      "Activity": "Final Publication of Electoral Roll",
+      "Period": "On 07.02.2026\n(Saturday)"
+    },
+    "source": {
+      "pdf": "d879d67fd004528142b37dcfd2430dfa.pdf",
+      "task": "sir_2002"
+    },
+    "confidence": "low"
+  }
+]

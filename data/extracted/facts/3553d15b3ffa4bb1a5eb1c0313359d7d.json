@@ -1,0 +1,824 @@
+[
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Draft Publication": "Last date for filing Claims\nand Objections",
+      ":": ":",
+      "27.10.2023": "09.12.2023"
+    },
+    "source": {
+      "pdf": "f730a0464761683ff707d3c16db3f200.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Draft Publication": "Final publication of\nElectoral Roll",
+      ":": ":",
+      "27.10.2023": "22.01.2024"
+    },
+    "source": {
+      "pdf": "f730a0464761683ff707d3c16db3f200.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "": "Additions",
+      "Male": "6,17,623",
+      "Female": "7,43,803",
+      "Third\nGender": "462",
+      "Total": "13,61,888"
+    },
+    "source": {
+      "pdf": "f730a0464761683ff707d3c16db3f200.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "": "Deletions",
+      "Male": "2,89,818",
+      "Female": "3,12,737",
+      "Third\nGender": "182",
+      "Total": "6,02,737"
+    },
+    "source": {
+      "pdf": "f730a0464761683ff707d3c16db3f200.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "": "Modifications",
+      "Male": "1,64,487",
+      "Female": "1,59,343",
+      "Third\nGender": "167",
+      "Total": "3,23,997"
+    },
+    "source": {
+      "pdf": "f730a0464761683ff707d3c16db3f200.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "": "General\nElectors",
+      "Male": "3,03,96,330",
+      "Female": "3,14,85,724",
+      "Third\nGender": "8,294",
+      "Total": "6,18,90,348"
+    },
+    "source": {
+      "pdf": "f730a0464761683ff707d3c16db3f200.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "": "Service\nElectors",
+      "Male": "69,372",
+      "Female": "1,901",
+      "Third\nGender": "0",
+      "Total": "71,273"
+    },
+    "source": {
+      "pdf": "f730a0464761683ff707d3c16db3f200.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "": "Total",
+      "Male": "3,04,65,702",
+      "Female": "3,14,87,625",
+      "Third\nGender": "8,294",
+      "Total": "6,19,61,621"
+    },
+    "source": {
+      "pdf": "f730a0464761683ff707d3c16db3f200.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "": "Additions",
+      "Male": "2,02,076",
+      "Female": "2,12,267",
+      "Third Gender": "166",
+      "Total": "4,14,509"
+    },
+    "source": {
+      "pdf": "f730a0464761683ff707d3c16db3f200.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "": "Deletions",
+      "Male": "69,780",
+      "Female": "75,681",
+      "Third Gender": "35",
+      "Total": "1,45,496"
+    },
+    "source": {
+      "pdf": "f730a0464761683ff707d3c16db3f200.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "": "Modifications",
+      "Male": "1,68,257",
+      "Female": "1,56,707",
+      "Third Gender": "84",
+      "Total": "3,25,048"
+    },
+    "source": {
+      "pdf": "f730a0464761683ff707d3c16db3f200.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "": "General\nElectors",
+      "Male": "3,06,05,793",
+      "Female": "3,17,19,665",
+      "Third\nGender": "8,467",
+      "Total": "6,23,33,925"
+    },
+    "source": {
+      "pdf": "f730a0464761683ff707d3c16db3f200.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "": "Service\nElectors",
+      "Male": "69,115",
+      "Female": "1,907",
+      "Third\nGender": "0",
+      "Total": "71,022"
+    },
+    "source": {
+      "pdf": "f730a0464761683ff707d3c16db3f200.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "": "Total",
+      "Male": "3,06,74,908",
+      "Female": "3,17,21,572",
+      "Third\nGender": "8,467",
+      "Total": "6,24,04,947"
+    },
+    "source": {
+      "pdf": "f730a0464761683ff707d3c16db3f200.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "EVM\nModel": null,
+      "No. of\nPolling\nStations": null,
+      "No. of Machines used": "BU",
+      "null": "VVPAT"
+    },
+    "source": {
+      "pdf": "f730a0464761683ff707d3c16db3f200.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "EVM\nModel": "BEL M-3",
+      "No. of\nPolling\nStations": "68,321",
+      "No. of Machines used": "1,32,591",
+      "null": "68,321"
+    },
+    "source": {
+      "pdf": "f730a0464761683ff707d3c16db3f200.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "EVM\nModel": null,
+      "No. of\nPolling\nStations": null,
+      "No. of Machines used": "BU",
+      "null": "VVPAT"
+    },
+    "source": {
+      "pdf": "f730a0464761683ff707d3c16db3f200.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "EVM\nModel": "BEL M-3",
+      "No. of\nPolling\nStations": "272",
+      "No. of Machines used": "272",
+      "null": "272"
+    },
+    "source": {
+      "pdf": "f730a0464761683ff707d3c16db3f200.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Sl.\nNo.": "1.",
+      "Category": "Senior\nCitizens\n(85+)",
+      "No. of\nelectors\nin the\ncategory": "6,14,002",
+      "No. of\nForm\n12-D\nissued": "3,59,525",
+      "No. of\nForm\n12-D\nreceived\nBack\nfrom the\nElectors\n&\nAccepted\nby RO": "71,805",
+      "No. of\nPostal\nBallot\nIssued": "71,805",
+      "Total\nPostal\nBallot\nreceived\nfrom the\nAbsentee\nVoters": "67,165"
+    },
+    "source": {
+      "pdf": "f730a0464761683ff707d3c16db3f200.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Sl.\nNo.": "2.",
+      "Category": "Person\nwith\nDisability",
+      "No. of\nelectors\nin the\ncategory": "4,61,771",
+      "No. of\nForm\n12-D\nissued": "3,33,164",
+      "No. of\nForm\n12-D\nreceived\nBack\nfrom the\nElectors\n&\nAccepted\nby RO": "44,295",
+      "No. of\nPostal\nBallot\nIssued": "44,295",
+      "Total\nPostal\nBallot\nreceived\nfrom the\nAbsentee\nVoters": "41,639"
+    },
+    "source": {
+      "pdf": "f730a0464761683ff707d3c16db3f200.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Sl.\nNo.": "3.",
+      "Category": "Elector in\nEssential\nServices",
+      "No. of\nelectors\nin the\ncategory": "0",
+      "No. of\nForm\n12-D\nissued": "0",
+      "No. of\nForm\n12-D\nreceived\nBack\nfrom the\nElectors\n&\nAccepted\nby RO": "46",
+      "No. of\nPostal\nBallot\nIssued": "46",
+      "Total\nPostal\nBallot\nreceived\nfrom the\nAbsentee\nVoters": "45"
+    },
+    "source": {
+      "pdf": "f730a0464761683ff707d3c16db3f200.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Sl.\nNo.": "Total",
+      "Category": null,
+      "No. of\nelectors\nin the\ncategory": "10,75,773",
+      "No. of\nForm\n12-D\nissued": "6,92,689",
+      "No. of\nForm\n12-D\nreceived\nBack\nfrom the\nElectors\n&\nAccepted\nby RO": "1,16,146",
+      "No. of\nPostal\nBallot\nIssued": "1,16,146",
+      "Total\nPostal\nBallot\nreceived\nfrom the\nAbsentee\nVoters": "1,08,849"
+    },
+    "source": {
+      "pdf": "f730a0464761683ff707d3c16db3f200.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "During General Elections to Lok Sabha,": "2024, to bridge the gap of shortage of Police"
+    },
+    "source": {
+      "pdf": "f730a0464761683ff707d3c16db3f200.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "During General Elections to Lok Sabha,": "Force the services of 12220 Ex–Servicemen, 1931"
+    },
+    "source": {
+      "pdf": "f730a0464761683ff707d3c16db3f200.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "During General Elections to Lok Sabha,": "Retired Police Personnel were utilised for election"
+    },
+    "source": {
+      "pdf": "f730a0464761683ff707d3c16db3f200.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "During General Elections to Lok Sabha,": "bandobust duties during the period of 4 days from"
+    },
+    "source": {
+      "pdf": "f730a0464761683ff707d3c16db3f200.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "During General Elections to Lok Sabha,": "17.04.2024 to 20.04.2024."
+    },
+    "source": {
+      "pdf": "f730a0464761683ff707d3c16db3f200.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "During General Elections to Lok Sabha,": "vi) Observers"
+    },
+    "source": {
+      "pdf": "f730a0464761683ff707d3c16db3f200.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Sl.\nNo": "1",
+      "Category of\nPersonnel\ntrained": "State Level Masters Trainers (SLMTs) –",
+      "No. of\nPersonnel\ntrained &\nBatches": null,
+      "Training\nPeriod": null,
+      "Trained by": null
+    },
+    "source": {
+      "pdf": "f730a0464761683ff707d3c16db3f200.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Sl.\nNo": null,
+      "Category of\nPersonnel\ntrained": "Stage 1",
+      "No. of\nPersonnel\ntrained &\nBatches": "114/ 1 batch",
+      "Training\nPeriod": "16th June,\n2023",
+      "Trained by": "CEO office"
+    },
+    "source": {
+      "pdf": "f730a0464761683ff707d3c16db3f200.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "": null,
+      "Stage-2": "Stage-3",
+      "87/8 batches": "109/1 batch",
+      "19th June\nto 8th July,\n2023": "3rd\nAugust,\n2023",
+      "ECI": "CEO office"
+    },
+    "source": {
+      "pdf": "f730a0464761683ff707d3c16db3f200.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "": "2",
+      "Stage-2": "SLMT to NLMT",
+      "87/8 batches": "35/5 batches",
+      "19th June\nto 8th July,\n2023": "21st to\n26th\nAugust,\n2023",
+      "ECI": "ECI"
+    },
+    "source": {
+      "pdf": "f730a0464761683ff707d3c16db3f200.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "": "3",
+      "Stage-2": "Certification\nProgramme\nfor ROs/DEOs",
+      "87/8 batches": "43/5 batches",
+      "19th June\nto 8th July,\n2023": "5th\nDecember\nto 19th\nDecember,\n2023",
+      "ECI": "ECI"
+    },
+    "source": {
+      "pdf": "f730a0464761683ff707d3c16db3f200.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "": "4",
+      "Stage-2": "Certification\nprogramme\nfor AROs",
+      "87/8 batches": "468/5 batches",
+      "19th June\nto 8th July,\n2023": "2nd\nJanuary to\n9th\nFebruary,\n2024",
+      "ECI": "ECI"
+    },
+    "source": {
+      "pdf": "f730a0464761683ff707d3c16db3f200.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "": "5",
+      "Stage-2": "ALMTs",
+      "87/8 batches": "2252/District\nwise",
+      "19th June\nto 8th July,\n2023": "Last week\nof\nFebruary",
+      "ECI": "DEO"
+    },
+    "source": {
+      "pdf": "f730a0464761683ff707d3c16db3f200.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "": "6",
+      "Stage-2": "Sector officer",
+      "87/8 batches": "7224/District\nwise",
+      "19th June\nto 8th July,\n2023": "First week\nof March",
+      "ECI": "ROs / AROs"
+    },
+    "source": {
+      "pdf": "f730a0464761683ff707d3c16db3f200.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "": "7",
+      "Stage-2": "MCMC Teams",
+      "87/8 batches": "266/District\nwise",
+      "19th June\nto 8th July,\n2023": "Third\nweek of\nMarch",
+      "ECI": "DEO / RO"
+    },
+    "source": {
+      "pdf": "f730a0464761683ff707d3c16db3f200.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "": "8",
+      "Stage-2": "DDO/ADM",
+      "87/8 batches": "38/District\nwise",
+      "19th June\nto 8th July,\n2023": "1st week\nof March",
+      "ECI": "RO / DLMT"
+    },
+    "source": {
+      "pdf": "f730a0464761683ff707d3c16db3f200.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "": "9",
+      "Stage-2": "MCC/EEM",
+      "87/8 batches": "6084/District\nwise",
+      "19th June\nto 8th July,\n2023": "1st week\nof March",
+      "ECI": "RO /\nExpenditure\nNodal Officer"
+    },
+    "source": {
+      "pdf": "f730a0464761683ff707d3c16db3f200.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "": "10",
+      "Stage-2": "Videographers",
+      "87/8 batches": "1170/District\nwise",
+      "19th June\nto 8th July,\n2023": "2nd week\nof March",
+      "ECI": "ROs / AROs"
+    },
+    "source": {
+      "pdf": "f730a0464761683ff707d3c16db3f200.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "": "11",
+      "Stage-2": "Police Officers",
+      "87/8 batches": "7224/District\nwise",
+      "19th June\nto 8th July,\n2023": "1st week\nof March",
+      "ECI": "ROs / AROs"
+    },
+    "source": {
+      "pdf": "f730a0464761683ff707d3c16db3f200.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "12": "13",
+      "Booth Level\nOfficers": "IT Staff\n(District level)",
+      "68144/District\nwise": "911/District\nwise",
+      "2nd week\nof March": "2nd week\nof March",
+      "AROs": "Programmer/\nIT Nodal\nOfficer"
+    },
+    "source": {
+      "pdf": "f730a0464761683ff707d3c16db3f200.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "12": "14",
+      "Booth Level\nOfficers": "Polling parties",
+      "68144/District\nwise": "332233/District\nwise",
+      "2nd week\nof March": "3rd to 4th\nweek of\nMarch",
+      "AROs": "ALMTs /\nDLMTs/\nAROs"
+    },
+    "source": {
+      "pdf": "f730a0464761683ff707d3c16db3f200.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "12": "15",
+      "Booth Level\nOfficers": "Hands on EVM",
+      "68144/District\nwise": "136288/District\nwise",
+      "2nd week\nof March": "3rd week\nof March",
+      "AROs": "AROs"
+    },
+    "source": {
+      "pdf": "f730a0464761683ff707d3c16db3f200.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "12": "16",
+      "Booth Level\nOfficers": "Pre-counting\nModule in\nETPBMS",
+      "68144/District\nwise": "38/District\nwise",
+      "2nd week\nof March": "13th May\n2024",
+      "AROs": "ECI"
+    },
+    "source": {
+      "pdf": "f730a0464761683ff707d3c16db3f200.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "12": "17",
+      "Booth Level\nOfficers": "Counting Staff",
+      "68144/District\nwise": "9362/District\nwise",
+      "2nd week\nof March": "23 rd May\nto 25th\nMay,2024",
+      "AROs": "ROs / AROs"
+    },
+    "source": {
+      "pdf": "f730a0464761683ff707d3c16db3f200.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "12": "18",
+      "Booth Level\nOfficers": "Micro\nobservers",
+      "68144/District\nwise": "4524/District\nwise",
+      "2nd week\nof March": "24th May\nto 27th\nMAY,2024",
+      "AROs": "ROs /AROs"
+    },
+    "source": {
+      "pdf": "f730a0464761683ff707d3c16db3f200.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  }
+]

@@ -1,0 +1,100 @@
+[
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "“1. The present Convention is applicable, except as otherwise provided hereafter, to all": "migrant workers and members of their families without distinction of any kind such as"
+    },
+    "source": {
+      "pdf": "465996dbddd1fc5c6af70f27e2678e76.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "“1. The present Convention is applicable, except as otherwise provided hereafter, to all": "sex, race, colour, language, religion or conviction, political or other opinion, national,"
+    },
+    "source": {
+      "pdf": "465996dbddd1fc5c6af70f27e2678e76.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "“1. The present Convention is applicable, except as otherwise provided hereafter, to all": "ethnic or social origin, nationality, age, economic position, property, marital status,"
+    },
+    "source": {
+      "pdf": "465996dbddd1fc5c6af70f27e2678e76.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "“1. The present Convention is applicable, except as otherwise provided hereafter, to all": "birth or other status."
+    },
+    "source": {
+      "pdf": "465996dbddd1fc5c6af70f27e2678e76.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "2. The present Convention shall apply during the entire migration process of migrant": "workers and members of their families, which comprises preparation for migration,"
+    },
+    "source": {
+      "pdf": "465996dbddd1fc5c6af70f27e2678e76.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "2. The present Convention shall apply during the entire migration process of migrant": "departure, transit and the entire period of stay and remunerated activity in the State of"
+    },
+    "source": {
+      "pdf": "465996dbddd1fc5c6af70f27e2678e76.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "2. The present Convention shall apply during the entire migration process of migrant": "employment as well as return to the State of origin or the State of habitual residence”."
+    },
+    "source": {
+      "pdf": "465996dbddd1fc5c6af70f27e2678e76.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  }
+]

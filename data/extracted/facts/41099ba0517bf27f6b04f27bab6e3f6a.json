@@ -1,0 +1,3736 @@
+[
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Chapter\nNo.": "1",
+      "Subject": "Appointment of Booth Level Officers (BLOs)",
+      "Page No.": "5"
+    },
+    "source": {
+      "pdf": "1ddad79cad7ae232de4f21820f5be89f.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Chapter\nNo.": "2",
+      "Subject": "Relevant Constitutional and Legal Provisions",
+      "Page No.": "17"
+    },
+    "source": {
+      "pdf": "1ddad79cad7ae232de4f21820f5be89f.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Chapter\nNo.": "3",
+      "Subject": "Administrative Machinery of Electoral System",
+      "Page No.": "18"
+    },
+    "source": {
+      "pdf": "1ddad79cad7ae232de4f21820f5be89f.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Chapter\nNo.": "4",
+      "Subject": "General principles of Voter Registration",
+      "Page No.": "20"
+    },
+    "source": {
+      "pdf": "1ddad79cad7ae232de4f21820f5be89f.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Chapter\nNo.": "5",
+      "Subject": "What is a Photo Electoral Roll (PER)",
+      "Page No.": "23"
+    },
+    "source": {
+      "pdf": "1ddad79cad7ae232de4f21820f5be89f.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Chapter\nNo.": "6",
+      "Subject": "Revision of Electoral Roll",
+      "Page No.": "29"
+    },
+    "source": {
+      "pdf": "1ddad79cad7ae232de4f21820f5be89f.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Chapter\nNo.": "7",
+      "Subject": "Enrolment of Overseas Electors",
+      "Page No.": "36"
+    },
+    "source": {
+      "pdf": "1ddad79cad7ae232de4f21820f5be89f.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Chapter\nNo.": "8",
+      "Subject": "Enrolment of Service Voters",
+      "Page No.": "37"
+    },
+    "source": {
+      "pdf": "1ddad79cad7ae232de4f21820f5be89f.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Chapter\nNo.": "9",
+      "Subject": "Electoral Photo Identity Card–EPIC",
+      "Page No.": "39"
+    },
+    "source": {
+      "pdf": "1ddad79cad7ae232de4f21820f5be89f.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Chapter\nNo.": "10",
+      "Subject": "BLO’sRegister",
+      "Page No.": "47"
+    },
+    "source": {
+      "pdf": "1ddad79cad7ae232de4f21820f5be89f.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Chapter\nNo.": "11",
+      "Subject": "Booth Level Agents (BLAs)",
+      "Page No.": "49"
+    },
+    "source": {
+      "pdf": "1ddad79cad7ae232de4f21820f5be89f.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Chapter\nNo.": "12",
+      "Subject": "National Voters Day",
+      "Page No.": "51"
+    },
+    "source": {
+      "pdf": "1ddad79cad7ae232de4f21820f5be89f.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Chapter\nNo.": "13",
+      "Subject": "Role of BLOs in preparation of roll",
+      "Page No.": "52"
+    },
+    "source": {
+      "pdf": "1ddad79cad7ae232de4f21820f5be89f.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Chapter\nNo.": "14",
+      "Subject": "Continuous Updating of Electoral Roll",
+      "Page No.": "56"
+    },
+    "source": {
+      "pdf": "1ddad79cad7ae232de4f21820f5be89f.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Chapter\nNo.": "15",
+      "Subject": "Certified Copy of any part of Electoral Roll",
+      "Page No.": "58"
+    },
+    "source": {
+      "pdf": "1ddad79cad7ae232de4f21820f5be89f.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Chapter\nNo.": "16",
+      "Subject": "Duties of Electoral Registration Officers (EROs)",
+      "Page No.": "59"
+    },
+    "source": {
+      "pdf": "1ddad79cad7ae232de4f21820f5be89f.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Chapter\nNo.": "17",
+      "Subject": "Gram Sabhas and role of BLOs",
+      "Page No.": "61"
+    },
+    "source": {
+      "pdf": "1ddad79cad7ae232de4f21820f5be89f.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Chapter\nNo.": "18",
+      "Subject": "Basic knowledge of Electronic Voting Machines (EVM)",
+      "Page No.": "62"
+    },
+    "source": {
+      "pdf": "1ddad79cad7ae232de4f21820f5be89f.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Chapter\nNo.": "19",
+      "Subject": "Certain Useful Suggestions for BLOs facing different\nsituation\n-Do’s and Don’ts",
+      "Page No.": "64"
+    },
+    "source": {
+      "pdf": "1ddad79cad7ae232de4f21820f5be89f.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Chapter\nNo.": "20",
+      "Subject": "Test your Knowledge – Multiple Choice questions with\nanswers",
+      "Page No.": "67"
+    },
+    "source": {
+      "pdf": "1ddad79cad7ae232de4f21820f5be89f.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Chapter\nNo.": "21",
+      "Subject": "Test your Knowledge – Some more multiple choice\nquestions",
+      "Page No.": "73"
+    },
+    "source": {
+      "pdf": "1ddad79cad7ae232de4f21820f5be89f.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Chapter\nNo.": "22",
+      "Subject": "Team Games",
+      "Page No.": "78"
+    },
+    "source": {
+      "pdf": "1ddad79cad7ae232de4f21820f5be89f.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Sl\n.\nN\no.": "",
+      "Details of the officialsappointed as BLOs.": "No. &\nName\nof\nAssem\nbly\nConstit\nuency",
+      "null": "Name and\ndesignation/tel\n. no. of the\ndepartmental\ncontrolling\nofficer of BLO",
+      "Appoint\nment\nletter\nnumber\nand\ndate": null,
+      "Name\nand\ndesign\nation\nof the\nofficer\nsignin\ng the\nappoin\ntment\nletter": null,
+      "The\ndate\non\nwhich\nBLO\nhas\nstarte\nd\nworkin\ng": null,
+      "BLO’s\nID card\nnumber\nand\nRemark\ns, if any": null
+    },
+    "source": {
+      "pdf": "1ddad79cad7ae232de4f21820f5be89f.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Sl\n.\nN\no.": "1",
+      "Details of the officialsappointed as BLOs.": "2",
+      "null": "7",
+      "Appoint\nment\nletter\nnumber\nand\ndate": "8",
+      "Name\nand\ndesign\nation\nof the\nofficer\nsignin\ng the\nappoin\ntment\nletter": "9",
+      "The\ndate\non\nwhich\nBLO\nhas\nstarte\nd\nworkin\ng": "10",
+      "BLO’s\nID card\nnumber\nand\nRemark\ns, if any": "11"
+    },
+    "source": {
+      "pdf": "1ddad79cad7ae232de4f21820f5be89f.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "A Constitutional Body": "India is a Socialist, Secular, Democratic Republic and the largest democracy in the World. The"
+    },
+    "source": {
+      "pdf": "1ddad79cad7ae232de4f21820f5be89f.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "A Constitutional Body": "modern Indian nation state came into existence on 15th of August 1947. Since then free and fair"
+    },
+    "source": {
+      "pdf": "1ddad79cad7ae232de4f21820f5be89f.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "A Constitutional Body": "elections have been held at regular intervals as per the principles enshrined in the Constitution,"
+    },
+    "source": {
+      "pdf": "1ddad79cad7ae232de4f21820f5be89f.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "A Constitutional Body": "Electoral Laws and System."
+    },
+    "source": {
+      "pdf": "1ddad79cad7ae232de4f21820f5be89f.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "A Constitutional Body": "The Constitution of India has vested in the Election Commission of India the superintendence,"
+    },
+    "source": {
+      "pdf": "1ddad79cad7ae232de4f21820f5be89f.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "A Constitutional Body": "direction and control of the entire process for conduct of elections to Parliament and Legislature of"
+    },
+    "source": {
+      "pdf": "1ddad79cad7ae232de4f21820f5be89f.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "A Constitutional Body": "every State and to the offices of President and Vice-President of India and preparation of electoral"
+    },
+    "source": {
+      "pdf": "1ddad79cad7ae232de4f21820f5be89f.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "A Constitutional Body": "rolls for these elections."
+    },
+    "source": {
+      "pdf": "1ddad79cad7ae232de4f21820f5be89f.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "A Constitutional Body": "Election Commission of India is a permanent Constitutional Body. The Election Commission was"
+    },
+    "source": {
+      "pdf": "1ddad79cad7ae232de4f21820f5be89f.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "A Constitutional Body": "established inunder Article 324 ofthe Constitution on 25th January 1950."
+    },
+    "source": {
+      "pdf": "1ddad79cad7ae232de4f21820f5be89f.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "A Constitutional Body": "Originally, the Commission had only a Chief Election Commissioner. It currently consists of Chief"
+    },
+    "source": {
+      "pdf": "1ddad79cad7ae232de4f21820f5be89f.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "A Constitutional Body": "Election Commissionerand two Election Commissioners."
+    },
+    "source": {
+      "pdf": "1ddad79cad7ae232de4f21820f5be89f.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "A Constitutional Body": "The Setup"
+    },
+    "source": {
+      "pdf": "1ddad79cad7ae232de4f21820f5be89f.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "A Constitutional Body": "The Commission has aSecretariat at New Delhi, consisting of about 300 officials, in a hierarchical set"
+    },
+    "source": {
+      "pdf": "1ddad79cad7ae232de4f21820f5be89f.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "A Constitutional Body": "up."
+    },
+    "source": {
+      "pdf": "1ddad79cad7ae232de4f21820f5be89f.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "A Constitutional Body": "Three Deputy Election Commissioners and two DirectorsGeneralwho are the senior most officers in"
+    },
+    "source": {
+      "pdf": "1ddad79cad7ae232de4f21820f5be89f.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "A Constitutional Body": "the Secretariat assist the Commission. They are generally appointed from the national civil service of"
+    },
+    "source": {
+      "pdf": "1ddad79cad7ae232de4f21820f5be89f.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "A Constitutional Body": "the country and are selected and appointed by the Commission withfixedtenure."
+    },
+    "source": {
+      "pdf": "1ddad79cad7ae232de4f21820f5be89f.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "A Constitutional Body": "At the state level, the election work is supervised, subject to overall superintendence, direction and"
+    },
+    "source": {
+      "pdf": "1ddad79cad7ae232de4f21820f5be89f.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "A Constitutional Body": "control of the Commission, by the Chief Electoral Officer of the State, who is appointed by the"
+    },
+    "source": {
+      "pdf": "1ddad79cad7ae232de4f21820f5be89f.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "A Constitutional Body": "Commission from amongst senior civil servants inconsultation with the concerned State government."
+    },
+    "source": {
+      "pdf": "1ddad79cad7ae232de4f21820f5be89f.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "A Constitutional Body": "The CEOis, in most of the States, a full time officer and has a team of supporting staff."
+    },
+    "source": {
+      "pdf": "1ddad79cad7ae232de4f21820f5be89f.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "A Constitutional Body": "At the district and constituency levels, the District Election Officers, Electoral Registration Officers and"
+    },
+    "source": {
+      "pdf": "1ddad79cad7ae232de4f21820f5be89f.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "A Constitutional Body": "Returning Officers, who are assisted by a large number of junior functionaries, performelection work."
+    },
+    "source": {
+      "pdf": "1ddad79cad7ae232de4f21820f5be89f.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "A Constitutional Body": "They all perform their functions relating to elections in addition to their other responsibilities. During"
+    },
+    "source": {
+      "pdf": "1ddad79cad7ae232de4f21820f5be89f.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "A Constitutional Body": "election time, however, they are available to the Commission, more or less, on a full time basis."
+    },
+    "source": {
+      "pdf": "1ddad79cad7ae232de4f21820f5be89f.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "A Constitutional Body": "The gigantic task force for conducting a countrywide general election consists of a large number of"
+    },
+    "source": {
+      "pdf": "1ddad79cad7ae232de4f21820f5be89f.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "A Constitutional Body": "polling personnel and civil police forces. This huge election machinery is deemed to be on deputation"
+    },
+    "source": {
+      "pdf": "1ddad79cad7ae232de4f21820f5be89f.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "A Constitutional Body": "to the Election Commission and is subject to its control, superintendence and discipline during the"
+    },
+    "source": {
+      "pdf": "1ddad79cad7ae232de4f21820f5be89f.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "A Constitutional Body": "election period, extending over a period of one and half to two months."
+    },
+    "source": {
+      "pdf": "1ddad79cad7ae232de4f21820f5be89f.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "A Constitutional Body": "Executive Interference Barred"
+    },
+    "source": {
+      "pdf": "1ddad79cad7ae232de4f21820f5be89f.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "A Constitutional Body": "In theperformanceof its functions, Election Commission is insulated from executive interference. It is"
+    },
+    "source": {
+      "pdf": "1ddad79cad7ae232de4f21820f5be89f.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "A Constitutional Body": "the Commission which decides the election schedules for the conduct of elections, whether general"
+    },
+    "source": {
+      "pdf": "1ddad79cad7ae232de4f21820f5be89f.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "A Constitutional Body": "elections or bye-elections. Again, it is the Commission which decides on the location of polling"
+    },
+    "source": {
+      "pdf": "1ddad79cad7ae232de4f21820f5be89f.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "A Constitutional Body": "stations, assignment of voters to the polling stations, location of counting centers, arrangements to be"
+    },
+    "source": {
+      "pdf": "1ddad79cad7ae232de4f21820f5be89f.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "A Constitutional Body": "made in and around polling stations and countingcentersand all allied matters."
+    },
+    "source": {
+      "pdf": "1ddad79cad7ae232de4f21820f5be89f.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "A Constitutional Body": "Judicial Review"
+    },
+    "source": {
+      "pdf": "1ddad79cad7ae232de4f21820f5be89f.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "A Constitutional Body": "The decisions of the Commission can be challenged in the High Court and the Supreme Court of"
+    },
+    "source": {
+      "pdf": "1ddad79cad7ae232de4f21820f5be89f.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "A Constitutional Body": "India by appropriate petitions. By long standing convention and several judicial pronouncements,"
+    },
+    "source": {
+      "pdf": "1ddad79cad7ae232de4f21820f5be89f.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "A Constitutional Body": "once the actual process of elections has started, the judiciary does notintervene in the actual conduct"
+    },
+    "source": {
+      "pdf": "1ddad79cad7ae232de4f21820f5be89f.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "of the polls. Once the polls are completed and result declared, the Commission cannot review any": "result on its own. This can only be reviewed through the process of an election petition, which can be"
+    },
+    "source": {
+      "pdf": "1ddad79cad7ae232de4f21820f5be89f.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "of the polls. Once the polls are completed and result declared, the Commission cannot review any": "filed before the High Court, in respect of elections to the Parliament and State Legislatures. In respect"
+    },
+    "source": {
+      "pdf": "1ddad79cad7ae232de4f21820f5be89f.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "of the polls. Once the polls are completed and result declared, the Commission cannot review any": "of elections for the offices of the President and Vice President, such petitions can only be filed before"
+    },
+    "source": {
+      "pdf": "1ddad79cad7ae232de4f21820f5be89f.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "of the polls. Once the polls are completed and result declared, the Commission cannot review any": "the Supreme Court."
+    },
+    "source": {
+      "pdf": "1ddad79cad7ae232de4f21820f5be89f.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "of the polls. Once the polls are completed and result declared, the Commission cannot review any": "EXERCISE:Answer the following questions:"
+    },
+    "source": {
+      "pdf": "1ddad79cad7ae232de4f21820f5be89f.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "": ""
+    },
+    "source": {
+      "pdf": "1ddad79cad7ae232de4f21820f5be89f.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "": ""
+    },
+    "source": {
+      "pdf": "1ddad79cad7ae232de4f21820f5be89f.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "serial\nNo.": "1",
+      "Question": "The house no. of an elector in\nthe electoral roll and that given\nby the municipality is not the\nsame. What is the reason\nbehind it?",
+      "Answer/solution": "Wherever house nos. are assigned by municipality\nthe same need to be followed as that house no. is\nalso printed on the EPIC which is also used as\naddress proof under different Govt. schemes,\nWherever there is no house number or the house\nnumber given is not in order, the BLO/enumerator\ngives notional house number to each house starting\nfrom house No. 1 in the section. The house no. given\nto an elector in the electoral roll is a computer\ngenerated notional number which is not necessarily\nin consonance with the number allowed by the\nmunicipality. Hence, the difference between hose no.\nof the elector in the electoral roll and that given by the\nmunicipality."
+    },
+    "source": {
+      "pdf": "1ddad79cad7ae232de4f21820f5be89f.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "serial\nNo.": "2",
+      "Question": "What should be done if th•e\nname of a person, who is not\nordinarily resident of that area,\nis included in the electoral roll?\n•",
+      "Answer/solution": "If some other family memberof that person resides in\nthat area, in such a case, it should be confirmed from\nhim that the concerned person is not ordinarily\nresident in the area.\nAfter confirmation, an objection in Form 7 shall be\ntaken from such member of the family of that person"
+    },
+    "source": {
+      "pdf": "1ddad79cad7ae232de4f21820f5be89f.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "": "3",
+      "•": "Where can an elector check up\nif his/her name is there or not\nin the voter’s list?",
+      "who is registered as an elector in that Part.\nIf the whole family of that person has migrated\nelsewhere, then in their case,the BLO can certify that\nhe did not find such named persons at that address\nand that they have gone away permanently.\nThereafter necessary action, as per law, would be\ntaken to delete their names from the roll by the ERO.": "It is an elector’s duty to immediately check whether\nhis/her name has been included or not in the\nelectoral roll of the constituency where he/she\nresides. It can be checked online on the of CEO of\nthat state website, by accessing the State’s website\nthrough http://www.eci.nic.in, or offline at the office of\nthe AERO/Tehsildar/Mamlatdar or the office of the\nERO/SDM/Deputy Collector/Prant Officer or office of\nthe DM/Collector of concerned District. The elector\ncan also contact the BLO of his Part to check."
+    },
+    "source": {
+      "pdf": "1ddad79cad7ae232de4f21820f5be89f.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "1": "2",
+      "Are the applications regarding\nclaims and objections not to be\nreceived after the last date of\nfiling of the nominations during\nelections?": "Are the applications not to be\nreceived after the last date for\nsubmission of claims and\nobjections, in the revision\nperiod?",
+      "Though the applications regarding claims and\nobjections could be received after 3.00pm on the last\ndate of filing of the nominations, their disposal would\nbe done only after the election process is complete.": "After the last date for submission of claims and\nobjections in the revision period, the applications\nshould not be received. The applications received\nafter that date and before the final publication of the\nroll areto be summarilydismissed by the ERO."
+    },
+    "source": {
+      "pdf": "1ddad79cad7ae232de4f21820f5be89f.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "1": "3",
+      "Are the applications regarding\nclaims and objections not to be\nreceived after the last date of\nfiling of the nominations during\nelections?": "Which roll would be in force\nafter the draft publication of\nroll?",
+      "Though the applications regarding claims and\nobjections could be received after 3.00pm on the last\ndate of filing of the nominations, their disposal would\nbe done only after the election process is complete.": "The roll finally published is always ineffect. Therefore\neven after the draft publication, the electoral roll in\nforce before the draft publication will remain effective."
+    },
+    "source": {
+      "pdf": "1ddad79cad7ae232de4f21820f5be89f.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "1": "4",
+      "Are the applications regarding\nclaims and objections not to be\nreceived after the last date of\nfiling of the nominations during\nelections?": "Could the head of a house hold\napply inForm6 on behalf of all\nthe members of his family?",
+      "Though the applications regarding claims and\nobjections could be received after 3.00pm on the last\ndate of filing of the nominations, their disposal would\nbe done only after the election process is complete.": "No. Form 6 has to be signed by the applicant only.\nThe head of the house hold or any member of the\nfamily can submit such individual applications\ncollectively for all the members of the family. A single\ncollective receipt would suffice for this purpose."
+    },
+    "source": {
+      "pdf": "1ddad79cad7ae232de4f21820f5be89f.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "1": "5",
+      "Are the applications regarding\nclaims and objections not to be\nreceived after the last date of\nfiling of the nominations during\nelections?": "The electoral roll is revised with\nrespect to 1st January as the\nqualifying date. Could the\nname of a person attaining the\nage of 18 years after this date,\nsay for example, in the month\nof August, be included in the\nroll during continuous updating\nprocess?",
+      "Though the applications regarding claims and\nobjections could be received after 3.00pm on the last\ndate of filing of the nominations, their disposal would\nbe done only after the election process is complete.": "No. Only the name of that applicant could be included\nin the electoral roll who holds the necessary\nqualification regarding age on the 1st of January of\nthe year under consideration and is not other wise\ndisqualified. The person who has attained age\nqualification after the 1stof January of that year would\nbe included in the electoral roll prepared on the basis\nof the 1stof January of next year."
+    },
+    "source": {
+      "pdf": "1ddad79cad7ae232de4f21820f5be89f.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "1": "6",
+      "Are the applications regarding\nclaims and objections not to be\nreceived after the last date of\nfiling of the nominations during\nelections?": "A person aged 18 years has",
+      "Though the applications regarding claims and\nobjections could be received after 3.00pm on the last\ndate of filing of the nominations, their disposal would\nbe done only after the election process is complete.": "The name would be included in the electoral roll if"
+    },
+    "source": {
+      "pdf": "1ddad79cad7ae232de4f21820f5be89f.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "": "7",
+      "applied for inclusion of name in\nthe electoral roll but he does\nnot have an age certificate. Will\nhis name be included in the\nelectoral roll?": "If an ordinarily resident perso•n\nis not included in the electoral\nroll, what is to be done in such\na case? •\n•\n•",
+      "the ERO is satisfied that the person has attained\nthe age of 18 years on the 1st of January of the\nconcerned year. For this purpose, the alternative\ndocuments prescribed by the ECI maybe taken.": "First of all, check the standards specified\n(qualification and disqualification) for being an elector\nin his case.\nIf found eligible, take an application from him in Form\n-6.\nProvide an acknowledgement receipt for the\napplication received inForm6, with your signature, to\nthe applicant.\nSubmit the application received inForm6 to the ERO\nfor passing of necessary orders."
+    },
+    "source": {
+      "pdf": "1ddad79cad7ae232de4f21820f5be89f.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "": "8",
+      "applied for inclusion of name in\nthe electoral roll but he does\nnot have an age certificate. Will\nhis name be included in the\nelectoral roll?": "In order to include the name o•f\nan ordinarily resident person in\nthe electoral roll, what will be\nthe basis of calculation of his\nage? •\n•",
+      "the ERO is satisfied that the person has attained\nthe age of 18 years on the 1st of January of the\nconcerned year. For this purpose, the alternative\ndocuments prescribed by the ECI maybe taken.": "To include the name in the electoral roll, the age\ncalculation would be done on the basis of the\nqualifying date specified by the Election Commission\nof India.\nGenerally the 1st of January of that year is taken as\nthe qualifying date.\nThe minimum age of the applicant as on the specified\nqualifying date should be 18 years."
+    },
+    "source": {
+      "pdf": "1ddad79cad7ae232de4f21820f5be89f.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "": "9",
+      "applied for inclusion of name in\nthe electoral roll but he does\nnot have an age certificate. Will\nhis name be included in the\nelectoral roll?": "What action is to be taken if th•e\nname of a person who is dead,\nis included in the electoral roll?\n•\n•\n•",
+      "the ERO is satisfied that the person has attained\nthe age of 18 years on the 1st of January of the\nconcerned year. For this purpose, the alternative\ndocuments prescribed by the ECI maybe taken.": "If some other family member of that person resides in\nthat area, the death of the concerned person should\nbe confirmed from him.\nAfter confirmation, an objection in Form 7 may be\ntaken from such member of the family of the\ndeceased who is registered as an elector in that Part.\nAs a proof of death of the elector, a photocopy of the\ndeath certificate or the medical report may be\nobtained and attached with theForm.\nTheobjectionso received inForm7 and the attached\nphotocopy of the proof of death of the elector should\nbe submitted to the ERO for passing of necessary\norders."
+    },
+    "source": {
+      "pdf": "1ddad79cad7ae232de4f21820f5be89f.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "": "10",
+      "applied for inclusion of name in\nthe electoral roll but he does\nnot have an age certificate. Will\nhis name be included in the\nelectoral roll?": "If name of a person who is\ntemporarily not residing in that\npart area i.e. he is temporarily\nabsent, is included in the roll\nwould his name be removed\nfrom the electoral roll?",
+      "the ERO is satisfied that the person has attained\nthe age of 18 years on the 1st of January of the\nconcerned year. For this purpose, the alternative\ndocuments prescribed by the ECI maybe taken.": "No. The names of the electors absent temporarily are\nnot to be removed from the electoral roll, but it should\nbe necessarily confirmed that they are absent only\ntemporarily and have not gone away permanently\nfrom that Part area."
+    },
+    "source": {
+      "pdf": "1ddad79cad7ae232de4f21820f5be89f.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "": "11",
+      "applied for inclusion of name in\nthe electoral roll but he does\nnot have an age certificate. Will\nhis name be included in the\nelectoral roll?": "What action is to be taken if th•e\nname of an elector is not\nentered correctly in th•e\nelectoral roll?\n•",
+      "the ERO is satisfied that the person has attained\nthe age of 18 years on the 1st of January of the\nconcerned year. For this purpose, the alternative\ndocuments prescribed by the ECI maybe taken.": "Obtain application in Form 8 from the concerned\nelector.\nIf any proof is required regarding the correctness of\nentries, the papers/ documents concerned shall also\nbe obtained.\nThe application so received in Form 8 and alongwith\nphotocopies of the necessary papers/ documents\nshould be submitted to the ERO for passing of\nnecessary orders."
+    },
+    "source": {
+      "pdf": "1ddad79cad7ae232de4f21820f5be89f.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "": "12",
+      "applied for inclusion of name in\nthe electoral roll but he does\nnot have an age certificate. Will\nhis name be included in the\nelectoral roll?": "What is to be done in case o•f\nchange of residence of an\nelector?\n•\n•",
+      "the ERO is satisfied that the person has attained\nthe age of 18 years on the 1st of January of the\nconcerned year. For this purpose, the alternative\ndocuments prescribed by the ECI maybe taken.": "First of all, it should be checked whether, due to\nchange of earlier residence, the new residence of the\nelector falls within the same Assembly Constituency\nor out of it.\nIf the new residence of the elector is within the same\nAC then the elector shall apply in Form 8A to the\nERO for transposition of the entry. The ERO will hold\nnecessary enquiries and take decision in accordance\nwith rules.\nIf due to change of residence of the elector, the new\nplace of residence falls out of the previous AC, then\nthe applicant would apply in Form 6 to the ERO"
+    },
+    "source": {
+      "pdf": "1ddad79cad7ae232de4f21820f5be89f.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "1.": "2.",
+      "If the EPIC of an elector has\nbeen issued from the State of\nJharkhand and now his name\nhas been registered in the\nelectoral roll of an assembly\nconstituency in the state of\nBihar, would he be issued a\nnewEPIC?": "If an elector possesses EPIC\nas well as Indian passport,\ncould he vote at the time of\nelection?",
+      "The EPIC issued from the State of Jharkhand is valid\nand acceptable for the whole of India including the\nState of Bihar, but, if the concerned person so\ndesires, he can obtain a new EPIC as per his new\naddress. This new EPIC would contain the same\nEPIC number which was there on the EPIC issued to\nhim from the state of Jharkhand. For this, the\nconcerned ERO in the state of Bihar should obtain\nconfirmation of the database of the applicant and the\nEPIC issued to him from the State of Jharkhand.": "Voting could be done only if the name is included in\nthe electoral roll. If a person possesses EPIC but his\nname is not there in the roll, then he can not cast his\nvote in the concerned constituency. EPIC and\npassport, in case of non-possession of EPIC, only\nestablish the identity of a person. In order to cast a\nvote, it is necessary that the name of elector be there\nin the latest electoral roll of the concerned\nconstituency."
+    },
+    "source": {
+      "pdf": "1ddad79cad7ae232de4f21820f5be89f.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "1.": "3.",
+      "If the EPIC of an elector has\nbeen issued from the State of\nJharkhand and now his name\nhas been registered in the\nelectoral roll of an assembly\nconstituency in the state of\nBihar, would he be issued a\nnewEPIC?": "The EPIC issued to an elector\ncontains a pre-delimitation\nFUSN code. After delimitation,\ndoes he need to have a new\nEPIC issued with the new\nFUSN code?",
+      "The EPIC issued from the State of Jharkhand is valid\nand acceptable for the whole of India including the\nState of Bihar, but, if the concerned person so\ndesires, he can obtain a new EPIC as per his new\naddress. This new EPIC would contain the same\nEPIC number which was there on the EPIC issued to\nhim from the state of Jharkhand. For this, the\nconcerned ERO in the state of Bihar should obtain\nconfirmation of the database of the applicant and the\nEPIC issued to him from the State of Jharkhand.": "No. An EPIC issued once is valid till it is not\ncancelled due to some reason. As the present matter\ndoes not fall in this category, hence the EPIC issued\npre-delimitation would be considered valid."
+    },
+    "source": {
+      "pdf": "1ddad79cad7ae232de4f21820f5be89f.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "1.": "4.",
+      "If the EPIC of an elector has\nbeen issued from the State of\nJharkhand and now his name\nhas been registered in the\nelectoral roll of an assembly\nconstituency in the state of\nBihar, would he be issued a\nnewEPIC?": "What action is to be taken if th•e\nphoto of an elector is not there\nbefore his name in the electora•l\nroll?\n•\n•",
+      "The EPIC issued from the State of Jharkhand is valid\nand acceptable for the whole of India including the\nState of Bihar, but, if the concerned person so\ndesires, he can obtain a new EPIC as per his new\naddress. This new EPIC would contain the same\nEPIC number which was there on the EPIC issued to\nhim from the state of Jharkhand. For this, the\nconcerned ERO in the state of Bihar should obtain\nconfirmation of the database of the applicant and the\nEPIC issued to him from the State of Jharkhand.": "Obtain application in Form 8 from the concerned\nelector.\nAlso obtain a passport size color photograph if given\nby him out of choice.\nIf the elector is unable or does not want to give his\npassport size photograph, in such a case his photo\nshould be collected through photography.\nThe application so received in Form 8 and the\nattached photo should be submitted to the ERO for"
+    },
+    "source": {
+      "pdf": "1ddad79cad7ae232de4f21820f5be89f.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "": "What action is to be taken if th•e\nEPIC issued to an elector is\ninformed to be containing\nerrors?\n•\n•\n•",
+      "passing of necessary orders.": "First of all, the elector’s details in the electoral roll\nand those on the EPIC shall be compared. It should\nbe seen whether the errors indicated by the elector\nare actually there in the EPIC or not.\nIf the errors indicated by the elector are actually there\nwhich require minor corrections in the elector’s\ndetails in the electoral roll and on its basis the\ncorresponding corrections in the EPIC are to be\nmade, in such a case, an application in Form ECI-\nEPIC-002 shall be taken from the elector, necessary\ncorrections be done and a replacement copy of the\nEPIC be issued to him taking back the incorrect EPIC\nissued to him earlier.\nIf the elector’ details as in the electoral roll require\nmajor corrections, then an application in Form 8 shall\nbe taken from the elector and after decision of the\nERO, a replacement copy of the EPIC could be\nissued after making necessary corrections.\nIf the error is not due to any mistake on part of the\nelector, then the replacement copy of the EPIC shall\nbe provided to the elector free of cost."
+    },
+    "source": {
+      "pdf": "1ddad79cad7ae232de4f21820f5be89f.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "": "What action is to be taken if •it\nis inFormed by the elector that\nthe EPIC issued to him ha•s\nbeen lost or destroyed?\n•",
+      "passing of necessary orders.": "A declaration to this effect should be obtained from\nthe elector.\nThereafter, a duplicate EPIC could be issued to the\nelector for a charge of Rs. 25/-.\nThe elector should be given a proper receipt against\nthe amount received from him."
+    },
+    "source": {
+      "pdf": "1ddad79cad7ae232de4f21820f5be89f.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Sl.\nNo.": "1",
+      "Item": "Date of receipt of letter of appointment as BLO. Check your\nappointment letter. It will indicate the Part which has been assigned\nto you. You should be preferably resident of that part and if not, then\nyou should be working there. If it is not so,bring in the notice of ERO.",
+      "Remarks": ""
+    },
+    "source": {
+      "pdf": "1ddad79cad7ae232de4f21820f5be89f.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Sl.\nNo.": "2",
+      "Item": "Whether training imparted from the end of ERO and duties and\nresponsibilities of BLO explained? Please mention date.",
+      "Remarks": ""
+    },
+    "source": {
+      "pdf": "1ddad79cad7ae232de4f21820f5be89f.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Sl.\nNo.": "Post-revision period",
+      "Item": null,
+      "Remarks": null
+    },
+    "source": {
+      "pdf": "1ddad79cad7ae232de4f21820f5be89f.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Sl.\nNo.": "3",
+      "Item": "Whether relevant part(s) of the current Electoral Roll received along\nwith all supplements?",
+      "Remarks": ""
+    },
+    "source": {
+      "pdf": "1ddad79cad7ae232de4f21820f5be89f.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Sl.\nNo.": "4",
+      "Item": "Whether the electoral roll part(s) including cover page(s) thoroughly\nscrutinized to find out defects?",
+      "Remarks": ""
+    },
+    "source": {
+      "pdf": "1ddad79cad7ae232de4f21820f5be89f.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Sl.\nNo.": "5",
+      "Item": "Whether part-wise BLO register is given by ERO for recording such\ndefects, other inputs obtained during field verification & corresponding\nfield observations and all other activities?",
+      "Remarks": ""
+    },
+    "source": {
+      "pdf": "1ddad79cad7ae232de4f21820f5be89f.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Sl.\nNo.": "6",
+      "Item": "Whether the BLO interacts with local people, particularly, elder\nelectors, local elected representatives & representatives of political\nparties on quarterly basis to find out dead and shifted electors, eligible\nelectors not yet enrolled and any other defects?\nThe four quarters when the BLO is expected to do this work are\nbetween January to March, April to June, July to September,\nOctoberto December.",
+      "Remarks": ""
+    },
+    "source": {
+      "pdf": "1ddad79cad7ae232de4f21820f5be89f.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Sl.\nNo.": "7",
+      "Item": "Whether the names of prominent personalities of the locality exist in\nthe roll? If not, whether the same has been reported to the ERO?",
+      "Remarks": ""
+    },
+    "source": {
+      "pdf": "1ddad79cad7ae232de4f21820f5be89f.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Sl.\nNo.": "8",
+      "Item": "Whether there is an arrangement at his place of posting or at some\nother office/institution, convenient for the electors (with the prior\napproval of ERO) to receive information/complaints/suggestions from\nvoters and whether the same has been communicated to the local",
+      "Remarks": ""
+    },
+    "source": {
+      "pdf": "1ddad79cad7ae232de4f21820f5be89f.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "": "",
+      "elected and political representatives? Please mention the location.": "What are the steps taken to inform the electors about Permanent\nEPIC centre and the procedure to obtain duplicate EPIC?"
+    },
+    "source": {
+      "pdf": "1ddad79cad7ae232de4f21820f5be89f.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "": "",
+      "elected and political representatives? Please mention the location.": "Whether details of additions/corrections/deletions made during\ncontinuous revision process are collected from ERO on quarterly\nbasis, so that BLOis in a position toclarify status to voters.\nThe four quarters during each of which the BLO is expected to do this\nwork are between January to March, April to June, July to\nSeptember, October to December."
+    },
+    "source": {
+      "pdf": "1ddad79cad7ae232de4f21820f5be89f.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "": "",
+      "elected and political representatives? Please mention the location.": "Whether local Birth & Death Registration Office visited on quarterly\nbasis during post revision period and probable dead electors identified\nchecking their death register?\nThe four quarters for visiting these offices are between January to\nMarch, April to June, July to September, October to December."
+    },
+    "source": {
+      "pdf": "1ddad79cad7ae232de4f21820f5be89f.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "": "",
+      "elected and political representatives? Please mention the location.": "Whether field enquiry conducted on quarterly basis during post\nrevision period to detect dead and shifted electors and information\nreceived from various sources in this regard as well as in regard to\ndefects of the electoral rollis verified?\nThe four quarters during each of which this work is to be done are\nbetween January to March, April to June, July to September,\nOctober to December."
+    },
+    "source": {
+      "pdf": "1ddad79cad7ae232de4f21820f5be89f.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "": "",
+      "elected and political representatives? Please mention the location.": "Whether field enquiry reports in relation to sl. No. 12 submitted in the\nFormat prescribed by the ERO? Also mention date(s) of submission of\nreports."
+    },
+    "source": {
+      "pdf": "1ddad79cad7ae232de4f21820f5be89f.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "": "",
+      "elected and political representatives? Please mention the location.": "Whether notice for hearing into such enquiry reports served in time?"
+    },
+    "source": {
+      "pdf": "1ddad79cad7ae232de4f21820f5be89f.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "": null,
+      "elected and political representatives? Please mention the location.": null
+    },
+    "source": {
+      "pdf": "1ddad79cad7ae232de4f21820f5be89f.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "": "",
+      "elected and political representatives? Please mention the location.": "Whether defects related to particulars of cover page, i.e., polling area,\nsection details, Polling Station address, etc. have been identified? If\nso, whether report submitted to ERO after interacting with local people\nand field verification?"
+    },
+    "source": {
+      "pdf": "1ddad79cad7ae232de4f21820f5be89f.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "": "",
+      "elected and political representatives? Please mention the location.": "Whether rationalization of polling area felt necessary? If so, whether\nreport submitted to ERO after interacting with local people and field\nverification?"
+    },
+    "source": {
+      "pdf": "1ddad79cad7ae232de4f21820f5be89f.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "": "",
+      "elected and political representatives? Please mention the location.": "Whether de-duplication, validation reports (related to E-roll Clean\nSoftware), list of Non-EPIC Electors, etc., reports received from ERO?\nPleasemention date."
+    },
+    "source": {
+      "pdf": "1ddad79cad7ae232de4f21820f5be89f.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "": "",
+      "elected and political representatives? Please mention the location.": "Whether field enquiry conducted to verify the aforesaid reports?"
+    },
+    "source": {
+      "pdf": "1ddad79cad7ae232de4f21820f5be89f.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "": "",
+      "elected and political representatives? Please mention the location.": "Whether enquiry reports related to sl. No. 18 submitted in the Format\nprescribed by ERO? Also mention date(s) of submission of reports."
+    },
+    "source": {
+      "pdf": "1ddad79cad7ae232de4f21820f5be89f.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "20": "21",
+      "Whether working copy of photo electoral roll received from ERO for\nfield verification of images? Please mention date. (Applicable for ACs\ngoing for publication of photo roll for the 1sttime)": "Whether field verification related to sl. No. 20 completed?",
+      "": ""
+    },
+    "source": {
+      "pdf": "1ddad79cad7ae232de4f21820f5be89f.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "20": "22",
+      "Whether working copy of photo electoral roll received from ERO for\nfield verification of images? Please mention date. (Applicable for ACs\ngoing for publication of photo roll for the 1sttime)": "Whether report regarding image verification submitted? Please\nmention date.",
+      "": ""
+    },
+    "source": {
+      "pdf": "1ddad79cad7ae232de4f21820f5be89f.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "20": "23",
+      "Whether working copy of photo electoral roll received from ERO for\nfield verification of images? Please mention date. (Applicable for ACs\ngoing for publication of photo roll for the 1sttime)": "What are the initiatives taken to inform public in general about the\nrevision program?",
+      "": ""
+    },
+    "source": {
+      "pdf": "1ddad79cad7ae232de4f21820f5be89f.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "20": "During revision",
+      "Whether working copy of photo electoral roll received from ERO for\nfield verification of images? Please mention date. (Applicable for ACs\ngoing for publication of photo roll for the 1sttime)": null,
+      "": null
+    },
+    "source": {
+      "pdf": "1ddad79cad7ae232de4f21820f5be89f.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "20": "24",
+      "Whether working copy of photo electoral roll received from ERO for\nfield verification of images? Please mention date. (Applicable for ACs\ngoing for publication of photo roll for the 1sttime)": "What are the steps taken to guide people filing claims and objections?",
+      "": ""
+    },
+    "source": {
+      "pdf": "1ddad79cad7ae232de4f21820f5be89f.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "20": "25",
+      "Whether working copy of photo electoral roll received from ERO for\nfield verification of images? Please mention date. (Applicable for ACs\ngoing for publication of photo roll for the 1sttime)": "Whether meeting of Gram Sabha/Ward/Booth/RWA or the like\norganized in connection with revision of electoral roll attended by the\nBLO?",
+      "": ""
+    },
+    "source": {
+      "pdf": "1ddad79cad7ae232de4f21820f5be89f.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "20": "26",
+      "Whether working copy of photo electoral roll received from ERO for\nfield verification of images? Please mention date. (Applicable for ACs\ngoing for publication of photo roll for the 1sttime)": "Whether Form 6, 7, 8, 8A received by the Designated Officers during\nrevision period handed over to the BLO by the ERO for field enquiry?\nPlease mention date and number ofForms received.",
+      "": ""
+    },
+    "source": {
+      "pdf": "1ddad79cad7ae232de4f21820f5be89f.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "20": "27",
+      "Whether working copy of photo electoral roll received from ERO for\nfield verification of images? Please mention date. (Applicable for ACs\ngoing for publication of photo roll for the 1sttime)": "Whether field enquiry held into such Form 6, 7, 8, 8A and enquiry\nreport prepared in theFormat prescribed by the ERO?",
+      "": ""
+    },
+    "source": {
+      "pdf": "1ddad79cad7ae232de4f21820f5be89f.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "20": "28",
+      "Whether working copy of photo electoral roll received from ERO for\nfield verification of images? Please mention date. (Applicable for ACs\ngoing for publication of photo roll for the 1sttime)": "Whether enquiry report noted in sl. No. 27 submitted? Please mention\ndate.",
+      "": ""
+    },
+    "source": {
+      "pdf": "1ddad79cad7ae232de4f21820f5be89f.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "20": "During EPIC Campaign",
+      "Whether working copy of photo electoral roll received from ERO for\nfield verification of images? Please mention date. (Applicable for ACs\ngoing for publication of photo roll for the 1sttime)": null,
+      "": null
+    },
+    "source": {
+      "pdf": "1ddad79cad7ae232de4f21820f5be89f.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "20": "29",
+      "Whether working copy of photo electoral roll received from ERO for\nfield verification of images? Please mention date. (Applicable for ACs\ngoing for publication of photo roll for the 1sttime)": "Whether houses of Non-EPIC electors visited to inform the electors\nabout date, time and venue of photo-taking program?",
+      "": ""
+    },
+    "source": {
+      "pdf": "1ddad79cad7ae232de4f21820f5be89f.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "20": "30",
+      "Whether working copy of photo electoral roll received from ERO for\nfield verification of images? Please mention date. (Applicable for ACs\ngoing for publication of photo roll for the 1sttime)": "Whether the notice as fixed by the Election Commission served on the\nelectors likely to be photographed? Mention the number of notices\nserved.",
+      "": ""
+    },
+    "source": {
+      "pdf": "1ddad79cad7ae232de4f21820f5be89f.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "20": "31",
+      "Whether working copy of photo electoral roll received from ERO for\nfield verification of images? Please mention date. (Applicable for ACs\ngoing for publication of photo roll for the 1sttime)": "Whether Form 001/002/004 supplied to the elector during home visit\nand whether assistance provided to fill up theForm?",
+      "": ""
+    },
+    "source": {
+      "pdf": "1ddad79cad7ae232de4f21820f5be89f.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "20": "32",
+      "Whether working copy of photo electoral roll received from ERO for\nfield verification of images? Please mention date. (Applicable for ACs\ngoing for publication of photo roll for the 1sttime)": "Whether the BLO remained present at the photo-taking venue on the\nday of photo taking to assist electors?",
+      "": ""
+    },
+    "source": {
+      "pdf": "1ddad79cad7ae232de4f21820f5be89f.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "20": "33",
+      "Whether working copy of photo electoral roll received from ERO for\nfield verification of images? Please mention date. (Applicable for ACs\ngoing for publication of photo roll for the 1sttime)": "Please mention the number of EPICs received from ERO for\ndistribution and number of EPICs delivered at elector’s address.",
+      "": ""
+    },
+    "source": {
+      "pdf": "1ddad79cad7ae232de4f21820f5be89f.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "20": "34",
+      "Whether working copy of photo electoral roll received from ERO for\nfield verification of images? Please mention date. (Applicable for ACs\ngoing for publication of photo roll for the 1sttime)": "Whether EPICs issued previously been taken back from those\nelectors possessing EPIC who were photographed again on account\nof their image being absent/wrong in the database?",
+      "": ""
+    },
+    "source": {
+      "pdf": "1ddad79cad7ae232de4f21820f5be89f.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "20": "35",
+      "Whether working copy of photo electoral roll received from ERO for\nfield verification of images? Please mention date. (Applicable for ACs\ngoing for publication of photo roll for the 1sttime)": "Whether Signature/LTI of elector obtained as an acknowledgement of\nreceipt of the EPIC?",
+      "": ""
+    },
+    "source": {
+      "pdf": "1ddad79cad7ae232de4f21820f5be89f.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "20": "36",
+      "Whether working copy of photo electoral roll received from ERO for\nfield verification of images? Please mention date. (Applicable for ACs\ngoing for publication of photo roll for the 1sttime)": "Date(s) of verification of the register as mentioned at sl. No. 5 by the\nauthorized representative of ERO.",
+      "": ""
+    },
+    "source": {
+      "pdf": "1ddad79cad7ae232de4f21820f5be89f.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Sr.\nNo.": "",
+      "Name of\nOfficer/\nemployee\ndeputed\nby ERO\nto attend\nmeeting": "",
+      "Address\nof place\nwhere\nelectoral\nroll\nreading\nmeeting\nwas held": "",
+      "Date of\nmeeting": "",
+      "Serial\nNumber\nof Part\nor Parts\nof\nelectoral\nroll/s\nread in\nthe\nmeeting": "",
+      "Number\nof\npersons\nwho\nattended\nthe\nmeeting": "",
+      "Number\nof\npersons\nabove\n80\nyears of\nage in\nthe roll.": "",
+      "Number\nof families\nwith more\nthan 10\npersons\nregistered\nas voters\nin roll.": "",
+      "Number\nof dead\nvoters\nin roll": "",
+      "Number of\nclaims and\nobjections\nreceived\nuptill date of\nthis meeting.": "6",
+      "null": "8\nA"
+    },
+    "source": {
+      "pdf": "1ddad79cad7ae232de4f21820f5be89f.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Sr.\nNo.": "",
+      "Name of\nOfficer/\nemployee\ndeputed\nby ERO\nto attend\nmeeting": "",
+      "Address\nof place\nwhere\nelectoral\nroll\nreading\nmeeting\nwas held": "",
+      "Date of\nmeeting": "",
+      "Serial\nNumber\nof Part\nor Parts\nof\nelectoral\nroll/s\nread in\nthe\nmeeting": "",
+      "Number\nof\npersons\nwho\nattended\nthe\nmeeting": "",
+      "Number\nof\npersons\nabove\n80\nyears of\nage in\nthe roll.": "",
+      "Number\nof families\nwith more\nthan 10\npersons\nregistered\nas voters\nin roll.": "",
+      "Number\nof dead\nvoters\nin roll": "",
+      "Number of\nclaims and\nobjections\nreceived\nuptill date of\nthis meeting.": "",
+      "null": ""
+    },
+    "source": {
+      "pdf": "1ddad79cad7ae232de4f21820f5be89f.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Q1. What is an Electronic Voting machine? In what way its functioning is different from the": "conventional system of voting?"
+    },
+    "source": {
+      "pdf": "1ddad79cad7ae232de4f21820f5be89f.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Q1. What is an Electronic Voting machine? In what way its functioning is different from the": "Ans.An Electronic Voting Machine consists of two Units–a Control Unit and a Balloting Unit–joined"
+    },
+    "source": {
+      "pdf": "1ddad79cad7ae232de4f21820f5be89f.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Q1. What is an Electronic Voting machine? In what way its functioning is different from the": "by a cable. The Control Unit is with the Presiding Officer or a Polling Officer and the Balloting Unit is"
+    },
+    "source": {
+      "pdf": "1ddad79cad7ae232de4f21820f5be89f.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Q1. What is an Electronic Voting machine? In what way its functioning is different from the": "placed inside the voting compartment. Instead of issuing a ballot paper, the Polling Officer in-charge"
+    },
+    "source": {
+      "pdf": "1ddad79cad7ae232de4f21820f5be89f.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Q1. What is an Electronic Voting machine? In what way its functioning is different from the": "of the Control Unit will press the Ballot Button. This will enable the voter to cast his vote by pressing"
+    },
+    "source": {
+      "pdf": "1ddad79cad7ae232de4f21820f5be89f.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Q1. What is an Electronic Voting machine? In what way its functioning is different from the": "the blue button on the Balloting Unit against the candidate and symbol of his choice."
+    },
+    "source": {
+      "pdf": "1ddad79cad7ae232de4f21820f5be89f.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Q1. What is an Electronic Voting machine? In what way its functioning is different from the": "Q2. Can EVMs be used in areas where there is no electricity?"
+    },
+    "source": {
+      "pdf": "1ddad79cad7ae232de4f21820f5be89f.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Q1. What is an Electronic Voting machine? In what way its functioning is different from the": "Ans. EVMs run on an ordinary 6 volt alkaline battery therefore, even in areas with no power"
+    },
+    "source": {
+      "pdf": "1ddad79cad7ae232de4f21820f5be89f.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Q1. What is an Electronic Voting machine? In what way its functioning is different from the": "connections, EVMs can be used."
+    },
+    "source": {
+      "pdf": "1ddad79cad7ae232de4f21820f5be89f.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Q1. What is an Electronic Voting machine? In what way its functioning is different from the": "Q3. What is the maximum number of votes which can be cast in EVMs?"
+    },
+    "source": {
+      "pdf": "1ddad79cad7ae232de4f21820f5be89f.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Q1. What is an Electronic Voting machine? In what way its functioning is different from the": "Ans. EVMs can record a maximum of 3840 votes. As normally, the total number of electors in a"
+    },
+    "source": {
+      "pdf": "1ddad79cad7ae232de4f21820f5be89f.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Q1. What is an Electronic Voting machine? In what way its functioning is different from the": "polling station will not exceed 1500, the capacity of EVMs is more than sufficient."
+    },
+    "source": {
+      "pdf": "1ddad79cad7ae232de4f21820f5be89f.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Q1. What is an Electronic Voting machine? In what way its functioning is different from the": "Q4. What is the maximum number of candidates which EVMs can cater to?"
+    },
+    "source": {
+      "pdf": "1ddad79cad7ae232de4f21820f5be89f.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Q1. What is an Electronic Voting machine? In what way its functioning is different from the": "Ans.EVMs can cater to a maximumnumberof 64 candidates. There is provision for 16 candidates in"
+    },
+    "source": {
+      "pdf": "1ddad79cad7ae232de4f21820f5be89f.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Q1. What is an Electronic Voting machine? In what way its functioning is different from the": "a Balloting Unit. If the total number of candidates exceeds 16, upto three additional Balloting Units"
+    },
+    "source": {
+      "pdf": "1ddad79cad7ae232de4f21820f5be89f.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Q1. What is an Electronic Voting machine? In what way its functioning is different from the": "can be attached to cater to a maximumnumberof 64 candidates."
+    },
+    "source": {
+      "pdf": "1ddad79cad7ae232de4f21820f5be89f.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Q1. What is an Electronic Voting machine? In what way its functioning is different from the": "Q5. Who has devised the EVMs?"
+    },
+    "source": {
+      "pdf": "1ddad79cad7ae232de4f21820f5be89f.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Q1. What is an Electronic Voting machine? In what way its functioning is different from the": "Ans. The EVMs have been devised and designed by Election Commission in collaboration with two"
+    },
+    "source": {
+      "pdf": "1ddad79cad7ae232de4f21820f5be89f.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Q1. What is an Electronic Voting machine? In what way its functioning is different from the": "Public Sector undertakings viz., Bharat Electronics Ltd., Bangalore and Electronic Corporation of"
+    },
+    "source": {
+      "pdf": "1ddad79cad7ae232de4f21820f5be89f.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Q1. What is an Electronic Voting machine? In what way its functioning is different from the": "India Ltd., Hyderabad after a series of meetings, test-checking of the prototypes and extensive field"
+    },
+    "source": {
+      "pdf": "1ddad79cad7ae232de4f21820f5be89f.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Q1. What is an Electronic Voting machine? In what way its functioning is different from the": "trials. The EVMsare now manufactured by the above two undertakings."
+    },
+    "source": {
+      "pdf": "1ddad79cad7ae232de4f21820f5be89f.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Q1. What is an Electronic Voting machine? In what way its functioning is different from the": "Q6. In our country a sizeable section of the population being illiterate, will EVM not cause"
+    },
+    "source": {
+      "pdf": "1ddad79cad7ae232de4f21820f5be89f.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Q1. What is an Electronic Voting machine? In what way its functioning is different from the": "problems for the illiterate voters?"
+    },
+    "source": {
+      "pdf": "1ddad79cad7ae232de4f21820f5be89f.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Q1. What is an Electronic Voting machine? In what way its functioning is different from the": "Ans. In fact, voting by EVMs is simpler compared to the conventional system, where one has to put"
+    },
+    "source": {
+      "pdf": "1ddad79cad7ae232de4f21820f5be89f.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Q1. What is an Electronic Voting machine? In what way its functioning is different from the": "the voting mark on or near the symbol of the candidate of his choice, fold it first vertically and then"
+    },
+    "source": {
+      "pdf": "1ddad79cad7ae232de4f21820f5be89f.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Q1. What is an Electronic Voting machine? In what way its functioning is different from the": "horizontally and thereafter put it into the ballot box. In EVMs, the voter has to simply press the blue"
+    },
+    "source": {
+      "pdf": "1ddad79cad7ae232de4f21820f5be89f.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Q1. What is an Electronic Voting machine? In what way its functioning is different from the": "button against the candidate and symbol of his choice and the vote is recorded. Even illiterate people"
+    },
+    "source": {
+      "pdf": "1ddad79cad7ae232de4f21820f5be89f.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Q1. What is an Electronic Voting machine? In what way its functioning is different from the": "have had no difficulty in recording their votes and, in fact they have welcomed the use of EVMs."
+    },
+    "source": {
+      "pdf": "1ddad79cad7ae232de4f21820f5be89f.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Q1. What is an Electronic Voting machine? In what way its functioning is different from the": "Q7. Can booth-capturing be prevented by the use of EVMs?"
+    },
+    "source": {
+      "pdf": "1ddad79cad7ae232de4f21820f5be89f.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Q1. What is an Electronic Voting machine? In what way its functioning is different from the": "Ans.By booth-capturing, if one means, taking away or damaging of ballot boxes or ballot papers, this"
+    },
+    "source": {
+      "pdf": "1ddad79cad7ae232de4f21820f5be89f.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Q1. What is an Electronic Voting machine? In what way its functioning is different from the": "evil cannot be prevented by the use of EVMs as EVMs can also be forcibly taken away or damaged"
+    },
+    "source": {
+      "pdf": "1ddad79cad7ae232de4f21820f5be89f.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Q1. What is an Electronic Voting machine? In what way its functioning is different from the": "by miscreants. But if one looks at booth capturing as a case of miscreants intimidating the polling"
+    },
+    "source": {
+      "pdf": "1ddad79cad7ae232de4f21820f5be89f.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Q1. What is an Electronic Voting machine? In what way its functioning is different from the": "personnel and stamping the ballot papers on the symbol and escaping in a matter of minutes, this can"
+    },
+    "source": {
+      "pdf": "1ddad79cad7ae232de4f21820f5be89f.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Q1. What is an Electronic Voting machine? In what way its functioning is different from the": "be prevented by the use of EVMs. The EVMs are programmed in such a way that the machines will"
+    },
+    "source": {
+      "pdf": "1ddad79cad7ae232de4f21820f5be89f.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Q1. What is an Electronic Voting machine? In what way its functioning is different from the": "record only five votes in a minute. As recording of votes has necessarily to be through Control Unit"
+    },
+    "source": {
+      "pdf": "1ddad79cad7ae232de4f21820f5be89f.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Q1. What is an Electronic Voting machine? In what way its functioning is different from the": "and Balloting Unit, whatever be the number of miscreants they can record vote only at the rate of 5"
+    },
+    "source": {
+      "pdf": "1ddad79cad7ae232de4f21820f5be89f.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Q1. What is an Electronic Voting machine? In what way its functioning is different from the": "per minute. In the case of ballot papers, the miscreants can distribute all the 1000 odd ballot papers"
+    },
+    "source": {
+      "pdf": "1ddad79cad7ae232de4f21820f5be89f.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Q1. What is an Electronic Voting machine? In what way its functioning is different from the": "assigned to a polling station, among themselves, stamp them, stuff them into the ballot boxes and run"
+    },
+    "source": {
+      "pdf": "1ddad79cad7ae232de4f21820f5be89f.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "away before the police reinforcements reach. In half- an –hour, the miscreants can record only a": "maximum of 150 votes by which time, chances are the police reinforcement would have arrived."
+    },
+    "source": {
+      "pdf": "1ddad79cad7ae232de4f21820f5be89f.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "away before the police reinforcements reach. In half- an –hour, the miscreants can record only a": "Further, the presiding Officer or one of the Polling Officers can always press the \"close\" button as"
+    },
+    "source": {
+      "pdf": "1ddad79cad7ae232de4f21820f5be89f.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "away before the police reinforcements reach. In half- an –hour, the miscreants can record only a": "soon as they see some intruders inside the polling station. It will not be possible to record any vote"
+    },
+    "source": {
+      "pdf": "1ddad79cad7ae232de4f21820f5be89f.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "away before the police reinforcements reach. In half- an –hour, the miscreants can record only a": "when once the ‘close’ button is pressed and this will frustrate the efforts of the booth-capturers."
+    },
+    "source": {
+      "pdf": "1ddad79cad7ae232de4f21820f5be89f.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "away before the police reinforcements reach. In half- an –hour, the miscreants can record only a": "Q8. What are the advantages in using EVMs?"
+    },
+    "source": {
+      "pdf": "1ddad79cad7ae232de4f21820f5be89f.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "away before the police reinforcements reach. In half- an –hour, the miscreants can record only a": "Ans. The most important advantage is that the printing of millions of ballot papers can be dispensed"
+    },
+    "source": {
+      "pdf": "1ddad79cad7ae232de4f21820f5be89f.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "away before the police reinforcements reach. In half- an –hour, the miscreants can record only a": "with, as only one ballot paper is required for fixing on the Balloting Unit at each polling station instead"
+    },
+    "source": {
+      "pdf": "1ddad79cad7ae232de4f21820f5be89f.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "away before the police reinforcements reach. In half- an –hour, the miscreants can record only a": "of one ballot paper for each individual elector. This results in huge savings by way of cost of paper,"
+    },
+    "source": {
+      "pdf": "1ddad79cad7ae232de4f21820f5be89f.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "away before the police reinforcements reach. In half- an –hour, the miscreants can record only a": "printing, transportation, storage and distribution. Secondly, counting is very quick and the result can"
+    },
+    "source": {
+      "pdf": "1ddad79cad7ae232de4f21820f5be89f.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "away before the police reinforcements reach. In half- an –hour, the miscreants can record only a": "be declared within 2 to 3 hours as compared to 30-40 hours, on an average, under the conventional"
+    },
+    "source": {
+      "pdf": "1ddad79cad7ae232de4f21820f5be89f.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "away before the police reinforcements reach. In half- an –hour, the miscreants can record only a": "system. Thirdly, there are no invalid votes under the system of voting under EVMs. The importance of"
+    },
+    "source": {
+      "pdf": "1ddad79cad7ae232de4f21820f5be89f.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "away before the police reinforcements reach. In half- an –hour, the miscreants can record only a": "this will be better appreciated, if it is remembered that in every General Election, the number of invalid"
+    },
+    "source": {
+      "pdf": "1ddad79cad7ae232de4f21820f5be89f.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "away before the police reinforcements reach. In half- an –hour, the miscreants can record only a": "votes is more than the winning margin between the winning candidate and the second candidate, in a"
+    },
+    "source": {
+      "pdf": "1ddad79cad7ae232de4f21820f5be89f.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "away before the police reinforcements reach. In half- an –hour, the miscreants can record only a": "number of constituencies. To this extent, the choice of the electorate will be more correctly reflected"
+    },
+    "source": {
+      "pdf": "1ddad79cad7ae232de4f21820f5be89f.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "away before the police reinforcements reach. In half- an –hour, the miscreants can record only a": "when EVMs are used."
+    },
+    "source": {
+      "pdf": "1ddad79cad7ae232de4f21820f5be89f.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "away before the police reinforcements reach. In half- an –hour, the miscreants can record only a": "Q9. Does the use of EVMs slow down the pace of poll?"
+    },
+    "source": {
+      "pdf": "1ddad79cad7ae232de4f21820f5be89f.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "away before the police reinforcements reach. In half- an –hour, the miscreants can record only a": "Ans. No. In fact the pace of poll is quickened by the use of EVMs as it is not necessary for the voter"
+    },
+    "source": {
+      "pdf": "1ddad79cad7ae232de4f21820f5be89f.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "away before the police reinforcements reach. In half- an –hour, the miscreants can record only a": "to first unfold the ballot paper, mark his preference, fold it again, go to the place where the ballot box"
+    },
+    "source": {
+      "pdf": "1ddad79cad7ae232de4f21820f5be89f.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "away before the police reinforcements reach. In half- an –hour, the miscreants can record only a": "is kept and drop it in the box. What he has to do under the system of EVMs is simply to press the"
+    },
+    "source": {
+      "pdf": "1ddad79cad7ae232de4f21820f5be89f.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "away before the police reinforcements reach. In half- an –hour, the miscreants can record only a": "button near the candidate and symbol of his choice."
+    },
+    "source": {
+      "pdf": "1ddad79cad7ae232de4f21820f5be89f.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "away before the police reinforcements reach. In half- an –hour, the miscreants can record only a": "Q10. Is it possible to vote more than once bypressing the button again and again?"
+    },
+    "source": {
+      "pdf": "1ddad79cad7ae232de4f21820f5be89f.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "away before the police reinforcements reach. In half- an –hour, the miscreants can record only a": "Ans. No. As soon as a particular button on the Balloting Unit is pressed, the vote is recorded for that"
+    },
+    "source": {
+      "pdf": "1ddad79cad7ae232de4f21820f5be89f.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "away before the police reinforcements reach. In half- an –hour, the miscreants can record only a": "particular candidate and the machine gets locked. Even if one presses that button further or any other"
+    },
+    "source": {
+      "pdf": "1ddad79cad7ae232de4f21820f5be89f.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "away before the police reinforcements reach. In half- an –hour, the miscreants can record only a": "button, no further vote will be recorded. This way the EVMs ensure the principle of \"one man, one"
+    },
+    "source": {
+      "pdf": "1ddad79cad7ae232de4f21820f5be89f.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "away before the police reinforcements reach. In half- an –hour, the miscreants can record only a": "vote\"."
+    },
+    "source": {
+      "pdf": "1ddad79cad7ae232de4f21820f5be89f.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "away before the police reinforcements reach. In half- an –hour, the miscreants can record only a": "Q11. Is it true that sometimes because of short-circuitry or other reason, a voter is likely to get"
+    },
+    "source": {
+      "pdf": "1ddad79cad7ae232de4f21820f5be89f.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "away before the police reinforcements reach. In half- an –hour, the miscreants can record only a": "an electric shock while pressing the blue button ?"
+    },
+    "source": {
+      "pdf": "1ddad79cad7ae232de4f21820f5be89f.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "away before the police reinforcements reach. In half- an –hour, the miscreants can record only a": "Ans. No. EVMs work on a 6-volt battery and there is absolutely no chance of any voter getting an"
+    },
+    "source": {
+      "pdf": "1ddad79cad7ae232de4f21820f5be89f.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "away before the police reinforcements reach. In half- an –hour, the miscreants can record only a": "electric shock at the time of pressing the `blue button’ or at any time of handling the balloting unit."
+    },
+    "source": {
+      "pdf": "1ddad79cad7ae232de4f21820f5be89f.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "away before the police reinforcements reach. In half- an –hour, the miscreants can record only a": ""
+    },
+    "source": {
+      "pdf": "1ddad79cad7ae232de4f21820f5be89f.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Do’s": "General",
+      "null": null,
+      "Don’ts": null
+    },
+    "source": {
+      "pdf": "1ddad79cad7ae232de4f21820f5be89f.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Do’s": "1",
+      "null": "Do not ever accord less importance\nto this work than any other work.\nNeither be complacent nor perform it\nin piecemeal.",
+      "Don’ts": "1"
+    },
+    "source": {
+      "pdf": "1ddad79cad7ae232de4f21820f5be89f.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Do’s": "2",
+      "null": "Do not behave with applicants/\nelectors/other people in an angry and\ndiscourteous manner while on tour in\nyour area. Never use improper\nlanguage",
+      "Don’ts": "2"
+    },
+    "source": {
+      "pdf": "1ddad79cad7ae232de4f21820f5be89f.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Do’s": "3",
+      "null": "Do not work in a Part area other than\nthe one allotted to you. Do not get\nyour work done by any other/\nunauthorized person.\nIf you are a teacher, under no\ncircumstances you should be\nfound using your students for this\nwork.",
+      "Don’ts": "3"
+    },
+    "source": {
+      "pdf": "1ddad79cad7ae232de4f21820f5be89f.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Do’s": "4",
+      "null": "Do not make any structural changes\nin the Electoral Roll at your level.\nOnly the Electoral Registration\nOfficer is competent to bring about\nsuch changes; therefore if any such\nerror is found it should be brought to\nthe notice of the ERO/AERO in\nwriting.",
+      "Don’ts": "4"
+    },
+    "source": {
+      "pdf": "1ddad79cad7ae232de4f21820f5be89f.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Do’s": "5",
+      "null": "Do not charge any money from any\napplicant for providing Form 6, Form\n6A, Form 7, Form 8 and Form 8A.\nRemember that these forms are to\nbe provided to the electors /\napplicants free of cost",
+      "Don’ts": "5"
+    },
+    "source": {
+      "pdf": "1ddad79cad7ae232de4f21820f5be89f.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Do’s": "6",
+      "null": "In important matters, do not base\nyour enquiry upon verbal statement\nof some person. Where required, ask\nfor valid documents in support of\ntheir claim from the\nelectors/applicants.",
+      "Don’ts": "6"
+    },
+    "source": {
+      "pdf": "1ddad79cad7ae232de4f21820f5be89f.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Do’s": "7",
+      "null": "Neither give the election related\ndocuments/records/registers under\nyour charge to any unauthorized",
+      "Don’ts": "7"
+    },
+    "source": {
+      "pdf": "1ddad79cad7ae232de4f21820f5be89f.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Do’s": "",
+      "null": "person nor keep these at any\nunauthorized place.",
+      "Don’ts": ""
+    },
+    "source": {
+      "pdf": "1ddad79cad7ae232de4f21820f5be89f.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Do’s": "8",
+      "null": "Never take the meetings or trainings\nlightly, never be absent during them\nand never make any adverse\ncomments concerning them before\nan unauthorized/ outside person.",
+      "Don’ts": "8"
+    },
+    "source": {
+      "pdf": "1ddad79cad7ae232de4f21820f5be89f.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Do’s": "9",
+      "null": "",
+      "Don’ts": ""
+    },
+    "source": {
+      "pdf": "1ddad79cad7ae232de4f21820f5be89f.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Do’s": "During revision of Electoral Roll",
+      "null": null,
+      "Don’ts": null
+    },
+    "source": {
+      "pdf": "1ddad79cad7ae232de4f21820f5be89f.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Do’s": "1",
+      "null": "Do not receive incomplete\napplications or those submitted in\nwrong form – inform the applicant/\nelector of the errors and get them\nremoved then and there. Do not\nreceive unsigned applications also.",
+      "Don’ts": "1"
+    },
+    "source": {
+      "pdf": "1ddad79cad7ae232de4f21820f5be89f.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Do’s": "2",
+      "null": "Do not receive applications in bulk\nquantities or from unauthorized\npersons. If more than one application\npertaining to the members of the\nsame family is given, only those can\nbe obtained from any family member.",
+      "Don’ts": "2"
+    },
+    "source": {
+      "pdf": "1ddad79cad7ae232de4f21820f5be89f.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Do’s": "3",
+      "null": "Do not deny the receipt against the\napplications received.",
+      "Don’ts": "3"
+    },
+    "source": {
+      "pdf": "1ddad79cad7ae232de4f21820f5be89f.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Do’s": "4",
+      "null": "If a person submits an objection in\nForm 7 regarding some other elector\nbut the person raising objection is\nhimself not the elector of that Part\narea, then do not receive the\napplication in Form 7 from him.",
+      "Don’ts": "4"
+    },
+    "source": {
+      "pdf": "1ddad79cad7ae232de4f21820f5be89f.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Do’s": "5",
+      "null": "Never submit a wrong report under\nexternal pressure.",
+      "Don’ts": "5"
+    },
+    "source": {
+      "pdf": "1ddad79cad7ae232de4f21820f5be89f.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Do’s": "In course of continuous updating of Electoral Roll",
+      "null": null,
+      "Don’ts": null
+    },
+    "source": {
+      "pdf": "1ddad79cad7ae232de4f21820f5be89f.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Do’s": "1",
+      "null": "",
+      "Don’ts": ""
+    },
+    "source": {
+      "pdf": "1ddad79cad7ae232de4f21820f5be89f.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Do’s": "2",
+      "null": "",
+      "Don’ts": ""
+    },
+    "source": {
+      "pdf": "1ddad79cad7ae232de4f21820f5be89f.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Do’s": "",
+      "null": "",
+      "Don’ts": ""
+    },
+    "source": {
+      "pdf": "1ddad79cad7ae232de4f21820f5be89f.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Do’s": "3",
+      "null": "",
+      "Don’ts": ""
+    },
+    "source": {
+      "pdf": "1ddad79cad7ae232de4f21820f5be89f.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Do’s": "During EPIC/photo collection campaign",
+      "null": null,
+      "Don’ts": null
+    },
+    "source": {
+      "pdf": "1ddad79cad7ae232de4f21820f5be89f.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Do’s": "1",
+      "null": "Do not encourage submission of\napplications in non-statutory form\nECI-EPIC-001A and 001B–as far as\npossible; The applications along with\nphotograph of electors should be\nobtained in Form 8.",
+      "Don’ts": "1"
+    },
+    "source": {
+      "pdf": "1ddad79cad7ae232de4f21820f5be89f.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Do’s": "2",
+      "null": "Do not receive unclear, crumpled\nphotographs or such photographs in\nwhich the elector could not be\nidentified properly.",
+      "Don’ts": "2"
+    },
+    "source": {
+      "pdf": "1ddad79cad7ae232de4f21820f5be89f.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Do’s": "3",
+      "null": "Do not receive black and white\nphotograph, stamp size photograph\nor group photograph of the elector\nwith other people.",
+      "Don’ts": "3"
+    },
+    "source": {
+      "pdf": "1ddad79cad7ae232de4f21820f5be89f.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Do’s": "4",
+      "null": "When the DEO/ERO arrange for\ngetting the electors photographed,\nensure that the photographs are not\ntaken from a digital camera with less\nthan 2 megapixel capacity.",
+      "Don’ts": "4"
+    },
+    "source": {
+      "pdf": "1ddad79cad7ae232de4f21820f5be89f.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Do’s": "",
+      "null": "Do not leave your position without\nproper handing over to the next\nincumbent or to the ERO/AERO as\nmaybe directed.",
+      "Don’ts": ""
+    },
+    "source": {
+      "pdf": "1ddad79cad7ae232de4f21820f5be89f.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "1. (c)\n2. (c)\n3. (a)\n4. (a)\n5. (d)\n6. (a)\n7. (b)\n8. (c)\n9. (a)\n10. (d)\n11. (b)\n12. (a)\n13. (b)\n14. (b)\n15. (c)": "",
+      "16. (a)\n17. (b)\n18. (a)\n19. (b)\n20. (c)\n21. (a)\n22. (d)\n23. (b)\n24. (d)\n25. (d)\n26. (d)\n27. (d)\n28. (c)\n29. (b)\n30. (b)": "",
+      "31. (d)": ""
+    },
+    "source": {
+      "pdf": "1ddad79cad7ae232de4f21820f5be89f.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "1. (c)\n2. (c)\n3. (a)\n4. (a)\n5. (d)\n6. (a)\n7. (b)\n8. (c)\n9. (a)\n10. (d)\n11. (b)\n12. (a)\n13. (b)\n14. (b)\n15. (c)": "",
+      "16. (a)\n17. (b)\n18. (a)\n19. (b)\n20. (c)\n21. (a)\n22. (d)\n23. (b)\n24. (d)\n25. (d)\n26. (d)\n27. (d)\n28. (c)\n29. (b)\n30. (b)": "",
+      "31. (d)": ""
+    },
+    "source": {
+      "pdf": "1ddad79cad7ae232de4f21820f5be89f.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "1. (c)\n2. (c)\n3. (a)\n4. (a)\n5. (d)\n6. (a)\n7. (b)\n8. (c)\n9. (a)\n10. (d)\n11. (b)\n12. (a)\n13. (b)\n14. (b)\n15. (c)": "",
+      "16. (a)\n17. (b)\n18. (a)\n19. (b)\n20. (c)\n21. (a)\n22. (d)\n23. (b)\n24. (d)\n25. (d)\n26. (d)\n27. (d)\n28. (c)\n29. (b)\n30. (b)": "",
+      "31. (d)": ""
+    },
+    "source": {
+      "pdf": "1ddad79cad7ae232de4f21820f5be89f.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "1. (c)\n2. (c)\n3. (a)\n4. (a)\n5. (d)\n6. (a)\n7. (b)\n8. (c)\n9. (a)\n10. (d)\n11. (b)\n12. (a)\n13. (b)\n14. (b)\n15. (c)": "",
+      "16. (a)\n17. (b)\n18. (a)\n19. (b)\n20. (c)\n21. (a)\n22. (d)\n23. (b)\n24. (d)\n25. (d)\n26. (d)\n27. (d)\n28. (c)\n29. (b)\n30. (b)": "",
+      "31. (d)": ""
+    },
+    "source": {
+      "pdf": "1ddad79cad7ae232de4f21820f5be89f.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "1. (c)\n2. (c)\n3. (a)\n4. (a)\n5. (d)\n6. (a)\n7. (b)\n8. (c)\n9. (a)\n10. (d)\n11. (b)\n12. (a)\n13. (b)\n14. (b)\n15. (c)": "",
+      "16. (a)\n17. (b)\n18. (a)\n19. (b)\n20. (c)\n21. (a)\n22. (d)\n23. (b)\n24. (d)\n25. (d)\n26. (d)\n27. (d)\n28. (c)\n29. (b)\n30. (b)": "",
+      "31. (d)": ""
+    },
+    "source": {
+      "pdf": "1ddad79cad7ae232de4f21820f5be89f.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "1. (c)\n2. (c)\n3. (a)\n4. (a)\n5. (d)\n6. (a)\n7. (b)\n8. (c)\n9. (a)\n10. (d)\n11. (b)\n12. (a)\n13. (b)\n14. (b)\n15. (c)": "",
+      "16. (a)\n17. (b)\n18. (a)\n19. (b)\n20. (c)\n21. (a)\n22. (d)\n23. (b)\n24. (d)\n25. (d)\n26. (d)\n27. (d)\n28. (c)\n29. (b)\n30. (b)": "",
+      "31. (d)": ""
+    },
+    "source": {
+      "pdf": "1ddad79cad7ae232de4f21820f5be89f.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "1. (c)\n2. (c)\n3. (a)\n4. (a)\n5. (d)\n6. (a)\n7. (b)\n8. (c)\n9. (a)\n10. (d)\n11. (b)\n12. (a)\n13. (b)\n14. (b)\n15. (c)": "",
+      "16. (a)\n17. (b)\n18. (a)\n19. (b)\n20. (c)\n21. (a)\n22. (d)\n23. (b)\n24. (d)\n25. (d)\n26. (d)\n27. (d)\n28. (c)\n29. (b)\n30. (b)": "",
+      "31. (d)": ""
+    },
+    "source": {
+      "pdf": "1ddad79cad7ae232de4f21820f5be89f.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "1. (c)\n2. (c)\n3. (a)\n4. (a)\n5. (d)\n6. (a)\n7. (b)\n8. (c)\n9. (a)\n10. (d)\n11. (b)\n12. (a)\n13. (b)\n14. (b)\n15. (c)": "",
+      "16. (a)\n17. (b)\n18. (a)\n19. (b)\n20. (c)\n21. (a)\n22. (d)\n23. (b)\n24. (d)\n25. (d)\n26. (d)\n27. (d)\n28. (c)\n29. (b)\n30. (b)": "",
+      "31. (d)": ""
+    },
+    "source": {
+      "pdf": "1ddad79cad7ae232de4f21820f5be89f.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "1. (c)\n2. (c)\n3. (a)\n4. (a)\n5. (d)\n6. (a)\n7. (b)\n8. (c)\n9. (a)\n10. (d)\n11. (b)\n12. (a)\n13. (b)\n14. (b)\n15. (c)": "",
+      "16. (a)\n17. (b)\n18. (a)\n19. (b)\n20. (c)\n21. (a)\n22. (d)\n23. (b)\n24. (d)\n25. (d)\n26. (d)\n27. (d)\n28. (c)\n29. (b)\n30. (b)": "",
+      "31. (d)": ""
+    },
+    "source": {
+      "pdf": "1ddad79cad7ae232de4f21820f5be89f.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "1. (c)\n2. (c)\n3. (a)\n4. (a)\n5. (d)\n6. (a)\n7. (b)\n8. (c)\n9. (a)\n10. (d)\n11. (b)\n12. (a)\n13. (b)\n14. (b)\n15. (c)": "",
+      "16. (a)\n17. (b)\n18. (a)\n19. (b)\n20. (c)\n21. (a)\n22. (d)\n23. (b)\n24. (d)\n25. (d)\n26. (d)\n27. (d)\n28. (c)\n29. (b)\n30. (b)": "",
+      "31. (d)": ""
+    },
+    "source": {
+      "pdf": "1ddad79cad7ae232de4f21820f5be89f.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "": ""
+    },
+    "source": {
+      "pdf": "1ddad79cad7ae232de4f21820f5be89f.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "": ""
+    },
+    "source": {
+      "pdf": "1ddad79cad7ae232de4f21820f5be89f.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "": ""
+    },
+    "source": {
+      "pdf": "1ddad79cad7ae232de4f21820f5be89f.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "X": "",
+      "": ""
+    },
+    "source": {
+      "pdf": "1ddad79cad7ae232de4f21820f5be89f.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "X": "",
+      "": "X"
+    },
+    "source": {
+      "pdf": "1ddad79cad7ae232de4f21820f5be89f.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "X": "",
+      "": "X"
+    },
+    "source": {
+      "pdf": "1ddad79cad7ae232de4f21820f5be89f.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "X": "X",
+      "": ""
+    },
+    "source": {
+      "pdf": "1ddad79cad7ae232de4f21820f5be89f.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "X": "",
+      "": ""
+    },
+    "source": {
+      "pdf": "1ddad79cad7ae232de4f21820f5be89f.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "X": "",
+      "": ""
+    },
+    "source": {
+      "pdf": "1ddad79cad7ae232de4f21820f5be89f.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "X": "X",
+      "": "X"
+    },
+    "source": {
+      "pdf": "1ddad79cad7ae232de4f21820f5be89f.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "X": "",
+      "": "X"
+    },
+    "source": {
+      "pdf": "1ddad79cad7ae232de4f21820f5be89f.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  }
+]

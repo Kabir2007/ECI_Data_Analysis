@@ -1,0 +1,3645 @@
+[
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Application for inclusion of name in electoral roll": "To\nThe Electoral Registration Officer,\n------------------------------Assembly/Parliamentary£ Constituency.\nSir,\nI request that my name be included in the electoral roll for the above Constituency. Particulars in\nsupport of my claim for inclusion in the electoral roll are given below:",
+      "null": null
+    },
+    "source": {
+      "pdf": "f939224b298beb94cfd7a34a1576267b.pdf",
+      "task": "form6_additions"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Application for inclusion of name in electoral roll": "I. Applicant’s details",
+      "null": null
+    },
+    "source": {
+      "pdf": "f939224b298beb94cfd7a34a1576267b.pdf",
+      "task": "form6_additions"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Application for inclusion of name in electoral roll": null,
+      "null": null
+    },
+    "source": {
+      "pdf": "f939224b298beb94cfd7a34a1576267b.pdf",
+      "task": "form6_additions"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Application for inclusion of name in electoral roll": "Age as on 1st January……….#",
+      "null": null
+    },
+    "source": {
+      "pdf": "f939224b298beb94cfd7a34a1576267b.pdf",
+      "task": "form6_additions"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Application for inclusion of name in electoral roll": "Date of birth, if known :",
+      "null": null
+    },
+    "source": {
+      "pdf": "f939224b298beb94cfd7a34a1576267b.pdf",
+      "task": "form6_additions"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Application for inclusion of name in electoral roll": "Place of birth :",
+      "null": null
+    },
+    "source": {
+      "pdf": "f939224b298beb94cfd7a34a1576267b.pdf",
+      "task": "form6_additions"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Application for inclusion of name in electoral roll": null,
+      "null": null
+    },
+    "source": {
+      "pdf": "f939224b298beb94cfd7a34a1576267b.pdf",
+      "task": "form6_additions"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Application for inclusion of name in electoral roll": "*Father’s\nMother’s Name\nHusband’s",
+      "null": null
+    },
+    "source": {
+      "pdf": "f939224b298beb94cfd7a34a1576267b.pdf",
+      "task": "form6_additions"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Application for inclusion of name in electoral roll": null,
+      "null": null
+    },
+    "source": {
+      "pdf": "f939224b298beb94cfd7a34a1576267b.pdf",
+      "task": "form6_additions"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Application for inclusion of name in electoral roll": "II.",
+      "null": null
+    },
+    "source": {
+      "pdf": "f939224b298beb94cfd7a34a1576267b.pdf",
+      "task": "form6_additions"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Application for inclusion of name in electoral roll": "House / Door number :",
+      "null": null
+    },
+    "source": {
+      "pdf": "f939224b298beb94cfd7a34a1576267b.pdf",
+      "task": "form6_additions"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Application for inclusion of name in electoral roll": "Street/ Area/Locality/Mohalla/ Road :",
+      "null": null
+    },
+    "source": {
+      "pdf": "f939224b298beb94cfd7a34a1576267b.pdf",
+      "task": "form6_additions"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Application for inclusion of name in electoral roll": "Town / Village :",
+      "null": null
+    },
+    "source": {
+      "pdf": "f939224b298beb94cfd7a34a1576267b.pdf",
+      "task": "form6_additions"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Application for inclusion of name in electoral roll": "Post Office :",
+      "null": ""
+    },
+    "source": {
+      "pdf": "f939224b298beb94cfd7a34a1576267b.pdf",
+      "task": "form6_additions"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Application for inclusion of name in electoral roll": "Tehsil/Taluka/Mandal/Thana :",
+      "null": null
+    },
+    "source": {
+      "pdf": "f939224b298beb94cfd7a34a1576267b.pdf",
+      "task": "form6_additions"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Application for inclusion of name in electoral roll": "District :",
+      "null": null
+    },
+    "source": {
+      "pdf": "f939224b298beb94cfd7a34a1576267b.pdf",
+      "task": "form6_additions"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "1.": "2.",
+      "null": null,
+      "": ""
+    },
+    "source": {
+      "pdf": "f939224b298beb94cfd7a34a1576267b.pdf",
+      "task": "form6_additions"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "1.": "IV. Declaration:\nI hereby declare that to the best of my knowledge and belief-\n(i) I am a citizen of India; (ii) I am ordinarily resident at the address given in para II above since……..\n(date, month, year); (iii) I have not applied for the inclusion of my name in the electoral roll for any other\nconstituency; (iv) my name has not already been included in the electoral roll for this or any other\nassembly constituency;\nor\n* my name may have been included in the electoral roll for ………………………..constituency in ………\n…………………….State in which I was ordinarily resident earlier at the address mentioned below and, if\nso, I request that the same may be deleted from that electoral roll.\nFull address (Earlier place of ordinary residence):",
+      "null": null,
+      "": null
+    },
+    "source": {
+      "pdf": "f939224b298beb94cfd7a34a1576267b.pdf",
+      "task": "form6_additions"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "1.": "",
+      "null": "Electors photo identity card (if issued) number;…………, date of issue…………",
+      "": null
+    },
+    "source": {
+      "pdf": "f939224b298beb94cfd7a34a1576267b.pdf",
+      "task": "form6_additions"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "1.": "Place:\nDate: Signature or thumb impression of the applicant",
+      "null": null,
+      "": null
+    },
+    "source": {
+      "pdf": "f939224b298beb94cfd7a34a1576267b.pdf",
+      "task": "form6_additions"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Application for objecting inclusion or seeking deletion of name in electoral roll": "To\nThe Electoral Registration Officer,\n------------------------------Assembly/£ Parliamentary Constituency.\nSir,\n@ I object to the proposed inclusion of the name of the undermentioned person in the electoral roll\nfor the above constituency. Particulars in support of my objection are given below:\nor\n@ I submit that the entry relating to *myself/*the person named below is required to be deleted for\nthe reasons stated hereunder:",
+      "null": null
+    },
+    "source": {
+      "pdf": "f939224b298beb94cfd7a34a1576267b.pdf",
+      "task": "form6_additions"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Application for objecting inclusion or seeking deletion of name in electoral roll": "I. @Details of person\ninclusion of whose name is\nobjected to:\n@ Details of person\nwhose entry is to be\ndeleted:",
+      "null": null
+    },
+    "source": {
+      "pdf": "f939224b298beb94cfd7a34a1576267b.pdf",
+      "task": "form6_additions"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Application for objecting inclusion or seeking deletion of name in electoral roll": null,
+      "null": null
+    },
+    "source": {
+      "pdf": "f939224b298beb94cfd7a34a1576267b.pdf",
+      "task": "form6_additions"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Application for objecting inclusion or seeking deletion of name in electoral roll": null,
+      "null": null
+    },
+    "source": {
+      "pdf": "f939224b298beb94cfd7a34a1576267b.pdf",
+      "task": "form6_additions"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Application for objecting inclusion or seeking deletion of name in electoral roll": "#II.",
+      "null": null
+    },
+    "source": {
+      "pdf": "f939224b298beb94cfd7a34a1576267b.pdf",
+      "task": "form6_additions"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Application for objecting inclusion or seeking deletion of name in electoral roll": null,
+      "null": null
+    },
+    "source": {
+      "pdf": "f939224b298beb94cfd7a34a1576267b.pdf",
+      "task": "form6_additions"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Application for objecting inclusion or seeking deletion of name in electoral roll": "",
+      "null": null
+    },
+    "source": {
+      "pdf": "f939224b298beb94cfd7a34a1576267b.pdf",
+      "task": "form6_additions"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Application for objecting inclusion or seeking deletion of name in electoral roll": "*Father’s\nMother’s Name\nHusband’s",
+      "null": null
+    },
+    "source": {
+      "pdf": "f939224b298beb94cfd7a34a1576267b.pdf",
+      "task": "form6_additions"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Application for objecting inclusion or seeking deletion of name in electoral roll": null,
+      "null": null
+    },
+    "source": {
+      "pdf": "f939224b298beb94cfd7a34a1576267b.pdf",
+      "task": "form6_additions"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Application for objecting inclusion or seeking deletion of name in electoral roll": "III.",
+      "null": null
+    },
+    "source": {
+      "pdf": "f939224b298beb94cfd7a34a1576267b.pdf",
+      "task": "form6_additions"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Application for objecting inclusion or seeking deletion of name in electoral roll": "House / Door number:",
+      "null": null
+    },
+    "source": {
+      "pdf": "f939224b298beb94cfd7a34a1576267b.pdf",
+      "task": "form6_additions"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Application for objecting inclusion or seeking deletion of name in electoral roll": "Street/Area/Locality/Mohalla/Road:",
+      "null": null
+    },
+    "source": {
+      "pdf": "f939224b298beb94cfd7a34a1576267b.pdf",
+      "task": "form6_additions"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Application for objecting inclusion or seeking deletion of name in electoral roll": "Town / Village:",
+      "null": null
+    },
+    "source": {
+      "pdf": "f939224b298beb94cfd7a34a1576267b.pdf",
+      "task": "form6_additions"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Application for objecting inclusion or seeking deletion of name in electoral roll": "Post Office:",
+      "null": ""
+    },
+    "source": {
+      "pdf": "f939224b298beb94cfd7a34a1576267b.pdf",
+      "task": "form6_additions"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Application for objecting inclusion or seeking deletion of name in electoral roll": "Tehsil/Taluka/Mandal/Thana:",
+      "null": null
+    },
+    "source": {
+      "pdf": "f939224b298beb94cfd7a34a1576267b.pdf",
+      "task": "form6_additions"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Application for objecting inclusion or seeking deletion of name in electoral roll": "District:",
+      "null": null
+    },
+    "source": {
+      "pdf": "f939224b298beb94cfd7a34a1576267b.pdf",
+      "task": "form6_additions"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "IV. Reason(s) for objection/*deletion:": "V. Declaration:\nI hereby declare that the facts and particulars mentioned above are true to the best of my knowledge and\nbelief.\nPlace:\nDate: Signature or thumb impression of the applicant"
+    },
+    "source": {
+      "pdf": "f939224b298beb94cfd7a34a1576267b.pdf",
+      "task": "form6_additions"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Application for correction to particulars entered in electoral roll": "To\nThe Electoral Registration Officer,\n------------------------------Assembly/Parliamentary£constituency.\nSir,\nI request that entry relating to myself appearing in the electoral roll for the above constituency is not\ncorrect and it should be corrected. Correct particulars in support of my request are given below:-",
+      "null": null
+    },
+    "source": {
+      "pdf": "f939224b298beb94cfd7a34a1576267b.pdf",
+      "task": "form6_additions"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Application for correction to particulars entered in electoral roll": "I. Applicant’s details",
+      "null": null
+    },
+    "source": {
+      "pdf": "f939224b298beb94cfd7a34a1576267b.pdf",
+      "task": "form6_additions"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Application for correction to particulars entered in electoral roll": null,
+      "null": null
+    },
+    "source": {
+      "pdf": "f939224b298beb94cfd7a34a1576267b.pdf",
+      "task": "form6_additions"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Application for correction to particulars entered in electoral roll": "Part number of electoral roll:",
+      "null": null
+    },
+    "source": {
+      "pdf": "f939224b298beb94cfd7a34a1576267b.pdf",
+      "task": "form6_additions"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Application for correction to particulars entered in electoral roll": "Age as on 1st January……….#",
+      "null": null
+    },
+    "source": {
+      "pdf": "f939224b298beb94cfd7a34a1576267b.pdf",
+      "task": "form6_additions"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Application for correction to particulars entered in electoral roll": "Date of birth, if known:",
+      "null": null
+    },
+    "source": {
+      "pdf": "f939224b298beb94cfd7a34a1576267b.pdf",
+      "task": "form6_additions"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Application for correction to particulars entered in electoral roll": "*Father’s\nMother’s Name\nHusband’s",
+      "null": null
+    },
+    "source": {
+      "pdf": "f939224b298beb94cfd7a34a1576267b.pdf",
+      "task": "form6_additions"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Application for correction to particulars entered in electoral roll": null,
+      "null": null
+    },
+    "source": {
+      "pdf": "f939224b298beb94cfd7a34a1576267b.pdf",
+      "task": "form6_additions"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Application for correction to particulars entered in electoral roll": "II.",
+      "null": null
+    },
+    "source": {
+      "pdf": "f939224b298beb94cfd7a34a1576267b.pdf",
+      "task": "form6_additions"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Application for correction to particulars entered in electoral roll": "House / Door number:",
+      "null": null
+    },
+    "source": {
+      "pdf": "f939224b298beb94cfd7a34a1576267b.pdf",
+      "task": "form6_additions"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Application for correction to particulars entered in electoral roll": "Street/ Area/Locality/Mohalla/ Road:",
+      "null": null
+    },
+    "source": {
+      "pdf": "f939224b298beb94cfd7a34a1576267b.pdf",
+      "task": "form6_additions"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Application for correction to particulars entered in electoral roll": "Town / Village:",
+      "null": null
+    },
+    "source": {
+      "pdf": "f939224b298beb94cfd7a34a1576267b.pdf",
+      "task": "form6_additions"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Application for correction to particulars entered in electoral roll": "Post Office:",
+      "null": ""
+    },
+    "source": {
+      "pdf": "f939224b298beb94cfd7a34a1576267b.pdf",
+      "task": "form6_additions"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Application for correction to particulars entered in electoral roll": "Tehsil/Taluka/Mandal/Thana:",
+      "null": null
+    },
+    "source": {
+      "pdf": "f939224b298beb94cfd7a34a1576267b.pdf",
+      "task": "form6_additions"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Application for correction to particulars entered in electoral roll": "District:",
+      "null": null
+    },
+    "source": {
+      "pdf": "f939224b298beb94cfd7a34a1576267b.pdf",
+      "task": "form6_additions"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Application for correction to particulars entered in electoral roll": "III. Details of Electors’ photo identity card (if issued, in this or some other constituency)",
+      "null": null
+    },
+    "source": {
+      "pdf": "f939224b298beb94cfd7a34a1576267b.pdf",
+      "task": "form6_additions"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Application for correction to particulars entered in electoral roll": "Electors’ photo identity card number:",
+      "null": null
+    },
+    "source": {
+      "pdf": "f939224b298beb94cfd7a34a1576267b.pdf",
+      "task": "form6_additions"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Application for correction to particulars entered in electoral roll": "Name of the constituency:",
+      "null": null
+    },
+    "source": {
+      "pdf": "f939224b298beb94cfd7a34a1576267b.pdf",
+      "task": "form6_additions"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Application for correction to particulars entered in electoral roll": "IV. Details of entries to be corrected:\n*My name/*Age/*Father’s/Mother’s/Husband’s name/*Sex/Address/*Electors’ photo identity card number\nmay be corrected in terms of information provided in this Form above.",
+      "null": null
+    },
+    "source": {
+      "pdf": "f939224b298beb94cfd7a34a1576267b.pdf",
+      "task": "form6_additions"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Application for correction to particulars entered in electoral roll": "Place:\nDate: Signature or thumb impression of the elector",
+      "null": null
+    },
+    "source": {
+      "pdf": "f939224b298beb94cfd7a34a1576267b.pdf",
+      "task": "form6_additions"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Application for transposition of entry in electoral roll": "To\nThe Electoral Registration Officer,\n------------------------------Assembly/Parliamentary£ Constituency.\nSir,\nI request that the entry in the electoral roll for the above mentioned constituency relating to\n*myself/*person named below should be transposed to the relevant part of the roll in this constituency.\nParticulars of the entry to be transposed are given below:",
+      "null": null
+    },
+    "source": {
+      "pdf": "f939224b298beb94cfd7a34a1576267b.pdf",
+      "task": "form6_additions"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Application for transposition of entry in electoral roll": "I. Details of\nperson whose\nentry is to\nbe transposed:",
+      "null": null
+    },
+    "source": {
+      "pdf": "f939224b298beb94cfd7a34a1576267b.pdf",
+      "task": "form6_additions"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Application for transposition of entry in electoral roll": null,
+      "null": null
+    },
+    "source": {
+      "pdf": "f939224b298beb94cfd7a34a1576267b.pdf",
+      "task": "form6_additions"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Application for transposition of entry in electoral roll": null,
+      "null": null
+    },
+    "source": {
+      "pdf": "f939224b298beb94cfd7a34a1576267b.pdf",
+      "task": "form6_additions"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Application for transposition of entry in electoral roll": "*Father’s\nMother’s Name\nHusband’s",
+      "null": null
+    },
+    "source": {
+      "pdf": "f939224b298beb94cfd7a34a1576267b.pdf",
+      "task": "form6_additions"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Application for transposition of entry in electoral roll": null,
+      "null": null
+    },
+    "source": {
+      "pdf": "f939224b298beb94cfd7a34a1576267b.pdf",
+      "task": "form6_additions"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Application for transposition of entry in electoral roll": "II.",
+      "null": null
+    },
+    "source": {
+      "pdf": "f939224b298beb94cfd7a34a1576267b.pdf",
+      "task": "form6_additions"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Application for transposition of entry in electoral roll": "House / Door number:",
+      "null": null
+    },
+    "source": {
+      "pdf": "f939224b298beb94cfd7a34a1576267b.pdf",
+      "task": "form6_additions"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Application for transposition of entry in electoral roll": "Street/ Area/Locality/Mohalla/ Road:",
+      "null": null
+    },
+    "source": {
+      "pdf": "f939224b298beb94cfd7a34a1576267b.pdf",
+      "task": "form6_additions"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Application for transposition of entry in electoral roll": "Town / Village:",
+      "null": null
+    },
+    "source": {
+      "pdf": "f939224b298beb94cfd7a34a1576267b.pdf",
+      "task": "form6_additions"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Application for transposition of entry in electoral roll": "Post Office:",
+      "null": ""
+    },
+    "source": {
+      "pdf": "f939224b298beb94cfd7a34a1576267b.pdf",
+      "task": "form6_additions"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Application for transposition of entry in electoral roll": "Tehsil/Taluka/Mandal/Thana:",
+      "null": null
+    },
+    "source": {
+      "pdf": "f939224b298beb94cfd7a34a1576267b.pdf",
+      "task": "form6_additions"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Application for transposition of entry in electoral roll": "District:",
+      "null": null
+    },
+    "source": {
+      "pdf": "f939224b298beb94cfd7a34a1576267b.pdf",
+      "task": "form6_additions"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Application for transposition of entry in electoral roll": "III. Period of continuous residence at the above\naddress on the date of application",
+      "null": null
+    },
+    "source": {
+      "pdf": "f939224b298beb94cfd7a34a1576267b.pdf",
+      "task": "form6_additions"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Application for transposition of entry in electoral roll": "IV. Part number to which the entry has to be transposed (if known):",
+      "null": null
+    },
+    "source": {
+      "pdf": "f939224b298beb94cfd7a34a1576267b.pdf",
+      "task": "form6_additions"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Application for transposition of entry in electoral roll": "@V. Details of\napplicant",
+      "null": null
+    },
+    "source": {
+      "pdf": "f939224b298beb94cfd7a34a1576267b.pdf",
+      "task": "form6_additions"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Application for transposition of entry in electoral roll": null,
+      "null": null
+    },
+    "source": {
+      "pdf": "f939224b298beb94cfd7a34a1576267b.pdf",
+      "task": "form6_additions"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Application for transposition of entry in electoral roll": null,
+      "null": null
+    },
+    "source": {
+      "pdf": "f939224b298beb94cfd7a34a1576267b.pdf",
+      "task": "form6_additions"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "I. Details of\nperson\nwhose\nentry\nis to be\ndeleted": null,
+      "null": null,
+      "1.\nTitle$": "",
+      "2. First and middle name": "",
+      "3. Last name": ""
+    },
+    "source": {
+      "pdf": "f939224b298beb94cfd7a34a1576267b.pdf",
+      "task": "form6_additions"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "I. Details of\nperson\nwhose\nentry\nis to be\ndeleted": null,
+      "null": null,
+      "1.\nTitle$": "4. Part number of electoral roll in\nwhich his / her name is\nincluded :",
+      "2. First and middle name": null,
+      "3. Last name": "6. Electors’\nPhoto\nIdentity\nCard\nnumber"
+    },
+    "source": {
+      "pdf": "f939224b298beb94cfd7a34a1576267b.pdf",
+      "task": "form6_additions"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "I. Details of\nperson\nwhose\nentry\nis to be\ndeleted": null,
+      "null": null,
+      "1.\nTitle$": null,
+      "2. First and middle name": null,
+      "3. Last name": ""
+    },
+    "source": {
+      "pdf": "f939224b298beb94cfd7a34a1576267b.pdf",
+      "task": "form6_additions"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "I. Details of\nperson\nwhose\nentry\nis to be\ndeleted": "II. (a) Details of\nrelation of person\nwhose entry is to\nbe deleted (Father/\nMother/Husband)",
+      "null": null,
+      "1.\nTitle$": null,
+      "2. First and middle name": null,
+      "3. Last name": "9. Last name"
+    },
+    "source": {
+      "pdf": "f939224b298beb94cfd7a34a1576267b.pdf",
+      "task": "form6_additions"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "I. Details of\nperson\nwhose\nentry\nis to be\ndeleted": null,
+      "null": null,
+      "1.\nTitle$": null,
+      "2. First and middle name": null,
+      "3. Last name": ""
+    },
+    "source": {
+      "pdf": "f939224b298beb94cfd7a34a1576267b.pdf",
+      "task": "form6_additions"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "I. Details of\nperson\nwhose\nentry\nis to be\ndeleted": "(b) Relationship with the person whose entry is to be deleted. Father/Mother/Husband :",
+      "null": null,
+      "1.\nTitle$": null,
+      "2. First and middle name": null,
+      "3. Last name": null
+    },
+    "source": {
+      "pdf": "f939224b298beb94cfd7a34a1576267b.pdf",
+      "task": "form6_additions"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "I. Details of\nperson\nwhose\nentry\nis to be\ndeleted": "III. Reasons for objection",
+      "null": null,
+      "1.\nTitle$": null,
+      "2. First and middle name": null,
+      "3. Last name": null
+    },
+    "source": {
+      "pdf": "f939224b298beb94cfd7a34a1576267b.pdf",
+      "task": "form6_additions"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "I. Details of\nperson\nwhose\nentry\nis to be\ndeleted": "a)*",
+      "null": null,
+      "1.\nTitle$": null,
+      "2. First and middle name": null,
+      "3. Last name": "12. Year :"
+    },
+    "source": {
+      "pdf": "f939224b298beb94cfd7a34a1576267b.pdf",
+      "task": "form6_additions"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "I. Details of\nperson\nwhose\nentry\nis to be\ndeleted": "b)*",
+      "null": null,
+      "1.\nTitle$": null,
+      "2. First and middle name": null,
+      "3. Last name": "15. Year :"
+    },
+    "source": {
+      "pdf": "f939224b298beb94cfd7a34a1576267b.pdf",
+      "task": "form6_additions"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "I. Details of\nperson\nwhose\nentry\nis to be\ndeleted": "c)*",
+      "null": null,
+      "1.\nTitle$": null,
+      "2. First and middle name": null,
+      "3. Last name": null
+    },
+    "source": {
+      "pdf": "f939224b298beb94cfd7a34a1576267b.pdf",
+      "task": "form6_additions"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "I. Details of\nperson\nwhose\nentry\nis to be\ndeleted": "IV.",
+      "null": null,
+      "1.\nTitle$": null,
+      "2. First and middle name": null,
+      "3. Last name": null
+    },
+    "source": {
+      "pdf": "f939224b298beb94cfd7a34a1576267b.pdf",
+      "task": "form6_additions"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "I. Details of\nperson\nwhose\nentry\nis to be\ndeleted": null,
+      "null": null,
+      "1.\nTitle$": null,
+      "2. First and middle name": null,
+      "3. Last name": null
+    },
+    "source": {
+      "pdf": "f939224b298beb94cfd7a34a1576267b.pdf",
+      "task": "form6_additions"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "I. Details of\nperson\nwhose\nentry\nis to be\ndeleted": "",
+      "null": null,
+      "1.\nTitle$": null,
+      "2. First and middle name": null,
+      "3. Last name": null
+    },
+    "source": {
+      "pdf": "f939224b298beb94cfd7a34a1576267b.pdf",
+      "task": "form6_additions"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "I. Details of\nperson\nwhose\nentry\nis to be\ndeleted": "b) Details of relation of\nobjector (Father/\nMother/Husband)",
+      "null": null,
+      "1.\nTitle$": null,
+      "2. First and middle name": null,
+      "3. Last name": "24. Last name"
+    },
+    "source": {
+      "pdf": "f939224b298beb94cfd7a34a1576267b.pdf",
+      "task": "form6_additions"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "I. Details of\nperson\nwhose\nentry\nis to be\ndeleted": null,
+      "null": null,
+      "1.\nTitle$": null,
+      "2. First and middle name": null,
+      "3. Last name": ""
+    },
+    "source": {
+      "pdf": "f939224b298beb94cfd7a34a1576267b.pdf",
+      "task": "form6_additions"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "I. Details of\nperson\nwhose\nentry\nis to be\ndeleted": "(c) Relationship with objector. Father/Mother/Husband :",
+      "null": null,
+      "1.\nTitle$": null,
+      "2. First and middle name": null,
+      "3. Last name": null
+    },
+    "source": {
+      "pdf": "f939224b298beb94cfd7a34a1576267b.pdf",
+      "task": "form6_additions"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "I. Details of\nperson\nwhose\nentry\nis to be\ndeleted": "V. Particulars of place of ordinary residence of objector (Full address) :",
+      "null": null,
+      "1.\nTitle$": null,
+      "2. First and middle name": null,
+      "3. Last name": null
+    },
+    "source": {
+      "pdf": "f939224b298beb94cfd7a34a1576267b.pdf",
+      "task": "form6_additions"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "I. Details of\nperson\nwhose\nentry\nis to be\ndeleted": "25. House / Door number:",
+      "null": null,
+      "1.\nTitle$": null,
+      "2. First and middle name": null,
+      "3. Last name": null
+    },
+    "source": {
+      "pdf": "f939224b298beb94cfd7a34a1576267b.pdf",
+      "task": "form6_additions"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "I. Details of\nperson\nwhose\nentry\nis to be\ndeleted": "26. Street/ Mohalla/ Road / Gali:",
+      "null": null,
+      "1.\nTitle$": null,
+      "2. First and middle name": null,
+      "3. Last name": null
+    },
+    "source": {
+      "pdf": "f939224b298beb94cfd7a34a1576267b.pdf",
+      "task": "form6_additions"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "I. Details of\nperson\nwhose\nentry\nis to be\ndeleted": "27. Area / Locality:",
+      "null": null,
+      "1.\nTitle$": null,
+      "2. First and middle name": null,
+      "3. Last name": null
+    },
+    "source": {
+      "pdf": "f939224b298beb94cfd7a34a1576267b.pdf",
+      "task": "form6_additions"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "I. Details of\nperson\nwhose\nentry\nis to be\ndeleted": "28. Town / Village:",
+      "null": null,
+      "1.\nTitle$": null,
+      "2. First and middle name": null,
+      "3. Last name": null
+    },
+    "source": {
+      "pdf": "f939224b298beb94cfd7a34a1576267b.pdf",
+      "task": "form6_additions"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "I. Details of\nperson\nwhose\nentry\nis to be\ndeleted": "29. Post Office:",
+      "null": "",
+      "1.\nTitle$": null,
+      "2. First and middle name": null,
+      "3. Last name": ""
+    },
+    "source": {
+      "pdf": "f939224b298beb94cfd7a34a1576267b.pdf",
+      "task": "form6_additions"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "I. Details of\nperson\nwhose\nentry\nis to be\ndeleted": "31. Police Station:",
+      "null": null,
+      "1.\nTitle$": null,
+      "2. First and middle name": null,
+      "3. Last name": null
+    },
+    "source": {
+      "pdf": "f939224b298beb94cfd7a34a1576267b.pdf",
+      "task": "form6_additions"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "I. Details of\nperson\nwhose\nentry\nis to be\ndeleted": "32. Tehsil / Taluka@:",
+      "null": null,
+      "1.\nTitle$": null,
+      "2. First and middle name": null,
+      "3. Last name": null
+    },
+    "source": {
+      "pdf": "f939224b298beb94cfd7a34a1576267b.pdf",
+      "task": "form6_additions"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "I. Details of\nperson\nwhose\nentry\nis to be\ndeleted": "33. Block / Mandal (for Village)@:",
+      "null": null,
+      "1.\nTitle$": null,
+      "2. First and middle name": null,
+      "3. Last name": null
+    },
+    "source": {
+      "pdf": "f939224b298beb94cfd7a34a1576267b.pdf",
+      "task": "form6_additions"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "I. Details of\nperson\nwhose\nentry\nis to be\ndeleted": "34. District:",
+      "null": null,
+      "1.\nTitle$": null,
+      "2. First and middle name": null,
+      "3. Last name": null
+    },
+    "source": {
+      "pdf": "f939224b298beb94cfd7a34a1576267b.pdf",
+      "task": "form6_additions"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Details of action taken\n(To be filled by electoral registration officer of the constituency)": "Revision identity",
+      "null": null
+    },
+    "source": {
+      "pdf": "f939224b298beb94cfd7a34a1576267b.pdf",
+      "task": "form6_additions"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Details of action taken\n(To be filled by electoral registration officer of the constituency)": "",
+      "null": null
+    },
+    "source": {
+      "pdf": "f939224b298beb94cfd7a34a1576267b.pdf",
+      "task": "form6_additions"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Details of action taken\n(To be filled by electoral registration officer of the constituency)": "The application of Shri./Smt. /Km………………………………….for transposition of entry relating to\nhimself/herself /Shri/Smt. /Km…………………………………….in the electoral roll in Form 8A has been\naccepted* / rejected*",
+      "null": null
+    },
+    "source": {
+      "pdf": "f939224b298beb94cfd7a34a1576267b.pdf",
+      "task": "form6_additions"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Details of action taken\n(To be filled by electoral registration officer of the constituency)": "*Accepted:",
+      "null": null
+    },
+    "source": {
+      "pdf": "f939224b298beb94cfd7a34a1576267b.pdf",
+      "task": "form6_additions"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Details of action taken\n(To be filled by electoral registration officer of the constituency)": "Under rule 26(4) entry of elector is\ntransposed in the electoral roll of the\nConstituency",
+      "null": null
+    },
+    "source": {
+      "pdf": "f939224b298beb94cfd7a34a1576267b.pdf",
+      "task": "form6_additions"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Details of action taken\n(To be filled by electoral registration officer of the constituency)": null,
+      "null": "In Part number"
+    },
+    "source": {
+      "pdf": "f939224b298beb94cfd7a34a1576267b.pdf",
+      "task": "form6_additions"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Details of action taken\n(To be filled by electoral registration officer of the constituency)": null,
+      "null": ""
+    },
+    "source": {
+      "pdf": "f939224b298beb94cfd7a34a1576267b.pdf",
+      "task": "form6_additions"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Details of action taken\n(To be filled by electoral registration officer of the constituency)": "*Rejected :",
+      "null": null
+    },
+    "source": {
+      "pdf": "f939224b298beb94cfd7a34a1576267b.pdf",
+      "task": "form6_additions"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Details of action taken\n(To be filled by electoral registration officer of the constituency)": "Rejected, under rule 26(4) *",
+      "null": null
+    },
+    "source": {
+      "pdf": "f939224b298beb94cfd7a34a1576267b.pdf",
+      "task": "form6_additions"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Details of action taken\n(To be filled by electoral registration officer of the constituency)": "Detailed reasons for acceptance or rejection [under rule 26(4)] * :",
+      "null": null
+    },
+    "source": {
+      "pdf": "f939224b298beb94cfd7a34a1576267b.pdf",
+      "task": "form6_additions"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "VI. Details of objector’s Photo identity Card, if issued, in this or in any other Constituency": "Elector’s Photo Identity Card number :",
+      "null": "36. Date of issue :"
+    },
+    "source": {
+      "pdf": "f939224b298beb94cfd7a34a1576267b.pdf",
+      "task": "form6_additions"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "VI. Details of objector’s Photo identity Card, if issued, in this or in any other Constituency": "Constituency (Assembly /\nParliamentary Constituency) Number :",
+      "null": null
+    },
+    "source": {
+      "pdf": "f939224b298beb94cfd7a34a1576267b.pdf",
+      "task": "form6_additions"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "": "",
+      "Note:– Any person who makes a statement\nor declaration which is false and which he\neither knows or believes to be false or does\nnot believe to be true, is punishable under\nsection 31 of the Representation of the\nPeople Act, 1950.": null
+    },
+    "source": {
+      "pdf": "f939224b298beb94cfd7a34a1576267b.pdf",
+      "task": "form6_additions"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "": "",
+      "Note:– Any person who makes a statement\nor declaration which is false and which he\neither knows or believes to be false or does\nnot believe to be true, is punishable under\nsection 31 of the Representation of the\nPeople Act, 1950.": null
+    },
+    "source": {
+      "pdf": "f939224b298beb94cfd7a34a1576267b.pdf",
+      "task": "form6_additions"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "": "",
+      "Note:– Any person who makes a statement\nor declaration which is false and which he\neither knows or believes to be false or does\nnot believe to be true, is punishable under\nsection 31 of the Representation of the\nPeople Act, 1950.": null
+    },
+    "source": {
+      "pdf": "f939224b298beb94cfd7a34a1576267b.pdf",
+      "task": "form6_additions"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Details of acknowledgement\n(To be filled by Officer receiving the application)": "Details of acknowledgement receipt issued to the applicant.",
+      "null": null
+    },
+    "source": {
+      "pdf": "f939224b298beb94cfd7a34a1576267b.pdf",
+      "task": "form6_additions"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Details of acknowledgement\n(To be filled by Officer receiving the application)": "Receipt number:",
+      "null": "Signature of Officer\nreceiving the application"
+    },
+    "source": {
+      "pdf": "f939224b298beb94cfd7a34a1576267b.pdf",
+      "task": "form6_additions"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Details of acknowledgement\n(To be filled by Officer receiving the application)": "Date of receipt:",
+      "null": null
+    },
+    "source": {
+      "pdf": "f939224b298beb94cfd7a34a1576267b.pdf",
+      "task": "form6_additions"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Details of acknowledgement\n(To be filled by Officer receiving the application)": "Remarks, if any, of the Officer receiving the application :",
+      "null": null
+    },
+    "source": {
+      "pdf": "f939224b298beb94cfd7a34a1576267b.pdf",
+      "task": "form6_additions"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Details of acknowledgement\n(To be filled by Officer receiving the application)": "Application received by:",
+      "null": null
+    },
+    "source": {
+      "pdf": "f939224b298beb94cfd7a34a1576267b.pdf",
+      "task": "form6_additions"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Details of acknowledgement\n(To be filled by Officer receiving the application)": "Name of Officer :",
+      "null": null
+    },
+    "source": {
+      "pdf": "f939224b298beb94cfd7a34a1576267b.pdf",
+      "task": "form6_additions"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Details of acknowledgement\n(To be filled by Officer receiving the application)": "Designation* :",
+      "null": null
+    },
+    "source": {
+      "pdf": "f939224b298beb94cfd7a34a1576267b.pdf",
+      "task": "form6_additions"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Designated\nlocation identity\n(where\napplications have\nbeen received)": "1. List number@",
+      "null": null,
+      "Constituency (Assembly/Parliamentary£\nConstituency):": "2. Period of receipt of applications\n(covered in this list)",
+      "Revision identity": null
+    },
+    "source": {
+      "pdf": "f939224b298beb94cfd7a34a1576267b.pdf",
+      "task": "form6_additions"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Designated\nlocation identity\n(where\napplications have\nbeen received)": null,
+      "null": null,
+      "Constituency (Assembly/Parliamentary£\nConstituency):": null,
+      "Revision identity": null
+    },
+    "source": {
+      "pdf": "f939224b298beb94cfd7a34a1576267b.pdf",
+      "task": "form6_additions"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Designated\nlocation identity\n(where\napplications have\nbeen received)": "3. Place of hearing*",
+      "null": null,
+      "Constituency (Assembly/Parliamentary£\nConstituency):": null,
+      "Revision identity": null
+    },
+    "source": {
+      "pdf": "f939224b298beb94cfd7a34a1576267b.pdf",
+      "task": "form6_additions"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Designated\nlocation identity\n(where\napplications have\nbeen received)": "Serial\nnumber$ of\napplication",
+      "null": "Time of\nhearing*",
+      "Constituency (Assembly/Parliamentary£\nConstituency):": null,
+      "Revision identity": null
+    },
+    "source": {
+      "pdf": "f939224b298beb94cfd7a34a1576267b.pdf",
+      "task": "form6_additions"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Designated\nlocation identity\n(where\napplications have\nbeen received)": "1",
+      "null": "6(b)",
+      "Constituency (Assembly/Parliamentary£\nConstituency):": null,
+      "Revision identity": null
+    },
+    "source": {
+      "pdf": "f939224b298beb94cfd7a34a1576267b.pdf",
+      "task": "form6_additions"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Designated\nlocation identity\n(where\napplications have\nbeen received)": "",
+      "null": "",
+      "Constituency (Assembly/Parliamentary£\nConstituency):": null,
+      "Revision identity": null
+    },
+    "source": {
+      "pdf": "f939224b298beb94cfd7a34a1576267b.pdf",
+      "task": "form6_additions"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Designated\nlocation identity\n(where\napplications have\nbeen received)": "",
+      "null": "",
+      "Constituency (Assembly/Parliamentary£\nConstituency):": null,
+      "Revision identity": null
+    },
+    "source": {
+      "pdf": "f939224b298beb94cfd7a34a1576267b.pdf",
+      "task": "form6_additions"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Designated\nlocation identity\n(where\napplications have\nbeen received)": "",
+      "null": "",
+      "Constituency (Assembly/Parliamentary£\nConstituency):": null,
+      "Revision identity": null
+    },
+    "source": {
+      "pdf": "f939224b298beb94cfd7a34a1576267b.pdf",
+      "task": "form6_additions"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Designated\nlocation identity\n(where\napplications have\nbeen received)": "",
+      "null": "",
+      "Constituency (Assembly/Parliamentary£\nConstituency):": null,
+      "Revision identity": null
+    },
+    "source": {
+      "pdf": "f939224b298beb94cfd7a34a1576267b.pdf",
+      "task": "form6_additions"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Designated\nlocation identity\n(where\napplications have\nbeen received)": "",
+      "null": "",
+      "Constituency (Assembly/Parliamentary£\nConstituency):": null,
+      "Revision identity": null
+    },
+    "source": {
+      "pdf": "f939224b298beb94cfd7a34a1576267b.pdf",
+      "task": "form6_additions"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Designated\nlocation identity\n(where\napplications have\nbeen received)": null,
+      "null": null,
+      "Constituency (Assembly/Parliamentary£\nConstituency):": null,
+      "Revision identity": "Date of exhibition at\nElectoral Registration\nOfficer’s Office under rule 16\n(b)"
+    },
+    "source": {
+      "pdf": "f939224b298beb94cfd7a34a1576267b.pdf",
+      "task": "form6_additions"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Designated\nlocation identity\n(where\napplications have\nbeen received)": null,
+      "null": null,
+      "Constituency (Assembly/Parliamentary£\nConstituency):": null,
+      "Revision identity": ""
+    },
+    "source": {
+      "pdf": "f939224b298beb94cfd7a34a1576267b.pdf",
+      "task": "form6_additions"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "1": "",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6(a)": "",
+      "6(b)": ""
+    },
+    "source": {
+      "pdf": "f939224b298beb94cfd7a34a1576267b.pdf",
+      "task": "form6_additions"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "1": "",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6(a)": "",
+      "6(b)": ""
+    },
+    "source": {
+      "pdf": "f939224b298beb94cfd7a34a1576267b.pdf",
+      "task": "form6_additions"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "1": "",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6(a)": "",
+      "6(b)": ""
+    },
+    "source": {
+      "pdf": "f939224b298beb94cfd7a34a1576267b.pdf",
+      "task": "form6_additions"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "1": "",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6(a)": "",
+      "6(b)": ""
+    },
+    "source": {
+      "pdf": "f939224b298beb94cfd7a34a1576267b.pdf",
+      "task": "form6_additions"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "1": "",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6(a)": "",
+      "6(b)": ""
+    },
+    "source": {
+      "pdf": "f939224b298beb94cfd7a34a1576267b.pdf",
+      "task": "form6_additions"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "": ""
+    },
+    "source": {
+      "pdf": "f939224b298beb94cfd7a34a1576267b.pdf",
+      "task": "form6_additions"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "": ""
+    },
+    "source": {
+      "pdf": "f939224b298beb94cfd7a34a1576267b.pdf",
+      "task": "form6_additions"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "": ""
+    },
+    "source": {
+      "pdf": "f939224b298beb94cfd7a34a1576267b.pdf",
+      "task": "form6_additions"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "": ""
+    },
+    "source": {
+      "pdf": "f939224b298beb94cfd7a34a1576267b.pdf",
+      "task": "form6_additions"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "": ""
+    },
+    "source": {
+      "pdf": "f939224b298beb94cfd7a34a1576267b.pdf",
+      "task": "form6_additions"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "": ""
+    },
+    "source": {
+      "pdf": "f939224b298beb94cfd7a34a1576267b.pdf",
+      "task": "form6_additions"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "": ""
+    },
+    "source": {
+      "pdf": "f939224b298beb94cfd7a34a1576267b.pdf",
+      "task": "form6_additions"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "": ""
+    },
+    "source": {
+      "pdf": "f939224b298beb94cfd7a34a1576267b.pdf",
+      "task": "form6_additions"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "": ""
+    },
+    "source": {
+      "pdf": "f939224b298beb94cfd7a34a1576267b.pdf",
+      "task": "form6_additions"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "": ""
+    },
+    "source": {
+      "pdf": "f939224b298beb94cfd7a34a1576267b.pdf",
+      "task": "form6_additions"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "": ""
+    },
+    "source": {
+      "pdf": "f939224b298beb94cfd7a34a1576267b.pdf",
+      "task": "form6_additions"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "": ""
+    },
+    "source": {
+      "pdf": "f939224b298beb94cfd7a34a1576267b.pdf",
+      "task": "form6_additions"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "": ""
+    },
+    "source": {
+      "pdf": "f939224b298beb94cfd7a34a1576267b.pdf",
+      "task": "form6_additions"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "": ""
+    },
+    "source": {
+      "pdf": "f939224b298beb94cfd7a34a1576267b.pdf",
+      "task": "form6_additions"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "": ""
+    },
+    "source": {
+      "pdf": "f939224b298beb94cfd7a34a1576267b.pdf",
+      "task": "form6_additions"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "": ""
+    },
+    "source": {
+      "pdf": "f939224b298beb94cfd7a34a1576267b.pdf",
+      "task": "form6_additions"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "": ""
+    },
+    "source": {
+      "pdf": "f939224b298beb94cfd7a34a1576267b.pdf",
+      "task": "form6_additions"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "": ""
+    },
+    "source": {
+      "pdf": "f939224b298beb94cfd7a34a1576267b.pdf",
+      "task": "form6_additions"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "": ""
+    },
+    "source": {
+      "pdf": "f939224b298beb94cfd7a34a1576267b.pdf",
+      "task": "form6_additions"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Designated\nlocation identity\n(where\napplications have\nbeen received)": "1. List number@",
+      "null": null,
+      "Constituency (Assembly/Parliamentary£\nConstituency):": "2. Period of receipt of applications\n(covered in this list)",
+      "Revision identity:": null
+    },
+    "source": {
+      "pdf": "f939224b298beb94cfd7a34a1576267b.pdf",
+      "task": "form6_additions"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Designated\nlocation identity\n(where\napplications have\nbeen received)": null,
+      "null": null,
+      "Constituency (Assembly/Parliamentary£\nConstituency):": null,
+      "Revision identity:": null
+    },
+    "source": {
+      "pdf": "f939224b298beb94cfd7a34a1576267b.pdf",
+      "task": "form6_additions"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Designated\nlocation identity\n(where\napplications have\nbeen received)": "3. Place of hearing* :",
+      "null": null,
+      "Constituency (Assembly/Parliamentary£\nConstituency):": null,
+      "Revision identity:": null
+    },
+    "source": {
+      "pdf": "f939224b298beb94cfd7a34a1576267b.pdf",
+      "task": "form6_additions"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Designated\nlocation identity\n(where\napplications have\nbeen received)": "Serial\nnumber$ of\napplication",
+      "null": "Time of\nhearing*",
+      "Constituency (Assembly/Parliamentary£\nConstituency):": null,
+      "Revision identity:": null
+    },
+    "source": {
+      "pdf": "f939224b298beb94cfd7a34a1576267b.pdf",
+      "task": "form6_additions"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Designated\nlocation identity\n(where\napplications have\nbeen received)": null,
+      "null": null,
+      "Constituency (Assembly/Parliamentary£\nConstituency):": null,
+      "Revision identity:": null
+    },
+    "source": {
+      "pdf": "f939224b298beb94cfd7a34a1576267b.pdf",
+      "task": "form6_additions"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Designated\nlocation identity\n(where\napplications have\nbeen received)": "1",
+      "null": "8(b)",
+      "Constituency (Assembly/Parliamentary£\nConstituency):": null,
+      "Revision identity:": null
+    },
+    "source": {
+      "pdf": "f939224b298beb94cfd7a34a1576267b.pdf",
+      "task": "form6_additions"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Designated\nlocation identity\n(where\napplications have\nbeen received)": "",
+      "null": "",
+      "Constituency (Assembly/Parliamentary£\nConstituency):": null,
+      "Revision identity:": null
+    },
+    "source": {
+      "pdf": "f939224b298beb94cfd7a34a1576267b.pdf",
+      "task": "form6_additions"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Designated\nlocation identity\n(where\napplications have\nbeen received)": "",
+      "null": "",
+      "Constituency (Assembly/Parliamentary£\nConstituency):": null,
+      "Revision identity:": null
+    },
+    "source": {
+      "pdf": "f939224b298beb94cfd7a34a1576267b.pdf",
+      "task": "form6_additions"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Designated\nlocation identity\n(where\napplications have\nbeen received)": "",
+      "null": "",
+      "Constituency (Assembly/Parliamentary£\nConstituency):": null,
+      "Revision identity:": null
+    },
+    "source": {
+      "pdf": "f939224b298beb94cfd7a34a1576267b.pdf",
+      "task": "form6_additions"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Designated\nlocation identity\n(where\napplications have\nbeen received)": "",
+      "null": "",
+      "Constituency (Assembly/Parliamentary£\nConstituency):": null,
+      "Revision identity:": null
+    },
+    "source": {
+      "pdf": "f939224b298beb94cfd7a34a1576267b.pdf",
+      "task": "form6_additions"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Designated\nlocation identity\n(where\napplications have\nbeen received)": "",
+      "null": "",
+      "Constituency (Assembly/Parliamentary£\nConstituency):": null,
+      "Revision identity:": null
+    },
+    "source": {
+      "pdf": "f939224b298beb94cfd7a34a1576267b.pdf",
+      "task": "form6_additions"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Designated\nlocation identity\n(where\napplications have\nbeen received)": null,
+      "null": null,
+      "Constituency (Assembly/Parliamentary£\nConstituency):": null,
+      "Revision identity:": "Date of exhibition at\nElectoral Registration\nOfficer’s Office under rule 16\n(b)"
+    },
+    "source": {
+      "pdf": "f939224b298beb94cfd7a34a1576267b.pdf",
+      "task": "form6_additions"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Designated\nlocation identity\n(where\napplications have\nbeen received)": null,
+      "null": null,
+      "Constituency (Assembly/Parliamentary£\nConstituency):": null,
+      "Revision identity:": ""
+    },
+    "source": {
+      "pdf": "f939224b298beb94cfd7a34a1576267b.pdf",
+      "task": "form6_additions"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "1": "",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": "",
+      "7": "",
+      "8(a)": "",
+      "8(b)": ""
+    },
+    "source": {
+      "pdf": "f939224b298beb94cfd7a34a1576267b.pdf",
+      "task": "form6_additions"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "1": "",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": "",
+      "7": "",
+      "8(a)": "",
+      "8(b)": ""
+    },
+    "source": {
+      "pdf": "f939224b298beb94cfd7a34a1576267b.pdf",
+      "task": "form6_additions"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "1": "",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": "",
+      "7": "",
+      "8(a)": "",
+      "8(b)": ""
+    },
+    "source": {
+      "pdf": "f939224b298beb94cfd7a34a1576267b.pdf",
+      "task": "form6_additions"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "1": "",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": "",
+      "7": "",
+      "8(a)": "",
+      "8(b)": ""
+    },
+    "source": {
+      "pdf": "f939224b298beb94cfd7a34a1576267b.pdf",
+      "task": "form6_additions"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "1": "",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": "",
+      "7": "",
+      "8(a)": "",
+      "8(b)": ""
+    },
+    "source": {
+      "pdf": "f939224b298beb94cfd7a34a1576267b.pdf",
+      "task": "form6_additions"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "": ""
+    },
+    "source": {
+      "pdf": "f939224b298beb94cfd7a34a1576267b.pdf",
+      "task": "form6_additions"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "": ""
+    },
+    "source": {
+      "pdf": "f939224b298beb94cfd7a34a1576267b.pdf",
+      "task": "form6_additions"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "": ""
+    },
+    "source": {
+      "pdf": "f939224b298beb94cfd7a34a1576267b.pdf",
+      "task": "form6_additions"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "": ""
+    },
+    "source": {
+      "pdf": "f939224b298beb94cfd7a34a1576267b.pdf",
+      "task": "form6_additions"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "": ""
+    },
+    "source": {
+      "pdf": "f939224b298beb94cfd7a34a1576267b.pdf",
+      "task": "form6_additions"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "": ""
+    },
+    "source": {
+      "pdf": "f939224b298beb94cfd7a34a1576267b.pdf",
+      "task": "form6_additions"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "": ""
+    },
+    "source": {
+      "pdf": "f939224b298beb94cfd7a34a1576267b.pdf",
+      "task": "form6_additions"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "": ""
+    },
+    "source": {
+      "pdf": "f939224b298beb94cfd7a34a1576267b.pdf",
+      "task": "form6_additions"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "": ""
+    },
+    "source": {
+      "pdf": "f939224b298beb94cfd7a34a1576267b.pdf",
+      "task": "form6_additions"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "": ""
+    },
+    "source": {
+      "pdf": "f939224b298beb94cfd7a34a1576267b.pdf",
+      "task": "form6_additions"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "": ""
+    },
+    "source": {
+      "pdf": "f939224b298beb94cfd7a34a1576267b.pdf",
+      "task": "form6_additions"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "": ""
+    },
+    "source": {
+      "pdf": "f939224b298beb94cfd7a34a1576267b.pdf",
+      "task": "form6_additions"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "": ""
+    },
+    "source": {
+      "pdf": "f939224b298beb94cfd7a34a1576267b.pdf",
+      "task": "form6_additions"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "": ""
+    },
+    "source": {
+      "pdf": "f939224b298beb94cfd7a34a1576267b.pdf",
+      "task": "form6_additions"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "": ""
+    },
+    "source": {
+      "pdf": "f939224b298beb94cfd7a34a1576267b.pdf",
+      "task": "form6_additions"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "": ""
+    },
+    "source": {
+      "pdf": "f939224b298beb94cfd7a34a1576267b.pdf",
+      "task": "form6_additions"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "": ""
+    },
+    "source": {
+      "pdf": "f939224b298beb94cfd7a34a1576267b.pdf",
+      "task": "form6_additions"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Designated\nlocation identity\n(where\napplications have\nbeen received)": "1. List number@",
+      "null": null,
+      "Constituency (Assembly/Parliamentary£\nConstituency):": "2. Period of receipt of applications\n(covered in this list)",
+      "Revision identity:": null
+    },
+    "source": {
+      "pdf": "f939224b298beb94cfd7a34a1576267b.pdf",
+      "task": "form6_additions"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Designated\nlocation identity\n(where\napplications have\nbeen received)": null,
+      "null": null,
+      "Constituency (Assembly/Parliamentary£\nConstituency):": null,
+      "Revision identity:": null
+    },
+    "source": {
+      "pdf": "f939224b298beb94cfd7a34a1576267b.pdf",
+      "task": "form6_additions"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Designated\nlocation identity\n(where\napplications have\nbeen received)": "3. Place of hearing*",
+      "null": null,
+      "Constituency (Assembly/Parliamentary£\nConstituency):": null,
+      "Revision identity:": null
+    },
+    "source": {
+      "pdf": "f939224b298beb94cfd7a34a1576267b.pdf",
+      "task": "form6_additions"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Designated\nlocation identity\n(where\napplications have\nbeen received)": "Serial\nnumber$ of\napplication",
+      "null": "Time of\nhearing*",
+      "Constituency (Assembly/Parliamentary£\nConstituency):": null,
+      "Revision identity:": null
+    },
+    "source": {
+      "pdf": "f939224b298beb94cfd7a34a1576267b.pdf",
+      "task": "form6_additions"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Designated\nlocation identity\n(where\napplications have\nbeen received)": null,
+      "null": null,
+      "Constituency (Assembly/Parliamentary£\nConstituency):": null,
+      "Revision identity:": null
+    },
+    "source": {
+      "pdf": "f939224b298beb94cfd7a34a1576267b.pdf",
+      "task": "form6_additions"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Designated\nlocation identity\n(where\napplications have\nbeen received)": "1",
+      "null": "7(b)",
+      "Constituency (Assembly/Parliamentary£\nConstituency):": null,
+      "Revision identity:": null
+    },
+    "source": {
+      "pdf": "f939224b298beb94cfd7a34a1576267b.pdf",
+      "task": "form6_additions"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Designated\nlocation identity\n(where\napplications have\nbeen received)": "",
+      "null": "",
+      "Constituency (Assembly/Parliamentary£\nConstituency):": null,
+      "Revision identity:": null
+    },
+    "source": {
+      "pdf": "f939224b298beb94cfd7a34a1576267b.pdf",
+      "task": "form6_additions"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Designated\nlocation identity\n(where\napplications have\nbeen received)": "",
+      "null": "",
+      "Constituency (Assembly/Parliamentary£\nConstituency):": null,
+      "Revision identity:": null
+    },
+    "source": {
+      "pdf": "f939224b298beb94cfd7a34a1576267b.pdf",
+      "task": "form6_additions"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Designated\nlocation identity\n(where\napplications have\nbeen received)": "",
+      "null": "",
+      "Constituency (Assembly/Parliamentary£\nConstituency):": null,
+      "Revision identity:": null
+    },
+    "source": {
+      "pdf": "f939224b298beb94cfd7a34a1576267b.pdf",
+      "task": "form6_additions"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Designated\nlocation identity\n(where\napplications have\nbeen received)": "",
+      "null": "",
+      "Constituency (Assembly/Parliamentary£\nConstituency):": null,
+      "Revision identity:": null
+    },
+    "source": {
+      "pdf": "f939224b298beb94cfd7a34a1576267b.pdf",
+      "task": "form6_additions"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Designated\nlocation identity\n(where\napplications have\nbeen received)": "",
+      "null": "",
+      "Constituency (Assembly/Parliamentary£\nConstituency):": null,
+      "Revision identity:": null
+    },
+    "source": {
+      "pdf": "f939224b298beb94cfd7a34a1576267b.pdf",
+      "task": "form6_additions"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Designated\nlocation identity\n(where\napplications have\nbeen received)": null,
+      "null": null,
+      "Constituency (Assembly/Parliamentary£\nConstituency):": null,
+      "Revision identity:": "Date of exhibition at\nElectoral Registration\nOfficer’s Office under rule 16\n(b)"
+    },
+    "source": {
+      "pdf": "f939224b298beb94cfd7a34a1576267b.pdf",
+      "task": "form6_additions"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Designated\nlocation identity\n(where\napplications have\nbeen received)": null,
+      "null": null,
+      "Constituency (Assembly/Parliamentary£\nConstituency):": null,
+      "Revision identity:": ""
+    },
+    "source": {
+      "pdf": "f939224b298beb94cfd7a34a1576267b.pdf",
+      "task": "form6_additions"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "1": "",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": "",
+      "7(a)": "",
+      "7(b)": ""
+    },
+    "source": {
+      "pdf": "f939224b298beb94cfd7a34a1576267b.pdf",
+      "task": "form6_additions"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "1": "",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": "",
+      "7(a)": "",
+      "7(b)": ""
+    },
+    "source": {
+      "pdf": "f939224b298beb94cfd7a34a1576267b.pdf",
+      "task": "form6_additions"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "1": "",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": "",
+      "7(a)": "",
+      "7(b)": ""
+    },
+    "source": {
+      "pdf": "f939224b298beb94cfd7a34a1576267b.pdf",
+      "task": "form6_additions"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "1": "",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": "",
+      "7(a)": "",
+      "7(b)": ""
+    },
+    "source": {
+      "pdf": "f939224b298beb94cfd7a34a1576267b.pdf",
+      "task": "form6_additions"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "1": "",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": "",
+      "7(a)": "",
+      "7(b)": ""
+    },
+    "source": {
+      "pdf": "f939224b298beb94cfd7a34a1576267b.pdf",
+      "task": "form6_additions"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "1": "",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": "",
+      "7(a)": "",
+      "7(b)": ""
+    },
+    "source": {
+      "pdf": "f939224b298beb94cfd7a34a1576267b.pdf",
+      "task": "form6_additions"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "1": "",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": "",
+      "7(a)": "",
+      "7(b)": ""
+    },
+    "source": {
+      "pdf": "f939224b298beb94cfd7a34a1576267b.pdf",
+      "task": "form6_additions"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "1": "",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": "",
+      "7(a)": "",
+      "7(b)": ""
+    },
+    "source": {
+      "pdf": "f939224b298beb94cfd7a34a1576267b.pdf",
+      "task": "form6_additions"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "1": "",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": "",
+      "7(a)": "",
+      "7(b)": ""
+    },
+    "source": {
+      "pdf": "f939224b298beb94cfd7a34a1576267b.pdf",
+      "task": "form6_additions"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "1": "",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": "",
+      "7(a)": "",
+      "7(b)": ""
+    },
+    "source": {
+      "pdf": "f939224b298beb94cfd7a34a1576267b.pdf",
+      "task": "form6_additions"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "1": "",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": "",
+      "7(a)": "",
+      "7(b)": ""
+    },
+    "source": {
+      "pdf": "f939224b298beb94cfd7a34a1576267b.pdf",
+      "task": "form6_additions"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "1": "",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": "",
+      "7(a)": "",
+      "7(b)": ""
+    },
+    "source": {
+      "pdf": "f939224b298beb94cfd7a34a1576267b.pdf",
+      "task": "form6_additions"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "1": "",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": "",
+      "7(a)": "",
+      "7(b)": ""
+    },
+    "source": {
+      "pdf": "f939224b298beb94cfd7a34a1576267b.pdf",
+      "task": "form6_additions"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "1": "",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": "",
+      "7(a)": "",
+      "7(b)": ""
+    },
+    "source": {
+      "pdf": "f939224b298beb94cfd7a34a1576267b.pdf",
+      "task": "form6_additions"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "1": "",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": "",
+      "7(a)": "",
+      "7(b)": ""
+    },
+    "source": {
+      "pdf": "f939224b298beb94cfd7a34a1576267b.pdf",
+      "task": "form6_additions"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "1": "",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": "",
+      "7(a)": "",
+      "7(b)": ""
+    },
+    "source": {
+      "pdf": "f939224b298beb94cfd7a34a1576267b.pdf",
+      "task": "form6_additions"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "1": "",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": "",
+      "7(a)": "",
+      "7(b)": ""
+    },
+    "source": {
+      "pdf": "f939224b298beb94cfd7a34a1576267b.pdf",
+      "task": "form6_additions"
+    },
+    "confidence": "low"
+  }
+]

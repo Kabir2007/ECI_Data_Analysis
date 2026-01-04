@@ -1,0 +1,5498 @@
+[
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Chapter\nNo.": "I",
+      "Topic": "Introduction\n• Who is a BLO\n• Appointment of BLO\n• Duties and responsibilities of BLO\n• BLO’s kit\n• Remuneration to BLOs",
+      "Page\nNo.": "1 - 3"
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Chapter\nNo.": "II",
+      "Topic": "Relevant Constitutional and Legal Provisions\n• Provisions of the Constitution of India\n• Representation of the People Act, 1950 and\nrules\n• The Election Commission’s instructions\n• Representation of the People Act, 1951",
+      "Page\nNo.": "4 - 5"
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Chapter\nNo.": "III",
+      "Topic": "Administrative Machinery of Electoral System",
+      "Page\nNo.": "6 - 8"
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Chapter\nNo.": "IV",
+      "Topic": "General Principles of Voter Registration\n• Who can be registered as an elector\n• Disqualifications for registration in the roll\n• Meaning of ‘ordinarily resident’\n• Exceptions to the general principle of ordinary\nresidence",
+      "Page\nNo.": "9 - 11"
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Chapter\nNo.": "V",
+      "Topic": "What is an Electoral Roll\n• Lay-out and structure of electoral roll\n• Language of electoral roll\n• Polling Stations",
+      "Page\nNo.": "12 - 14"
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Chapter\nNo.": "VI",
+      "Topic": "Revision of the Roll\n• Types of revision\n• Preparation of electoral roll\n• Claims and objections during revision process\n• List of supporting documents as proofs of date",
+      "Page\nNo.": "15 - 21"
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "": "22",
+      "of birth and residence.\n• Preparation of supplements\n• Continuous updation": "Enrolment of Overseas Electors"
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "": "23 - 24",
+      "of birth and residence.\n• Preparation of supplements\n• Continuous updation": "Enrolment of Service Voters"
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "": "25 - 28",
+      "of birth and residence.\n• Preparation of supplements\n• Continuous updation": "Electors Photo Identity Card (EPIC)\n• Format of EPIC\n• How EPIC is prepared and issued\n• Procedure to be adopted while issuing EPIC\n• Important points relevant to EPIC"
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "": "29 - 32",
+      "of birth and residence.\n• Preparation of supplements\n• Continuous updation": "BLO’s Register"
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "": "33",
+      "of birth and residence.\n• Preparation of supplements\n• Continuous updation": "Booth Level Agent (BLA)"
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "": "34",
+      "of birth and residence.\n• Preparation of supplements\n• Continuous updation": "National Voters Day"
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "": "35 - 39",
+      "of birth and residence.\n• Preparation of supplements\n• Continuous updation": "Role of BLO in preparation of Roll\n•\nKnowledge, skill and attitude needs for BLO\n• Important points a BLO should keep in mind\nwhile receiving claims/objections\n• Handling of Forms received\n• Distribution of EPIC\n• Interaction with BLAs\n• Use of Gram/Ward Sabhas/RWAs in verification\nof draft roll\n• Conduct of NVD programmes\n• Evaluation of work done by BLOs."
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "": "40 - 155",
+      "of birth and residence.\n• Preparation of supplements\n• Continuous updation": "Annexures"
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "": "Administrative framework"
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "": ""
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "": "Legal Provisions"
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "": ""
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Sl.\nNo.": "1.",
+      "Item": "What is the date of receipt of appointment as BLO?",
+      "Response": ""
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Sl.\nNo.": "2.",
+      "Item": "Whether training imparted from the end of ERO and duties and\nResponsibilities of BLO explained? Please mention date.",
+      "Response": ""
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Sl.\nNo.": "Post-Revision Period",
+      "Item": null,
+      "Response": null
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Sl.\nNo.": "3.",
+      "Item": "Whether the relevant part(s) of the current Electoral Roll received along\nwith all supplements?",
+      "Response": ""
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Sl.\nNo.": "4.",
+      "Item": "Whether the electoral roll part(s) including cover page(s) thoroughly\nscrutinized to find out defects?",
+      "Response": ""
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Sl.\nNo.": "5.",
+      "Item": "Whether part-wise register is opened to record such defects, other\ninputs of field verification & corresponding field observations and\nall other activities?",
+      "Response": ""
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Sl.\nNo.": "6.",
+      "Item": "Whether the BLO interacts with local people particularly elder\nelectors, local elected representatives & representatives of political\nparties on quarterly basis to find out dead and shifted electors,\neligible electors not yet enrolled and any other defects?",
+      "Response": ""
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Sl.\nNo.": "7.",
+      "Item": "Whether the names of prominent personalities of the locality\nexist in the roll? If not, whether the same has been reported to\nthe ERO?",
+      "Response": ""
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Sl.\nNo.": "8.",
+      "Item": "Whether a letter box is placed at his place of posting or at some\nother office/institution, convenient for the electors (with the prior\napproval of ERO) to receive information/complaints/suggestions\nand whether the same has been communicated to the local elected\nand political representatives? Please mention the location.",
+      "Response": ""
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "9.": "10.",
+      "What are the steps taken to inform the electors about Permanent\nEPIC Centre and the procedure to obtain duplicate EPIC?": "Whether details of addition/correction/deletions made during\ncontinuous revision process are collected from ERO on quarterly\nbasis?",
+      "": ""
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "9.": "11.",
+      "What are the steps taken to inform the electors about Permanent\nEPIC Centre and the procedure to obtain duplicate EPIC?": "Whether local Birth & Death Registration Office visited on\nquarterly basis during post revision period and probable dead\nelectors identified checking their death register?",
+      "": ""
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Sl.\nNo.": "12.",
+      "Item": "Whether field enquiry conducted on quarterly basis during post\nrevision period to defect dead and shifted electors and verify\ninformation received from various sources in this regard as well as\nin regard to defects of the electoral roll?",
+      "Response": ""
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Sl.\nNo.": "13.",
+      "Item": "Whether field enquiry reports in relation to sl.no.12 submitted\nin the format prescribed by the ERO? Also mention date(s) of\nsubmission of reports.",
+      "Response": ""
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Sl.\nNo.": "14.",
+      "Item": "Whether notice for hearing into such enquiry reports served in\ntime?",
+      "Response": ""
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Sl.\nNo.": "Pre-Revision Period",
+      "Item": null,
+      "Response": null
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Sl.\nNo.": "15.",
+      "Item": "Whether defects related to particulars of cover page, i.e., polling area,\nsection details, polling station address, etc. detected and rationalization\nof polling area felt necessary? If so, whether\nreport submitted to ERO after interacting with local people and field\nverification?",
+      "Response": ""
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Sl.\nNo.": "16.",
+      "Item": "Whether de-duplication, validation reports (related to Eroll Clean\nSoftware), list of Non-EPIC Electors, etc., reports received from\nERO? Please mention date.",
+      "Response": ""
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Sl.\nNo.": "17.",
+      "Item": "Whether field enquiry conducted to verify the aforesaid reports?",
+      "Response": ""
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Sl.\nNo.": "18.",
+      "Item": "Whether enquiry reports related to Sl.No.17 submitted in the\nformat prescribed by ERO? Also mention date(s) of submission of\nreports?",
+      "Response": ""
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Sl.\nNo.": "19.",
+      "Item": "Whether working copy of photo electoral roll received from ERO for\nfield verification of images? Please mention date. (Applicable for ACs\ngoing for publication of photo roll for the 1sttime)",
+      "Response": ""
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Sl.\nNo.": "20.",
+      "Item": "Whether field verification related to Sl.No.19 completed?",
+      "Response": ""
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Sl.\nNo.": "21.",
+      "Item": "Whether report regarding image verification submitted? Please\nmention date.",
+      "Response": ""
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "22.": "Revision Period",
+      "What are the initiatives taken to inform public in general about\nthe revision programme?": null,
+      "": null
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "22.": "23.",
+      "What are the initiatives taken to inform public in general about\nthe revision programme?": "What are the steps taken to guide people filing claims and\nobjections?",
+      "": ""
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "22.": "24.",
+      "What are the initiatives taken to inform public in general about\nthe revision programme?": "Whether meeting of Gram Sansad/Ward/Booth or the like\norganized in connection with revision of electoral roll attended by\nthe BLO?",
+      "": ""
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "22.": "25.",
+      "What are the initiatives taken to inform public in general about\nthe revision programme?": "Whether Form 6, 7, 8, 8A received by the Designated Officers\nduring revision period handed over to the BLO by the ERO for\nfield enquiry? Please mention date and number of forms received.",
+      "": ""
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "22.": "26.",
+      "What are the initiatives taken to inform public in general about\nthe revision programme?": "Whether field enquiry held into such 6, 7, 8, 8A and enquiry\nreport prepared in the format prescribed by the ERO?",
+      "": ""
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Sl.\nNo.": "27.",
+      "Item": "Whether enquiry report noted in sl.no.26 submitted? Please\nmention date.",
+      "Response": ""
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Sl.\nNo.": "EPIC Campaign Period",
+      "Item": null,
+      "Response": null
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Sl.\nNo.": "28.",
+      "Item": "Whether houses of Non-EPIC electors visited to inform the\nelectors about date, time and venue of photo-taking programme?",
+      "Response": ""
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Sl.\nNo.": "29.",
+      "Item": "Whether Form 001/002/004 supplied to the elector during home\nvisit and whether assistance provided to fill up the form?",
+      "Response": ""
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Sl.\nNo.": "30.",
+      "Item": "Whether the BLO remained present at the photo-taking venue on\nthe day of photo taking to assist electors?",
+      "Response": ""
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Sl.\nNo.": "31.",
+      "Item": "Please mention the number of EPIC received from ERO for\ndistribution and number of EPICs delivered at elector’s address.",
+      "Response": ""
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Sl.\nNo.": "32.",
+      "Item": "Whether Signature/LTI of elector obtained as an\nacknowledgement of receipt of the EPIC?",
+      "Response": ""
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Sl.\nNo.": "33.",
+      "Item": "Date(s) of verification of the register as mentioned in sl.no.5 by\nthe authorized representative of ERO.",
+      "Response": ""
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "SUMMARYOFELECTORS": "No.,NameandReservationStatus\nOf AssemblyConstituency 60Baghmara(ST)",
+      "null": null
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "SUMMARYOFELECTORS": "A) NUMBER OF ELECTORS",
+      "null": null
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "SUMMARYOFELECTORS": "",
+      "null": null
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "SUMMARYOFELECTORS": null,
+      "null": "Total"
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "SUMMARYOFELECTORS": "I",
+      "null": "20103"
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "SUMMARYOFELECTORS": "II",
+      "null": ""
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "SUMMARYOFELECTORS": null,
+      "null": ""
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "SUMMARYOFELECTORS": "III",
+      "null": ""
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "SUMMARYOFELECTORS": null,
+      "null": ""
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "SUMMARYOFELECTORS": "NetElectorsin theRoll afterSummaryRevision2006(I+II-III)",
+      "null": "20103"
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "SUMMARY OF ELECTORS": "No.,NameandReservationStatus 60Baghmara(ST)\nOfAssemblyConstituency",
+      "null": null,
+      "": "Part No. 1"
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "SUMMARY OF ELECTORS": "B) NUMBER OF ELECTORS",
+      "null": null,
+      "": null
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "SUMMARY OF ELECTORS": "",
+      "null": null,
+      "": null
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "SUMMARY OF ELECTORS": null,
+      "null": "Total",
+      "": "Women"
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "SUMMARY OF ELECTORS": "I",
+      "null": "701",
+      "": "338"
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "SUMMARY OF ELECTORS": "II",
+      "null": "",
+      "": ""
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "SUMMARY OF ELECTORS": null,
+      "null": "",
+      "": ""
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "SUMMARY OF ELECTORS": null,
+      "null": "",
+      "": ""
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "SUMMARY OF ELECTORS": "III",
+      "null": "",
+      "": ""
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "SUMMARY OF ELECTORS": null,
+      "null": "",
+      "": ""
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "SUMMARY OF ELECTORS": null,
+      "null": "",
+      "": ""
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "SUMMARY OF ELECTORS": "NetElectorsin theRoll afterSummaryRevision2008(I+II-III) 363 338 701\nB) NUMBER OF MODIFICATIONS",
+      "null": null,
+      "": null
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "SUMMARY OF ELECTORS": "RollType",
+      "null": null,
+      "": null
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "SUMMARY OF ELECTORS": "Supplement 1",
+      "null": null,
+      "": null
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "SUMMARY OF ELECTORS": "Supplement 2",
+      "null": null,
+      "": null
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "SUMMARY OF ELECTORS": "Sub-Total",
+      "null": null,
+      "": null
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Application for inclusion of name in electoral roll": "To\nThe Electoral Registration Officer SPACE FOR PASTING ONE\nRECENT PASSPORT SIZE\nPHOTOGRAPH\n£\n……………………Assembly/ Parliamentary Constituency.\n(3.5 CM X 3.5 CM)\nSHOWING FRONTAL VIEW OF\nSir, FULL FACE WITHIN THIS BOX\nI request that my name be included in the electoral roll for the above\nConstituency. Particulars in support of my claim for inclusion in the electoral\nroll are given below:",
+      "null": null
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Application for inclusion of name in electoral roll": "I. Applicant’s\ndetails",
+      "null": "Surname (if any)"
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Application for inclusion of name in electoral roll": null,
+      "null": ""
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Application for inclusion of name in electoral roll": "Age as on 1stJanuary ………….#",
+      "null": "Sex (male/female/others):"
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Application for inclusion of name in electoral roll": "Date of birth, if known:",
+      "null": "Year:"
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Application for inclusion of name in electoral roll": "Place of\nbirth:",
+      "null": null
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Application for inclusion of name in electoral roll": null,
+      "null": "State:"
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Application for inclusion of name in electoral roll": "* Father’s/\nMother’s/ Name\nHusband’s",
+      "null": "Surname (if any)"
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Application for inclusion of name in electoral roll": null,
+      "null": ""
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "II. Particulars of place of present ordinary Residence (Full address)": "House/ Door number:",
+      "null": null
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "II. Particulars of place of present ordinary Residence (Full address)": "Street/ Area/Locality/\nMohalla/Road:",
+      "null": null
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "II. Particulars of place of present ordinary Residence (Full address)": "Town/ Village:",
+      "null": null
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "II. Particulars of place of present ordinary Residence (Full address)": "Post Office:",
+      "null": ""
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "II. Particulars of place of present ordinary Residence (Full address)": "Tehsil/ Taluka/\nMandal/ Thana:",
+      "null": null
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "II. Particulars of place of present ordinary Residence (Full address)": "District:",
+      "null": null
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "II. Particulars of place of present ordinary Residence (Full address)": "III. Details of member(s) of applicant’s family already included in the current electoral roll of the Constituency:",
+      "null": null
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "II. Particulars of place of present ordinary Residence (Full address)": "Name",
+      "null": null
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "II. Particulars of place of present ordinary Residence (Full address)": "1.",
+      "null": null
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "II. Particulars of place of present ordinary Residence (Full address)": "2.",
+      "null": null
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "IV. Declaration\nI hereby declare that to the best of my knowledge and belief:-\n(i) I am a citizen of India;\n(ii) I am ordinarily resident at the address given in para II above since ………..(date, month, year)\n(iii) I have not applied for the inclusion of my name in the electoral roll for any other constituency;\n(iv) *My name has not already been included in the electoral roll for this or any other assembly constituency;\nOr\n*My name may have been included in the electoral roll for_________________ Constituency in _______________________State in which I\nwas ordinarily\nresident earlier at the address mentioned below and if so, I request that the\nsame may be deleted from that electoral roll.": "Full Address (Earlier Place of ordinary residence)\n____________________________________________\n____________________________________________\n____________________________________________\n________________________",
+      "null": "Electors Photo Identity Card number (if\nalready issued)____________________\nDate of issue _____________________"
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "IV. Declaration\nI hereby declare that to the best of my knowledge and belief:-\n(i) I am a citizen of India;\n(ii) I am ordinarily resident at the address given in para II above since ………..(date, month, year)\n(iii) I have not applied for the inclusion of my name in the electoral roll for any other constituency;\n(iv) *My name has not already been included in the electoral roll for this or any other assembly constituency;\nOr\n*My name may have been included in the electoral roll for_________________ Constituency in _______________________State in which I\nwas ordinarily\nresident earlier at the address mentioned below and if so, I request that the\nsame may be deleted from that electoral roll.": "Place:\nDate: Signature or thumb impression of the applicant\nPlease give your mobile number /E-mail I.D (Optional)/……………………………………..",
+      "null": null
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "**\n(Full address)": "House/ Door number:",
+      "null": null
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "**\n(Full address)": "Street/ Area/Locality/\nMohalla/Road:",
+      "null": null
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "**\n(Full address)": "Town/ Village:",
+      "null": null
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "**\n(Full address)": "Post Office:",
+      "null": ""
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "**\n(Full address)": "Tehsil/ Taluka/\nMandal/ Thana:",
+      "null": null
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "**\n(Full address)": "District:",
+      "null": null
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Applicationforobjectinginclusionorseekingdeletionofnameinelectoralroll": "To\nTheElectoralRegistrationOfficer,\n£\n/\n……………………………Assembly Parliamentary Constituency.\nSir,\n@Iobjecttothe proposedinclusionofthenameoftheundermentionedpersonintheelectoralrollforthe\naboveConstituency.Particularsin supportofmyobjectionaregivenbelow:\nOr\n@ Isubmitthattheentryrelatingto*myself/*thepersonnamedbelowis requiredtobedeletedfor\nthereasonsstatedhereunder:",
+      "null": null
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Applicationforobjectinginclusionorseekingdeletionofnameinelectoralroll": "I. @Detailsofperson\ninclusionofwhose\nnameisobjectedto:\n@ Detailsofperson\nwhoseentryis tobe\ndeleted:",
+      "null": "Surname(ifany)"
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Applicationforobjectinginclusionorseekingdeletionofnameinelectoralroll": null,
+      "null": ""
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Applicationforobjectinginclusionorseekingdeletionofnameinelectoralroll": null,
+      "null": "Elector’sPhoto Identity\nCardnumber(ifissued):"
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Applicationforobjectinginclusionorseekingdeletionofnameinelectoralroll": "II.",
+      "null": "Surname(ifany)"
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Applicationforobjectinginclusionorseekingdeletionofnameinelectoralroll": null,
+      "null": ""
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Applicationforobjectinginclusionorseekingdeletionofnameinelectoralroll": null,
+      "null": "His/herserialnumberin that\npart:"
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Applicationforobjectinginclusionorseekingdeletionofnameinelectoralroll": "*Father’s/\nMother’s/ Name\nHusband’s",
+      "null": "Surname(ifany)"
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Applicationforobjectinginclusionorseekingdeletionofnameinelectoralroll": null,
+      "null": ""
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Applicationforobjectinginclusionorseekingdeletionofnameinelectoralroll": "III.",
+      "null": null
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Applicationforobjectinginclusionorseekingdeletionofnameinelectoralroll": "House/Door number:",
+      "null": null
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Applicationforobjectinginclusionorseekingdeletionofnameinelectoralroll": "Street/Area/Locality/Mohalla/Road:",
+      "null": null
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Town/Village:": "PostOffice:",
+      "null": ""
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Town/Village:": "Tehsil/Taluka/Mandal/Thana:",
+      "null": null
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Town/Village:": "District:",
+      "null": null
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Town/Village:": "IV. Reason(s)for*objection/*deletion:",
+      "null": null
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "**\n(Full address)": "House/ Door number:",
+      "null": null
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "**\n(Full address)": "Street/ Area/Locality/\nMohalla/Road:",
+      "null": null
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "**\n(Full address)": "Town/ Village:",
+      "null": null
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "**\n(Full address)": "Post Office:",
+      "null": ""
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "**\n(Full address)": "Tehsil/ Taluka/\nMandal/ Thana:",
+      "null": null
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "**\n(Full address)": "District:",
+      "null": null
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Application for correction to particulars entered in electoral roll": "To\nThe Electoral Registration Officer, SPACE FOR PASTING ONE\nRECENT PASSPORT SIZE\nPHOTOGRAPH\n£\n/\n……………………………Assembly Parliamentary Constituency. (3.5 CM X 3.5 CM) SHOWING\nFRONTAL VIEW OF FULL FACE\nWITHIN THIS BOX\nSir,\nI request that entry relating to myself appearing in the electoral roll the above Constituency is not correct\nand it should be corrected. Correct particulars in support of my request are given below:",
+      "null": null
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Application for correction to particulars entered in electoral roll": "I. Applicant’s\ndetails",
+      "null": null
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Application for correction to particulars entered in electoral roll": null,
+      "null": null
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Application for correction to particulars entered in electoral roll": "Part number of electoral roll:",
+      "null": null
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Application for correction to particulars entered in electoral roll": "Age as on 1stJanuary ………….#",
+      "null": "Sex (male/female/others):"
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Application for correction to particulars entered in electoral roll": "Date of birth, if known:",
+      "null": "Year:"
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Application for correction to particulars entered in electoral roll": "* Father’s/\nMother’s/ Name\nHusband’s",
+      "null": null
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Application for correction to particulars entered in electoral roll": null,
+      "null": null
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Application for correction to particulars entered in electoral roll": "II. Particulars of place of present ordinary Residence (Full address)",
+      "null": null
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Application for correction to particulars entered in electoral roll": "House/ Door number:",
+      "null": null
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Application for correction to particulars entered in electoral roll": "Street/ Area/Locality/Mohalla/Road:",
+      "null": null
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Town/ Village:": "Post Office:",
+      "null": ""
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Town/ Village:": "Tehsil/ Taluka/Mandal/ Thana:",
+      "null": null
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Town/ Village:": "District:",
+      "null": null
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Town/ Village:": "III.Details of Elector’s Photo Identity Card (if issued, in this or some other constituency)",
+      "null": null
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Town/ Village:": "Elector’s Photo Identity Card number:",
+      "null": null
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Town/ Village:": "Name of the Constituency:",
+      "null": null
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Town/ Village:": "IV.Details of entries to be corrected:\n*My name / *Age/ *Father’s/Mother’s/Husband’s name/ *Sex/ *Address/ *Elector’s Photo Identity\nCard Number may be corrected in terms of information provided in this Form above.",
+      "null": null
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Town/ Village:": "Place:\nDate: Signature or thumb impression of theelector\nPlease give your mobile number / E-mail I.D (Optional)/……………………………………..",
+      "null": null
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "**\n(Full address)": "House/ Door number:",
+      "null": null
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "**\n(Full address)": "Street/ Area/Locality/\nMohalla/Road:",
+      "null": null
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "**\n(Full address)": "Town/ Village:",
+      "null": null
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "**\n(Full address)": "Post Office:",
+      "null": ""
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "**\n(Full address)": "Tehsil/ Taluka/\nMandal/ Thana:",
+      "null": null
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "**\n(Full address)": "District:",
+      "null": null
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Application for transposition of entry in electoral roll": "To\nThe Electoral Registration Officer, SPACE FOR PASTING ONE\nRECENT PASSPORT SIZE\nPHOTOGRAPH\n£\n/\n……………………………Assembly Parliamentary Constituency. (3.5 CM X 3.5 CM) SHOWING\nFRONTAL VIEW OF FULL\nFACE WITHIN THIS BOX\nSir,\nI request that entry in the electoral roll for the abovementioned Constituency relating to *Myself /\n*person named below should be transposed to the relevant part of the roll in this constituency. Particulars\nof the entry to transposed are given below:",
+      "null": null
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Application for transposition of entry in electoral roll": "I. Details of person\nwhose entry is to be\ntransposed:",
+      "null": "Surname (if any)"
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Application for transposition of entry in electoral roll": null,
+      "null": ""
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Application for transposition of entry in electoral roll": null,
+      "null": "Elector’s Photo Identity Card\nnumber (if issued):"
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Application for transposition of entry in electoral roll": "* Father’s/\nMother’s/ Name\nHusband’s",
+      "null": null
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Application for transposition of entry in electoral roll": null,
+      "null": null
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Application for transposition of entry in electoral roll": "II. Particulars of present place of ordinary Residence (Full address)",
+      "null": null
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Application for transposition of entry in electoral roll": "House/ Door number:",
+      "null": null
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Application for transposition of entry in electoral roll": "Street/ Area/Locality/Mohalla/Road:",
+      "null": null
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Application for transposition of entry in electoral roll": "Town/ Village:",
+      "null": null
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Post Office:": "Tehsil/ Taluka/Mandal/ Thana:",
+      "null": null,
+      "Pin Code:": null,
+      "": null
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Post Office:": "District:",
+      "null": null,
+      "Pin Code:": null,
+      "": null
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Post Office:": "III. Period of continuous residence at the above address\nonthe date of application",
+      "null": "Months:",
+      "Pin Code:": null,
+      "": null
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Post Office:": "IV. Part number to which the entry has to be transposed (if known)",
+      "null": null,
+      "Pin Code:": null,
+      "": null
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Post Office:": "@V. Details of\napplicant:",
+      "null": null,
+      "Pin Code:": null,
+      "": null
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Post Office:": null,
+      "null": null,
+      "Pin Code:": null,
+      "": null
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Post Office:": null,
+      "null": null,
+      "Pin Code:": null,
+      "": null
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "** (Full address)": "House/ Door number:",
+      "null": null
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "** (Full address)": "Street/ Area/Locality/\nMohalla/Road:",
+      "null": null
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "** (Full address)": "Town/ Village:",
+      "null": null
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "** (Full address)": "Post Office:",
+      "null": ""
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "** (Full address)": "Tehsil/ Taluka/\nMandal/ Thana:",
+      "null": null
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "** (Full address)": "District:",
+      "null": null
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Designated location identity\n(where applications have\nbeen received)": "1. List number@",
+      "null": null,
+      "£\nConstituency (Assembly/ Parliamentary)": "2.Period of applications (covered inthis list)",
+      "Revision identity": "From date\n/ /"
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Designated location identity\n(where applications have\nbeen received)": "3.Place of hearing*",
+      "null": null,
+      "£\nConstituency (Assembly/ Parliamentary)": null,
+      "Revision identity": null
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Designated location identity\n(where applications have\nbeen received)": "Serial number$\nof application",
+      "null": "Time of\nhearing*",
+      "£\nConstituency (Assembly/ Parliamentary)": null,
+      "Revision identity": null
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Designated location identity\n(where applications have\nbeen received)": "1",
+      "null": "6b",
+      "£\nConstituency (Assembly/ Parliamentary)": null,
+      "Revision identity": null
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Designated location identity\n(where applications have\nbeen received)": "",
+      "null": "",
+      "£\nConstituency (Assembly/ Parliamentary)": null,
+      "Revision identity": null
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Designated location identity\n(where applications have\nbeen received)": "",
+      "null": "",
+      "£\nConstituency (Assembly/ Parliamentary)": null,
+      "Revision identity": null
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Designated location identity\n(where applications have\nbeen received)": "",
+      "null": "",
+      "£\nConstituency (Assembly/ Parliamentary)": null,
+      "Revision identity": null
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Designated location identity\n(where applications have\nbeen received)": "",
+      "null": "",
+      "£\nConstituency (Assembly/ Parliamentary)": null,
+      "Revision identity": null
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Designated location identity\n(where applications have\nbeen received)": "",
+      "null": "",
+      "£\nConstituency (Assembly/ Parliamentary)": null,
+      "Revision identity": null
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Designated location identity\n(where applications have\nbeen received)": "",
+      "null": "",
+      "£\nConstituency (Assembly/ Parliamentary)": null,
+      "Revision identity": null
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Designated location identity\n(where applications have\nbeen received)": "",
+      "null": "",
+      "£\nConstituency (Assembly/ Parliamentary)": null,
+      "Revision identity": null
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Designated location identity\n(where applications have\nbeen received)": "",
+      "null": "",
+      "£\nConstituency (Assembly/ Parliamentary)": null,
+      "Revision identity": null
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Designated location identity\n(where applications have\nbeen received)": "",
+      "null": "",
+      "£\nConstituency (Assembly/ Parliamentary)": null,
+      "Revision identity": null
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Designated location identity\n(where applications have\nbeen received)": null,
+      "null": null,
+      "£\nConstituency (Assembly/ Parliamentary)": null,
+      "Revision identity": null
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Designated location identity\n(where applications have\nbeen received)": null,
+      "null": null,
+      "£\nConstituency (Assembly/ Parliamentary)": null,
+      "Revision identity": null
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Designated location identity\n(where applications have\nbeen received)": "1. List number@",
+      "null": null,
+      "£\nConstituency (Assembly/ Parliamentary)": "2.Period of applications (covered inthis list)",
+      "Revision identity": "From date\n/ /"
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Designated location identity\n(where applications have\nbeen received)": "3.Place of hearing*",
+      "null": null,
+      "£\nConstituency (Assembly/ Parliamentary)": null,
+      "Revision identity": null
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Designated location identity\n(where applications have\nbeen received)": "Serial number$\nof application",
+      "null": "Time of\nhearing*",
+      "£\nConstituency (Assembly/ Parliamentary)": "Name (infull) of\nobjector",
+      "Revision identity": null
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Designated location identity\n(where applications have\nbeen received)": null,
+      "null": null,
+      "£\nConstituency (Assembly/ Parliamentary)": null,
+      "Revision identity": null
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Designated location identity\n(where applications have\nbeen received)": "1",
+      "null": "8b",
+      "£\nConstituency (Assembly/ Parliamentary)": "3",
+      "Revision identity": null
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Designated location identity\n(where applications have\nbeen received)": "",
+      "null": "",
+      "£\nConstituency (Assembly/ Parliamentary)": "",
+      "Revision identity": null
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Designated location identity\n(where applications have\nbeen received)": "",
+      "null": "",
+      "£\nConstituency (Assembly/ Parliamentary)": "",
+      "Revision identity": null
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Designated location identity\n(where applications have\nbeen received)": "",
+      "null": "",
+      "£\nConstituency (Assembly/ Parliamentary)": "",
+      "Revision identity": null
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Designated location identity\n(where applications have\nbeen received)": "",
+      "null": "",
+      "£\nConstituency (Assembly/ Parliamentary)": "",
+      "Revision identity": null
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Designated location identity\n(where applications have\nbeen received)": "",
+      "null": "",
+      "£\nConstituency (Assembly/ Parliamentary)": "",
+      "Revision identity": null
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Designated location identity\n(where applications have\nbeen received)": null,
+      "null": null,
+      "£\nConstituency (Assembly/ Parliamentary)": null,
+      "Revision identity": null
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Designated location identity\n(where applications have\nbeen received)": null,
+      "null": null,
+      "£\nConstituency (Assembly/ Parliamentary)": null,
+      "Revision identity": null
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Designated location identity\n(where applications have\nbeen received)": "1. List number@",
+      "null": null,
+      "£\nConstituency (Assembly/ Parliamentary)": "2. Period of applications (covered inthis list)",
+      "Revision identity": "From date\n/ /"
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Designated location identity\n(where applications have\nbeen received)": "3.Place of hearing*",
+      "null": null,
+      "£\nConstituency (Assembly/ Parliamentary)": null,
+      "Revision identity": null
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Designated location identity\n(where applications have\nbeen received)": "Serial number$\nof application",
+      "null": "Time of\nhearing*",
+      "£\nConstituency (Assembly/ Parliamentary)": null,
+      "Revision identity": null
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Designated location identity\n(where applications have\nbeen received)": null,
+      "null": null,
+      "£\nConstituency (Assembly/ Parliamentary)": null,
+      "Revision identity": null
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Designated location identity\n(where applications have\nbeen received)": "1",
+      "null": "7b",
+      "£\nConstituency (Assembly/ Parliamentary)": null,
+      "Revision identity": null
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Designated location identity\n(where applications have\nbeen received)": "",
+      "null": "",
+      "£\nConstituency (Assembly/ Parliamentary)": null,
+      "Revision identity": null
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Designated location identity\n(where applications have\nbeen received)": "",
+      "null": "",
+      "£\nConstituency (Assembly/ Parliamentary)": null,
+      "Revision identity": null
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Designated location identity\n(where applications have\nbeen received)": "",
+      "null": "",
+      "£\nConstituency (Assembly/ Parliamentary)": null,
+      "Revision identity": null
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Designated location identity\n(where applications have\nbeen received)": "",
+      "null": "",
+      "£\nConstituency (Assembly/ Parliamentary)": null,
+      "Revision identity": null
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Designated location identity\n(where applications have\nbeen received)": "",
+      "null": "",
+      "£\nConstituency (Assembly/ Parliamentary)": null,
+      "Revision identity": null
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Designated location identity\n(where applications have\nbeen received)": null,
+      "null": null,
+      "£\nConstituency (Assembly/ Parliamentary)": null,
+      "Revision identity": null
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Designated location identity\n(where applications have\nbeen received)": null,
+      "null": null,
+      "£\nConstituency (Assembly/ Parliamentary)": null,
+      "Revision identity": null
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "null": null,
+      "Revision identity": ""
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "null": null,
+      "Revision identity": null
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "null": null,
+      "Revision identity": null
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "null": null,
+      "Revision identity": null
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "null": null,
+      "Revision identity": null
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "null": "Date/Time of\nhearing*",
+      "Revision identity": null
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "null": null,
+      "Revision identity": "Present place\nof ordinary\nresidence"
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "null": "8",
+      "Revision identity": "7"
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "null": "",
+      "Revision identity": ""
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "null": "",
+      "Revision identity": ""
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "null": "",
+      "Revision identity": ""
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "null": null,
+      "Revision identity": null
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "null": null,
+      "Revision identity": null
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "": null,
+      "irk cnyus ij] u;s irs ij viuk": "uke fuokZpd ukekoyh esa ntZ djokus rFkk ml",
+      "s\ng\ns": null
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "": null,
+      "irk cnyus ij] u;s irs ij viuk": "irs ij blh uEcj dk dkMZ ikus ds fy,",
+      "s\ng\ns": null
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "": null,
+      "irk cnyus ij] u;s irs ij viuk": "lEcaf/kr QkeZ esa ;g dkMZ uEcj vo'; fy[ksaa",
+      "s\ng\ns": null
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "": null,
+      "irk cnyus ij] u;s irs ij viuk": "In case of change in address, mention thi",
+      "s\ng\ns": null
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "": null,
+      "irk cnyus ij] u;s irs ij viuk": "Card No. in the relevantFormfor includin\nyourname intherollatthechangedaddres",
+      "s\ng\ns": null
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "": null,
+      "irk cnyus ij] u;s irs ij viuk": "andtoobtainthecardwithsamenumber.",
+      "s\ng\ns": null
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "": null,
+      "irk cnyus ij] u;s irs ij viuk": "",
+      "s\ng\ns": null
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "1-UNAVA-1": "1-PANCHVATI ,UNAVA-382650",
+      "Male\nElectors": "109",
+      "Female\nElectors": "102",
+      "other": "0",
+      "Total": "211"
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "1-UNAVA-1": "2-VALARU ,UNAVA-382650",
+      "Male\nElectors": "49",
+      "Female\nElectors": "46",
+      "other": "0",
+      "Total": "95"
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "1-UNAVA-1": "3-TEJENDRAPURA ,UNAVA -382650",
+      "Male\nElectors": "34",
+      "Female\nElectors": "34",
+      "other": "0",
+      "Total": "68"
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "1-UNAVA-1": "4-THAKOR VAS ,UNAVA-382650",
+      "Male\nElectors": "83",
+      "Female\nElectors": "84",
+      "other": "0",
+      "Total": "167"
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "1-UNAVA-1": "5-SOLANKI PARU ,UNAVA-382650",
+      "Male\nElectors": "46",
+      "Female\nElectors": "53",
+      "other": "0",
+      "Total": "99"
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "1-UNAVA-1": "6-INDIRA NAGAR ,UNAVA-382650",
+      "Male\nElectors": "145",
+      "Female\nElectors": "136",
+      "other": "0",
+      "Total": "281"
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "1-UNAVA-1": "7-KRISHNAKUNJ SOCIETY ,UNAVA-382650",
+      "Male\nElectors": "30",
+      "Female\nElectors": "27",
+      "other": "0",
+      "Total": "57"
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "1-UNAVA-1": "8-VAHANVATI PARK ,UNAVA-382650 9-",
+      "Male\nElectors": "19",
+      "Female\nElectors": "16",
+      "other": "0",
+      "Total": "35"
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "1-UNAVA-1": "NEAR LAKE ,UNAVA-382650",
+      "Male\nElectors": "27",
+      "Female\nElectors": "26",
+      "other": "0",
+      "Total": "53"
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "1-UNAVA-1": "Total Electors :",
+      "Male\nElectors": "542",
+      "Female\nElectors": "524",
+      "other": "0",
+      "Total": "1066"
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Gender Ratio (As Per Electors)": null,
+      "District": "952",
+      "Assembly Constituency": "938",
+      "Polling Station": "967"
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Electors with EPIC": null,
+      "Total": "1038",
+      "Percentage": "97.37"
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Electors with EPIC": "Electors with EPIC & Photo",
+      "Total": "1015",
+      "Percentage": "95.22"
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Age Criteria": "18-19\n20-29\n30-39\n40-49\n50-59\n60-69\n70-79\n80-89\n90-99\n100+",
+      "Age wise\nElectors": "13\n303\n268\n234\n136\n68\n38\n5\n1\n0",
+      "%Age wise Electors\nto Total Electors": "1.22\n28.42\n25.14\n21.95\n12.76\n6.38\n3.56\n0.47\n0.09\n0.00"
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Age Criteria": "TOTAL",
+      "Age wise\nElectors": "1066",
+      "%Age wise Electors\nto Total Electors": ""
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Sl.\nNo.": null,
+      "EPIC No.": null,
+      "House No.": null,
+      "Name of Elector": "Surname",
+      "null": "Middle Name",
+      "Relation": null,
+      "Sex /\nAge": null,
+      "Date of\nBirth": null,
+      "Telephone /\nMobile No.": null,
+      "Period of ordinarily\nresiding at this\nplace": null,
+      "Action\nTaken": null
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Sl.\nNo.": "1",
+      "EPIC No.": "2",
+      "House No.": "3",
+      "Name of Elector": "4",
+      "null": "6",
+      "Relation": "7",
+      "Sex /\nAge": "8",
+      "Date of\nBirth": "9",
+      "Telephone /\nMobile No.": "10",
+      "Period of ordinarily\nresiding at this\nplace": "11",
+      "Action\nTaken": ""
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Sl.\nNo.": "12\nNo. & Name of Section :",
+      "EPIC No.": null,
+      "House No.": null,
+      "Name of Elector": null,
+      "null": null,
+      "Relation": null,
+      "Sex /\nAge": null,
+      "Date of\nBirth": null,
+      "Telephone /\nMobile No.": null,
+      "Period of ordinarily\nresiding at this\nplace": null,
+      "Action\nTaken": null
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Sl.\nNo.": "",
+      "EPIC No.": "",
+      "House No.": "",
+      "Name of Elector": "",
+      "null": "",
+      "Relation": "",
+      "Sex /\nAge": "",
+      "Date of\nBirth": "",
+      "Telephone /\nMobile No.": "",
+      "Period of ordinarily\nresiding at this\nplace": "",
+      "Action\nTaken": ""
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Sl.\nNo.": "",
+      "EPIC No.": "",
+      "House No.": "",
+      "Name of Elector": "",
+      "null": "",
+      "Relation": "",
+      "Sex /\nAge": "",
+      "Date of\nBirth": "",
+      "Telephone /\nMobile No.": "",
+      "Period of ordinarily\nresiding at this\nplace": "",
+      "Action\nTaken": ""
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Sl.\nNo.": "",
+      "EPIC No.": "",
+      "House No.": "",
+      "Name of Elector": "",
+      "null": "",
+      "Relation": "",
+      "Sex /\nAge": "",
+      "Date of\nBirth": "",
+      "Telephone /\nMobile No.": "",
+      "Period of ordinarily\nresiding at this\nplace": "",
+      "Action\nTaken": ""
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Sl.\nNo.": "",
+      "EPIC No.": "",
+      "House No.": "",
+      "Name of Elector": "",
+      "null": "",
+      "Relation": "",
+      "Sex /\nAge": "",
+      "Date of\nBirth": "",
+      "Telephone /\nMobile No.": "",
+      "Period of ordinarily\nresiding at this\nplace": "",
+      "Action\nTaken": ""
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Sl.\nNo.": "",
+      "EPIC No.": "",
+      "House No.": "",
+      "Name of Elector": "",
+      "null": "",
+      "Relation": "",
+      "Sex /\nAge": "",
+      "Date of\nBirth": "",
+      "Telephone /\nMobile No.": "",
+      "Period of ordinarily\nresiding at this\nplace": "",
+      "Action\nTaken": ""
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Sl.\nNo.": "",
+      "EPIC No.": "",
+      "House No.": "",
+      "Name of Elector": "",
+      "null": "",
+      "Relation": "",
+      "Sex /\nAge": "",
+      "Date of\nBirth": "",
+      "Telephone /\nMobile No.": "",
+      "Period of ordinarily\nresiding at this\nplace": "",
+      "Action\nTaken": ""
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Sl.\nNo.": "",
+      "EPIC No.": "",
+      "House No.": "",
+      "Name of Elector": "",
+      "null": "",
+      "Relation": "",
+      "Sex /\nAge": "",
+      "Date of\nBirth": "",
+      "Telephone /\nMobile No.": "",
+      "Period of ordinarily\nresiding at this\nplace": "",
+      "Action\nTaken": ""
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "House No.": null,
+      "No. of Family Members": "Male",
+      "null": "Total",
+      "Names of Family Members who will complete 18 Years of Age\nbetween 1-1-2011 and 1-1-2012": ""
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "K\n21-": "10",
+      "": ""
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "K\n21-": "100",
+      "": ""
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "K\n21-": "105",
+      "": ""
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "K\n21-": "11",
+      "": ""
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "K\n21-": "110",
+      "": ""
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "K\n21-": "12",
+      "": ""
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "K\n21-": "13",
+      "": ""
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "K\n21-": "14",
+      "": ""
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "K\n21-": "15",
+      "": ""
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "K\n21-": "K\n15-",
+      "": ""
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "K\n21-": "1505",
+      "": ""
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "K\n21-": "16",
+      "": ""
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "K\n21-": "17",
+      "": ""
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "K\n21-": "K\n179-",
+      "": ""
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "K\n21-": "18",
+      "": ""
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "K\n21-": "19",
+      "": ""
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "K\n21-": "2",
+      "": ""
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "K\n21-": "20",
+      "": ""
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "K\n21-": "21",
+      "": ""
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "K\n21-": "Gh\n21-",
+      "": ""
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "K\n21-": "Gha\n21-",
+      "": ""
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Part No.–1 તાલકો ગ- ાધીનગર , ƣ લો ગ- ાધીનગર TEHSIL - GANDHINAGAR , DISTRICT - GANDHINAGAR": "",
+      "null": ""
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Part No.–1 તાલકો ગ- ાધીનગર , ƣ લો ગ- ાધીનગર TEHSIL - GANDHINAGAR , DISTRICT - GANDHINAGAR": "1",
+      "null": ""
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Part No.–1 તાલકો ગ- ાધીનગર , ƣ લો ગ- ાધીનગર TEHSIL - GANDHINAGAR , DISTRICT - GANDHINAGAR": "",
+      "null": ""
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Part No.–1 તાલકો ગ- ાધીનગર , ƣ લો ગ- ાધીનગર TEHSIL - GANDHINAGAR , DISTRICT - GANDHINAGAR": "",
+      "null": ""
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Part No.–1 તાલકો ગ- ાધીનગર , ƣ લો ગ- ાધીનગર TEHSIL - GANDHINAGAR , DISTRICT - GANDHINAGAR": "2",
+      "null": ""
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Part No.–1 તાલકો ગ- ાધીનગર , ƣ લો ગ- ાધીનગર TEHSIL - GANDHINAGAR , DISTRICT - GANDHINAGAR": "",
+      "null": ""
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Part No.–1 તાલકો ગ- ાધીનગર , ƣ લો ગ- ાધીનગર TEHSIL - GANDHINAGAR , DISTRICT - GANDHINAGAR": "",
+      "null": ""
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Part No.–1 તાલકો ગ- ાધીનગર , ƣ લો ગ- ાધીનગર TEHSIL - GANDHINAGAR , DISTRICT - GANDHINAGAR": "3",
+      "null": ""
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Part No.–1 તાલકો ગ- ાધીનગર , ƣ લો ગ- ાધીનગર TEHSIL - GANDHINAGAR , DISTRICT - GANDHINAGAR": "",
+      "null": ""
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Part No.–1 તાલકો ગ- ાધીનગર , ƣ લો ગ- ાધીનગર TEHSIL - GANDHINAGAR , DISTRICT - GANDHINAGAR": "",
+      "null": ""
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Part No.–1 તાલકો ગ- ાધીનગર , ƣ લો ગ- ાધીનગર TEHSIL - GANDHINAGAR , DISTRICT - GANDHINAGAR": "4",
+      "null": ""
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Part No.–1 તાલકો ગ- ાધીનગર , ƣ લો ગ- ાધીનગર TEHSIL - GANDHINAGAR , DISTRICT - GANDHINAGAR": "",
+      "null": ""
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Part No.–1 તાલકો ગ- ાધીનગર , ƣ લો ગ- ાધીનગર TEHSIL - GANDHINAGAR , DISTRICT - GANDHINAGAR": "",
+      "null": ""
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Part No.–1 તાલકો ગ- ાધીનગર , ƣ લો ગ- ાધીનગર TEHSIL - GANDHINAGAR , DISTRICT - GANDHINAGAR": "5",
+      "null": ""
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Part No.–1 તાલકો ગ- ાધીનગર , ƣ લો ગ- ાધીનગર TEHSIL - GANDHINAGAR , DISTRICT - GANDHINAGAR": "",
+      "null": ""
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Part No.–1 તાલકો ગ- ાધીનગર , ƣ લો ગ- ાધીનગર TEHSIL - GANDHINAGAR , DISTRICT - GANDHINAGAR": "",
+      "null": ""
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Part No.–1 તાલકો ગ- ાધીનગર , ƣ લો ગ- ાધીનગર TEHSIL - GANDHINAGAR , DISTRICT - GANDHINAGAR": "6",
+      "null": ""
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Part No.–1 તાલકો ગ- ાધીનગર , ƣ લો ગ- ાધીનગર TEHSIL - GANDHINAGAR , DISTRICT - GANDHINAGAR": "",
+      "null": ""
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Part No.–1 તાલકો ગ- ાધીનગર , ƣ લો ગ- ાધીનગર TEHSIL - GANDHINAGAR , DISTRICT - GANDHINAGAR": "",
+      "null": ""
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Part No.–1 તાલકો ગ- ાધીનગર , ƣ લો ગ- ાધીનગર TEHSIL - GANDHINAGAR , DISTRICT - GANDHINAGAR": "7",
+      "null": ""
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Part No.–1 તાલકો ગ- ાધીનગર , ƣ લો ગ- ાધીનગર TEHSIL - GANDHINAGAR , DISTRICT - GANDHINAGAR": "",
+      "null": ""
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Part No.–1 તાલકો ગ- ાધીનગર , ƣ લો ગ- ાધીનગર TEHSIL - GANDHINAGAR , DISTRICT - GANDHINAGAR": "",
+      "null": ""
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Part No.–1 તાલકો ગ- ાધીનગર , ƣ લો ગ- ાધીનગર TEHSIL - GANDHINAGAR , DISTRICT - GANDHINAGAR": "8",
+      "null": ""
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Part No.–1 તાલકો ગ- ાધીનગર , ƣ લો ગ- ાધીનગર TEHSIL - GANDHINAGAR , DISTRICT - GANDHINAGAR": "",
+      "null": ""
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Part No.–1 તાલકો ગ- ાધીનગર , ƣ લો ગ- ાધીનગર TEHSIL - GANDHINAGAR , DISTRICT - GANDHINAGAR": "9\nતળાવ પાસ",
+      "null": ""
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Part\nNo.": "",
+      "Sr.\nNo": "",
+      "House\nNo.": "",
+      "Name of the Member of the family": "",
+      "Sex": "",
+      "Age": "",
+      "Is elector\npresent?\nYes/No": ""
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Part\nNo.": "",
+      "Sr.\nNo": "",
+      "House\nNo.": "",
+      "Name of the Member of the family": "",
+      "Sex": "",
+      "Age": "",
+      "Is elector\npresent?\nYes/No": ""
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Part\nNo.": "",
+      "Sr.\nNo": "",
+      "House\nNo.": "",
+      "Name of the Member of the family": "",
+      "Sex": "",
+      "Age": "",
+      "Is elector\npresent?\nYes/No": ""
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Part\nNo.": "",
+      "Sr.\nNo": "",
+      "House\nNo.": "",
+      "Name of the Member of the family": "",
+      "Sex": "",
+      "Age": "",
+      "Is elector\npresent?\nYes/No": ""
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Sl.\nNo.": "1",
+      "Item": "Date of receipt of letter of appointment as BLO?",
+      "Remarks": ""
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Sl.\nNo.": "2",
+      "Item": "Whether training imparted from the end of ERO and duties\nand responsibilities of BLO explained? If so, please\nmention date on which the training was imparted.",
+      "Remarks": ""
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Sl.\nNo.": "Post-revision period",
+      "Item": null,
+      "Remarks": null
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Sl.\nNo.": "3",
+      "Item": "Whether relevant part(s) of the current Electoral Roll\nreceived along with all supplements by the BLO?",
+      "Remarks": ""
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Sl.\nNo.": "4",
+      "Item": "Whether the electoral roll part(s) including cover page(s)\nthoroughly scrutinized by the BLO to find out defects; if\nany.",
+      "Remarks": ""
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Sl.\nNo.": "5",
+      "Item": "Whether part-wise register is opened by BLO for recording\nsuch defects, other inputs obtained during field verification\n& corresponding field observations and all other activities?",
+      "Remarks": ""
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Sl.\nNo.": "6",
+      "Item": "Whether the BLO interacts with the local electors,\nparticularly, the elders, elected representatives and\npolitical party functionaries on quarterly basis to find out\ndead and shifted electors, eligible electors not yet enrolled\nand any other defects?",
+      "Remarks": ""
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Sl.\nNo.": "7",
+      "Item": "Whether the BLO has checked the roll to ensure that\nnames of prominent personalities of the locality exist in the\nroll? If not, whether the same has been reported to the\nERO?",
+      "Remarks": ""
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Sl.\nNo.": "8",
+      "Item": "Whether a letter box is placed (with the prior approval of\nERO) at the place of posting of BLO or at some other\noffice/institution, convenient for the electors to receive\ninformation/complaints/suggestions and whether the same\nhas been communicated to the local elected and political\nrepresentatives? If so, please mention the location.",
+      "Remarks": ""
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Sl.\nNo.": "9",
+      "Item": "What are the steps taken by the BLO to inform the electors\nabout Permanent EPIC centre and the procedure to obtain\nduplicate EPIC?",
+      "Remarks": ""
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "10": "11",
+      "Whether details of additions/corrections/deletions made\nduring continuous revision process are collected from ERO\non quarterly basis?": "Whether local Birth & Death Registration Office visited by\nthe BLO on quarterly basis during post revision period and\nprobable dead electors identified checking their death\nregister?",
+      "": ""
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "10": "12",
+      "Whether details of additions/corrections/deletions made\nduring continuous revision process are collected from ERO\non quarterly basis?": "Whether field enquiry conducted by the BLO on quarterly\nbasis during post revision period to detect dead and\nshifted electors and verify information received from\nvarious sources in this regard as well as in regard to\ndefects of the electoral roll?",
+      "": ""
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "10": "13",
+      "Whether details of additions/corrections/deletions made\nduring continuous revision process are collected from ERO\non quarterly basis?": "Whether field enquiry reports in relation to sl. No. 12\nsubmitted in the format prescribed by the ERO? Also\nmention date(s) of submission of reports.",
+      "": ""
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "10": "14",
+      "Whether details of additions/corrections/deletions made\nduring continuous revision process are collected from ERO\non quarterly basis?": "Whether notice for hearing into such enquiry reports\nserved in time?",
+      "": ""
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "10": "Pre-revision period",
+      "Whether details of additions/corrections/deletions made\nduring continuous revision process are collected from ERO\non quarterly basis?": null,
+      "": null
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "10": "15",
+      "Whether details of additions/corrections/deletions made\nduring continuous revision process are collected from ERO\non quarterly basis?": "Whether defects related to particulars of cover page, i.e.,\npolling area, section details, Polling Station address, etc.?\nIf so, whether report submitted to ERO after interacting\nwith local people and field verification?",
+      "": ""
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "10": "16",
+      "Whether details of additions/corrections/deletions made\nduring continuous revision process are collected from ERO\non quarterly basis?": "Whether rationalization of polling area is felt necessary? If\nso, whether report submitted to ERO after interacting with\nlocal people and field verification?",
+      "": ""
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "10": "17",
+      "Whether details of additions/corrections/deletions made\nduring continuous revision process are collected from ERO\non quarterly basis?": "Whether de-duplication, validation reports (related to E-roll\nClean Software), list of Non-EPIC Electors, etc., reports\nreceived from ERO? Please mention date.",
+      "": ""
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "10": "18",
+      "Whether details of additions/corrections/deletions made\nduring continuous revision process are collected from ERO\non quarterly basis?": "Whether field enquiry conducted to verify the aforesaid\nreports?",
+      "": ""
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "10": "19",
+      "Whether details of additions/corrections/deletions made\nduring continuous revision process are collected from ERO\non quarterly basis?": "Whether enquiry reports related to Sl. No. 18 submitted in\nthe format prescribed by ERO? Also mention date(s) of\nsubmission of reports.",
+      "": ""
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "10": "20",
+      "Whether details of additions/corrections/deletions made\nduring continuous revision process are collected from ERO\non quarterly basis?": "What are the initiatives taken to inform public in general\nabout the revision program?",
+      "": ""
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "During revision": "21",
+      "null": ""
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "During revision": "22",
+      "null": ""
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "During revision": "23",
+      "null": ""
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "During revision": "24",
+      "null": ""
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "During revision": "25",
+      "null": ""
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "During revision": "During EPIC Campaign",
+      "null": null
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "During revision": "26",
+      "null": ""
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "During revision": "27",
+      "null": ""
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "During revision": "28",
+      "null": ""
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "During revision": "29",
+      "null": ""
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "During revision": "30",
+      "null": ""
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "During revision": "31",
+      "null": ""
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "During revision": "32",
+      "null": ""
+    },
+    "source": {
+      "pdf": "9c63137e6cba7c191d67ce426ddcdaed.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  }
+]

@@ -1,0 +1,290 @@
+[
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Sr.No": "1",
+      "Activities": "Preparation/Training/Printing",
+      "Schedule": "28.10.2025 (Tuesday) to\n03.11.2025 (Monday)"
+    },
+    "source": {
+      "pdf": "69292598251176015d7ab0c8979d4505.pdf",
+      "task": "sir_2002"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Sr.No": "2",
+      "Activities": "Enumeration Period",
+      "Schedule": "04.11.2025 (Tuesday) to\n04.12.2025 (Thursday)"
+    },
+    "source": {
+      "pdf": "69292598251176015d7ab0c8979d4505.pdf",
+      "task": "sir_2002"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Sr.No": "3",
+      "Activities": "Rationalization/Re-arrangement of Polling\nStations",
+      "Schedule": "By 04.12.2025 (Thursday)"
+    },
+    "source": {
+      "pdf": "69292598251176015d7ab0c8979d4505.pdf",
+      "task": "sir_2002"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Sr.No": "4",
+      "Activities": "Updation of Control Table and\nPreparation of draft roll",
+      "Schedule": "05.12.2025 (Friday) to\n08.12.2025 (Monday)"
+    },
+    "source": {
+      "pdf": "69292598251176015d7ab0c8979d4505.pdf",
+      "task": "sir_2002"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Sr.No": "5",
+      "Activities": "Publication of draft electoral roll",
+      "Schedule": "On 09.12.2025 (Tuesday)"
+    },
+    "source": {
+      "pdf": "69292598251176015d7ab0c8979d4505.pdf",
+      "task": "sir_2002"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Sr.No": "6",
+      "Activities": "Period for filing claims & objections",
+      "Schedule": "09.12.2025 (Tuesday) to\n08.01.2026 (Thursday)"
+    },
+    "source": {
+      "pdf": "69292598251176015d7ab0c8979d4505.pdf",
+      "task": "sir_2002"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Sr.No": "7",
+      "Activities": "Notice Phase (Issuance, hearing &\nverification); decision on Enumeration\nForms and disposal of claims and\nobjections to be done concurrently by the\nEROs",
+      "Schedule": "09.12.2025 (Tuesday) to\n31.01.2026 (Saturday)"
+    },
+    "source": {
+      "pdf": "69292598251176015d7ab0c8979d4505.pdf",
+      "task": "sir_2002"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Sr.No": "8",
+      "Activities": "Checking of health parameters of\nelectoral rolls and obtaining\nCommission’s permission for final\npublication",
+      "Schedule": "By 03.02.2026 (Tuesday)"
+    },
+    "source": {
+      "pdf": "69292598251176015d7ab0c8979d4505.pdf",
+      "task": "sir_2002"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Sr.No": "9",
+      "Activities": "Final Publication of Electoral Roll",
+      "Schedule": "On 07.02.2026 (Saturday)"
+    },
+    "source": {
+      "pdf": "69292598251176015d7ab0c8979d4505.pdf",
+      "task": "sir_2002"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Sr.No": "1",
+      "Activities": "Preparation/Training/Printing",
+      "Schedule": "28.10.2025 (Tuesday) to\n03.11.2025 (Monday)"
+    },
+    "source": {
+      "pdf": "69292598251176015d7ab0c8979d4505.pdf",
+      "task": "sir_2002"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Sr.No": "2",
+      "Activities": "Enumeration Period",
+      "Schedule": "04.11.2025 (Tuesday) to\n04.12.2025 (Thursday)"
+    },
+    "source": {
+      "pdf": "69292598251176015d7ab0c8979d4505.pdf",
+      "task": "sir_2002"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Sr.No": "3",
+      "Activities": "Rationalization/Re-arrangement of\nPolling Stations",
+      "Schedule": "By 04.12.2025 (Thursday)"
+    },
+    "source": {
+      "pdf": "69292598251176015d7ab0c8979d4505.pdf",
+      "task": "sir_2002"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Sr.No": "4",
+      "Activities": "Updation of Control Table and\nPreparation of draft roll",
+      "Schedule": "05.12.2025 (Friday) to\n08.12.2025 (Monday)"
+    },
+    "source": {
+      "pdf": "69292598251176015d7ab0c8979d4505.pdf",
+      "task": "sir_2002"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Sr.No": "5",
+      "Activities": "Publication of draft electoral roll",
+      "Schedule": "On 09.12.2025 (Tuesday)"
+    },
+    "source": {
+      "pdf": "69292598251176015d7ab0c8979d4505.pdf",
+      "task": "sir_2002"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Sr.No": "6",
+      "Activities": "Period for filing claims & objections",
+      "Schedule": "09.12.2025 (Tuesday) to\n08.01.2026 (Thursday)"
+    },
+    "source": {
+      "pdf": "69292598251176015d7ab0c8979d4505.pdf",
+      "task": "sir_2002"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Sr.No": "7",
+      "Activities": "Notice Phase (Issuance, hearing &\nverification); decision on Enumeration\nForms and disposal of claims and\nobjections to be done concurrently by\nthe EROs",
+      "Schedule": "09.12.2025 (Tuesday) to\n31.01.2026 (Saturday)"
+    },
+    "source": {
+      "pdf": "69292598251176015d7ab0c8979d4505.pdf",
+      "task": "sir_2002"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Sr.No": "8",
+      "Activities": "Checking of health parameters of\nelectoral rolls and obtaining\nCommission’s permission for final\npublication",
+      "Schedule": "By 03.02.2026 (Tuesday)"
+    },
+    "source": {
+      "pdf": "69292598251176015d7ab0c8979d4505.pdf",
+      "task": "sir_2002"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Sr.No": "9",
+      "Activities": "Final Publication of Electoral Roll",
+      "Schedule": "On 07.02.2026 (Saturday)"
+    },
+    "source": {
+      "pdf": "69292598251176015d7ab0c8979d4505.pdf",
+      "task": "sir_2002"
+    },
+    "confidence": "low"
+  }
+]

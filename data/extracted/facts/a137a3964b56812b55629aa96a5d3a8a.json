@@ -1,0 +1,31 @@
+[
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Article Original Articles in the As amended by Constitution\nConstitution (Amendment) Act, 1951": "Article 85 (1) The Houses of Parliament (1) The President shall from time\nSessions of shall be summoned to meet to time summon each House of\nParliament twice at least in every year, and Parliament to meet at such time\nProrogation & six months shall not intervene and place as he thinks fit, but six\nDissolution. betrween their last sitting in one months shall not intervene\nsession and the date appointed between its lat sitting in one\nfor their first sitting in the next session and the date appointed\nsession. for its first sitting in the next\nsession.\n(2) Subject to the provisions of (2) The President may from time\ncl.(1), the President may from to time -\ntime to time - (a) Prorogue the Houses of either\n(a) Summon the Houses or House\neither House to meet at (b) Dissolve the House of the\nsuch time & place as he People\nthinks fit;\n(b) Prorogue the Houses;\n(c) Dissolve the House of the\nPeople\nArticle 174 (1) The House or Houses of the (1) The Governor shall from time\nSessions of the State shall be summoned to to time summon the House or\nState Legislature meet twice at least in every year, each House to the Legislature of\nProrogation & and six months shall not the State to meet at such time\nDissolution intervene between their last and place as he thinks fit, but six\nsitting in one Session and the months shall not intervene\ndate appointed for their first between its last sitting in one\nsitting in the next session. session and the date appointed\n(2) Subject to the provisions of for its first sitting in the next\ncl. (1), the Governor may from session.\ntime to time - (2) The Governor may from time to\n(a) Summon the House or time -\neither House to meet at (a) Prorogue the House or either\nsuch time and place as he House;\nthinks fit; (b) Dissolve Legislative\n(b) Prorogue the House or Assembly.\nHouses"
+    },
+    "source": {
+      "pdf": "1180b4102d0d675b287468925ab06de6.pdf",
+      "task": "sir_2002"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Offences": "Under Section 143 read with\nSection 149 IPC\nUnder Section 148 read with\nSection 149 IPC\nUnder Section 447 read with\nSection 149 IPC\nUnder Section 353 read with\nSection 149 IPC\nUnder Section 427 read with\nSection 149 IPC\nUnder Section 3(2)(e) under\nthe P.D.P.P. Act read with\nSection 149 IPC",
+      "Sentence": "R.I. for a period of one month\nR.I. for six months\nR.I. for one month\nR.I. for six months\nR.I. for three months\nR.I. for one year"
+    },
+    "source": {
+      "pdf": "1180b4102d0d675b287468925ab06de6.pdf",
+      "task": "sir_2002"
+    },
+    "confidence": "low"
+  }
+]

@@ -1,0 +1,231 @@
+[
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "S.No": "1.",
+      "STAGES OF REVISION": "Preparatory work",
+      "PERIOD ALLOWED\nFOR EACH STAGE": "01-07-2004(Thursday) to\n01-08-2004 (Sunday)"
+    },
+    "source": {
+      "pdf": "2ecae8aeb47cb9823305a3eaeefd4f76.pdf",
+      "task": "sir_2002"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "S.No": "2.",
+      "STAGES OF REVISION": "House-to-house enumeration",
+      "PERIOD ALLOWED\nFOR EACH STAGE": "02-08-2004 (Monday) to\n03-09-2004 (Friday)"
+    },
+    "source": {
+      "pdf": "2ecae8aeb47cb9823305a3eaeefd4f76.pdf",
+      "task": "sir_2002"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "S.No": "3.",
+      "STAGES OF REVISION": "Preparation of manuscript,\ncomparison of manuscript with\nrelevant parts of the previous",
+      "PERIOD ALLOWED\nFOR EACH STAGE": "04-09-2004 (Saturday) to\n28-10-2004 (Thursday)"
+    },
+    "source": {
+      "pdf": "2ecae8aeb47cb9823305a3eaeefd4f76.pdf",
+      "task": "sir_2002"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "": "29-10-2004 (Friday)",
+      "electoral roll of 2004, data entry of\nnew electors and carrying out\ncorrections, wherever necessary, in\nrespect of electors already included\nin the data base, generation of\ncheck list, comparison thereof and\nprinting of draft roll.\nSupply of electoral rolls and\nForms 6, 7, 8 & 8A to area Post\nOffices.": "Draft publication of rolls on"
+    },
+    "source": {
+      "pdf": "2ecae8aeb47cb9823305a3eaeefd4f76.pdf",
+      "task": "sir_2002"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "": "Between\n29-10-2004 (Friday) and\n20-11-2004 (Saturday)",
+      "electoral roll of 2004, data entry of\nnew electors and carrying out\ncorrections, wherever necessary, in\nrespect of electors already included\nin the data base, generation of\ncheck list, comparison thereof and\nprinting of draft roll.\nSupply of electoral rolls and\nForms 6, 7, 8 & 8A to area Post\nOffices.": "Period for filing of claims and\nobjections and reading of relevant\npart/section of electoral roll in\nGram Sabha / Urban Local Bodies\nand Resident Welfare Association\nMeetings etc."
+    },
+    "source": {
+      "pdf": "2ecae8aeb47cb9823305a3eaeefd4f76.pdf",
+      "task": "sir_2002"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "": "13-12-2004 (Monday)",
+      "electoral roll of 2004, data entry of\nnew electors and carrying out\ncorrections, wherever necessary, in\nrespect of electors already included\nin the data base, generation of\ncheck list, comparison thereof and\nprinting of draft roll.\nSupply of electoral rolls and\nForms 6, 7, 8 & 8A to area Post\nOffices.": "Disposal of claims and objections\nby"
+    },
+    "source": {
+      "pdf": "2ecae8aeb47cb9823305a3eaeefd4f76.pdf",
+      "task": "sir_2002"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "": "31-12-2004 (Friday)",
+      "electoral roll of 2004, data entry of\nnew electors and carrying out\ncorrections, wherever necessary, in\nrespect of electors already included\nin the data base, generation of\ncheck list, comparison thereof and\nprinting of draft roll.\nSupply of electoral rolls and\nForms 6, 7, 8 & 8A to area Post\nOffices.": "Preparation and printing of\nsupplements of Additions,\ndeletions and corrections by"
+    },
+    "source": {
+      "pdf": "2ecae8aeb47cb9823305a3eaeefd4f76.pdf",
+      "task": "sir_2002"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "": "03-01-2005 (Monday)",
+      "electoral roll of 2004, data entry of\nnew electors and carrying out\ncorrections, wherever necessary, in\nrespect of electors already included\nin the data base, generation of\ncheck list, comparison thereof and\nprinting of draft roll.\nSupply of electoral rolls and\nForms 6, 7, 8 & 8A to area Post\nOffices.": "Final publication of Electoral Rolls\non"
+    },
+    "source": {
+      "pdf": "2ecae8aeb47cb9823305a3eaeefd4f76.pdf",
+      "task": "sir_2002"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "S.No": "1.",
+      "STAGES OF REVISION": "Preparation of list of identification\nparticulars of each section like\nvillage/hamlet name in case of part\nof village and main area or\nlocalities or societies or Blocks in a\ncolony in case of towns/metros.\nSplitting of each part of electoral\nroll as per the list of sections",
+      "PERIOD ALLOWED\nFOR EACH STAGE": "01-07-2004 (Thursday) to\n10-09-2004 (Friday)"
+    },
+    "source": {
+      "pdf": "2ecae8aeb47cb9823305a3eaeefd4f76.pdf",
+      "task": "sir_2002"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "": "15-09-2004 (Wednesday)",
+      "mentioned above and their\ndistribution to different\nlocalities/RWAs/Housing Societies\nand Gaon Sabhas before the date\nfixed for draft publication of roll.\nSupply of electoral rolls and\nForms 6, 7, 8 & 8A to area Post\nOffices.": "Draft publication of rolls on"
+    },
+    "source": {
+      "pdf": "2ecae8aeb47cb9823305a3eaeefd4f76.pdf",
+      "task": "sir_2002"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "": "Between\n15-09-2004 (Wednesday)\nand\n15-10-2004 (Friday)",
+      "mentioned above and their\ndistribution to different\nlocalities/RWAs/Housing Societies\nand Gaon Sabhas before the date\nfixed for draft publication of roll.\nSupply of electoral rolls and\nForms 6, 7, 8 & 8A to area Post\nOffices.": "Period for filing of claims and\nobjections and reading of relevant\npart/section of electoral roll in\nGram Sabha / Urban Local Bodies\nand Resident Welfare Association\nMeetings etc."
+    },
+    "source": {
+      "pdf": "2ecae8aeb47cb9823305a3eaeefd4f76.pdf",
+      "task": "sir_2002"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "": "18-09-2004 (Saturday) &\n19-09-2004 (Sunday)\n09-10-2004 (Saturday) &\n10-10-2004 (Sunday)",
+      "mentioned above and their\ndistribution to different\nlocalities/RWAs/Housing Societies\nand Gaon Sabhas before the date\nfixed for draft publication of roll.\nSupply of electoral rolls and\nForms 6, 7, 8 & 8A to area Post\nOffices.": "Special Campaign dates for\nreceiving claims and objections at\nall designated locations."
+    },
+    "source": {
+      "pdf": "2ecae8aeb47cb9823305a3eaeefd4f76.pdf",
+      "task": "sir_2002"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "": "01-12-2004 (Wednesday)",
+      "mentioned above and their\ndistribution to different\nlocalities/RWAs/Housing Societies\nand Gaon Sabhas before the date\nfixed for draft publication of roll.\nSupply of electoral rolls and\nForms 6, 7, 8 & 8A to area Post\nOffices.": "Disposal of claims and objections\nby"
+    },
+    "source": {
+      "pdf": "2ecae8aeb47cb9823305a3eaeefd4f76.pdf",
+      "task": "sir_2002"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "": "31-12-2004 (Friday)",
+      "mentioned above and their\ndistribution to different\nlocalities/RWAs/Housing Societies\nand Gaon Sabhas before the date\nfixed for draft publication of roll.\nSupply of electoral rolls and\nForms 6, 7, 8 & 8A to area Post\nOffices.": "Preparation and printing of\nsupplements of Additions,\ndeletions and corrections by"
+    },
+    "source": {
+      "pdf": "2ecae8aeb47cb9823305a3eaeefd4f76.pdf",
+      "task": "sir_2002"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "": "03-01-2005 (Monday)",
+      "mentioned above and their\ndistribution to different\nlocalities/RWAs/Housing Societies\nand Gaon Sabhas before the date\nfixed for draft publication of roll.\nSupply of electoral rolls and\nForms 6, 7, 8 & 8A to area Post\nOffices.": "Final publication of Electoral Rolls\non"
+    },
+    "source": {
+      "pdf": "2ecae8aeb47cb9823305a3eaeefd4f76.pdf",
+      "task": "sir_2002"
+    },
+    "confidence": "low"
+  }
+]

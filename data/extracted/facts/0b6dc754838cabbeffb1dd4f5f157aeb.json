@@ -1,0 +1,243 @@
+[
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "null": "omplaint, a\nplaint ID via\nsent on\n’s registered\nphone no.",
+      "1a": ""
+    },
+    "source": {
+      "pdf": "618dc6b9f185df1354ccde7d9ce4cf11.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "null": null,
+      "": null,
+      "Toll Free Helpline": null
+    },
+    "source": {
+      "pdf": "618dc6b9f185df1354ccde7d9ce4cf11.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "null": "",
+      "": "",
+      "Toll Free Helpline": "Public Website"
+    },
+    "source": {
+      "pdf": "618dc6b9f185df1354ccde7d9ce4cf11.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "null": null,
+      "": "",
+      "Toll Free Helpline": null
+    },
+    "source": {
+      "pdf": "618dc6b9f185df1354ccde7d9ce4cf11.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "null": null,
+      "": null,
+      "Toll Free Helpline": ""
+    },
+    "source": {
+      "pdf": "618dc6b9f185df1354ccde7d9ce4cf11.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "null": "Complainant can\nknow status of his\ncomplaint on Public\nWebsite and\nthrough Call Centre.",
+      "5": null
+    },
+    "source": {
+      "pdf": "618dc6b9f185df1354ccde7d9ce4cf11.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "": ""
+    },
+    "source": {
+      "pdf": "618dc6b9f185df1354ccde7d9ce4cf11.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "": ""
+    },
+    "source": {
+      "pdf": "618dc6b9f185df1354ccde7d9ce4cf11.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "": "PGR SERVER"
+    },
+    "source": {
+      "pdf": "618dc6b9f185df1354ccde7d9ce4cf11.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "": null,
+      "PGR SERVER\n2": null,
+      "null": "2"
+    },
+    "source": {
+      "pdf": "618dc6b9f185df1354ccde7d9ce4cf11.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "": "",
+      "null": ""
+    },
+    "source": {
+      "pdf": "618dc6b9f185df1354ccde7d9ce4cf11.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "": "",
+      "null": ""
+    },
+    "source": {
+      "pdf": "618dc6b9f185df1354ccde7d9ce4cf11.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "": "",
+      "null": ""
+    },
+    "source": {
+      "pdf": "618dc6b9f185df1354ccde7d9ce4cf11.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "null": "1. An aggrieved person can\nlodge a complaint through\nvarious channels such as Toll\nFree No, Public Website,\nLetter, Fax, Personal\nMeeting, Phone Call and\nSMS to concerned officer.",
+      "1": null
+    },
+    "source": {
+      "pdf": "618dc6b9f185df1354ccde7d9ce4cf11.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "COMPLAINT LODGED DIRECTLY": "TO CONCERNED OFFICER"
+    },
+    "source": {
+      "pdf": "618dc6b9f185df1354ccde7d9ce4cf11.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "null": "Satisfaction Response for the Action Taken by\nthe officer is confirmed by personal phone call\nand by Call Centre till the complete disposal of\ncomplaint.",
+      "4": ""
+    },
+    "source": {
+      "pdf": "618dc6b9f185df1354ccde7d9ce4cf11.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  }
+]

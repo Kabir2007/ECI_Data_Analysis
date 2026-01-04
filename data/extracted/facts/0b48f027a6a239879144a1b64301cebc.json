@@ -1,0 +1,8372 @@
+[
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": ""
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "OOuurr CCeennssuuss, OOuurr FFuuttuurree"
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "C 2011\nENSUS\nPP PP TT\nRROOVVIISSIIOONNAALL OOPPUULLAATTIIOONN OOTTAALLSS"
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": ""
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "Office of the Reggistrar General and"
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "Census Commissioner, India\nMinistry of Home Affairs\nsstt"
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "3311 MMaarrcchh 22001111"
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "",
+      "C 2011\nENSUS": "• Census 2011 is the 15th Census of India since\n11887722"
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "",
+      "C 2011\nENSUS": null
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "",
+      "C 2011\nENSUS": null
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "",
+      "C 2011\nENSUS": null
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "",
+      "C 2011\nENSUS": null
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": null,
+      "C 2011\nENSUS": null
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "",
+      "C 2011\nENSUS": "3300 SSeepptteemmbbeerr 22001100\n• Reference Date: 0:00 Hours of 1st\nOctober 2010"
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "",
+      "C 2011\nENSUS": "22\nOur Census, Our Future"
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "",
+      "null": null
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": null,
+      "null": null
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "",
+      "null": ""
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": null,
+      "null": null
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "",
+      "null": ""
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": null,
+      "null": null
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "",
+      "null": ""
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": null,
+      "null": null
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "",
+      "null": null
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": null,
+      "null": null
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "",
+      "null": null
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "",
+      "null": null
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": null,
+      "null": null
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "",
+      "null": ""
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": null,
+      "null": null
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": null,
+      "null": null
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "",
+      "null": ""
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": null,
+      "null": null
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": null,
+      "null": null
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "",
+      "null": ""
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": null,
+      "null": null
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "",
+      "null": ""
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": null,
+      "null": null
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": null,
+      "null": null
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "",
+      "null": ""
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": null,
+      "null": null
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": null,
+      "null": null
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "",
+      "null": null
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "",
+      "null": null
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": ""
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": ""
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": ""
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": ""
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": ""
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": ""
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": ""
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": ""
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": ""
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": ""
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": ""
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": ""
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": ""
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": ""
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "",
+      "null": null
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "",
+      "null": null
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": null,
+      "null": null
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "",
+      "null": ""
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": null,
+      "null": null
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "",
+      "null": ""
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": null,
+      "null": null
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "",
+      "null": ""
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": null,
+      "null": null
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "",
+      "null": null
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "",
+      "null": null
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "",
+      "Poppulation 2001-2011": "% G%ro Gwrtohw th",
+      "null": null
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": null,
+      "Poppulation 2001-2011": null,
+      "null": null
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "",
+      "Poppulation 2001-2011": "",
+      "null": ""
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": null,
+      "Poppulation 2001-2011": null,
+      "null": null
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": null,
+      "Poppulation 2001-2011": null,
+      "null": null
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "",
+      "Poppulation 2001-2011": "",
+      "null": ""
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": null,
+      "Poppulation 2001-2011": null,
+      "null": null
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": null,
+      "Poppulation 2001-2011": null,
+      "null": null
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "",
+      "Poppulation 2001-2011": "23.87\n25.00 21.54",
+      "null": null
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "",
+      "Poppulation 2001-2011": "etaR\n17.64\n20.00\n% Growth Rate\nof Population\n15.00 ht\nt",
+      "null": null
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "",
+      "Poppulation 2001-2011": "worG\n10.00\n5.00\n%%",
+      "null": null
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "",
+      "Poppulation 2001-2011": "88\n0.00\n1981-1991 1991-2001 2001-2011\nYears\nOur Census, Our Future",
+      "null": null
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "",
+      "null": ""
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "",
+      "null": null
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "",
+      "null": null
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "",
+      "null": null
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "",
+      "null": null
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "",
+      "null": null
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "",
+      "null": null
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "",
+      "Poppulation Higghligghts": "• The population of India has"
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "",
+      "Poppulation Higghligghts": "increased by more than 181 million\nduring the decade 2001-2011"
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "",
+      "Poppulation Higghligghts": "• The absolute addition is slightly\nlower than the population of Brazil,\ntthhee ffiifftthh mmoosstt ppooppuulloouuss ccoouunnttrryy iinn tthhee"
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "",
+      "Poppulation Higghligghts": "world!\n• The ppoppulation of India, at 1210.2"
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "",
+      "Poppulation Higghligghts": "million, is almost equal to the\ncombined population of U.S.A.,"
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "",
+      "Poppulation Higghligghts": "IInddonesiia, BBraziill, PPakkiisttan,\nBangladesh and Japan put together\n((1214.3 million))!"
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "",
+      "Poppulation Higghligghts": "1100\nOur Census, Our Future"
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": ""
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": ""
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": ""
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": ""
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": ""
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": ""
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": ""
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "",
+      "Poppulation": "2001 2011"
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "",
+      "Poppulation": ""
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "",
+      "Poppulation": ""
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "",
+      "Poppulation": ""
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "",
+      "Poppulation": ""
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "",
+      "Poppulation": ""
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "",
+      "Poppulation": "1122\nOur Census, Our Future"
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "",
+      "Population 1901 - 2011": ""
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "",
+      "Population 1901 - 2011": ""
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "",
+      "Population 1901 - 2011": ""
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "",
+      "Population 1901 - 2011": ""
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "",
+      "Population 1901 - 2011": ""
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "",
+      "Population 1901 - 2011": ""
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "",
+      "Population 1901 - 2011": "1133\nOur Census, Our Future"
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "",
+      "Poppulation Higghligghts": ""
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "",
+      "Poppulation Higghligghts": "•• 22000011-22001111 iiss tthhee ffiirrsstt ddeeccaaddee\n(with the exception of 1911-\n1921) which has actually added"
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "",
+      "Poppulation Higghligghts": "llesser popullattiion comparedd tto\nthe previous decade."
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "",
+      "Poppulation Higghligghts": "• The percentage decadal growth\nduring 2001-2011 has registered\nthe sharppest decline since"
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "",
+      "Poppulation Higghligghts": "Independence - a decrease of\n3.90 percentage points from\n2211.5544 ttoo 1177.6644 ppeerrcceenntt"
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "",
+      "Poppulation Higghligghts": ""
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "",
+      "Poppulation Higghligghts": "1144\nOur Census, Our Future"
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "",
+      "Poppulation Higghligghts": ""
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "",
+      "Poppulation Higghligghts": "• Uttar Pradesh (200 million) is the\nmost populous State in the"
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "",
+      "Poppulation Higghligghts": "country - population is more than\nthe population of Brazil."
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "",
+      "Poppulation Higghligghts": "• Uttar Pradesh and Maharashtra\n((312 million)), is ggreater than the"
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "",
+      "Poppulation Higghligghts": "population of USA"
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "",
+      "Poppulation Higghligghts": ""
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "",
+      "Poppulation Higghligghts": "1155\nOur Census, Our Future"
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "",
+      "Largest and the Smallest States/UTs": "Top 5 States/UTs Bottom 5 States/UTs",
+      "null": null
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": null,
+      "Largest and the Smallest States/UTs": null,
+      "null": null
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "",
+      "Largest and the Smallest States/UTs": "",
+      "null": ""
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": null,
+      "Largest and the Smallest States/UTs": null,
+      "null": null
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "",
+      "Largest and the Smallest States/UTs": "",
+      "null": ""
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": null,
+      "Largest and the Smallest States/UTs": null,
+      "null": null
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "",
+      "Largest and the Smallest States/UTs": "",
+      "null": ""
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": null,
+      "Largest and the Smallest States/UTs": null,
+      "null": null
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "",
+      "Largest and the Smallest States/UTs": "",
+      "null": null
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": null,
+      "Largest and the Smallest States/UTs": null,
+      "null": null
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "",
+      "Largest and the Smallest States/UTs": "",
+      "null": null
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "",
+      "Largest and the Smallest States/UTs": "1166\nOur Census, Our Future",
+      "null": null
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "",
+      "null": null
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "",
+      "null": null
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": null,
+      "null": null
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": null,
+      "null": null
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "",
+      "null": ""
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": null,
+      "null": null
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "",
+      "null": ""
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "",
+      "null": null
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "",
+      "null": null
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "",
+      "null": null
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "",
+      "Poppulation Growth 2001 - 2011": "",
+      "null": null
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "",
+      "Poppulation Growth 2001 - 2011": "• The percentage decadal growth rates of the\nsix most populous States have declined\ndduurriinngg 22000011- 22001111 ccoommppaarreedd ttoo 11999911-22000011::",
+      "null": null
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": null,
+      "Poppulation Growth 2001 - 2011": null,
+      "null": null
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "",
+      "Poppulation Growth 2001 - 2011": "• Uttar Pradesh (25.85% to 20.09%)\n• Maharashtra (22.73% to 15.99%)",
+      "null": ""
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "",
+      "Poppulation Growth 2001 - 2011": "• Bihar (28.62% to 25.07%)\n• West Bengal (17.77% to 13.93%)",
+      "null": ""
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "",
+      "Poppulation Growth 2001 - 2011": "• Andhra Pradesh (14.59% to 11.10%)\n• Madhya Pradesh (24.26% to 20.30%)",
+      "null": null
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "",
+      "Poppulation Growth 2001 - 2011": "",
+      "null": null
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "",
+      "Poppulation Growth 2001 - 2011": "1188\nOur Census, Our Future",
+      "null": null
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": ""
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": ""
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": ""
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": ""
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": ""
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": ""
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": ""
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": ""
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": ""
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": ""
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": ""
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": ""
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": ""
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": ""
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "",
+      "Growth of population": "2001 2011"
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": null,
+      "Growth of population": null
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": null,
+      "Growth of population": null
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "",
+      "Growth of population": ""
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "",
+      "Growth of population": ""
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "",
+      "Growth of population": ""
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "",
+      "Growth of population": ""
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "",
+      "Growth of population": ""
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "",
+      "Growth of population": "2211\nOur Census, Our Future"
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "",
+      "null": null
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "",
+      "null": null
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": null,
+      "null": null
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": null,
+      "null": null
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "",
+      "null": ""
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": null,
+      "null": null
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "",
+      "null": ""
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": null,
+      "null": null
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "",
+      "null": null
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "",
+      "null": null
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "",
+      "null": null
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "",
+      "null": null
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "",
+      "null": null
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": null,
+      "null": null
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "",
+      "null": ""
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": null,
+      "null": null
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": null,
+      "null": null
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "",
+      "null": ""
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": null,
+      "null": null
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "",
+      "null": null
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "",
+      "null": null
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "",
+      "null": null
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": ""
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": ""
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": ""
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": ""
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": ""
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": ""
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": ""
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "",
+      "null": null
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "",
+      "null": null
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": null,
+      "null": null
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "",
+      "null": ""
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": null,
+      "null": null
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "",
+      "null": ""
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": null,
+      "null": null
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": null,
+      "null": null
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "",
+      "null": null
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "",
+      "null": null
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "",
+      "null": null
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "",
+      "Population ((0-6 yyears)) Higghligghts": "• The total number of children in the age-group 0-6 is 158.8"
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "",
+      "Population ((0-6 yyears)) Higghligghts": "million (-5 million since 2001)"
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "",
+      "Population ((0-6 yyears)) Higghligghts": "• Twenty States and Union Territories now have over one million\nchildren in the age group 0-6 years. On the other extreme,\ntthheerree aarree ffiivvee SSttaatteess aanndd UUnniioonn TTeerrrriittoorriieess iinn tthhee ccoouunnttrryy tthhaatt"
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "",
+      "Population ((0-6 yyears)) Higghligghts": "are yet to reach the one hundred thousand mark."
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "",
+      "Population ((0-6 yyears)) Higghligghts": "• Uttar Pradesh (29.7 million), Bihar (18.6 million), Maharashtra\n(12.8 million), Madhya Pradesh (10.5 million) and Rajasthan"
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "",
+      "Population ((0-6 yyears)) Higghligghts": "(10.5 million) constitute 52% Children in the age group of 0-6\nyears."
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "",
+      "Population ((0-6 yyears)) Higghligghts": "2266\nOur Census, Our Future"
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": ""
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": ""
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": ""
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": ""
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": ""
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": ""
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": ""
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "",
+      "Proportion of child population\nin age group 0-6": "2001 2011"
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": null,
+      "Proportion of child population\nin age group 0-6": null
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": null,
+      "Proportion of child population\nin age group 0-6": null
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "",
+      "Proportion of child population\nin age group 0-6": ""
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "",
+      "Proportion of child population\nin age group 0-6": ""
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "",
+      "Proportion of child population\nin age group 0-6": ""
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "",
+      "Proportion of child population\nin age group 0-6": ""
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "",
+      "Proportion of child population\nin age group 0-6": ""
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "",
+      "Proportion of child population\nin age group 0-6": "2288\nOur Census, Our Future"
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "",
+      "null": null
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "",
+      "null": null
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": null,
+      "null": null
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "",
+      "null": ""
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": null,
+      "null": null
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "",
+      "null": ""
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": null,
+      "null": null
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "",
+      "null": null
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": null,
+      "null": null
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "",
+      "null": null
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "",
+      "null": null
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": ""
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": ""
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": ""
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": ""
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": ""
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": ""
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": ""
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "",
+      "GGeennddeerr CCoommppoossiittiioonn ooff PPooppuullaattiioonn 22001111": "",
+      "null": null
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "",
+      "GGeennddeerr CCoommppoossiittiioonn ooff PPooppuullaattiioonn 22001111": "2001 2011 (Provisional)\nPoppulation Propportion Poppulation Propportion",
+      "null": null
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": null,
+      "GGeennddeerr CCoommppoossiittiioonn ooff PPooppuullaattiioonn 22001111": null,
+      "null": null
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": null,
+      "GGeennddeerr CCoommppoossiittiioonn ooff PPooppuullaattiioonn 22001111": null,
+      "null": null
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "",
+      "GGeennddeerr CCoommppoossiittiioonn ooff PPooppuullaattiioonn 22001111": "",
+      "null": ""
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": null,
+      "GGeennddeerr CCoommppoossiittiioonn ooff PPooppuullaattiioonn 22001111": null,
+      "null": null
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": null,
+      "GGeennddeerr CCoommppoossiittiioonn ooff PPooppuullaattiioonn 22001111": null,
+      "null": null
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "",
+      "GGeennddeerr CCoommppoossiittiioonn ooff PPooppuullaattiioonn 22001111": "",
+      "null": ""
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": null,
+      "GGeennddeerr CCoommppoossiittiioonn ooff PPooppuullaattiioonn 22001111": null,
+      "null": null
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": null,
+      "GGeennddeerr CCoommppoossiittiioonn ooff PPooppuullaattiioonn 22001111": null,
+      "null": null
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "",
+      "GGeennddeerr CCoommppoossiittiioonn ooff PPooppuullaattiioonn 22001111": "Sex Ratio 933 940",
+      "null": null
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": null,
+      "GGeennddeerr CCoommppoossiittiioonn ooff PPooppuullaattiioonn 22001111": null,
+      "null": null
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "",
+      "GGeennddeerr CCoommppoossiittiioonn ooff PPooppuullaattiioonn 22001111": "",
+      "null": null
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "",
+      "GGeennddeerr CCoommppoossiittiioonn ooff PPooppuullaattiioonn 22001111": "3311\nOur Census, Our Future",
+      "null": null
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "",
+      "GGeennddeerr CCoommppoossiittiioonn ooff PPooppuullaattiioonn 22001111": "• Overall Sex ratio at the National"
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "",
+      "GGeennddeerr CCoommppoossiittiioonn ooff PPooppuullaattiioonn 22001111": "level has increased by 7 points\nsince Census 2001 to reach 940\naatt CCeennssuuss 22001111"
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "",
+      "GGeennddeerr CCoommppoossiittiioonn ooff PPooppuullaattiioonn 22001111": "• This is the highest Sex Ratio\nrreeccoorrddeedd ssiinnccee CCeennssuuss 11997711 aanndd"
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "",
+      "GGeennddeerr CCoommppoossiittiioonn ooff PPooppuullaattiioonn 22001111": "a shade lower than 1961\n• Increase in Sex Ratio is"
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "",
+      "GGeennddeerr CCoommppoossiittiioonn ooff PPooppuullaattiioonn 22001111": "observed in 29 States/UTs\n• Three major States (J&K, Bihar"
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "",
+      "GGeennddeerr CCoommppoossiittiioonn ooff PPooppuullaattiioonn 22001111": "& Gujarat) have shown decline in\nSex Ratio as compared to"
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "",
+      "GGeennddeerr CCoommppoossiittiioonn ooff PPooppuullaattiioonn 22001111": "CCensus 22000011. 3322\nOur Census, Our Future"
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "",
+      "Sex Ratio": "2001 2011"
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": null,
+      "Sex Ratio": null
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": null,
+      "Sex Ratio": null
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "",
+      "Sex Ratio": ""
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "",
+      "Sex Ratio": ""
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "",
+      "Sex Ratio": ""
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "",
+      "Sex Ratio": ""
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "",
+      "Sex Ratio": ""
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "",
+      "Sex Ratio": "3333\nOur Census, Our Future"
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "",
+      "null": null
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "",
+      "null": null
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": null,
+      "null": null
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "",
+      "null": ""
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": null,
+      "null": null
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "",
+      "null": ""
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": null,
+      "null": null
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": null,
+      "null": null
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "",
+      "null": null
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "",
+      "null": null
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "",
+      "null": null
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "",
+      "null": null
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "",
+      "null": null
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": null,
+      "null": null
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "",
+      "null": ""
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": null,
+      "null": null
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": null,
+      "null": null
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "",
+      "null": ""
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": null,
+      "null": null
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "",
+      "null": null
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "",
+      "null": null
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "",
+      "null": null
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "",
+      "null": null
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "",
+      "null": null
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": null,
+      "null": null
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": null,
+      "null": null
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "",
+      "null": ""
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": null,
+      "null": null
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": null,
+      "null": null
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "",
+      "null": ""
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": null,
+      "null": null
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": null,
+      "null": null
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "",
+      "null": null
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": null,
+      "null": null
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "",
+      "null": null
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "",
+      "null": null
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": ""
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": ""
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": ""
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": ""
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": ""
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": ""
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": ""
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": ""
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": ""
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": ""
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": ""
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": ""
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": ""
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": ""
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "",
+      "Child Sex Ratio in Age Group 0-6": "2001 2011"
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": null,
+      "Child Sex Ratio in Age Group 0-6": null
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": null,
+      "Child Sex Ratio in Age Group 0-6": null
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "",
+      "Child Sex Ratio in Age Group 0-6": ""
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "",
+      "Child Sex Ratio in Age Group 0-6": ""
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "",
+      "Child Sex Ratio in Age Group 0-6": ""
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "",
+      "Child Sex Ratio in Age Group 0-6": ""
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "",
+      "Child Sex Ratio in Age Group 0-6": ""
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "",
+      "Child Sex Ratio in Age Group 0-6": "3399\nOur Census, Our Future"
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "",
+      "null": null
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "",
+      "null": null
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": null,
+      "null": null
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "",
+      "null": ""
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": null,
+      "null": null
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "",
+      "null": ""
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": null,
+      "null": null
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": null,
+      "null": null
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "",
+      "null": null
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "",
+      "null": null
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "",
+      "null": null
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "",
+      "null": null
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "",
+      "null": null
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": null,
+      "null": null
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "",
+      "null": ""
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": null,
+      "null": null
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": null,
+      "null": null
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "",
+      "null": ""
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": null,
+      "null": null
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "",
+      "null": null
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "",
+      "null": null
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "",
+      "null": null
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": ""
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": ""
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": ""
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": ""
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": ""
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": ""
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": ""
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "",
+      "null": null
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "",
+      "null": null
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": null,
+      "null": null
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "",
+      "null": ""
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": null,
+      "null": null
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": null,
+      "null": null
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "",
+      "null": ""
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": null,
+      "null": null
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "",
+      "null": null
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "",
+      "null": null
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "",
+      "null": null
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "",
+      "null": null
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "",
+      "null": null
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": null,
+      "null": null
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "",
+      "null": ""
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": null,
+      "null": null
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": null,
+      "null": null
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "",
+      "null": ""
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": null,
+      "null": null
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "",
+      "null": null
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "",
+      "null": null
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "",
+      "null": null
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": ""
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": ""
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": ""
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": ""
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": ""
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": ""
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": ""
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": ""
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": ""
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": ""
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": ""
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": ""
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": ""
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": ""
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": ""
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": ""
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": ""
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": ""
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": ""
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": ""
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": ""
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": ""
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": ""
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": ""
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": ""
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": ""
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": ""
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": ""
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "",
+      "Effective Literacy": "2001 2011"
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": null,
+      "Effective Literacy": null
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": null,
+      "Effective Literacy": null
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "",
+      "Effective Literacy": ""
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "",
+      "Effective Literacy": ""
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "",
+      "Effective Literacy": ""
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "",
+      "Effective Literacy": ""
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "",
+      "Effective Literacy": ""
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "",
+      "Effective Literacy": "4499\nOur Census, Our Future"
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "",
+      "Effective Male Literacy": "2001 2011"
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": null,
+      "Effective Male Literacy": null
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": null,
+      "Effective Male Literacy": null
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "",
+      "Effective Male Literacy": ""
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "",
+      "Effective Male Literacy": ""
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "",
+      "Effective Male Literacy": ""
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "",
+      "Effective Male Literacy": ""
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "",
+      "Effective Male Literacy": ""
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "",
+      "Effective Male Literacy": "5500\nOur Census, Our Future"
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "",
+      "Effective Female Literacy": "2001 2011"
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": null,
+      "Effective Female Literacy": null
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": null,
+      "Effective Female Literacy": null
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "",
+      "Effective Female Literacy": ""
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "",
+      "Effective Female Literacy": ""
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "",
+      "Effective Female Literacy": ""
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "",
+      "Effective Female Literacy": ""
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "",
+      "Effective Female Literacy": ""
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "",
+      "Effective Female Literacy": "5511\nOur Census, Our Future"
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "",
+      "null": null
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "",
+      "null": null
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": null,
+      "null": null
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "",
+      "null": ""
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": null,
+      "null": null
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "",
+      "null": ""
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": null,
+      "null": null
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": null,
+      "null": null
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "",
+      "null": null
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "",
+      "null": null
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "",
+      "null": null
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "",
+      "null": null
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "",
+      "null": null
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": null,
+      "null": null
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "",
+      "null": ""
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": null,
+      "null": null
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": null,
+      "null": null
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "",
+      "null": ""
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": null,
+      "null": null
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "",
+      "null": null
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "",
+      "null": null
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "",
+      "null": null
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "",
+      "null": null
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "",
+      "null": null
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "",
+      "null": null
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "",
+      "null": null
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": null,
+      "null": null
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "",
+      "null": ""
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": null,
+      "null": null
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "",
+      "null": null
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "",
+      "null": null
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "",
+      "Density of Population": "2001 2011"
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": null,
+      "Density of Population": null
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": null,
+      "Density of Population": null
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "",
+      "Density of Population": ""
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "",
+      "Density of Population": ""
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "",
+      "Density of Population": ""
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "",
+      "Density of Population": ""
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "",
+      "Density of Population": ""
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "",
+      "Density of Population": "5555\nOur Census, Our Future"
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "",
+      "Ranking of States/UTs as per": "PPopullattiion DDensiitty-22001111",
+      "null": null
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "",
+      "Ranking of States/UTs as per": "Top 2 States/UTs Bottom 2 States/UTs",
+      "null": null
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": null,
+      "Ranking of States/UTs as per": null,
+      "null": null
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "",
+      "Ranking of States/UTs as per": "",
+      "null": ""
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": null,
+      "Ranking of States/UTs as per": null,
+      "null": null
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": null,
+      "Ranking of States/UTs as per": null,
+      "null": null
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "",
+      "Ranking of States/UTs as per": "",
+      "null": ""
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": null,
+      "Ranking of States/UTs as per": null,
+      "null": null
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "",
+      "Ranking of States/UTs as per": "*Density is defined as the Number of persons per sq. km.",
+      "null": null
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "",
+      "Ranking of States/UTs as per": "",
+      "null": null
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "",
+      "Ranking of States/UTs as per": "5566\nOur Census, Our Future",
+      "null": null
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "",
+      "null": null
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "",
+      "null": null
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": null,
+      "null": null
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "",
+      "null": ""
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": null,
+      "null": null
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "",
+      "null": ""
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": null,
+      "null": null
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "",
+      "null": null
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "",
+      "null": null
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": "",
+      "null": null
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": ""
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": ""
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": ""
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": ""
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": ""
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": ""
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "population",
+      "demographics"
+    ],
+    "geo_level": "district/state/national",
+    "values": {
+      "": ""
+    },
+    "source": {
+      "pdf": "0537c378a98d63d831793e0cdbb0c634.pdf",
+      "task": "district_population"
+    },
+    "confidence": "high"
+  }
+]

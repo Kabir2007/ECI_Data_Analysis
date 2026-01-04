@@ -1,0 +1,7394 @@
+[
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : BARGARH": "District Population in numbers (Projected upto the year of current revision)",
+      "null": null,
+      "Year of Revision": null,
+      "2021": "1651269"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : BARGARH": "District Population of 18+ only (Projected upto the year of current revision)",
+      "null": null,
+      "Year of Revision": null,
+      "2021": "1215777"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : BARGARH": "Age Cohort",
+      "null": "%age to total\nPopulation",
+      "Year of Revision": "Electors as per\nDraft Electoral Roll\n2021",
+      "2021": "%age to 18+\nPopulation"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : BARGARH": "1",
+      "null": "5",
+      "Year of Revision": "4",
+      "2021": "6"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : BARGARH": "18-19",
+      "null": "0.30",
+      "Year of Revision": "4931",
+      "2021": "0.41"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : BARGARH": "20-29",
+      "null": "13.98",
+      "Year of Revision": "230929",
+      "2021": "18.99"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : BARGARH": "30-39",
+      "null": "18.74",
+      "Year of Revision": "309409",
+      "2021": "25.45"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : BARGARH": "40-49",
+      "null": "15.03",
+      "Year of Revision": "248183",
+      "2021": "20.41"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : BARGARH": "50-59",
+      "null": "10.36",
+      "Year of Revision": "171154",
+      "2021": "14.08"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : BARGARH": "60-69",
+      "null": "6.75",
+      "Year of Revision": "111389",
+      "2021": "9.16"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : BARGARH": "70-79",
+      "null": "3.48",
+      "Year of Revision": "57429",
+      "2021": "4.72"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : BARGARH": "80+",
+      "null": "1.33",
+      "Year of Revision": "21944",
+      "2021": "1.80"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : BARGARH": "Total 18+ to 80+",
+      "null": "69.97",
+      "Year of Revision": "1155368",
+      "2021": "95.03"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : BARGARH": "District Total",
+      "null": "",
+      "Year of Revision": "",
+      "2021": ""
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : JHARSUGUDA": "District Population in numbers (Projected upto the year of current revision)",
+      "null": null,
+      "Year of Revision": null,
+      "2021": "667584"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : JHARSUGUDA": "District Population of 18+ only (Projected upto the year of current revision)",
+      "null": null,
+      "Year of Revision": null,
+      "2021": "493621"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : JHARSUGUDA": "Age Cohort",
+      "null": "%age to total\npopulation",
+      "Year of Revision": "Electors as per\nDraft Electoral Roll\n2021",
+      "2021": "%age to 18+\npopulation"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : JHARSUGUDA": "1",
+      "null": "5",
+      "Year of Revision": "4",
+      "2021": "6"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : JHARSUGUDA": "18-19",
+      "null": "0.31",
+      "Year of Revision": "2039",
+      "2021": "0.41"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : JHARSUGUDA": "20-29",
+      "null": "14.14",
+      "Year of Revision": "94412",
+      "2021": "19.13"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : JHARSUGUDA": "30-39",
+      "null": "17.03",
+      "Year of Revision": "113709",
+      "2021": "23.04"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : JHARSUGUDA": "40-49",
+      "null": "13.73",
+      "Year of Revision": "91647",
+      "2021": "18.57"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : JHARSUGUDA": "50-59",
+      "null": "9.49",
+      "Year of Revision": "63382",
+      "2021": "12.84"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : JHARSUGUDA": "60-69",
+      "null": "5.57",
+      "Year of Revision": "37171",
+      "2021": "7.53"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : JHARSUGUDA": "70-79",
+      "null": "2.59",
+      "Year of Revision": "17323",
+      "2021": "3.51"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : JHARSUGUDA": "80+",
+      "null": "0.96",
+      "Year of Revision": "6407",
+      "2021": "1.30"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : JHARSUGUDA": "Total 18+ to 80+",
+      "null": "63.83",
+      "Year of Revision": "426090",
+      "2021": "86.32"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : JHARSUGUDA": "District Total",
+      "null": "",
+      "Year of Revision": "",
+      "2021": ""
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : SUNDARGARH": "District Population in numbers (Projected upto the year of current revision)",
+      "null": null,
+      "Year of Revision": null,
+      "2021": "2402028"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : SUNDARGARH": "District Population of 18+ only (Projected upto the year of current revision)",
+      "null": null,
+      "Year of Revision": null,
+      "2021": "1667560"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : SUNDARGARH": "Age Cohort",
+      "null": "%age to total\npopulation",
+      "Year of Revision": "Electors as per\nDraft Electoral Roll\n2021",
+      "2021": "%age to 18+\npopulation"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : SUNDARGARH": "1",
+      "null": "5",
+      "Year of Revision": "4",
+      "2021": "6"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : SUNDARGARH": "18-19",
+      "null": "0.27",
+      "Year of Revision": "6587",
+      "2021": "0.40"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : SUNDARGARH": "20-29",
+      "null": "13.87",
+      "Year of Revision": "333200",
+      "2021": "19.98"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : SUNDARGARH": "30-39",
+      "null": "16.78",
+      "Year of Revision": "403129",
+      "2021": "24.17"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : SUNDARGARH": "40-49",
+      "null": "14.05",
+      "Year of Revision": "337590",
+      "2021": "20.24"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : SUNDARGARH": "50-59",
+      "null": "9.43",
+      "Year of Revision": "226410",
+      "2021": "13.58"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : SUNDARGARH": "60-69",
+      "null": "5.48",
+      "Year of Revision": "131649",
+      "2021": "7.89"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : SUNDARGARH": "70-79",
+      "null": "2.56",
+      "Year of Revision": "61492",
+      "2021": "3.69"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : SUNDARGARH": "80+",
+      "null": "0.88",
+      "Year of Revision": "21181",
+      "2021": "1.27"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : SUNDARGARH": "Total 18+ to 80+",
+      "null": "63.33",
+      "Year of Revision": "1521238",
+      "2021": "91.23"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : SUNDARGARH": "District Total",
+      "null": "",
+      "Year of Revision": "",
+      "2021": ""
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : SAMBALPUR": "District Population in numbers (Projected upto the year of current revision)",
+      "null": null,
+      "Year of Revision": null,
+      "2021": "1174653"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : SAMBALPUR": "District Population of 18+ only (Projected upto the year of current revision)",
+      "null": null,
+      "Year of Revision": null,
+      "2021": "858683"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : SAMBALPUR": "Age Cohort",
+      "null": "%age to total\npopulation",
+      "Year of Revision": "Electors as per\nDraft Electoral Roll\n2021",
+      "2021": "%age to 18+\npopulation"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : SAMBALPUR": "1",
+      "null": "5",
+      "Year of Revision": "4",
+      "2021": "6"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : SAMBALPUR": "18-19",
+      "null": "0.26",
+      "Year of Revision": "3054",
+      "2021": "0.36"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : SAMBALPUR": "20-29",
+      "null": "15.05",
+      "Year of Revision": "176838",
+      "2021": "20.59"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : SAMBALPUR": "30-39",
+      "null": "17.94",
+      "Year of Revision": "210761",
+      "2021": "24.54"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : SAMBALPUR": "40-49",
+      "null": "15.06",
+      "Year of Revision": "176932",
+      "2021": "20.61"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : SAMBALPUR": "50-59",
+      "null": "10.31",
+      "Year of Revision": "121159",
+      "2021": "14.11"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : SAMBALPUR": "60-69",
+      "null": "6.43",
+      "Year of Revision": "75576",
+      "2021": "8.80"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : SAMBALPUR": "70-79",
+      "null": "3.03",
+      "Year of Revision": "35642",
+      "2021": "4.15"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : SAMBALPUR": "80+",
+      "null": "1.23",
+      "Year of Revision": "14450",
+      "2021": "1.68"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : SAMBALPUR": "Total 18+ to 80+",
+      "null": "69.33",
+      "Year of Revision": "814412",
+      "2021": "94.84"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : SAMBALPUR": "District Total",
+      "null": "",
+      "Year of Revision": "",
+      "2021": ""
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : DEOGARH": "District Population in numbers (Projected upto the year of current revision)",
+      "null": null,
+      "Year of Revision": null,
+      "2021": "360064"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : DEOGARH": "District Population of 18+ only (Projected upto the year of current revision)",
+      "null": null,
+      "Year of Revision": null,
+      "2021": "251237"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : DEOGARH": "Age Cohort",
+      "null": "%age to total\npopulation",
+      "Year of Revision": "Electors as per\nDraft Electoral Roll\n2021",
+      "2021": "%age to 18+\npopulation"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : DEOGARH": "1",
+      "null": "5",
+      "Year of Revision": "4",
+      "2021": "6"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : DEOGARH": "18-19",
+      "null": "0.37",
+      "Year of Revision": "1322",
+      "2021": "0.53"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : DEOGARH": "20-29",
+      "null": "14.74",
+      "Year of Revision": "53080",
+      "2021": "21.13"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : DEOGARH": "30-39",
+      "null": "17.22",
+      "Year of Revision": "62003",
+      "2021": "24.68"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : DEOGARH": "40-49",
+      "null": "14.10",
+      "Year of Revision": "50779",
+      "2021": "20.21"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : DEOGARH": "50-59",
+      "null": "9.53",
+      "Year of Revision": "34305",
+      "2021": "13.65"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : DEOGARH": "60-69",
+      "null": "5.84",
+      "Year of Revision": "21036",
+      "2021": "8.37"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : DEOGARH": "70-79",
+      "null": "2.98",
+      "Year of Revision": "10730",
+      "2021": "4.27"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : DEOGARH": "80+",
+      "null": "1.06",
+      "Year of Revision": "3811",
+      "2021": "1.52"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : DEOGARH": "Total 18+ to 80+",
+      "null": "65.84",
+      "Year of Revision": "237066",
+      "2021": "94.36"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : DEOGARH": "District Total",
+      "null": "",
+      "Year of Revision": "",
+      "2021": ""
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : KEONJHAR": "District Population in numbers (Projected upto the year of current revision)",
+      "null": null,
+      "Year of Revision": null,
+      "2021": "2083045"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : KEONJHAR": "District Population of 18+ only (Projected upto the year of current revision)",
+      "null": null,
+      "Year of Revision": null,
+      "2021": "1400770"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : KEONJHAR": "Age Cohort",
+      "null": "%age to total\npopulation",
+      "Year of Revision": "Electors as per\nDraft Electoral Roll\n2021",
+      "2021": "%age to 18+\npopulation"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : KEONJHAR": "1",
+      "null": "5",
+      "Year of Revision": "4",
+      "2021": "6"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : KEONJHAR": "18-19",
+      "null": "0.26",
+      "Year of Revision": "5470",
+      "2021": "0.39"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : KEONJHAR": "20-29",
+      "null": "14.52",
+      "Year of Revision": "302460",
+      "2021": "21.59"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : KEONJHAR": "30-39",
+      "null": "16.48",
+      "Year of Revision": "343351",
+      "2021": "24.51"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : KEONJHAR": "40-49",
+      "null": "14.50",
+      "Year of Revision": "302046",
+      "2021": "21.56"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : KEONJHAR": "50-59",
+      "null": "9.34",
+      "Year of Revision": "194602",
+      "2021": "13.89"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : KEONJHAR": "60-69",
+      "null": "5.45",
+      "Year of Revision": "113547",
+      "2021": "8.11"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : KEONJHAR": "70-79",
+      "null": "2.62",
+      "Year of Revision": "54492",
+      "2021": "3.89"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : KEONJHAR": "80+",
+      "null": "1.02",
+      "Year of Revision": "21184",
+      "2021": "1.51"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : KEONJHAR": "Total 18+ to 80+",
+      "null": "64.19",
+      "Year of Revision": "1337152",
+      "2021": "95.46"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : KEONJHAR": "District Total",
+      "null": "",
+      "Year of Revision": "",
+      "2021": ""
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : MAYURBHANJ": "District Population in numbers (Projected upto the year of current revision)",
+      "null": null,
+      "Year of Revision": null,
+      "2021": "2878585"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : MAYURBHANJ": "District Population of 18+ only (Projected upto the year of current revision)",
+      "null": null,
+      "Year of Revision": null,
+      "2021": "1903892"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : MAYURBHANJ": "Age Cohort",
+      "null": "%age to total\npopulation",
+      "Year of Revision": "Electors as per\nDraft Electoral Roll\n2021",
+      "2021": "%age to 18+\npopulation"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : MAYURBHANJ": "1",
+      "null": "5",
+      "Year of Revision": "4",
+      "2021": "6"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : MAYURBHANJ": "18-19",
+      "null": "0.23",
+      "Year of Revision": "6633",
+      "2021": "0.35"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : MAYURBHANJ": "20-29",
+      "null": "14.99",
+      "Year of Revision": "431520",
+      "2021": "22.67"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : MAYURBHANJ": "30-39",
+      "null": "15.92",
+      "Year of Revision": "458226",
+      "2021": "24.07"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : MAYURBHANJ": "40-49",
+      "null": "13.49",
+      "Year of Revision": "388456",
+      "2021": "20.40"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : MAYURBHANJ": "50-59",
+      "null": "9.98",
+      "Year of Revision": "287264",
+      "2021": "15.09"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : MAYURBHANJ": "60-69",
+      "null": "5.95",
+      "Year of Revision": "171321",
+      "2021": "9.00"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : MAYURBHANJ": "70-79",
+      "null": "2.79",
+      "Year of Revision": "80235",
+      "2021": "4.21"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : MAYURBHANJ": "80+",
+      "null": "1.11",
+      "Year of Revision": "32074",
+      "2021": "1.68"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : MAYURBHANJ": "Total 18+ to 80+",
+      "null": "64.47",
+      "Year of Revision": "1855729",
+      "2021": "97.47"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : MAYURBHANJ": "District Total",
+      "null": "",
+      "Year of Revision": "",
+      "2021": ""
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : BALASORE": "District Population in numbers (Projected upto the year of current revision)",
+      "null": null,
+      "Year of Revision": null,
+      "2021": "2693925"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : BALASORE": "District Population of 18+ only (Projected upto the year of current revision)",
+      "null": null,
+      "Year of Revision": null,
+      "2021": "1905284"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : BALASORE": "Age Cohort",
+      "null": "%age to total\npopulation",
+      "Year of Revision": "Electors as per\nDraft Electoral Roll\n2021",
+      "2021": "%age to 18+\npopulation"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : BALASORE": "1",
+      "null": "5",
+      "Year of Revision": "4",
+      "2021": "6"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : BALASORE": "18-19",
+      "null": "0.40",
+      "Year of Revision": "10832",
+      "2021": "0.57"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : BALASORE": "20-29",
+      "null": "14.86",
+      "Year of Revision": "400397",
+      "2021": "21.02"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : BALASORE": "30-39",
+      "null": "16.05",
+      "Year of Revision": "432329",
+      "2021": "22.69"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : BALASORE": "40-49",
+      "null": "15.09",
+      "Year of Revision": "406440",
+      "2021": "21.33"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : BALASORE": "50-59",
+      "null": "10.17",
+      "Year of Revision": "273884",
+      "2021": "14.37"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : BALASORE": "60-69",
+      "null": "6.29",
+      "Year of Revision": "169426",
+      "2021": "8.89"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : BALASORE": "70-79",
+      "null": "3.37",
+      "Year of Revision": "90730",
+      "2021": "4.76"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : BALASORE": "80+",
+      "null": "1.78",
+      "Year of Revision": "47919",
+      "2021": "2.52"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : BALASORE": "Total 18+ to 80+",
+      "null": "68.00",
+      "Year of Revision": "1831957",
+      "2021": "96.15"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : BALASORE": "District Total",
+      "null": "",
+      "Year of Revision": "",
+      "2021": ""
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : BHADRAK": "District Population in numbers (Projected upto the year of current revision)",
+      "null": null,
+      "Year of Revision": null,
+      "2021": "1721573"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : BHADRAK": "District Population of 18+ only (Projected upto the year of current revision)",
+      "null": null,
+      "Year of Revision": null,
+      "2021": "1219569"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : BHADRAK": "Age Cohort",
+      "null": "%age to total\npopulation",
+      "Year of Revision": "Electors as per\nDraft Electoral Roll\n2021",
+      "2021": "%age to 18+\npopulation"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : BHADRAK": "1",
+      "null": "5",
+      "Year of Revision": "4",
+      "2021": "6"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : BHADRAK": "18-19",
+      "null": "0.30",
+      "Year of Revision": "5136",
+      "2021": "0.42"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : BHADRAK": "20-29",
+      "null": "16.08",
+      "Year of Revision": "276877",
+      "2021": "22.70"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : BHADRAK": "30-39",
+      "null": "16.78",
+      "Year of Revision": "288879",
+      "2021": "23.69"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : BHADRAK": "40-49",
+      "null": "15.08",
+      "Year of Revision": "259685",
+      "2021": "21.29"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : BHADRAK": "50-59",
+      "null": "10.35",
+      "Year of Revision": "178126",
+      "2021": "14.61"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : BHADRAK": "60-69",
+      "null": "6.48",
+      "Year of Revision": "111551",
+      "2021": "9.15"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : BHADRAK": "70-79",
+      "null": "3.50",
+      "Year of Revision": "60202",
+      "2021": "4.94"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : BHADRAK": "80+",
+      "null": "1.77",
+      "Year of Revision": "30462",
+      "2021": "2.50"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : BHADRAK": "Total 18+ to 80+",
+      "null": "70.34",
+      "Year of Revision": "1210918",
+      "2021": "99.29"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : BHADRAK": "District Total",
+      "null": "",
+      "Year of Revision": "",
+      "2021": ""
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : JAJPUR": "District Population in numbers (Projected upto the year of current revision)",
+      "null": null,
+      "Year of Revision": null,
+      "2021": "2040591"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : JAJPUR": "District Population of 18+ only (Projected upto the year of current revision)",
+      "null": null,
+      "Year of Revision": null,
+      "2021": "1507587"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : JAJPUR": "Age Cohort",
+      "null": "%age to total\npopulation",
+      "Year of Revision": "Electors as per\nDraft Electoral Roll\n2021",
+      "2021": "%age to 18+\npopulation"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : JAJPUR": "1",
+      "null": "5",
+      "Year of Revision": "4",
+      "2021": "6"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : JAJPUR": "18-19",
+      "null": "0.36",
+      "Year of Revision": "7316",
+      "2021": "0.49"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : JAJPUR": "20-29",
+      "null": "15.00",
+      "Year of Revision": "306091",
+      "2021": "20.3"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : JAJPUR": "30-39",
+      "null": "17.92",
+      "Year of Revision": "365768",
+      "2021": "24.26"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : JAJPUR": "40-49",
+      "null": "16.05",
+      "Year of Revision": "327444",
+      "2021": "21.72"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : JAJPUR": "50-59",
+      "null": "10.76",
+      "Year of Revision": "219505",
+      "2021": "14.56"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : JAJPUR": "60-69",
+      "null": "6.99",
+      "Year of Revision": "142610",
+      "2021": "9.46"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : JAJPUR": "70-79",
+      "null": "3.67",
+      "Year of Revision": "74850",
+      "2021": "4.96"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : JAJPUR": "80+",
+      "null": "1.79",
+      "Year of Revision": "36442",
+      "2021": "2.42"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : JAJPUR": "Total 18+ to 80+",
+      "null": "72.53",
+      "Year of Revision": "1480026",
+      "2021": "98.17"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : JAJPUR": "District Total",
+      "null": "",
+      "Year of Revision": "",
+      "2021": ""
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : DHENKANAL": "District Population in numbers (Projected upto the year of current revision)",
+      "null": null,
+      "Year of Revision": null,
+      "2021": "1327070"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : DHENKANAL": "District Population of 18+ only (Projected upto the year of current revision)",
+      "null": null,
+      "Year of Revision": null,
+      "2021": "977987"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : DHENKANAL": "Age Cohort",
+      "null": "%age to total\npopulation",
+      "Year of Revision": "Electors as per\nDraft Electoral Roll\n2021",
+      "2021": "%age to 18+\npopulation"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : DHENKANAL": "1",
+      "null": "5",
+      "Year of Revision": "4",
+      "2021": "6"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : DHENKANAL": "18-19",
+      "null": "0.21",
+      "Year of Revision": "2824",
+      "2021": "0.29"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : DHENKANAL": "20-29",
+      "null": "13.60",
+      "Year of Revision": "180487",
+      "2021": "18.45"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : DHENKANAL": "30-39",
+      "null": "17.38",
+      "Year of Revision": "230620",
+      "2021": "23.58"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : DHENKANAL": "40-49",
+      "null": "15.64",
+      "Year of Revision": "207617",
+      "2021": "21.23"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : DHENKANAL": "50-59",
+      "null": "10.57",
+      "Year of Revision": "140308",
+      "2021": "14.35"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : DHENKANAL": "60-69",
+      "null": "7.05",
+      "Year of Revision": "93622",
+      "2021": "9.57"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : DHENKANAL": "70-79",
+      "null": "3.80",
+      "Year of Revision": "50384",
+      "2021": "5.15"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : DHENKANAL": "80+",
+      "null": "1.66",
+      "Year of Revision": "22014",
+      "2021": "2.25"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : DHENKANAL": "Total 18+ to 80+",
+      "null": "69.92",
+      "Year of Revision": "927876",
+      "2021": "94.87"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : DHENKANAL": "District Total",
+      "null": "",
+      "Year of Revision": "",
+      "2021": ""
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : ANGUL": "District Population in numbers (Projected upto the year of current revision)",
+      "null": null,
+      "Year of Revision": null,
+      "2021": "1413342"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : ANGUL": "District Population of 18+ only (Projected upto the year of current revision)",
+      "null": null,
+      "Year of Revision": null,
+      "2021": "1026784"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : ANGUL": "Age Cohort",
+      "null": "%age to total\npopulation",
+      "Year of Revision": "Electors as per\nDraft Electoral Roll\n2021",
+      "2021": "%age to 18+\npopulation"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : ANGUL": "1",
+      "null": "5",
+      "Year of Revision": "4",
+      "2021": "6"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : ANGUL": "18-19",
+      "null": "0.25",
+      "Year of Revision": "3525",
+      "2021": "0.34"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : ANGUL": "20-29",
+      "null": "14.44",
+      "Year of Revision": "204061",
+      "2021": "19.87"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : ANGUL": "30-39",
+      "null": "17.25",
+      "Year of Revision": "243793",
+      "2021": "23.74"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : ANGUL": "40-49",
+      "null": "14.75",
+      "Year of Revision": "208438",
+      "2021": "20.3"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : ANGUL": "50-59",
+      "null": "10.02",
+      "Year of Revision": "141618",
+      "2021": "13.79"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : ANGUL": "60-69",
+      "null": "6.22",
+      "Year of Revision": "87880",
+      "2021": "8.56"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : ANGUL": "70-79",
+      "null": "3.24",
+      "Year of Revision": "45722",
+      "2021": "4.45"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : ANGUL": "80+",
+      "null": "1.30",
+      "Year of Revision": "18348",
+      "2021": "1.79"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : ANGUL": "Total 18+ to 80+",
+      "null": "67.46",
+      "Year of Revision": "953385",
+      "2021": "92.84"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : ANGUL": "District Total",
+      "null": "",
+      "Year of Revision": "",
+      "2021": ""
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : SUBARNAPUR": "District Population in numbers (Projected upto the year of current revision)",
+      "null": null,
+      "Year of Revision": null,
+      "2021": "540145"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : SUBARNAPUR": "District Population of 18+ only (Projected upto the year of current revision)",
+      "null": null,
+      "Year of Revision": null,
+      "2021": "489609"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : SUBARNAPUR": "Age Cohort",
+      "null": "%age to total\npopulation",
+      "Year of Revision": "Electors as per\nDraft Electoral Roll\n2021",
+      "2021": "%age to 18+\npopulation"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : SUBARNAPUR": "1",
+      "null": "5",
+      "Year of Revision": "4",
+      "2021": "6"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : SUBARNAPUR": "18-19",
+      "null": "0.24",
+      "Year of Revision": "1303",
+      "2021": "0.27"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : SUBARNAPUR": "20-29",
+      "null": "18.74",
+      "Year of Revision": "101219",
+      "2021": "20.67"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : SUBARNAPUR": "30-39",
+      "null": "21.89",
+      "Year of Revision": "118244",
+      "2021": "24.15"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : SUBARNAPUR": "40-49",
+      "null": "17.12",
+      "Year of Revision": "92474",
+      "2021": "18.89"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : SUBARNAPUR": "50-59",
+      "null": "12.15",
+      "Year of Revision": "65649",
+      "2021": "13.41"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : SUBARNAPUR": "60-69",
+      "null": "8.25",
+      "Year of Revision": "44576",
+      "2021": "9.1"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : SUBARNAPUR": "70-79",
+      "null": "4.42",
+      "Year of Revision": "23900",
+      "2021": "4.88"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : SUBARNAPUR": "80+",
+      "null": "1.81",
+      "Year of Revision": "9766",
+      "2021": "1.99"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : SUBARNAPUR": "Total 18+ to 80+",
+      "null": "84.63",
+      "Year of Revision": "457131",
+      "2021": "93.36"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : SUBARNAPUR": "District Total",
+      "null": "",
+      "Year of Revision": "",
+      "2021": ""
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : BOLANGIR": "District Population in numbers (Projected upto the year of current revision)",
+      "null": null,
+      "Year of Revision": null,
+      "2021": "2015674"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : BOLANGIR": "District Population of 18+ only (Projected upto the year of current revision)",
+      "null": null,
+      "Year of Revision": null,
+      "2021": "1395196"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : BOLANGIR": "Age Cohort",
+      "null": "%age to total\npopulation",
+      "Year of Revision": "Electors as per\nDraft Electoral Roll\n2021",
+      "2021": "%age to 18+\npopulation"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : BOLANGIR": "1",
+      "null": "5",
+      "Year of Revision": "4",
+      "2021": "6"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : BOLANGIR": "18-19",
+      "null": "0.21",
+      "Year of Revision": "4307",
+      "2021": "0.31"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : BOLANGIR": "20-29",
+      "null": "12.59",
+      "Year of Revision": "253827",
+      "2021": "18.19"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : BOLANGIR": "30-39",
+      "null": "17.18",
+      "Year of Revision": "346329",
+      "2021": "24.82"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : BOLANGIR": "40-49",
+      "null": "14.22",
+      "Year of Revision": "286662",
+      "2021": "20.55"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : BOLANGIR": "50-59",
+      "null": "9.69",
+      "Year of Revision": "195271",
+      "2021": "14.00"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : BOLANGIR": "60-69",
+      "null": "5.90",
+      "Year of Revision": "118961",
+      "2021": "8.53"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : BOLANGIR": "70-79",
+      "null": "3.09",
+      "Year of Revision": "62230",
+      "2021": "4.46"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : BOLANGIR": "80+",
+      "null": "1.30",
+      "Year of Revision": "26222",
+      "2021": "1.88"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : BOLANGIR": "Total 18+ to 80+",
+      "null": "64.19",
+      "Year of Revision": "1293809",
+      "2021": "92.74"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : BOLANGIR": "District Total",
+      "null": "",
+      "Year of Revision": "",
+      "2021": ""
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : NUAPADA": "District Population in numbers (Projected upto the year of current revision)",
+      "null": null,
+      "Year of Revision": null,
+      "2021": "697020"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : NUAPADA": "District Population of 18+ only (Projected upto the year of current revision)",
+      "null": null,
+      "Year of Revision": null,
+      "2021": "459976"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : NUAPADA": "Age Cohort",
+      "null": "%age to total\npopulation",
+      "Year of Revision": "Electors as per\nDraft Electoral Roll\n2021",
+      "2021": "%age to 18+\npopulation"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : NUAPADA": "1",
+      "null": "5",
+      "Year of Revision": "4",
+      "2021": "6"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : NUAPADA": "18-19",
+      "null": "0.32",
+      "Year of Revision": "2256",
+      "2021": "0.49"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : NUAPADA": "20-29",
+      "null": "14.68",
+      "Year of Revision": "102325",
+      "2021": "22.25"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : NUAPADA": "30-39",
+      "null": "16.52",
+      "Year of Revision": "115126",
+      "2021": "25.03"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : NUAPADA": "40-49",
+      "null": "14.14",
+      "Year of Revision": "98525",
+      "2021": "21.42"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : NUAPADA": "50-59",
+      "null": "10.26",
+      "Year of Revision": "71537",
+      "2021": "15.55"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : NUAPADA": "60-69",
+      "null": "6.09",
+      "Year of Revision": "42425",
+      "2021": "9.22"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : NUAPADA": "70-79",
+      "null": "3.15",
+      "Year of Revision": "21954",
+      "2021": "4.77"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : NUAPADA": "80+",
+      "null": "1.28",
+      "Year of Revision": "8952",
+      "2021": "1.95"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : NUAPADA": "Total 18+ to 80+",
+      "null": "66.44",
+      "Year of Revision": "463100",
+      "2021": "100.68"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : NUAPADA": "District Total",
+      "null": "",
+      "Year of Revision": "",
+      "2021": ""
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : NABARANGPUR": "District Population in numbers (Projected upto the year of current revision)",
+      "null": null,
+      "Year of Revision": null,
+      "2021": "1434862"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : NABARANGPUR": "District Population of 18+ only (Projected upto the year of current revision)",
+      "null": null,
+      "Year of Revision": null,
+      "2021": "864289"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : NABARANGPUR": "Age Cohort",
+      "null": "%age to total\npopulation",
+      "Year of Revision": "Electors as per\nDraft Electoral Roll\n2021",
+      "2021": "%age to 18+\npopulation"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : NABARANGPUR": "1",
+      "null": "5",
+      "Year of Revision": "4",
+      "2021": "6"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : NABARANGPUR": "18-19",
+      "null": "0.25",
+      "Year of Revision": "3560",
+      "2021": "0.41"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : NABARANGPUR": "20-29",
+      "null": "14.50",
+      "Year of Revision": "208095",
+      "2021": "24.08"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : NABARANGPUR": "30-39",
+      "null": "15.91",
+      "Year of Revision": "228350",
+      "2021": "26.42"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : NABARANGPUR": "40-49",
+      "null": "12.50",
+      "Year of Revision": "179383",
+      "2021": "20.75"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : NABARANGPUR": "50-59",
+      "null": "7.63",
+      "Year of Revision": "109432",
+      "2021": "12.66"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : NABARANGPUR": "60-69",
+      "null": "4.19",
+      "Year of Revision": "60109",
+      "2021": "6.95"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : NABARANGPUR": "70-79",
+      "null": "1.65",
+      "Year of Revision": "23732",
+      "2021": "2.75"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : NABARANGPUR": "80+",
+      "null": "0.54",
+      "Year of Revision": "7783",
+      "2021": "0.90"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : NABARANGPUR": "Total 18+ to 80+",
+      "null": "57.18",
+      "Year of Revision": "820444",
+      "2021": "94.93"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : NABARANGPUR": "District Total",
+      "null": "",
+      "Year of Revision": "",
+      "2021": ""
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : KALAHANDI": "District Population in numbers (Projected upto the year of current revision)",
+      "null": null,
+      "Year of Revision": null,
+      "2021": "1843970"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : KALAHANDI": "District Population of 18+ only (Projected upto the year of current revision)",
+      "null": null,
+      "Year of Revision": null,
+      "2021": "1211063"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : KALAHANDI": "Age Cohort",
+      "null": "%age to total\npopulation",
+      "Year of Revision": "Electors as per\nDraft Electoral Roll\n2021",
+      "2021": "%age to 18+\npopulation"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : KALAHANDI": "1",
+      "null": "5",
+      "Year of Revision": "4",
+      "2021": "6"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : KALAHANDI": "18-19",
+      "null": "0.26",
+      "Year of Revision": "4827",
+      "2021": "0.40"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : KALAHANDI": "20-29",
+      "null": "12.93",
+      "Year of Revision": "238509",
+      "2021": "19.69"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : KALAHANDI": "30-39",
+      "null": "15.03",
+      "Year of Revision": "277187",
+      "2021": "22.89"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : KALAHANDI": "40-49",
+      "null": "13.13",
+      "Year of Revision": "242107",
+      "2021": "19.99"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : KALAHANDI": "50-59",
+      "null": "9.55",
+      "Year of Revision": "176060",
+      "2021": "14.54"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : KALAHANDI": "60-69",
+      "null": "6.09",
+      "Year of Revision": "112344",
+      "2021": "9.28"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : KALAHANDI": "70-79",
+      "null": "3.19",
+      "Year of Revision": "58912",
+      "2021": "4.86"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : KALAHANDI": "80+",
+      "null": "1.32",
+      "Year of Revision": "24339",
+      "2021": "2.01"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : KALAHANDI": "Total 18+ to 80+",
+      "null": "61.51",
+      "Year of Revision": "1134285",
+      "2021": "93.66"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : KALAHANDI": "District Total",
+      "null": "",
+      "Year of Revision": "",
+      "2021": ""
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : KANDHAMAL": "District Population in numbers (Projected upto the year of current revision)",
+      "null": null,
+      "Year of Revision": null,
+      "2021": "934099"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : KANDHAMAL": "District Population of 18+ only (Projected upto the year of current revision)",
+      "null": null,
+      "Year of Revision": null,
+      "2021": "543424"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : KANDHAMAL": "Age Cohort",
+      "null": "%age to total\npopulation",
+      "Year of Revision": "Electors as per\nDraft Electoral Roll\n2021",
+      "2021": "%age to 18+\npopulation"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : KANDHAMAL": "1",
+      "null": "5",
+      "Year of Revision": "4",
+      "2021": "6"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : KANDHAMAL": "18-19",
+      "null": "0.29",
+      "Year of Revision": "2707",
+      "2021": "0.50"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : KANDHAMAL": "20-29",
+      "null": "13.57",
+      "Year of Revision": "126730",
+      "2021": "23.32"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : KANDHAMAL": "30-39",
+      "null": "13.92",
+      "Year of Revision": "129997",
+      "2021": "23.92"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : KANDHAMAL": "40-49",
+      "null": "11.78",
+      "Year of Revision": "110068",
+      "2021": "20.25"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : KANDHAMAL": "50-59",
+      "null": "9.08",
+      "Year of Revision": "84825",
+      "2021": "15.61"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : KANDHAMAL": "60-69",
+      "null": "5.31",
+      "Year of Revision": "49623",
+      "2021": "9.13"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : KANDHAMAL": "70-79",
+      "null": "2.55",
+      "Year of Revision": "23796",
+      "2021": "4.38"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : KANDHAMAL": "80+",
+      "null": "1.02",
+      "Year of Revision": "9523",
+      "2021": "1.75"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : KANDHAMAL": "Total 18+ to 80+",
+      "null": "57.52",
+      "Year of Revision": "537269",
+      "2021": "98.87"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : KANDHAMAL": "District Total",
+      "null": "",
+      "Year of Revision": "",
+      "2021": ""
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : BOUDH": "District Population in numbers (Projected upto the year of current revision)",
+      "null": null,
+      "Year of Revision": null,
+      "2021": "552946"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : BOUDH": "District Population of 18+ only (Projected upto the year of current revision)",
+      "null": null,
+      "Year of Revision": null,
+      "2021": "332767"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : BOUDH": "Age Cohort",
+      "null": "%age to total\npopulation",
+      "Year of Revision": "Electors as per\nDraft Electoral Roll\n2021",
+      "2021": "%age to 18+\npopulation"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : BOUDH": "1",
+      "null": "5",
+      "Year of Revision": "4",
+      "2021": "6"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : BOUDH": "18-19",
+      "null": "0.31",
+      "Year of Revision": "1724",
+      "2021": "0.52"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : BOUDH": "20-29",
+      "null": "13.22",
+      "Year of Revision": "73118",
+      "2021": "21.97"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : BOUDH": "30-39",
+      "null": "13.79",
+      "Year of Revision": "76249",
+      "2021": "22.91"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : BOUDH": "40-49",
+      "null": "11.91",
+      "Year of Revision": "65846",
+      "2021": "19.79"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : BOUDH": "50-59",
+      "null": "8.70",
+      "Year of Revision": "48107",
+      "2021": "14.46"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : BOUDH": "60-69",
+      "null": "5.82",
+      "Year of Revision": "32191",
+      "2021": "9.67"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : BOUDH": "70-79",
+      "null": "2.99",
+      "Year of Revision": "16549",
+      "2021": "4.97"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : BOUDH": "80+",
+      "null": "1.23",
+      "Year of Revision": "6809",
+      "2021": "2.05"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : BOUDH": "Total 18+ to 80+",
+      "null": "57.98",
+      "Year of Revision": "320593",
+      "2021": "96.34"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : BOUDH": "District Total",
+      "null": "",
+      "Year of Revision": "",
+      "2021": ""
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : CUTTACK": "District Population in numbers (Projected upto the year of current revision)",
+      "null": null,
+      "Year of Revision": null,
+      "2021": "2916316"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : CUTTACK": "District Population of 18+ only (Projected upto the year of current revision)",
+      "null": null,
+      "Year of Revision": null,
+      "2021": "2231175"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : CUTTACK": "Age Cohort",
+      "null": "%age to total\npopulation",
+      "Year of Revision": "Electors as per\nDraft Electoral Roll\n2021",
+      "2021": "%age to 18+\npopulation"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : CUTTACK": "1",
+      "null": "5",
+      "Year of Revision": "4",
+      "2021": "6"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : CUTTACK": "18-19",
+      "null": "0.19",
+      "Year of Revision": "5503",
+      "2021": "0.25"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : CUTTACK": "20-29",
+      "null": "12.80",
+      "Year of Revision": "373175",
+      "2021": "16.73"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : CUTTACK": "30-39",
+      "null": "17.43",
+      "Year of Revision": "508195",
+      "2021": "22.78"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : CUTTACK": "40-49",
+      "null": "16.27",
+      "Year of Revision": "474417",
+      "2021": "21.26"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : CUTTACK": "50-59",
+      "null": "11.30",
+      "Year of Revision": "329466",
+      "2021": "14.77"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : CUTTACK": "60-69",
+      "null": "7.18",
+      "Year of Revision": "209379",
+      "2021": "9.38"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : CUTTACK": "70-79",
+      "null": "3.98",
+      "Year of Revision": "115975",
+      "2021": "5.20"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : CUTTACK": "80+",
+      "null": "2.10",
+      "Year of Revision": "61346",
+      "2021": "2.75"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : CUTTACK": "Total 18+ to 80+",
+      "null": "71.24",
+      "Year of Revision": "2077456",
+      "2021": "93.11"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : CUTTACK": "District Total",
+      "null": "",
+      "Year of Revision": "",
+      "2021": ""
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : KENDRAPARA": "District Population in numbers (Projected upto the year of current revision)",
+      "null": null,
+      "Year of Revision": null,
+      "2021": "1613850"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : KENDRAPARA": "District Population of 18+ only (Projected upto the year of current revision)",
+      "null": null,
+      "Year of Revision": null,
+      "2021": "1182643"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : KENDRAPARA": "Age Cohort",
+      "null": "%age to total\npopulation",
+      "Year of Revision": "Electors as per\nDraft Electoral Roll\n2021",
+      "2021": "%age to 18+\npopulation"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : KENDRAPARA": "1",
+      "null": "5",
+      "Year of Revision": "4",
+      "2021": "6"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : KENDRAPARA": "18-19",
+      "null": "0.25",
+      "Year of Revision": "4037",
+      "2021": "0.34"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : KENDRAPARA": "20-29",
+      "null": "14.76",
+      "Year of Revision": "238125",
+      "2021": "20.13"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : KENDRAPARA": "30-39",
+      "null": "17.81",
+      "Year of Revision": "287384",
+      "2021": "24.30"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : KENDRAPARA": "40-49",
+      "null": "16.42",
+      "Year of Revision": "265043",
+      "2021": "22.41"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : KENDRAPARA": "50-59",
+      "null": "11.38",
+      "Year of Revision": "183649",
+      "2021": "15.53"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : KENDRAPARA": "60-69",
+      "null": "7.53",
+      "Year of Revision": "121513",
+      "2021": "10.27"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : KENDRAPARA": "70-79",
+      "null": "4.24",
+      "Year of Revision": "68506",
+      "2021": "5.79"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : KENDRAPARA": "80+",
+      "null": "2.60",
+      "Year of Revision": "41978",
+      "2021": "3.55"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : KENDRAPARA": "Total 18+ to 80+",
+      "null": "74.99",
+      "Year of Revision": "1210235",
+      "2021": "102.33"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : KENDRAPARA": "District Total",
+      "null": "",
+      "Year of Revision": "",
+      "2021": ""
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : JAGATSINGHPUR": "District Population in numbers (Projected upto the year of current revision)",
+      "null": null,
+      "Year of Revision": null,
+      "2021": "1262236"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : JAGATSINGHPUR": "District Population of 18+ only (Projected upto the year of current revision)",
+      "null": null,
+      "Year of Revision": null,
+      "2021": "957152"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : JAGATSINGHPUR": "Age Cohort",
+      "null": "%age to total\npopulation",
+      "Year of Revision": "Electors as per\nDraft Electoral Roll\n2021",
+      "2021": "%age to 18+\npopulation"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : JAGATSINGHPUR": "1",
+      "null": "5",
+      "Year of Revision": "4",
+      "2021": "6"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : JAGATSINGHPUR": "18-19",
+      "null": "0.18",
+      "Year of Revision": "2216",
+      "2021": "0.23"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : JAGATSINGHPUR": "20-29",
+      "null": "12.81",
+      "Year of Revision": "161686",
+      "2021": "16.89"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : JAGATSINGHPUR": "30-39",
+      "null": "16.97",
+      "Year of Revision": "214169",
+      "2021": "22.38"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : JAGATSINGHPUR": "40-49",
+      "null": "16.53",
+      "Year of Revision": "208699",
+      "2021": "21.80"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : JAGATSINGHPUR": "50-59",
+      "null": "11.63",
+      "Year of Revision": "146838",
+      "2021": "15.34"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : JAGATSINGHPUR": "60-69",
+      "null": "7.51",
+      "Year of Revision": "94779",
+      "2021": "9.90"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : JAGATSINGHPUR": "70-79",
+      "null": "4.45",
+      "Year of Revision": "56195",
+      "2021": "5.87"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : JAGATSINGHPUR": "80+",
+      "null": "2.26",
+      "Year of Revision": "28519",
+      "2021": "2.98"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : JAGATSINGHPUR": "Total 18+ to 80+",
+      "null": "72.34",
+      "Year of Revision": "913101",
+      "2021": "95.40"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : JAGATSINGHPUR": "District Total",
+      "null": "",
+      "Year of Revision": "",
+      "2021": ""
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : PURI": "District Population in numbers (Projected upto the year of current revision)",
+      "null": null,
+      "Year of Revision": null,
+      "2021": "1906343"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : PURI": "District Population of 18+ only (Projected upto the year of current revision)",
+      "null": null,
+      "Year of Revision": null,
+      "2021": "1455272"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : PURI": "Age Cohort",
+      "null": "%age to total\npopulation",
+      "Year of Revision": "Electors as per\nDraft Electoral Roll\n2021",
+      "2021": "%age to 18+\npopulation"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : PURI": "1",
+      "null": "5",
+      "Year of Revision": "4",
+      "2021": "6"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : PURI": "18-19",
+      "null": "0.23",
+      "Year of Revision": "4359",
+      "2021": "0.30"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : PURI": "20-29",
+      "null": "12.95",
+      "Year of Revision": "246819",
+      "2021": "16.96"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : PURI": "30-39",
+      "null": "17.10",
+      "Year of Revision": "326051",
+      "2021": "22.40"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : PURI": "40-49",
+      "null": "16.58",
+      "Year of Revision": "316119",
+      "2021": "21.72"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : PURI": "50-59",
+      "null": "11.85",
+      "Year of Revision": "225935",
+      "2021": "15.53"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : PURI": "60-69",
+      "null": "7.31",
+      "Year of Revision": "139304",
+      "2021": "9.57"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : PURI": "70-79",
+      "null": "4.28",
+      "Year of Revision": "81585",
+      "2021": "5.61"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : PURI": "80+",
+      "null": "2.17",
+      "Year of Revision": "41314",
+      "2021": "2.84"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : PURI": "Total 18+ to 80+",
+      "null": "72.47",
+      "Year of Revision": "1381486",
+      "2021": "94.93"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : PURI": "District Total",
+      "null": "",
+      "Year of Revision": "",
+      "2021": ""
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : KHURDA": "District Population in numbers (Projected upto the year of current revision)",
+      "null": null,
+      "Year of Revision": null,
+      "2021": "2678217"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : KHURDA": "District Population of 18+ only (Projected upto the year of current revision)",
+      "null": null,
+      "Year of Revision": null,
+      "2021": "2031231"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : KHURDA": "Age Cohort",
+      "null": "%age to total\npopulation",
+      "Year of Revision": "Electors as per\nDraft Electoral Roll\n2021",
+      "2021": "%age to 18+\npopulation"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : KHURDA": "1",
+      "null": "5",
+      "Year of Revision": "4",
+      "2021": "6"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : KHURDA": "18-19",
+      "null": "0.13",
+      "Year of Revision": "3504",
+      "2021": "0.17"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : KHURDA": "20-29",
+      "null": "11.56",
+      "Year of Revision": "309612",
+      "2021": "15.24"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : KHURDA": "30-39",
+      "null": "17.70",
+      "Year of Revision": "474166",
+      "2021": "23.34"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : KHURDA": "40-49",
+      "null": "17.46",
+      "Year of Revision": "467666",
+      "2021": "23.02"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : KHURDA": "50-59",
+      "null": "11.78",
+      "Year of Revision": "315412",
+      "2021": "15.53"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : KHURDA": "60-69",
+      "null": "7.22",
+      "Year of Revision": "193306",
+      "2021": "9.52"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : KHURDA": "70-79",
+      "null": "3.60",
+      "Year of Revision": "96395",
+      "2021": "4.75"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : KHURDA": "80+",
+      "null": "1.64",
+      "Year of Revision": "44025",
+      "2021": "2.17"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : KHURDA": "Total 18+ to 80+",
+      "null": "71.10",
+      "Year of Revision": "1904086",
+      "2021": "93.74"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : KHURDA": "District Total",
+      "null": "",
+      "Year of Revision": "",
+      "2021": ""
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : NAYAGARH": "District Population in numbers (Projected upto the year of current revision)",
+      "null": null,
+      "Year of Revision": null,
+      "2021": "1068645"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : NAYAGARH": "District Population of 18+ only (Projected upto the year of current revision)",
+      "null": null,
+      "Year of Revision": null,
+      "2021": "788670"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : NAYAGARH": "Age Cohort",
+      "null": "%age to total\npopulation",
+      "Year of Revision": "Electors as per\nDraft Electoral Roll\n2021",
+      "2021": "%age to 18+\npopulation"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : NAYAGARH": "1",
+      "null": "5",
+      "Year of Revision": "4",
+      "2021": "6"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : NAYAGARH": "18-19",
+      "null": "0.26",
+      "Year of Revision": "2803",
+      "2021": "0.36"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : NAYAGARH": "20-29",
+      "null": "14.58",
+      "Year of Revision": "155780",
+      "2021": "19.75"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : NAYAGARH": "30-39",
+      "null": "18.40",
+      "Year of Revision": "196639",
+      "2021": "24.93"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : NAYAGARH": "40-49",
+      "null": "16.58",
+      "Year of Revision": "177151",
+      "2021": "22.46"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : NAYAGARH": "50-59",
+      "null": "11.39",
+      "Year of Revision": "121766",
+      "2021": "15.44"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : NAYAGARH": "60-69",
+      "null": "7.59",
+      "Year of Revision": "81078",
+      "2021": "10.28"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : NAYAGARH": "70-79",
+      "null": "4.43",
+      "Year of Revision": "47295",
+      "2021": "6.00"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : NAYAGARH": "80+",
+      "null": "2.44",
+      "Year of Revision": "26069",
+      "2021": "3.31"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : NAYAGARH": "Total 18+ to 80+",
+      "null": "75.66",
+      "Year of Revision": "808581",
+      "2021": "102.52"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : NAYAGARH": "District Total",
+      "null": "",
+      "Year of Revision": "",
+      "2021": ""
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : GANJAM": "District Population in numbers (Projected upto the year of current revision)",
+      "null": null,
+      "Year of Revision": null,
+      "2021": "4186287"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : GANJAM": "District Population of 18+ only (Projected upto the year of current revision)",
+      "null": null,
+      "Year of Revision": null,
+      "2021": "2778733"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : GANJAM": "Age Cohort",
+      "null": "%age to total\npopulation",
+      "Year of Revision": "Electors as per\nDraft Electoral Roll\n2021",
+      "2021": "%age to 18+\npopulation"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : GANJAM": "1",
+      "null": "5",
+      "Year of Revision": "4",
+      "2021": "6"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : GANJAM": "18-19",
+      "null": "0.24",
+      "Year of Revision": "9860",
+      "2021": "0.35"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : GANJAM": "20-29",
+      "null": "14.33",
+      "Year of Revision": "599907",
+      "2021": "21.59"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : GANJAM": "30-39",
+      "null": "17.60",
+      "Year of Revision": "736673",
+      "2021": "26.51"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : GANJAM": "40-49",
+      "null": "15.35",
+      "Year of Revision": "642425",
+      "2021": "23.12"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : GANJAM": "50-59",
+      "null": "10.15",
+      "Year of Revision": "424944",
+      "2021": "15.29"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : GANJAM": "60-69",
+      "null": "6.35",
+      "Year of Revision": "265943",
+      "2021": "9.57"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : GANJAM": "70-79",
+      "null": "3.35",
+      "Year of Revision": "140064",
+      "2021": "5.04"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : GANJAM": "80+",
+      "null": "1.36",
+      "Year of Revision": "56785",
+      "2021": "2.04"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : GANJAM": "Total 18+ to 80+",
+      "null": "68.71",
+      "Year of Revision": "2876601",
+      "2021": "103.52"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : GANJAM": "District Total",
+      "null": "",
+      "Year of Revision": "",
+      "2021": ""
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : GAJAPATI": "District Population in numbers (Projected upto the year of current revision)",
+      "null": null,
+      "Year of Revision": null,
+      "2021": "709743"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : GAJAPATI": "District Population of 18+ only (Projected upto the year of current revision)",
+      "null": null,
+      "Year of Revision": null,
+      "2021": "404062"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : GAJAPATI": "Age Cohort",
+      "null": "%age to total\npopulation",
+      "Year of Revision": "Electors as per\nDraft Electoral Roll\n2021",
+      "2021": "%age to 18+\npopulation"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : GAJAPATI": "1",
+      "null": "5",
+      "Year of Revision": "4",
+      "2021": "6"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : GAJAPATI": "18-19",
+      "null": "0.35",
+      "Year of Revision": "2504",
+      "2021": "0.62"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : GAJAPATI": "20-29",
+      "null": "14.61",
+      "Year of Revision": "103668",
+      "2021": "25.66"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : GAJAPATI": "30-39",
+      "null": "15.40",
+      "Year of Revision": "109293",
+      "2021": "27.05"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : GAJAPATI": "40-49",
+      "null": "12.82",
+      "Year of Revision": "91003",
+      "2021": "22.52"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : GAJAPATI": "50-59",
+      "null": "8.94",
+      "Year of Revision": "63481",
+      "2021": "15.71"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : GAJAPATI": "60-69",
+      "null": "5.24",
+      "Year of Revision": "37182",
+      "2021": "9.20"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : GAJAPATI": "70-79",
+      "null": "2.39",
+      "Year of Revision": "16982",
+      "2021": "4.20"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : GAJAPATI": "80+",
+      "null": "0.80",
+      "Year of Revision": "5666",
+      "2021": "1.40"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : GAJAPATI": "Total 18+ to 80+",
+      "null": "60.55",
+      "Year of Revision": "429779",
+      "2021": "106.36"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : GAJAPATI": "District Total",
+      "null": "",
+      "Year of Revision": "",
+      "2021": ""
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : RAYAGADA": "District Population in numbers (Projected upto the year of current revision)",
+      "null": null,
+      "Year of Revision": null,
+      "2021": "1117235"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : RAYAGADA": "District Population of 18+ only (Projected upto the year of current revision)",
+      "null": null,
+      "Year of Revision": null,
+      "2021": "696176"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : RAYAGADA": "Age Cohort",
+      "null": "%age to total\npopulation",
+      "Year of Revision": "Electors as per\nDraft Electoral Roll\n2021",
+      "2021": "%age to 18+\npopulation"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : RAYAGADA": "1",
+      "null": "5",
+      "Year of Revision": "4",
+      "2021": "6"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : RAYAGADA": "18-19",
+      "null": "0.30",
+      "Year of Revision": "3362",
+      "2021": "0.48"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : RAYAGADA": "20-29",
+      "null": "14.69",
+      "Year of Revision": "164154",
+      "2021": "23.58"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : RAYAGADA": "30-39",
+      "null": "16.83",
+      "Year of Revision": "187997",
+      "2021": "27.00"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : RAYAGADA": "40-49",
+      "null": "13.41",
+      "Year of Revision": "149814",
+      "2021": "21.52"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : RAYAGADA": "50-59",
+      "null": "7.93",
+      "Year of Revision": "88592",
+      "2021": "12.73"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : RAYAGADA": "60-69",
+      "null": "4.27",
+      "Year of Revision": "47759",
+      "2021": "6.86"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : RAYAGADA": "70-79",
+      "null": "1.68",
+      "Year of Revision": "18778",
+      "2021": "2.70"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : RAYAGADA": "80+",
+      "null": "0.53",
+      "Year of Revision": "5880",
+      "2021": "0.84"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : RAYAGADA": "Total 18+ to 80+",
+      "null": "59.64",
+      "Year of Revision": "666336",
+      "2021": "95.71"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : RAYAGADA": "District Total",
+      "null": "",
+      "Year of Revision": "",
+      "2021": ""
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : KORAPUT": "District Population in numbers (Projected upto the year of current revision)",
+      "null": null,
+      "Year of Revision": null,
+      "2021": "1599907"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : KORAPUT": "District Population of 18+ only (Projected upto the year of current revision)",
+      "null": null,
+      "Year of Revision": null,
+      "2021": "991754"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : KORAPUT": "Age Cohort",
+      "null": "%age to total\npopulation",
+      "Year of Revision": "Electors as per\nDraft Electoral Roll\n2021",
+      "2021": "%age to 18+\npopulation"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : KORAPUT": "1",
+      "null": "5",
+      "Year of Revision": "4",
+      "2021": "6"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : KORAPUT": "18-19",
+      "null": "0.22",
+      "Year of Revision": "3553",
+      "2021": "0.36"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : KORAPUT": "20-29",
+      "null": "14.12",
+      "Year of Revision": "225957",
+      "2021": "22.78"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : KORAPUT": "30-39",
+      "null": "15.50",
+      "Year of Revision": "248056",
+      "2021": "25.01"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : KORAPUT": "40-49",
+      "null": "12.33",
+      "Year of Revision": "197316",
+      "2021": "19.90"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : KORAPUT": "50-59",
+      "null": "8.27",
+      "Year of Revision": "132320",
+      "2021": "13.34"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : KORAPUT": "60-69",
+      "null": "4.55",
+      "Year of Revision": "72800",
+      "2021": "7.34"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : KORAPUT": "70-79",
+      "null": "1.88",
+      "Year of Revision": "30080",
+      "2021": "3.03"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : KORAPUT": "80+",
+      "null": "0.53",
+      "Year of Revision": "8445",
+      "2021": "0.85"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : KORAPUT": "Total 18+ to 80+",
+      "null": "57.41",
+      "Year of Revision": "918527",
+      "2021": "92.62"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : KORAPUT": "District Total",
+      "null": "",
+      "Year of Revision": "",
+      "2021": ""
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : MALKANGIRI": "District Population in numbers (Projected upto the year of current revision)",
+      "null": null,
+      "Year of Revision": null,
+      "2021": "739571"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : MALKANGIRI": "District Population of 18+ only (Projected upto the year of current revision)",
+      "null": null,
+      "Year of Revision": null,
+      "2021": "415061"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : MALKANGIRI": "Age Cohort",
+      "null": "%age to total\npopulation",
+      "Year of Revision": "Electors as per\nDraft Electoral Roll\n2021",
+      "2021": "%age to 18+\npopulation"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : MALKANGIRI": "1",
+      "null": "5",
+      "Year of Revision": "4",
+      "2021": "6"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : MALKANGIRI": "18-19",
+      "null": "0.17",
+      "Year of Revision": "1249",
+      "2021": "0.30"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : MALKANGIRI": "20-29",
+      "null": "14.89",
+      "Year of Revision": "110158",
+      "2021": "26.54"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : MALKANGIRI": "30-39",
+      "null": "16.24",
+      "Year of Revision": "120093",
+      "2021": "28.93"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : MALKANGIRI": "40-49",
+      "null": "11.92",
+      "Year of Revision": "88138",
+      "2021": "21.23"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : MALKANGIRI": "50-59",
+      "null": "6.93",
+      "Year of Revision": "51269",
+      "2021": "12.35"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : MALKANGIRI": "60-69",
+      "null": "3.84",
+      "Year of Revision": "28423",
+      "2021": "6.85"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : MALKANGIRI": "70-79",
+      "null": "1.60",
+      "Year of Revision": "11864",
+      "2021": "2.86"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : MALKANGIRI": "80+",
+      "null": "0.52",
+      "Year of Revision": "3867",
+      "2021": "0.93"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : MALKANGIRI": "Total 18+ to 80+",
+      "null": "56.12",
+      "Year of Revision": "415061",
+      "2021": "100.00"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of District : MALKANGIRI": "District Total",
+      "null": "",
+      "Year of Revision": "",
+      "2021": ""
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of State:": "Total State Population in numbers (projected upto the year of current revision)",
+      "null": null,
+      "ODISHA": null,
+      "Year of\nRevision": null,
+      "2021": "48230794"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of State:": "State Population of 18+ only (in numbers projected to year of current revision)",
+      "null": null,
+      "ODISHA": null,
+      "Year of\nRevision": null,
+      "2021": "32379097"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of State:": "Age Cohort",
+      "null": "Electors as per\nDraft Electoral Roll\n2021",
+      "ODISHA": "%age to total\nPopulation",
+      "Year of\nRevision": "%age to total\npopulation",
+      "2021": "%age to 18+\npopulation"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of State:": "1",
+      "null": "4",
+      "ODISHA": "3",
+      "Year of\nRevision": "5",
+      "2021": "6"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of State:": "18-19",
+      "null": "123303",
+      "ODISHA": "3.60",
+      "Year of\nRevision": "0.26",
+      "2021": "0.37"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of State:": "20-29",
+      "null": "6783216",
+      "ODISHA": "17.76",
+      "Year of\nRevision": "14.06",
+      "2021": "20.15"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of State:": "30-39",
+      "null": "8162175",
+      "ODISHA": "14.54",
+      "Year of\nRevision": "16.92",
+      "2021": "24.25"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of State:": "40-49",
+      "null": "7158113",
+      "ODISHA": "13.66",
+      "Year of\nRevision": "14.84",
+      "2021": "21.27"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of State:": "50-59",
+      "null": "4886270",
+      "ODISHA": "9.45",
+      "Year of\nRevision": "10.13",
+      "2021": "14.52"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of State:": "60-69",
+      "null": "3018473",
+      "ODISHA": "6.63",
+      "Year of\nRevision": "6.26",
+      "2021": "8.97"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of State:": "70-79",
+      "null": "1554023",
+      "ODISHA": "3.03",
+      "Year of\nRevision": "3.22",
+      "2021": "4.62"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of State:": "80+",
+      "null": "693524",
+      "ODISHA": "1.12",
+      "Year of\nRevision": "1.44",
+      "2021": "2.06"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of State:": "Total 18+ to 80+",
+      "null": "32379097",
+      "ODISHA": "69.78",
+      "Year of\nRevision": "67.13",
+      "2021": "96.20"
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Name of State:": "State Total",
+      "null": "",
+      "ODISHA": "",
+      "Year of\nRevision": "",
+      "2021": ""
+    },
+    "source": {
+      "pdf": "4f2d2e2501619f6c5c8147b2da83bc0d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "low"
+  }
+]

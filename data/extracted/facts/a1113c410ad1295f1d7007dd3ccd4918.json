@@ -1,0 +1,5022 @@
+[
+  {
+    "category": [
+      "voters",
+      "demographics",
+      "population"
+    ],
+    "geo_level": "district/state/national/unclear",
+    "values": {
+      "Nothing like voting, I vote for sure": "म(cid:6990)ु य िनवाच(cid:6981) न अिधकारी कायाल(cid:6981) य"
+    },
+    "source": {
+      "pdf": "0231d310b509b2e1be2a94e63ef9de7d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "voters",
+      "demographics",
+      "population"
+    ],
+    "geo_level": "district/state/national/unclear",
+    "values": {
+      "": null,
+      "Sl.": "No.",
+      "Name of the office": null,
+      "null": null,
+      "Office No.": "(03192)"
+    },
+    "source": {
+      "pdf": "0231d310b509b2e1be2a94e63ef9de7d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "voters",
+      "demographics",
+      "population"
+    ],
+    "geo_level": "district/state/national/unclear",
+    "values": {
+      "": "",
+      "Sl.": "DEO’s office",
+      "Name of the office": null,
+      "null": null,
+      "Office No.": null
+    },
+    "source": {
+      "pdf": "0231d310b509b2e1be2a94e63ef9de7d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "voters",
+      "demographics",
+      "population"
+    ],
+    "geo_level": "district/state/national/unclear",
+    "values": {
+      "": "",
+      "Sl.": "1.",
+      "Name of the office": "",
+      "null": "",
+      "Office No.": "233089"
+    },
+    "source": {
+      "pdf": "0231d310b509b2e1be2a94e63ef9de7d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "voters",
+      "demographics",
+      "population"
+    ],
+    "geo_level": "district/state/national/unclear",
+    "values": {
+      "": null,
+      "Sl.": null,
+      "Name of the office": null,
+      "null": null,
+      "Office No.": "240253"
+    },
+    "source": {
+      "pdf": "0231d310b509b2e1be2a94e63ef9de7d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "voters",
+      "demographics",
+      "population"
+    ],
+    "geo_level": "district/state/national/unclear",
+    "values": {
+      "": null,
+      "Sl.": null,
+      "Name of the office": null,
+      "null": null,
+      "Office No.": ""
+    },
+    "source": {
+      "pdf": "0231d310b509b2e1be2a94e63ef9de7d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "voters",
+      "demographics",
+      "population"
+    ],
+    "geo_level": "district/state/national/unclear",
+    "values": {
+      "": "",
+      "Sl.": null,
+      "Name of the office": "",
+      "null": "",
+      "Office No.": "262999"
+    },
+    "source": {
+      "pdf": "0231d310b509b2e1be2a94e63ef9de7d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "voters",
+      "demographics",
+      "population"
+    ],
+    "geo_level": "district/state/national/unclear",
+    "values": {
+      "": null,
+      "Sl.": null,
+      "Name of the office": null,
+      "null": null,
+      "Office No.": ""
+    },
+    "source": {
+      "pdf": "0231d310b509b2e1be2a94e63ef9de7d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "voters",
+      "demographics",
+      "population"
+    ],
+    "geo_level": "district/state/national/unclear",
+    "values": {
+      "": null,
+      "Sl.": null,
+      "Name of the office": null,
+      "null": null,
+      "Office No.": ""
+    },
+    "source": {
+      "pdf": "0231d310b509b2e1be2a94e63ef9de7d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "voters",
+      "demographics",
+      "population"
+    ],
+    "geo_level": "district/state/national/unclear",
+    "values": {
+      "": null,
+      "Sl.": null,
+      "Name of the office": "",
+      "null": "",
+      "Office No.": "265220"
+    },
+    "source": {
+      "pdf": "0231d310b509b2e1be2a94e63ef9de7d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "voters",
+      "demographics",
+      "population"
+    ],
+    "geo_level": "district/state/national/unclear",
+    "values": {
+      "": null,
+      "Sl.": null,
+      "Name of the office": null,
+      "null": null,
+      "Office No.": null
+    },
+    "source": {
+      "pdf": "0231d310b509b2e1be2a94e63ef9de7d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "voters",
+      "demographics",
+      "population"
+    ],
+    "geo_level": "district/state/national/unclear",
+    "values": {
+      "": "",
+      "Sl.": "ERO office",
+      "Name of the office": null,
+      "null": null,
+      "Office No.": null
+    },
+    "source": {
+      "pdf": "0231d310b509b2e1be2a94e63ef9de7d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "voters",
+      "demographics",
+      "population"
+    ],
+    "geo_level": "district/state/national/unclear",
+    "values": {
+      "": null,
+      "Sl.": "1.",
+      "Name of the office": "Office to the\nElectoral Registration Officer, ANIPC",
+      "null": null,
+      "Office No.": "232575"
+    },
+    "source": {
+      "pdf": "0231d310b509b2e1be2a94e63ef9de7d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "voters",
+      "demographics",
+      "population"
+    ],
+    "geo_level": "district/state/national/unclear",
+    "values": {
+      "": "",
+      "Sl.": "AERO’s office",
+      "Name of the office": null,
+      "null": null,
+      "Office No.": null
+    },
+    "source": {
+      "pdf": "0231d310b509b2e1be2a94e63ef9de7d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "voters",
+      "demographics",
+      "population"
+    ],
+    "geo_level": "district/state/national/unclear",
+    "values": {
+      "": null,
+      "Sl.": "1.",
+      "Name of the office": "",
+      "null": "",
+      "Office No.": "271888"
+    },
+    "source": {
+      "pdf": "0231d310b509b2e1be2a94e63ef9de7d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "voters",
+      "demographics",
+      "population"
+    ],
+    "geo_level": "district/state/national/unclear",
+    "values": {
+      "": null,
+      "Sl.": null,
+      "Name of the office": null,
+      "null": null,
+      "Office No.": ""
+    },
+    "source": {
+      "pdf": "0231d310b509b2e1be2a94e63ef9de7d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "voters",
+      "demographics",
+      "population"
+    ],
+    "geo_level": "district/state/national/unclear",
+    "values": {
+      "": null,
+      "Sl.": null,
+      "Name of the office": null,
+      "null": null,
+      "Office No.": null
+    },
+    "source": {
+      "pdf": "0231d310b509b2e1be2a94e63ef9de7d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "voters",
+      "demographics",
+      "population"
+    ],
+    "geo_level": "district/state/national/unclear",
+    "values": {
+      "": null,
+      "Sl.": null,
+      "Name of the office": "",
+      "null": "",
+      "Office No.": null
+    },
+    "source": {
+      "pdf": "0231d310b509b2e1be2a94e63ef9de7d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "voters",
+      "demographics",
+      "population"
+    ],
+    "geo_level": "district/state/national/unclear",
+    "values": {
+      "": null,
+      "Sl.": null,
+      "Name of the office": null,
+      "null": null,
+      "Office No.": null
+    },
+    "source": {
+      "pdf": "0231d310b509b2e1be2a94e63ef9de7d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "voters",
+      "demographics",
+      "population"
+    ],
+    "geo_level": "district/state/national/unclear",
+    "values": {
+      "": null,
+      "Sl.": null,
+      "Name of the office": null,
+      "null": null,
+      "Office No.": null
+    },
+    "source": {
+      "pdf": "0231d310b509b2e1be2a94e63ef9de7d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "voters",
+      "demographics",
+      "population"
+    ],
+    "geo_level": "district/state/national/unclear",
+    "values": {
+      "": null,
+      "Sl.": null,
+      "Name of the office": "",
+      "null": "",
+      "Office No.": null
+    },
+    "source": {
+      "pdf": "0231d310b509b2e1be2a94e63ef9de7d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "voters",
+      "demographics",
+      "population"
+    ],
+    "geo_level": "district/state/national/unclear",
+    "values": {
+      "": null,
+      "Sl.": null,
+      "Name of the office": null,
+      "null": null,
+      "Office No.": null
+    },
+    "source": {
+      "pdf": "0231d310b509b2e1be2a94e63ef9de7d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "voters",
+      "demographics",
+      "population"
+    ],
+    "geo_level": "district/state/national/unclear",
+    "values": {
+      "": null,
+      "Sl.": null,
+      "Name of the office": null,
+      "null": null,
+      "Office No.": null
+    },
+    "source": {
+      "pdf": "0231d310b509b2e1be2a94e63ef9de7d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "voters",
+      "demographics",
+      "population"
+    ],
+    "geo_level": "district/state/national/unclear",
+    "values": {
+      "": "",
+      "Sl.": "4.",
+      "Name of the office": "",
+      "null": "",
+      "Office No.": "232575"
+    },
+    "source": {
+      "pdf": "0231d310b509b2e1be2a94e63ef9de7d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "voters",
+      "demographics",
+      "population"
+    ],
+    "geo_level": "district/state/national/unclear",
+    "values": {
+      "Office to the": "Electoral Registration Officer, ANIPC"
+    },
+    "source": {
+      "pdf": "0231d310b509b2e1be2a94e63ef9de7d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "voters",
+      "demographics",
+      "population"
+    ],
+    "geo_level": "district/state/national/unclear",
+    "values": {
+      "": "274222"
+    },
+    "source": {
+      "pdf": "0231d310b509b2e1be2a94e63ef9de7d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "voters",
+      "demographics",
+      "population"
+    ],
+    "geo_level": "district/state/national/unclear",
+    "values": {
+      "": null,
+      "null": null,
+      "Asst. Electoral Regn. Officer,": "Sri Vijaya Puram"
+    },
+    "source": {
+      "pdf": "0231d310b509b2e1be2a94e63ef9de7d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "voters",
+      "demographics",
+      "population"
+    ],
+    "geo_level": "district/state/national/unclear",
+    "values": {
+      "": "237825",
+      "null": null,
+      "Asst. Electoral Regn. Officer,": "Office to the"
+    },
+    "source": {
+      "pdf": "0231d310b509b2e1be2a94e63ef9de7d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "voters",
+      "demographics",
+      "population"
+    ],
+    "geo_level": "district/state/national/unclear",
+    "values": {
+      "": null,
+      "null": null,
+      "Asst. Electoral Regn. Officer,": "Asst. Electoral Regn. Officer,"
+    },
+    "source": {
+      "pdf": "0231d310b509b2e1be2a94e63ef9de7d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "voters",
+      "demographics",
+      "population"
+    ],
+    "geo_level": "district/state/national/unclear",
+    "values": {
+      "": null,
+      "null": null,
+      "Asst. Electoral Regn. Officer,": "Ferrargunj"
+    },
+    "source": {
+      "pdf": "0231d310b509b2e1be2a94e63ef9de7d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "voters",
+      "demographics",
+      "population"
+    ],
+    "geo_level": "district/state/national/unclear",
+    "values": {
+      "": "237825",
+      "null": null,
+      "Asst. Electoral Regn. Officer,": "Office to the"
+    },
+    "source": {
+      "pdf": "0231d310b509b2e1be2a94e63ef9de7d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "voters",
+      "demographics",
+      "population"
+    ],
+    "geo_level": "district/state/national/unclear",
+    "values": {
+      "": null,
+      "null": null,
+      "Asst. Electoral Regn. Officer,": "Asst. Electoral Regn. Officer,"
+    },
+    "source": {
+      "pdf": "0231d310b509b2e1be2a94e63ef9de7d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "voters",
+      "demographics",
+      "population"
+    ],
+    "geo_level": "district/state/national/unclear",
+    "values": {
+      "": null,
+      "null": null,
+      "Asst. Electoral Regn. Officer,": "Little Andaman"
+    },
+    "source": {
+      "pdf": "0231d310b509b2e1be2a94e63ef9de7d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "voters",
+      "demographics",
+      "population"
+    ],
+    "geo_level": "district/state/national/unclear",
+    "values": {
+      "": "265566",
+      "null": null,
+      "Asst. Electoral Regn. Officer,": "Office to the"
+    },
+    "source": {
+      "pdf": "0231d310b509b2e1be2a94e63ef9de7d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "voters",
+      "demographics",
+      "population"
+    ],
+    "geo_level": "district/state/national/unclear",
+    "values": {
+      "": null,
+      "null": null,
+      "Asst. Electoral Regn. Officer,": "Asst. Electoral Regn. Officer,"
+    },
+    "source": {
+      "pdf": "0231d310b509b2e1be2a94e63ef9de7d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "voters",
+      "demographics",
+      "population"
+    ],
+    "geo_level": "district/state/national/unclear",
+    "values": {
+      "": null,
+      "null": null,
+      "Asst. Electoral Regn. Officer,": "Car Nicobar"
+    },
+    "source": {
+      "pdf": "0231d310b509b2e1be2a94e63ef9de7d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "voters",
+      "demographics",
+      "population"
+    ],
+    "geo_level": "district/state/national/unclear",
+    "values": {
+      "": "",
+      "null": "",
+      "Asst. Electoral Regn. Officer,": ""
+    },
+    "source": {
+      "pdf": "0231d310b509b2e1be2a94e63ef9de7d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "voters",
+      "demographics",
+      "population"
+    ],
+    "geo_level": "district/state/national/unclear",
+    "values": {
+      "": "263222",
+      "null": null,
+      "Asst. Electoral Regn. Officer,": "Office to the"
+    },
+    "source": {
+      "pdf": "0231d310b509b2e1be2a94e63ef9de7d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "voters",
+      "demographics",
+      "population"
+    ],
+    "geo_level": "district/state/national/unclear",
+    "values": {
+      "": null,
+      "null": null,
+      "Asst. Electoral Regn. Officer,": "Asst. Electoral Regn. Officer,"
+    },
+    "source": {
+      "pdf": "0231d310b509b2e1be2a94e63ef9de7d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "voters",
+      "demographics",
+      "population"
+    ],
+    "geo_level": "district/state/national/unclear",
+    "values": {
+      "": null,
+      "null": null,
+      "Asst. Electoral Regn. Officer,": "Nancowry"
+    },
+    "source": {
+      "pdf": "0231d310b509b2e1be2a94e63ef9de7d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "voters",
+      "demographics",
+      "population"
+    ],
+    "geo_level": "district/state/national/unclear",
+    "values": {
+      "": "264264",
+      "null": null,
+      "Asst. Electoral Regn. Officer,": "Office to the"
+    },
+    "source": {
+      "pdf": "0231d310b509b2e1be2a94e63ef9de7d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "voters",
+      "demographics",
+      "population"
+    ],
+    "geo_level": "district/state/national/unclear",
+    "values": {
+      "": null,
+      "null": null,
+      "Asst. Electoral Regn. Officer,": "Asst. Electoral Regn. Officer,"
+    },
+    "source": {
+      "pdf": "0231d310b509b2e1be2a94e63ef9de7d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "voters",
+      "demographics",
+      "population"
+    ],
+    "geo_level": "district/state/national/unclear",
+    "values": {
+      "": null,
+      "null": null,
+      "Asst. Electoral Regn. Officer,": "Campbell Bay"
+    },
+    "source": {
+      "pdf": "0231d310b509b2e1be2a94e63ef9de7d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "voters",
+      "demographics",
+      "population"
+    ],
+    "geo_level": "district/state/national/unclear",
+    "values": {
+      "": "",
+      "null": "",
+      "Asst. Electoral Regn. Officer,": "Asst. Electoral Regn. Officer (HQ)"
+    },
+    "source": {
+      "pdf": "0231d310b509b2e1be2a94e63ef9de7d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "voters",
+      "demographics",
+      "population"
+    ],
+    "geo_level": "district/state/national/unclear",
+    "values": {
+      "": null,
+      "Sl.": "No.",
+      "Type of": "FORMs",
+      "Type of service": null,
+      "null": null,
+      "Documents to be required": null
+    },
+    "source": {
+      "pdf": "0231d310b509b2e1be2a94e63ef9de7d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "voters",
+      "demographics",
+      "population"
+    ],
+    "geo_level": "district/state/national/unclear",
+    "values": {
+      "": null,
+      "Sl.": "1.",
+      "Type of": "FORM 6",
+      "Type of service": "For inclusion of name in\nElectoral Rolls/Voter list",
+      "null": "",
+      "Documents to be required": ""
+    },
+    "source": {
+      "pdf": "0231d310b509b2e1be2a94e63ef9de7d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "voters",
+      "demographics",
+      "population"
+    ],
+    "geo_level": "district/state/national/unclear",
+    "values": {
+      "": null,
+      "Sl.": null,
+      "Type of": null,
+      "Type of service": null,
+      "null": null,
+      "Documents to be required": null
+    },
+    "source": {
+      "pdf": "0231d310b509b2e1be2a94e63ef9de7d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "voters",
+      "demographics",
+      "population"
+    ],
+    "geo_level": "district/state/national/unclear",
+    "values": {
+      "": null,
+      "Sl.": null,
+      "Type of": null,
+      "Type of service": null,
+      "null": null,
+      "Documents to be required": null
+    },
+    "source": {
+      "pdf": "0231d310b509b2e1be2a94e63ef9de7d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "voters",
+      "demographics",
+      "population"
+    ],
+    "geo_level": "district/state/national/unclear",
+    "values": {
+      "": null,
+      "Sl.": null,
+      "Type of": null,
+      "Type of service": null,
+      "null": null,
+      "Documents to be required": null
+    },
+    "source": {
+      "pdf": "0231d310b509b2e1be2a94e63ef9de7d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "voters",
+      "demographics",
+      "population"
+    ],
+    "geo_level": "district/state/national/unclear",
+    "values": {
+      "": null,
+      "Sl.": null,
+      "Type of": null,
+      "Type of service": "For inclusion of name by\nOverseas electors in\nElectoral Rolls/Voter list",
+      "null": "",
+      "Documents to be required": ""
+    },
+    "source": {
+      "pdf": "0231d310b509b2e1be2a94e63ef9de7d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "voters",
+      "demographics",
+      "population"
+    ],
+    "geo_level": "district/state/national/unclear",
+    "values": {
+      "": null,
+      "Sl.": null,
+      "Type of": null,
+      "Type of service": null,
+      "null": null,
+      "Documents to be required": null
+    },
+    "source": {
+      "pdf": "0231d310b509b2e1be2a94e63ef9de7d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "voters",
+      "demographics",
+      "population"
+    ],
+    "geo_level": "district/state/national/unclear",
+    "values": {
+      "": null,
+      "Sl.": null,
+      "Type of": null,
+      "Type of service": null,
+      "null": null,
+      "Documents to be required": null
+    },
+    "source": {
+      "pdf": "0231d310b509b2e1be2a94e63ef9de7d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "voters",
+      "demographics",
+      "population"
+    ],
+    "geo_level": "district/state/national/unclear",
+    "values": {
+      "": null,
+      "Sl.": null,
+      "Type of": null,
+      "Type of service": null,
+      "null": null,
+      "Documents to be required": null
+    },
+    "source": {
+      "pdf": "0231d310b509b2e1be2a94e63ef9de7d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "voters",
+      "demographics",
+      "population"
+    ],
+    "geo_level": "district/state/national/unclear",
+    "values": {
+      "": null,
+      "Sl.": null,
+      "Type of": null,
+      "Type of service": null,
+      "null": null,
+      "Documents to be required": null
+    },
+    "source": {
+      "pdf": "0231d310b509b2e1be2a94e63ef9de7d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "voters",
+      "demographics",
+      "population"
+    ],
+    "geo_level": "district/state/national/unclear",
+    "values": {
+      "": null,
+      "Sl.": null,
+      "Type of": null,
+      "Type of service": null,
+      "null": null,
+      "Documents to be required": null
+    },
+    "source": {
+      "pdf": "0231d310b509b2e1be2a94e63ef9de7d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "voters",
+      "demographics",
+      "population"
+    ],
+    "geo_level": "district/state/national/unclear",
+    "values": {
+      "": null,
+      "Sl.": null,
+      "Type of": null,
+      "Type of service": "",
+      "null": null,
+      "Documents to be required": ""
+    },
+    "source": {
+      "pdf": "0231d310b509b2e1be2a94e63ef9de7d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "voters",
+      "demographics",
+      "population"
+    ],
+    "geo_level": "district/state/national/unclear",
+    "values": {
+      "": null,
+      "Sl.": null,
+      "Type of": null,
+      "Type of service": null,
+      "null": null,
+      "Documents to be required": null
+    },
+    "source": {
+      "pdf": "0231d310b509b2e1be2a94e63ef9de7d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "voters",
+      "demographics",
+      "population"
+    ],
+    "geo_level": "district/state/national/unclear",
+    "values": {
+      "": null,
+      "Sl.": null,
+      "Type of": null,
+      "Type of service": "",
+      "null": null,
+      "Documents to be required": "1. Proof of age\n2. Proof of address"
+    },
+    "source": {
+      "pdf": "0231d310b509b2e1be2a94e63ef9de7d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "voters",
+      "demographics",
+      "population"
+    ],
+    "geo_level": "district/state/national/unclear",
+    "values": {
+      "": null,
+      "Sl.": null,
+      "Type of": null,
+      "Type of service": null,
+      "null": null,
+      "Documents to be required": null
+    },
+    "source": {
+      "pdf": "0231d310b509b2e1be2a94e63ef9de7d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "voters",
+      "demographics",
+      "population"
+    ],
+    "geo_level": "district/state/national/unclear",
+    "values": {
+      "": null,
+      "Sl.": null,
+      "Type of": null,
+      "Type of service": null,
+      "null": null,
+      "Documents to be required": null
+    },
+    "source": {
+      "pdf": "0231d310b509b2e1be2a94e63ef9de7d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "voters",
+      "demographics",
+      "population"
+    ],
+    "geo_level": "district/state/national/unclear",
+    "values": {
+      "For inclusion of name in": "Electoral Rolls/Voter list"
+    },
+    "source": {
+      "pdf": "0231d310b509b2e1be2a94e63ef9de7d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "voters",
+      "demographics",
+      "population"
+    ],
+    "geo_level": "district/state/national/unclear",
+    "values": {
+      "For inclusion of name by": "Overseas electors in"
+    },
+    "source": {
+      "pdf": "0231d310b509b2e1be2a94e63ef9de7d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "voters",
+      "demographics",
+      "population"
+    ],
+    "geo_level": "district/state/national/unclear",
+    "values": {
+      "For inclusion of name by": "Electoral Rolls/Voter list"
+    },
+    "source": {
+      "pdf": "0231d310b509b2e1be2a94e63ef9de7d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "voters",
+      "demographics",
+      "population"
+    ],
+    "geo_level": "district/state/national/unclear",
+    "values": {
+      "1. Proof of age": "2. Proof of address"
+    },
+    "source": {
+      "pdf": "0231d310b509b2e1be2a94e63ef9de7d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "voters",
+      "demographics",
+      "population"
+    ],
+    "geo_level": "district/state/national/unclear",
+    "values": {
+      "": "",
+      "null": ""
+    },
+    "source": {
+      "pdf": "0231d310b509b2e1be2a94e63ef9de7d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "voters",
+      "demographics",
+      "population"
+    ],
+    "geo_level": "district/state/national/unclear",
+    "values": {
+      "": "",
+      "null": null
+    },
+    "source": {
+      "pdf": "0231d310b509b2e1be2a94e63ef9de7d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "voters",
+      "demographics",
+      "population"
+    ],
+    "geo_level": "district/state/national/unclear",
+    "values": {
+      "": "",
+      "null": ""
+    },
+    "source": {
+      "pdf": "0231d310b509b2e1be2a94e63ef9de7d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "voters",
+      "demographics",
+      "population"
+    ],
+    "geo_level": "district/state/national/unclear",
+    "values": {
+      "": "",
+      "null": null
+    },
+    "source": {
+      "pdf": "0231d310b509b2e1be2a94e63ef9de7d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "voters",
+      "demographics",
+      "population"
+    ],
+    "geo_level": "district/state/national/unclear",
+    "values": {
+      "": "",
+      "null": ""
+    },
+    "source": {
+      "pdf": "0231d310b509b2e1be2a94e63ef9de7d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "voters",
+      "demographics",
+      "population"
+    ],
+    "geo_level": "district/state/national/unclear",
+    "values": {
+      "": "",
+      "null": null
+    },
+    "source": {
+      "pdf": "0231d310b509b2e1be2a94e63ef9de7d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "voters",
+      "demographics",
+      "population"
+    ],
+    "geo_level": "district/state/national/unclear",
+    "values": {
+      "": "",
+      "null": ""
+    },
+    "source": {
+      "pdf": "0231d310b509b2e1be2a94e63ef9de7d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "voters",
+      "demographics",
+      "population"
+    ],
+    "geo_level": "district/state/national/unclear",
+    "values": {
+      "": "",
+      "null": null
+    },
+    "source": {
+      "pdf": "0231d310b509b2e1be2a94e63ef9de7d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "voters",
+      "demographics",
+      "population"
+    ],
+    "geo_level": "district/state/national/unclear",
+    "values": {
+      "": "Polling Stations",
+      "null": null
+    },
+    "source": {
+      "pdf": "0231d310b509b2e1be2a94e63ef9de7d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "voters",
+      "demographics",
+      "population"
+    ],
+    "geo_level": "district/state/national/unclear",
+    "values": {
+      "": "",
+      "null": null
+    },
+    "source": {
+      "pdf": "0231d310b509b2e1be2a94e63ef9de7d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "voters",
+      "demographics",
+      "population"
+    ],
+    "geo_level": "district/state/national/unclear",
+    "values": {
+      "": "",
+      "null": ""
+    },
+    "source": {
+      "pdf": "0231d310b509b2e1be2a94e63ef9de7d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "voters",
+      "demographics",
+      "population"
+    ],
+    "geo_level": "district/state/national/unclear",
+    "values": {
+      "": "",
+      "null": null
+    },
+    "source": {
+      "pdf": "0231d310b509b2e1be2a94e63ef9de7d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "voters",
+      "demographics",
+      "population"
+    ],
+    "geo_level": "district/state/national/unclear",
+    "values": {
+      "": "South Andaman",
+      "null": null
+    },
+    "source": {
+      "pdf": "0231d310b509b2e1be2a94e63ef9de7d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "voters",
+      "demographics",
+      "population"
+    ],
+    "geo_level": "district/state/national/unclear",
+    "values": {
+      "": "",
+      "null": null
+    },
+    "source": {
+      "pdf": "0231d310b509b2e1be2a94e63ef9de7d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "voters",
+      "demographics",
+      "population"
+    ],
+    "geo_level": "district/state/national/unclear",
+    "values": {
+      "": "",
+      "null": ""
+    },
+    "source": {
+      "pdf": "0231d310b509b2e1be2a94e63ef9de7d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "voters",
+      "demographics",
+      "population"
+    ],
+    "geo_level": "district/state/national/unclear",
+    "values": {
+      "": "",
+      "null": null
+    },
+    "source": {
+      "pdf": "0231d310b509b2e1be2a94e63ef9de7d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "voters",
+      "demographics",
+      "population"
+    ],
+    "geo_level": "district/state/national/unclear",
+    "values": {
+      "": "223",
+      "null": null
+    },
+    "source": {
+      "pdf": "0231d310b509b2e1be2a94e63ef9de7d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "voters",
+      "demographics",
+      "population"
+    ],
+    "geo_level": "district/state/national/unclear",
+    "values": {
+      "": "",
+      "null": null
+    },
+    "source": {
+      "pdf": "0231d310b509b2e1be2a94e63ef9de7d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "voters",
+      "demographics",
+      "population"
+    ],
+    "geo_level": "district/state/national/unclear",
+    "values": {
+      "": "",
+      "null": ""
+    },
+    "source": {
+      "pdf": "0231d310b509b2e1be2a94e63ef9de7d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "voters",
+      "demographics",
+      "population"
+    ],
+    "geo_level": "district/state/national/unclear",
+    "values": {
+      "": "",
+      "null": null
+    },
+    "source": {
+      "pdf": "0231d310b509b2e1be2a94e63ef9de7d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "voters",
+      "demographics",
+      "population"
+    ],
+    "geo_level": "district/state/national/unclear",
+    "values": {
+      "": "Polling Stations",
+      "null": null
+    },
+    "source": {
+      "pdf": "0231d310b509b2e1be2a94e63ef9de7d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "voters",
+      "demographics",
+      "population"
+    ],
+    "geo_level": "district/state/national/unclear",
+    "values": {
+      "": "",
+      "null": null
+    },
+    "source": {
+      "pdf": "0231d310b509b2e1be2a94e63ef9de7d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "voters",
+      "demographics",
+      "population"
+    ],
+    "geo_level": "district/state/national/unclear",
+    "values": {
+      "": "",
+      "null": ""
+    },
+    "source": {
+      "pdf": "0231d310b509b2e1be2a94e63ef9de7d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "voters",
+      "demographics",
+      "population"
+    ],
+    "geo_level": "district/state/national/unclear",
+    "values": {
+      "": "",
+      "null": null
+    },
+    "source": {
+      "pdf": "0231d310b509b2e1be2a94e63ef9de7d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "voters",
+      "demographics",
+      "population"
+    ],
+    "geo_level": "district/state/national/unclear",
+    "values": {
+      "Full Address": "The Chief Electoral Officer,\nAndaman & Nicobar Islands,\nNear DC’s office, South Andaman,\nSri Vijaya Puram – 744 101",
+      "Phone Number": "03192-233991"
+    },
+    "source": {
+      "pdf": "0231d310b509b2e1be2a94e63ef9de7d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "voters",
+      "demographics",
+      "population"
+    ],
+    "geo_level": "district/state/national/unclear",
+    "values": {
+      "Full Address": "The Deputy Chief Electoral Officer,\nAndaman & Nicobar Islands,\nNear DC’s office, South Andaman,\nSri Vijaya Puram – 744 101.",
+      "Phone Number": "03192-233991"
+    },
+    "source": {
+      "pdf": "0231d310b509b2e1be2a94e63ef9de7d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "voters",
+      "demographics",
+      "population"
+    ],
+    "geo_level": "district/state/national/unclear",
+    "values": {
+      "Sl.\nNo.": "1.",
+      "District": "South Andaman",
+      "Designation & Complete\nAddress": "District Election Officer,\nSouth Andaman,\nOffice of the Deputy\nCommissioner, South Andaman,\nSri Vijaya Puram – 744 101",
+      "Phone Number": "233089\n240253"
+    },
+    "source": {
+      "pdf": "0231d310b509b2e1be2a94e63ef9de7d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "voters",
+      "demographics",
+      "population"
+    ],
+    "geo_level": "district/state/national/unclear",
+    "values": {
+      "2.": "3.",
+      "North & Middle\nAndaman": "Nicobar",
+      "District Election Officer,\nNorth & Middle Andaman,\nOffice of the Deputy\nCommissioner, North & Middle,\nMayabunder – 744 204": "District Election Officer,\nCar Nicobar,\nOffice of the Deputy\nCommissioner, Car Nicobar,\nCar Nicobar – 744 301",
+      "262999": "265220"
+    },
+    "source": {
+      "pdf": "0231d310b509b2e1be2a94e63ef9de7d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "voters",
+      "demographics",
+      "population"
+    ],
+    "geo_level": "district/state/national/unclear",
+    "values": {
+      "null": "",
+      "": ""
+    },
+    "source": {
+      "pdf": "0231d310b509b2e1be2a94e63ef9de7d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "voters",
+      "demographics",
+      "population"
+    ],
+    "geo_level": "district/state/national/unclear",
+    "values": {
+      "null": null,
+      "": null
+    },
+    "source": {
+      "pdf": "0231d310b509b2e1be2a94e63ef9de7d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "voters",
+      "demographics",
+      "population"
+    ],
+    "geo_level": "district/state/national/unclear",
+    "values": {
+      "": "",
+      "null": ""
+    },
+    "source": {
+      "pdf": "0231d310b509b2e1be2a94e63ef9de7d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "voters",
+      "demographics",
+      "population"
+    ],
+    "geo_level": "district/state/national/unclear",
+    "values": {
+      "": null,
+      "null": ""
+    },
+    "source": {
+      "pdf": "0231d310b509b2e1be2a94e63ef9de7d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "voters",
+      "demographics",
+      "population"
+    ],
+    "geo_level": "district/state/national/unclear",
+    "values": {
+      "1": "2.",
+      "Chief Electoral Officer": "Joint Chief Electoral\nOfficer",
+      "The Commission appoints CEO, in\nconsultation with the State/UT Government\nunder Section 13A of The Representation of\nthe People Act-1950. The CEO directs,\nsupervises, and controls all issues relating to\nconduct of elections and preparation of\nelectoral rolls in the UT under the overall\ndirections, superintendence and control of the\nCommission. He is the Head of the\nDepartment.": "He assists the Chief Electoral Officer in the\ndischarges of duties."
+    },
+    "source": {
+      "pdf": "0231d310b509b2e1be2a94e63ef9de7d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "voters",
+      "demographics",
+      "population"
+    ],
+    "geo_level": "district/state/national/unclear",
+    "values": {
+      "1": "2",
+      "Chief Electoral Officer": "Deputy Chief Electoral\nOfficer",
+      "The Commission appoints CEO, in\nconsultation with the State/UT Government\nunder Section 13A of The Representation of\nthe People Act-1950. The CEO directs,\nsupervises, and controls all issues relating to\nconduct of elections and preparation of\nelectoral rolls in the UT under the overall\ndirections, superintendence and control of the\nCommission. He is the Head of the\nDepartment.": "Head of Office. He assists the Chief Electoral\nOfficer in the discharge of duties."
+    },
+    "source": {
+      "pdf": "0231d310b509b2e1be2a94e63ef9de7d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "voters",
+      "demographics",
+      "population"
+    ],
+    "geo_level": "district/state/national/unclear",
+    "values": {
+      "1": "3",
+      "Chief Electoral Officer": "Asst. Chief Electoral\nOfficer",
+      "The Commission appoints CEO, in\nconsultation with the State/UT Government\nunder Section 13A of The Representation of\nthe People Act-1950. The CEO directs,\nsupervises, and controls all issues relating to\nconduct of elections and preparation of\nelectoral rolls in the UT under the overall\ndirections, superintendence and control of the\nCommission. He is the Head of the\nDepartment.": "In charge of all establishment and accounts\nmatters and SVEEP activities."
+    },
+    "source": {
+      "pdf": "0231d310b509b2e1be2a94e63ef9de7d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "voters",
+      "demographics",
+      "population"
+    ],
+    "geo_level": "district/state/national/unclear",
+    "values": {
+      "1": "4",
+      "Chief Electoral Officer": "IT Analyst",
+      "The Commission appoints CEO, in\nconsultation with the State/UT Government\nunder Section 13A of The Representation of\nthe People Act-1950. The CEO directs,\nsupervises, and controls all issues relating to\nconduct of elections and preparation of\nelectoral rolls in the UT under the overall\ndirections, superintendence and control of the\nCommission. He is the Head of the\nDepartment.": "This cell is responsible for the maintenance of\nall IT related infrastructure and various\ndatabase."
+    },
+    "source": {
+      "pdf": "0231d310b509b2e1be2a94e63ef9de7d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "voters",
+      "demographics",
+      "population"
+    ],
+    "geo_level": "district/state/national/unclear",
+    "values": {
+      "1": "5",
+      "Chief Electoral Officer": "H.G.C",
+      "The Commission appoints CEO, in\nconsultation with the State/UT Government\nunder Section 13A of The Representation of\nthe People Act-1950. The CEO directs,\nsupervises, and controls all issues relating to\nconduct of elections and preparation of\nelectoral rolls in the UT under the overall\ndirections, superintendence and control of the\nCommission. He is the Head of the\nDepartment.": "He assists to the ACEO and dealing assistant\nis responsible for issues pertaining to\nElectoral Roll, EPIC, Polling Stations, conduct\nof elections, collection and compilation of\nvarious statistical data and furnishing them\nto Commission and for issues pertaining to\nEVMs, Registration of political parties,\ncollection and compilation of various\nstatistical data relating to these and\nfurnishing them to Commission.\nThe dealing assistant is responsible for all"
+    },
+    "source": {
+      "pdf": "0231d310b509b2e1be2a94e63ef9de7d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "voters",
+      "demographics",
+      "population"
+    ],
+    "geo_level": "district/state/national/unclear",
+    "values": {
+      "": "L.G.C",
+      "establishment matters pertaining to the\nOffice, budget, handling of cash, procurement\nand maintenance of stores": "The dealing assistant is responsible for issues\npertaining to conduct of elections, collection\nand compilation of various statistical data\nand furnishing them to Commission and for\nissues pertaining to EVMs, Registration of\npolitical parties, collection and compilation of\nvarious statistical data relating to these and\nfurnishing them to Commission."
+    },
+    "source": {
+      "pdf": "0231d310b509b2e1be2a94e63ef9de7d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "voters",
+      "demographics",
+      "population"
+    ],
+    "geo_level": "district/state/national/unclear",
+    "values": {
+      "1": "2",
+      "Electoral Registration\nOfficer (ERO), ANIPC": "All Assistant Electoral\nRegistration Officer\n(AEROs)",
+      "The Commission designates ERO, in\nconsultation with the State/UT Government\nunder Section 13B of The Representation of\nthe People Act-1950 & under Section 21 of The\nRepresentation of the People Act,1951. The\nERO directs, supervises, controls all issues\nrelating to conduct of elections and\npreparation of electoral rolls in the UT under\nthe overall directions, superintendence and\ncontrol of the District Election Officer.": "The Commission designates AEROs under\nSection 13C of The Representation of the\nPeople Act-1950. The EROs directs, supervises\nand controls all issues relating to preparation"
+    },
+    "source": {
+      "pdf": "0231d310b509b2e1be2a94e63ef9de7d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "voters",
+      "demographics",
+      "population"
+    ],
+    "geo_level": "district/state/national/unclear",
+    "values": {
+      "": "All Assistant Returning\nOfficers",
+      "of electoral rolls in the UT under the overall\ndirections, superintendence and control of the\nERO.": "The Commission designates AROs under\nSection 22 of The Representation of the People\nAct-1951. The ROs directs, supervises,\ncontrols all issues relating to conduct of\nelections in the UT under the overall\ndirections, superintendence and control of the\nRO."
+    },
+    "source": {
+      "pdf": "0231d310b509b2e1be2a94e63ef9de7d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "voters",
+      "demographics",
+      "population"
+    ],
+    "geo_level": "district/state/national/unclear",
+    "values": {
+      "Chief Electoral Officer": "District Election Officer",
+      "Overall in charge of all election related\nactivities carried in the U.T of Andaman &\nNicobar Islands and functions under the\ncontrol, direction and superintendence of the\nElection Commission of India.": "In charge of all election related activities\ncarried in respective of the District of the U.T of\nAndaman & Nicobar Islands under his\njurisdiction and functions under the control,\ndirection and superintendence of the Chief\nElectoral Officer. The District Election Officer is\nalso the Returning Officer for Andaman &\nNicobar Islands Parliamentary Constituency."
+    },
+    "source": {
+      "pdf": "0231d310b509b2e1be2a94e63ef9de7d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "voters",
+      "demographics",
+      "population"
+    ],
+    "geo_level": "district/state/national/unclear",
+    "values": {
+      "Chief Electoral Officer": "Returning Officer",
+      "Overall in charge of all election related\nactivities carried in the U.T of Andaman &\nNicobar Islands and functions under the\ncontrol, direction and superintendence of the\nElection Commission of India.": "Exercises all statutory powers associated with\nthe conduct of elections pertaining to in\nrespective of the Parliamentary Constituency\nunder his jurisdiction and functions under the\ncontrol, direction and superintendence of the\nChief Electoral Officer & District Electoral\nOfficer. He also functions as Returning Officer\nfor Andaman & Nicobar Islands Parliamentary\nConstituency."
+    },
+    "source": {
+      "pdf": "0231d310b509b2e1be2a94e63ef9de7d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "voters",
+      "demographics",
+      "population"
+    ],
+    "geo_level": "district/state/national/unclear",
+    "values": {
+      "Chief Electoral Officer": "Electoral Registration Officer",
+      "Overall in charge of all election related\nactivities carried in the U.T of Andaman &\nNicobar Islands and functions under the\ncontrol, direction and superintendence of the\nElection Commission of India.": "Exercises all statutory powers associated with\nthe revision of electoral rolls pertaining to in\nrespective of the Parliamentary Constituency\nunder his jurisdiction and functions under the\ncontrol, direction and superintendence of the\nDistrict Electoral Officer. He also functions as\nAssistant Returning Officer for Andaman &\nNicobar Islands Parliamentary Constituency."
+    },
+    "source": {
+      "pdf": "0231d310b509b2e1be2a94e63ef9de7d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "voters",
+      "demographics",
+      "population"
+    ],
+    "geo_level": "district/state/national/unclear",
+    "values": {
+      "Assistant Returning Officer": "Assistant Electoral\nRegistration Officer for\nAssembly Constituency",
+      "The main functions of the Assistant Returning\nOfficer are to assist the Returning Officer of the\nParliamentary Constituency in discharging of\nall duties except scrutiny of nominations\nduring the conduct of elections.": "The main functions of the Assistant Electoral\nRegistration Officer are to assist the Electoral\nRegistration Officer of the Parliamentary\nConstituency in discharging of all duties in\nconnection with the revision of electoral rolls."
+    },
+    "source": {
+      "pdf": "0231d310b509b2e1be2a94e63ef9de7d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "voters",
+      "demographics",
+      "population"
+    ],
+    "geo_level": "district/state/national/unclear",
+    "values": {
+      "Sl.\nNo.": null,
+      "null": null,
+      "Name of the Officers &\nDesignation": null,
+      "": null,
+      "Office": "No.",
+      "Mobile No.": null,
+      "eMail ID": null
+    },
+    "source": {
+      "pdf": "0231d310b509b2e1be2a94e63ef9de7d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "voters",
+      "demographics",
+      "population"
+    ],
+    "geo_level": "district/state/national/unclear",
+    "values": {
+      "Sl.\nNo.": null,
+      "null": null,
+      "Name of the Officers &\nDesignation": null,
+      "": null,
+      "Office": "(03192)",
+      "Mobile No.": null,
+      "eMail ID": null
+    },
+    "source": {
+      "pdf": "0231d310b509b2e1be2a94e63ef9de7d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "voters",
+      "demographics",
+      "population"
+    ],
+    "geo_level": "district/state/national/unclear",
+    "values": {
+      "Sl.\nNo.": "CEO’s office",
+      "null": null,
+      "Name of the Officers &\nDesignation": null,
+      "": null,
+      "Office": null,
+      "Mobile No.": null,
+      "eMail ID": null
+    },
+    "source": {
+      "pdf": "0231d310b509b2e1be2a94e63ef9de7d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "voters",
+      "demographics",
+      "population"
+    ],
+    "geo_level": "district/state/national/unclear",
+    "values": {
+      "Sl.\nNo.": "1.",
+      "null": null,
+      "Name of the Officers &\nDesignation": "",
+      "": "",
+      "Office": "233991",
+      "Mobile No.": "9486267824",
+      "eMail ID": "ceo_andaman@eci.gov.in"
+    },
+    "source": {
+      "pdf": "0231d310b509b2e1be2a94e63ef9de7d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "voters",
+      "demographics",
+      "population"
+    ],
+    "geo_level": "district/state/national/unclear",
+    "values": {
+      "Sl.\nNo.": null,
+      "null": null,
+      "Name of the Officers &\nDesignation": null,
+      "": null,
+      "Office": "",
+      "Mobile No.": null,
+      "eMail ID": null
+    },
+    "source": {
+      "pdf": "0231d310b509b2e1be2a94e63ef9de7d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "voters",
+      "demographics",
+      "population"
+    ],
+    "geo_level": "district/state/national/unclear",
+    "values": {
+      "Sl.\nNo.": "2.",
+      "null": null,
+      "Name of the Officers &\nDesignation": "",
+      "": null,
+      "Office": "233991",
+      "Mobile No.": "9289030899\n9476046496",
+      "eMail ID": "dcnicobar2@gmail.com"
+    },
+    "source": {
+      "pdf": "0231d310b509b2e1be2a94e63ef9de7d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "voters",
+      "demographics",
+      "population"
+    ],
+    "geo_level": "district/state/national/unclear",
+    "values": {
+      "Sl.\nNo.": null,
+      "null": null,
+      "Name of the Officers &\nDesignation": null,
+      "": null,
+      "Office": "",
+      "Mobile No.": null,
+      "eMail ID": null
+    },
+    "source": {
+      "pdf": "0231d310b509b2e1be2a94e63ef9de7d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "voters",
+      "demographics",
+      "population"
+    ],
+    "geo_level": "district/state/national/unclear",
+    "values": {
+      "Sl.\nNo.": "3.",
+      "null": null,
+      "Name of the Officers &\nDesignation": "Sh Vinayak Chamadia, IAS\nDeputy Chief Electoral\nOfficer, ANI",
+      "": null,
+      "Office": null,
+      "Mobile No.": "",
+      "eMail ID": "adm.and@nic.in"
+    },
+    "source": {
+      "pdf": "0231d310b509b2e1be2a94e63ef9de7d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "voters",
+      "demographics",
+      "population"
+    ],
+    "geo_level": "district/state/national/unclear",
+    "values": {
+      "Sl.\nNo.": "",
+      "null": "",
+      "Name of the Officers &\nDesignation": "",
+      "": "",
+      "Office": "-",
+      "Mobile No.": "",
+      "eMail ID": "-"
+    },
+    "source": {
+      "pdf": "0231d310b509b2e1be2a94e63ef9de7d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "voters",
+      "demographics",
+      "population"
+    ],
+    "geo_level": "district/state/national/unclear",
+    "values": {
+      "Sl.\nNo.": "5.",
+      "null": null,
+      "Name of the Officers &\nDesignation": "",
+      "": null,
+      "Office": "-",
+      "Mobile No.": "-",
+      "eMail ID": "-"
+    },
+    "source": {
+      "pdf": "0231d310b509b2e1be2a94e63ef9de7d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "voters",
+      "demographics",
+      "population"
+    ],
+    "geo_level": "district/state/national/unclear",
+    "values": {
+      "Sl.\nNo.": "",
+      "null": "",
+      "Name of the Officers &\nDesignation": "",
+      "": "",
+      "Office": "-",
+      "Mobile No.": "",
+      "eMail ID": "-"
+    },
+    "source": {
+      "pdf": "0231d310b509b2e1be2a94e63ef9de7d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "voters",
+      "demographics",
+      "population"
+    ],
+    "geo_level": "district/state/national/unclear",
+    "values": {
+      "Sl.\nNo.": "",
+      "null": "",
+      "Name of the Officers &\nDesignation": "",
+      "": "",
+      "Office": "-",
+      "Mobile No.": "",
+      "eMail ID": "-"
+    },
+    "source": {
+      "pdf": "0231d310b509b2e1be2a94e63ef9de7d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "voters",
+      "demographics",
+      "population"
+    ],
+    "geo_level": "district/state/national/unclear",
+    "values": {
+      "Sl.\nNo.": "",
+      "null": "",
+      "Name of the Officers &\nDesignation": "",
+      "": "",
+      "Office": "-",
+      "Mobile No.": "",
+      "eMail ID": "-"
+    },
+    "source": {
+      "pdf": "0231d310b509b2e1be2a94e63ef9de7d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "voters",
+      "demographics",
+      "population"
+    ],
+    "geo_level": "district/state/national/unclear",
+    "values": {
+      "Sl.\nNo.": "",
+      "null": "",
+      "Name of the Officers &\nDesignation": "",
+      "": "",
+      "Office": "-",
+      "Mobile No.": "",
+      "eMail ID": "-"
+    },
+    "source": {
+      "pdf": "0231d310b509b2e1be2a94e63ef9de7d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "voters",
+      "demographics",
+      "population"
+    ],
+    "geo_level": "district/state/national/unclear",
+    "values": {
+      "Sl.\nNo.": "DEO’s office",
+      "null": null,
+      "Name of the Officers &\nDesignation": null,
+      "": null,
+      "Office": null,
+      "Mobile No.": null,
+      "eMail ID": null
+    },
+    "source": {
+      "pdf": "0231d310b509b2e1be2a94e63ef9de7d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "voters",
+      "demographics",
+      "population"
+    ],
+    "geo_level": "district/state/national/unclear",
+    "values": {
+      "Sl.\nNo.": "1.",
+      "null": "",
+      "Name of the Officers &\nDesignation": "Sh Arjun Sharma, IAS\nDistrict Election\nOfficer/RO, (SA), ANIPC",
+      "": null,
+      "Office": null,
+      "Mobile No.": "",
+      "eMail ID": "dcandaman2016@gmail.c\nom"
+    },
+    "source": {
+      "pdf": "0231d310b509b2e1be2a94e63ef9de7d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "voters",
+      "demographics",
+      "population"
+    ],
+    "geo_level": "district/state/national/unclear",
+    "values": {
+      "Sl.\nNo.": "2.",
+      "null": "",
+      "Name of the Officers &\nDesignation": "Ms Nandini Maharaj, IAS\nDistrict Election Officer,\nN&M Andaman",
+      "": null,
+      "Office": null,
+      "Mobile No.": "",
+      "eMail ID": "deo.nma.election2018@g\nmail.com"
+    },
+    "source": {
+      "pdf": "0231d310b509b2e1be2a94e63ef9de7d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "voters",
+      "demographics",
+      "population"
+    ],
+    "geo_level": "district/state/national/unclear",
+    "values": {
+      "Sl.\nNo.": "3.",
+      "null": null,
+      "Name of the Officers &\nDesignation": "",
+      "": null,
+      "Office": null,
+      "Mobile No.": "9476046496",
+      "eMail ID": "dcnicobar2@gmail.com"
+    },
+    "source": {
+      "pdf": "0231d310b509b2e1be2a94e63ef9de7d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "voters",
+      "demographics",
+      "population"
+    ],
+    "geo_level": "district/state/national/unclear",
+    "values": {
+      "Sl.\nNo.": "ERO office",
+      "null": null,
+      "Name of the Officers &\nDesignation": null,
+      "": null,
+      "Office": null,
+      "Mobile No.": null,
+      "eMail ID": null
+    },
+    "source": {
+      "pdf": "0231d310b509b2e1be2a94e63ef9de7d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "voters",
+      "demographics",
+      "population"
+    ],
+    "geo_level": "district/state/national/unclear",
+    "values": {
+      "Sl.\nNo.": "1.",
+      "null": null,
+      "Name of the Officers &\nDesignation": "Sh Vinayak Chamadia, IAS\nElectoral Registration\nOfficer, ANIPC",
+      "": "",
+      "Office": "",
+      "Mobile No.": "",
+      "eMail ID": "adm.and@nic.in"
+    },
+    "source": {
+      "pdf": "0231d310b509b2e1be2a94e63ef9de7d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "voters",
+      "demographics",
+      "population"
+    ],
+    "geo_level": "district/state/national/unclear",
+    "values": {
+      "Sl.\nNo.": null,
+      "null": null,
+      "Name of the Officers &\nDesignation": null,
+      "": null,
+      "Office": "",
+      "Mobile No.": null,
+      "eMail ID": null
+    },
+    "source": {
+      "pdf": "0231d310b509b2e1be2a94e63ef9de7d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "voters",
+      "demographics",
+      "population"
+    ],
+    "geo_level": "district/state/national/unclear",
+    "values": {
+      "Sl.\nNo.": null,
+      "null": null,
+      "Name of the Officers &\nDesignation": null,
+      "": null,
+      "Office": "",
+      "Mobile No.": null,
+      "eMail ID": null
+    },
+    "source": {
+      "pdf": "0231d310b509b2e1be2a94e63ef9de7d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "voters",
+      "demographics",
+      "population"
+    ],
+    "geo_level": "district/state/national/unclear",
+    "values": {
+      "Sl.\nNo.": null,
+      "null": null,
+      "Name of the Officers &\nDesignation": null,
+      "": null,
+      "Office": "232575",
+      "Mobile No.": null,
+      "eMail ID": null
+    },
+    "source": {
+      "pdf": "0231d310b509b2e1be2a94e63ef9de7d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "voters",
+      "demographics",
+      "population"
+    ],
+    "geo_level": "district/state/national/unclear",
+    "values": {
+      "Sl.": "No."
+    },
+    "source": {
+      "pdf": "0231d310b509b2e1be2a94e63ef9de7d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "voters",
+      "demographics",
+      "population"
+    ],
+    "geo_level": "district/state/national/unclear",
+    "values": {
+      "233991": ""
+    },
+    "source": {
+      "pdf": "0231d310b509b2e1be2a94e63ef9de7d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "voters",
+      "demographics",
+      "population"
+    ],
+    "geo_level": "district/state/national/unclear",
+    "values": {
+      "233089": "240253"
+    },
+    "source": {
+      "pdf": "0231d310b509b2e1be2a94e63ef9de7d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "voters",
+      "demographics",
+      "population"
+    ],
+    "geo_level": "district/state/national/unclear",
+    "values": {
+      "233089": ""
+    },
+    "source": {
+      "pdf": "0231d310b509b2e1be2a94e63ef9de7d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "voters",
+      "demographics",
+      "population"
+    ],
+    "geo_level": "district/state/national/unclear",
+    "values": {
+      "262999": ""
+    },
+    "source": {
+      "pdf": "0231d310b509b2e1be2a94e63ef9de7d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "voters",
+      "demographics",
+      "population"
+    ],
+    "geo_level": "district/state/national/unclear",
+    "values": {
+      "262999": ""
+    },
+    "source": {
+      "pdf": "0231d310b509b2e1be2a94e63ef9de7d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "voters",
+      "demographics",
+      "population"
+    ],
+    "geo_level": "district/state/national/unclear",
+    "values": {
+      "2.": null,
+      "": null,
+      "Sh Shishir Kumar Mishra,": "AM(IT)",
+      "232763": null,
+      "9474220222": null,
+      "null": null,
+      "shishir.kumar.mishra@g\nmail.com": null
+    },
+    "source": {
+      "pdf": "0231d310b509b2e1be2a94e63ef9de7d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "voters",
+      "demographics",
+      "population"
+    ],
+    "geo_level": "district/state/national/unclear",
+    "values": {
+      "2.": null,
+      "": null,
+      "Sh Shishir Kumar Mishra,": "Nodal Officer (IT)/ERO-",
+      "232763": null,
+      "9474220222": null,
+      "null": null,
+      "shishir.kumar.mishra@g\nmail.com": null
+    },
+    "source": {
+      "pdf": "0231d310b509b2e1be2a94e63ef9de7d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "voters",
+      "demographics",
+      "population"
+    ],
+    "geo_level": "district/state/national/unclear",
+    "values": {
+      "2.": null,
+      "": null,
+      "Sh Shishir Kumar Mishra,": "Net/Cyber",
+      "232763": null,
+      "9474220222": null,
+      "null": null,
+      "shishir.kumar.mishra@g\nmail.com": null
+    },
+    "source": {
+      "pdf": "0231d310b509b2e1be2a94e63ef9de7d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "voters",
+      "demographics",
+      "population"
+    ],
+    "geo_level": "district/state/national/unclear",
+    "values": {
+      "2.": null,
+      "": null,
+      "Sh Shishir Kumar Mishra,": "Security/Electoral Roll/IT",
+      "232763": null,
+      "9474220222": null,
+      "null": null,
+      "shishir.kumar.mishra@g\nmail.com": null
+    },
+    "source": {
+      "pdf": "0231d310b509b2e1be2a94e63ef9de7d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "voters",
+      "demographics",
+      "population"
+    ],
+    "geo_level": "district/state/national/unclear",
+    "values": {
+      "2.": null,
+      "": null,
+      "Sh Shishir Kumar Mishra,": "App",
+      "232763": null,
+      "9474220222": null,
+      "null": null,
+      "shishir.kumar.mishra@g\nmail.com": null
+    },
+    "source": {
+      "pdf": "0231d310b509b2e1be2a94e63ef9de7d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "voters",
+      "demographics",
+      "population"
+    ],
+    "geo_level": "district/state/national/unclear",
+    "values": {
+      "2.": "AERO’s office",
+      "": null,
+      "Sh Shishir Kumar Mishra,": null,
+      "232763": null,
+      "9474220222": null,
+      "null": null,
+      "shishir.kumar.mishra@g\nmail.com": null
+    },
+    "source": {
+      "pdf": "0231d310b509b2e1be2a94e63ef9de7d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "voters",
+      "demographics",
+      "population"
+    ],
+    "geo_level": "district/state/national/unclear",
+    "values": {
+      "2.": "1.",
+      "": "",
+      "Sh Shishir Kumar Mishra,": "Sh Kamleshwar Rao S, IAS",
+      "232763": "271888",
+      "9474220222": "8015186493",
+      "null": null,
+      "shishir.kumar.mishra@g\nmail.com": "acdiglipur@gmail.com"
+    },
+    "source": {
+      "pdf": "0231d310b509b2e1be2a94e63ef9de7d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "voters",
+      "demographics",
+      "population"
+    ],
+    "geo_level": "district/state/national/unclear",
+    "values": {
+      "2.": null,
+      "": null,
+      "Sh Shishir Kumar Mishra,": "Asst. Electoral Regn.",
+      "232763": null,
+      "9474220222": null,
+      "null": null,
+      "shishir.kumar.mishra@g\nmail.com": null
+    },
+    "source": {
+      "pdf": "0231d310b509b2e1be2a94e63ef9de7d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "voters",
+      "demographics",
+      "population"
+    ],
+    "geo_level": "district/state/national/unclear",
+    "values": {
+      "2.": null,
+      "": null,
+      "Sh Shishir Kumar Mishra,": "Officer,",
+      "232763": null,
+      "9474220222": null,
+      "null": null,
+      "shishir.kumar.mishra@g\nmail.com": null
+    },
+    "source": {
+      "pdf": "0231d310b509b2e1be2a94e63ef9de7d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "voters",
+      "demographics",
+      "population"
+    ],
+    "geo_level": "district/state/national/unclear",
+    "values": {
+      "2.": null,
+      "": null,
+      "Sh Shishir Kumar Mishra,": "Diglipur",
+      "232763": null,
+      "9474220222": null,
+      "null": null,
+      "shishir.kumar.mishra@g\nmail.com": null
+    },
+    "source": {
+      "pdf": "0231d310b509b2e1be2a94e63ef9de7d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "voters",
+      "demographics",
+      "population"
+    ],
+    "geo_level": "district/state/national/unclear",
+    "values": {
+      "2.": "2.",
+      "": "",
+      "Sh Shishir Kumar Mishra,": "Sh Ashish Joon, DANICS",
+      "232763": "273027",
+      "9474220222": "9910435178\n9531810622\n7015853662",
+      "null": null,
+      "shishir.kumar.mishra@g\nmail.com": "achq.nma@gmail.com"
+    },
+    "source": {
+      "pdf": "0231d310b509b2e1be2a94e63ef9de7d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "voters",
+      "demographics",
+      "population"
+    ],
+    "geo_level": "district/state/national/unclear",
+    "values": {
+      "2.": null,
+      "": null,
+      "Sh Shishir Kumar Mishra,": "Asst. Electoral Regn.",
+      "232763": null,
+      "9474220222": null,
+      "null": null,
+      "shishir.kumar.mishra@g\nmail.com": null
+    },
+    "source": {
+      "pdf": "0231d310b509b2e1be2a94e63ef9de7d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "voters",
+      "demographics",
+      "population"
+    ],
+    "geo_level": "district/state/national/unclear",
+    "values": {
+      "2.": null,
+      "": null,
+      "Sh Shishir Kumar Mishra,": "Officer,",
+      "232763": null,
+      "9474220222": null,
+      "null": null,
+      "shishir.kumar.mishra@g\nmail.com": null
+    },
+    "source": {
+      "pdf": "0231d310b509b2e1be2a94e63ef9de7d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "voters",
+      "demographics",
+      "population"
+    ],
+    "geo_level": "district/state/national/unclear",
+    "values": {
+      "2.": null,
+      "": null,
+      "Sh Shishir Kumar Mishra,": "Mayabunder",
+      "232763": null,
+      "9474220222": null,
+      "null": null,
+      "shishir.kumar.mishra@g\nmail.com": null
+    },
+    "source": {
+      "pdf": "0231d310b509b2e1be2a94e63ef9de7d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "voters",
+      "demographics",
+      "population"
+    ],
+    "geo_level": "district/state/national/unclear",
+    "values": {
+      "2.": "3.",
+      "": "",
+      "Sh Shishir Kumar Mishra,": "Sh Vikas Kumar, DANICS",
+      "232763": "274222",
+      "9474220222": "9474245212\n8826081124",
+      "null": null,
+      "shishir.kumar.mishra@g\nmail.com": "acma.sdm2015@gmail.co\nm"
+    },
+    "source": {
+      "pdf": "0231d310b509b2e1be2a94e63ef9de7d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "voters",
+      "demographics",
+      "population"
+    ],
+    "geo_level": "district/state/national/unclear",
+    "values": {
+      "2.": null,
+      "": null,
+      "Sh Shishir Kumar Mishra,": "Asst. Electoral Regn.",
+      "232763": null,
+      "9474220222": null,
+      "null": null,
+      "shishir.kumar.mishra@g\nmail.com": null
+    },
+    "source": {
+      "pdf": "0231d310b509b2e1be2a94e63ef9de7d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "voters",
+      "demographics",
+      "population"
+    ],
+    "geo_level": "district/state/national/unclear",
+    "values": {
+      "2.": null,
+      "": null,
+      "Sh Shishir Kumar Mishra,": "Officer,",
+      "232763": null,
+      "9474220222": null,
+      "null": null,
+      "shishir.kumar.mishra@g\nmail.com": null
+    },
+    "source": {
+      "pdf": "0231d310b509b2e1be2a94e63ef9de7d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "voters",
+      "demographics",
+      "population"
+    ],
+    "geo_level": "district/state/national/unclear",
+    "values": {
+      "2.": null,
+      "": null,
+      "Sh Shishir Kumar Mishra,": "Rangat",
+      "232763": null,
+      "9474220222": null,
+      "null": null,
+      "shishir.kumar.mishra@g\nmail.com": null
+    },
+    "source": {
+      "pdf": "0231d310b509b2e1be2a94e63ef9de7d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "voters",
+      "demographics",
+      "population"
+    ],
+    "geo_level": "district/state/national/unclear",
+    "values": {
+      "2.": "4.",
+      "": "",
+      "Sh Shishir Kumar Mishra,": "Sh Vinayak Chamadia, IAS",
+      "232763": "232575",
+      "9474220222": "",
+      "null": "",
+      "shishir.kumar.mishra@g\nmail.com": "adm.and@nic.in"
+    },
+    "source": {
+      "pdf": "0231d310b509b2e1be2a94e63ef9de7d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "voters",
+      "demographics",
+      "population"
+    ],
+    "geo_level": "district/state/national/unclear",
+    "values": {
+      "2.": null,
+      "": null,
+      "Sh Shishir Kumar Mishra,": "Asst. Electoral Regn.",
+      "232763": null,
+      "9474220222": null,
+      "null": null,
+      "shishir.kumar.mishra@g\nmail.com": null
+    },
+    "source": {
+      "pdf": "0231d310b509b2e1be2a94e63ef9de7d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "voters",
+      "demographics",
+      "population"
+    ],
+    "geo_level": "district/state/national/unclear",
+    "values": {
+      "2.": null,
+      "": null,
+      "Sh Shishir Kumar Mishra,": "Officer,",
+      "232763": null,
+      "9474220222": null,
+      "null": null,
+      "shishir.kumar.mishra@g\nmail.com": null
+    },
+    "source": {
+      "pdf": "0231d310b509b2e1be2a94e63ef9de7d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "voters",
+      "demographics",
+      "population"
+    ],
+    "geo_level": "district/state/national/unclear",
+    "values": {
+      "2.": null,
+      "": null,
+      "Sh Shishir Kumar Mishra,": "Sri Vijaya Puram",
+      "232763": null,
+      "9474220222": null,
+      "null": null,
+      "shishir.kumar.mishra@g\nmail.com": null
+    },
+    "source": {
+      "pdf": "0231d310b509b2e1be2a94e63ef9de7d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "voters",
+      "demographics",
+      "population"
+    ],
+    "geo_level": "district/state/national/unclear",
+    "values": {
+      "2.": "5.",
+      "": "",
+      "Sh Shishir Kumar Mishra,": "Sh Abhishek Gullia,",
+      "232763": "237825",
+      "9474220222": "8368903759",
+      "null": null,
+      "shishir.kumar.mishra@g\nmail.com": "acs201062@gmail.com"
+    },
+    "source": {
+      "pdf": "0231d310b509b2e1be2a94e63ef9de7d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "voters",
+      "demographics",
+      "population"
+    ],
+    "geo_level": "district/state/national/unclear",
+    "values": {
+      "2.": null,
+      "": null,
+      "Sh Shishir Kumar Mishra,": "DANICS",
+      "232763": null,
+      "9474220222": null,
+      "null": null,
+      "shishir.kumar.mishra@g\nmail.com": null
+    },
+    "source": {
+      "pdf": "0231d310b509b2e1be2a94e63ef9de7d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "voters",
+      "demographics",
+      "population"
+    ],
+    "geo_level": "district/state/national/unclear",
+    "values": {
+      "2.": null,
+      "": null,
+      "Sh Shishir Kumar Mishra,": "Asst. Electoral Regn.",
+      "232763": null,
+      "9474220222": null,
+      "null": null,
+      "shishir.kumar.mishra@g\nmail.com": null
+    },
+    "source": {
+      "pdf": "0231d310b509b2e1be2a94e63ef9de7d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "voters",
+      "demographics",
+      "population"
+    ],
+    "geo_level": "district/state/national/unclear",
+    "values": {
+      "2.": null,
+      "": null,
+      "Sh Shishir Kumar Mishra,": "Officer,",
+      "232763": null,
+      "9474220222": null,
+      "null": null,
+      "shishir.kumar.mishra@g\nmail.com": null
+    },
+    "source": {
+      "pdf": "0231d310b509b2e1be2a94e63ef9de7d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "voters",
+      "demographics",
+      "population"
+    ],
+    "geo_level": "district/state/national/unclear",
+    "values": {
+      "2.": null,
+      "": null,
+      "Sh Shishir Kumar Mishra,": "Ferrargunj",
+      "232763": null,
+      "9474220222": null,
+      "null": null,
+      "shishir.kumar.mishra@g\nmail.com": null
+    },
+    "source": {
+      "pdf": "0231d310b509b2e1be2a94e63ef9de7d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "voters",
+      "demographics",
+      "population"
+    ],
+    "geo_level": "district/state/national/unclear",
+    "values": {
+      "2.": "6.",
+      "": "",
+      "Sh Shishir Kumar Mishra,": "Sh Abhishek Gullia,",
+      "232763": "237825",
+      "9474220222": "8368903759",
+      "null": null,
+      "shishir.kumar.mishra@g\nmail.com": "acs201062@gmail.com"
+    },
+    "source": {
+      "pdf": "0231d310b509b2e1be2a94e63ef9de7d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "voters",
+      "demographics",
+      "population"
+    ],
+    "geo_level": "district/state/national/unclear",
+    "values": {
+      "2.": null,
+      "": null,
+      "Sh Shishir Kumar Mishra,": "DANICS",
+      "232763": null,
+      "9474220222": null,
+      "null": null,
+      "shishir.kumar.mishra@g\nmail.com": null
+    },
+    "source": {
+      "pdf": "0231d310b509b2e1be2a94e63ef9de7d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "voters",
+      "demographics",
+      "population"
+    ],
+    "geo_level": "district/state/national/unclear",
+    "values": {
+      "2.": null,
+      "": null,
+      "Sh Shishir Kumar Mishra,": "Asst. Electoral Regn.",
+      "232763": null,
+      "9474220222": null,
+      "null": null,
+      "shishir.kumar.mishra@g\nmail.com": null
+    },
+    "source": {
+      "pdf": "0231d310b509b2e1be2a94e63ef9de7d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "voters",
+      "demographics",
+      "population"
+    ],
+    "geo_level": "district/state/national/unclear",
+    "values": {
+      "2.": null,
+      "": null,
+      "Sh Shishir Kumar Mishra,": "Officer,",
+      "232763": null,
+      "9474220222": null,
+      "null": null,
+      "shishir.kumar.mishra@g\nmail.com": null
+    },
+    "source": {
+      "pdf": "0231d310b509b2e1be2a94e63ef9de7d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "voters",
+      "demographics",
+      "population"
+    ],
+    "geo_level": "district/state/national/unclear",
+    "values": {
+      "2.": null,
+      "": null,
+      "Sh Shishir Kumar Mishra,": "Little Andaman",
+      "232763": null,
+      "9474220222": null,
+      "null": null,
+      "shishir.kumar.mishra@g\nmail.com": null
+    },
+    "source": {
+      "pdf": "0231d310b509b2e1be2a94e63ef9de7d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "voters",
+      "demographics",
+      "population"
+    ],
+    "geo_level": "district/state/national/unclear",
+    "values": {
+      "2.": "7.",
+      "": "",
+      "Sh Shishir Kumar Mishra,": "Sh Muneer Ahmed, DANICS",
+      "232763": "265566",
+      "9474220222": "9474264055",
+      "null": null,
+      "shishir.kumar.mishra@g\nmail.com": "itdpnicobar@gmail.com"
+    },
+    "source": {
+      "pdf": "0231d310b509b2e1be2a94e63ef9de7d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "voters",
+      "demographics",
+      "population"
+    ],
+    "geo_level": "district/state/national/unclear",
+    "values": {
+      "2.": null,
+      "": null,
+      "Sh Shishir Kumar Mishra,": "Asst. Electoral Regn.",
+      "232763": null,
+      "9474220222": null,
+      "null": null,
+      "shishir.kumar.mishra@g\nmail.com": null
+    },
+    "source": {
+      "pdf": "0231d310b509b2e1be2a94e63ef9de7d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "voters",
+      "demographics",
+      "population"
+    ],
+    "geo_level": "district/state/national/unclear",
+    "values": {
+      "2.": null,
+      "": null,
+      "Sh Shishir Kumar Mishra,": "Officer,",
+      "232763": null,
+      "9474220222": null,
+      "null": null,
+      "shishir.kumar.mishra@g\nmail.com": null
+    },
+    "source": {
+      "pdf": "0231d310b509b2e1be2a94e63ef9de7d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "voters",
+      "demographics",
+      "population"
+    ],
+    "geo_level": "district/state/national/unclear",
+    "values": {
+      "2.": null,
+      "": null,
+      "Sh Shishir Kumar Mishra,": "Car Nicobar",
+      "232763": null,
+      "9474220222": null,
+      "null": null,
+      "shishir.kumar.mishra@g\nmail.com": null
+    },
+    "source": {
+      "pdf": "0231d310b509b2e1be2a94e63ef9de7d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "voters",
+      "demographics",
+      "population"
+    ],
+    "geo_level": "district/state/national/unclear",
+    "values": {
+      "2.": "8.",
+      "": "",
+      "Sh Shishir Kumar Mishra,": "Sh Aditya Sangotra,",
+      "232763": "263222",
+      "9474220222": "8900903399",
+      "null": null,
+      "shishir.kumar.mishra@g\nmail.com": "acnancowrie@gmail.com"
+    },
+    "source": {
+      "pdf": "0231d310b509b2e1be2a94e63ef9de7d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "voters",
+      "demographics",
+      "population"
+    ],
+    "geo_level": "district/state/national/unclear",
+    "values": {
+      "2.": null,
+      "": null,
+      "Sh Shishir Kumar Mishra,": "DANICS",
+      "232763": null,
+      "9474220222": null,
+      "null": null,
+      "shishir.kumar.mishra@g\nmail.com": null
+    },
+    "source": {
+      "pdf": "0231d310b509b2e1be2a94e63ef9de7d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "voters",
+      "demographics",
+      "population"
+    ],
+    "geo_level": "district/state/national/unclear",
+    "values": {
+      "2.": null,
+      "": null,
+      "Sh Shishir Kumar Mishra,": "Asst. Electoral Regn.",
+      "232763": null,
+      "9474220222": null,
+      "null": null,
+      "shishir.kumar.mishra@g\nmail.com": null
+    },
+    "source": {
+      "pdf": "0231d310b509b2e1be2a94e63ef9de7d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "voters",
+      "demographics",
+      "population"
+    ],
+    "geo_level": "district/state/national/unclear",
+    "values": {
+      "2.": null,
+      "": null,
+      "Sh Shishir Kumar Mishra,": "Officer,",
+      "232763": null,
+      "9474220222": null,
+      "null": null,
+      "shishir.kumar.mishra@g\nmail.com": null
+    },
+    "source": {
+      "pdf": "0231d310b509b2e1be2a94e63ef9de7d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "voters",
+      "demographics",
+      "population"
+    ],
+    "geo_level": "district/state/national/unclear",
+    "values": {
+      "2.": null,
+      "": null,
+      "Sh Shishir Kumar Mishra,": "Nancowry",
+      "232763": null,
+      "9474220222": null,
+      "null": null,
+      "shishir.kumar.mishra@g\nmail.com": null
+    },
+    "source": {
+      "pdf": "0231d310b509b2e1be2a94e63ef9de7d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "voters",
+      "demographics",
+      "population"
+    ],
+    "geo_level": "district/state/national/unclear",
+    "values": {
+      "2.": "9.",
+      "": "",
+      "Sh Shishir Kumar Mishra,": "Sh Singh Keshav Narendra,",
+      "232763": "264264",
+      "9474220222": "8766708985\n9531867144",
+      "null": null,
+      "shishir.kumar.mishra@g\nmail.com": "campbellbayac@gmail.co\nm"
+    },
+    "source": {
+      "pdf": "0231d310b509b2e1be2a94e63ef9de7d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "voters",
+      "demographics",
+      "population"
+    ],
+    "geo_level": "district/state/national/unclear",
+    "values": {
+      "2.": null,
+      "": null,
+      "Sh Shishir Kumar Mishra,": "DANICS",
+      "232763": null,
+      "9474220222": null,
+      "null": null,
+      "shishir.kumar.mishra@g\nmail.com": null
+    },
+    "source": {
+      "pdf": "0231d310b509b2e1be2a94e63ef9de7d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "voters",
+      "demographics",
+      "population"
+    ],
+    "geo_level": "district/state/national/unclear",
+    "values": {
+      "2.": null,
+      "": null,
+      "Sh Shishir Kumar Mishra,": "Asst. Electoral Regn.",
+      "232763": null,
+      "9474220222": null,
+      "null": null,
+      "shishir.kumar.mishra@g\nmail.com": null
+    },
+    "source": {
+      "pdf": "0231d310b509b2e1be2a94e63ef9de7d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "voters",
+      "demographics",
+      "population"
+    ],
+    "geo_level": "district/state/national/unclear",
+    "values": {
+      "9474220222": ""
+    },
+    "source": {
+      "pdf": "0231d310b509b2e1be2a94e63ef9de7d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "voters",
+      "demographics",
+      "population"
+    ],
+    "geo_level": "district/state/national/unclear",
+    "values": {
+      "shishir.kumar.mishra@g": "mail.com"
+    },
+    "source": {
+      "pdf": "0231d310b509b2e1be2a94e63ef9de7d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "voters",
+      "demographics",
+      "population"
+    ],
+    "geo_level": "district/state/national/unclear",
+    "values": {
+      "shishir.kumar.mishra@g": ""
+    },
+    "source": {
+      "pdf": "0231d310b509b2e1be2a94e63ef9de7d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "voters",
+      "demographics",
+      "population"
+    ],
+    "geo_level": "district/state/national/unclear",
+    "values": {
+      "shishir.kumar.mishra@g": ""
+    },
+    "source": {
+      "pdf": "0231d310b509b2e1be2a94e63ef9de7d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "voters",
+      "demographics",
+      "population"
+    ],
+    "geo_level": "district/state/national/unclear",
+    "values": {
+      "shishir.kumar.mishra@g": ""
+    },
+    "source": {
+      "pdf": "0231d310b509b2e1be2a94e63ef9de7d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "voters",
+      "demographics",
+      "population"
+    ],
+    "geo_level": "district/state/national/unclear",
+    "values": {
+      "271888": ""
+    },
+    "source": {
+      "pdf": "0231d310b509b2e1be2a94e63ef9de7d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "voters",
+      "demographics",
+      "population"
+    ],
+    "geo_level": "district/state/national/unclear",
+    "values": {
+      "9910435178": "9531810622"
+    },
+    "source": {
+      "pdf": "0231d310b509b2e1be2a94e63ef9de7d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "voters",
+      "demographics",
+      "population"
+    ],
+    "geo_level": "district/state/national/unclear",
+    "values": {
+      "9910435178": "7015853662"
+    },
+    "source": {
+      "pdf": "0231d310b509b2e1be2a94e63ef9de7d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "voters",
+      "demographics",
+      "population"
+    ],
+    "geo_level": "district/state/national/unclear",
+    "values": {
+      "": "274222"
+    },
+    "source": {
+      "pdf": "0231d310b509b2e1be2a94e63ef9de7d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "voters",
+      "demographics",
+      "population"
+    ],
+    "geo_level": "district/state/national/unclear",
+    "values": {
+      "9474245212": "8826081124"
+    },
+    "source": {
+      "pdf": "0231d310b509b2e1be2a94e63ef9de7d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "voters",
+      "demographics",
+      "population"
+    ],
+    "geo_level": "district/state/national/unclear",
+    "values": {
+      "9474245212": ""
+    },
+    "source": {
+      "pdf": "0231d310b509b2e1be2a94e63ef9de7d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "voters",
+      "demographics",
+      "population"
+    ],
+    "geo_level": "district/state/national/unclear",
+    "values": {
+      "acma.sdm2015@gmail.co": "m"
+    },
+    "source": {
+      "pdf": "0231d310b509b2e1be2a94e63ef9de7d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "voters",
+      "demographics",
+      "population"
+    ],
+    "geo_level": "district/state/national/unclear",
+    "values": {
+      "acma.sdm2015@gmail.co": ""
+    },
+    "source": {
+      "pdf": "0231d310b509b2e1be2a94e63ef9de7d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "voters",
+      "demographics",
+      "population"
+    ],
+    "geo_level": "district/state/national/unclear",
+    "values": {
+      "acs201062@gmail.com": ""
+    },
+    "source": {
+      "pdf": "0231d310b509b2e1be2a94e63ef9de7d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "voters",
+      "demographics",
+      "population"
+    ],
+    "geo_level": "district/state/national/unclear",
+    "values": {
+      "acs201062@gmail.com": ""
+    },
+    "source": {
+      "pdf": "0231d310b509b2e1be2a94e63ef9de7d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "voters",
+      "demographics",
+      "population"
+    ],
+    "geo_level": "district/state/national/unclear",
+    "values": {
+      "8368903759": ""
+    },
+    "source": {
+      "pdf": "0231d310b509b2e1be2a94e63ef9de7d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "voters",
+      "demographics",
+      "population"
+    ],
+    "geo_level": "district/state/national/unclear",
+    "values": {
+      "acs201062@gmail.com": ""
+    },
+    "source": {
+      "pdf": "0231d310b509b2e1be2a94e63ef9de7d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "voters",
+      "demographics",
+      "population"
+    ],
+    "geo_level": "district/state/national/unclear",
+    "values": {
+      "acs201062@gmail.com": ""
+    },
+    "source": {
+      "pdf": "0231d310b509b2e1be2a94e63ef9de7d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "voters",
+      "demographics",
+      "population"
+    ],
+    "geo_level": "district/state/national/unclear",
+    "values": {
+      "itdpnicobar@gmail.com": ""
+    },
+    "source": {
+      "pdf": "0231d310b509b2e1be2a94e63ef9de7d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "voters",
+      "demographics",
+      "population"
+    ],
+    "geo_level": "district/state/national/unclear",
+    "values": {
+      "8766708985": "9531867144"
+    },
+    "source": {
+      "pdf": "0231d310b509b2e1be2a94e63ef9de7d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "voters",
+      "demographics",
+      "population"
+    ],
+    "geo_level": "district/state/national/unclear",
+    "values": {
+      "campbellbayac@gmail.co": "m"
+    },
+    "source": {
+      "pdf": "0231d310b509b2e1be2a94e63ef9de7d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "voters",
+      "demographics",
+      "population"
+    ],
+    "geo_level": "district/state/national/unclear",
+    "values": {
+      "": null,
+      "Officer,": "Campbell Bay"
+    },
+    "source": {
+      "pdf": "0231d310b509b2e1be2a94e63ef9de7d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "voters",
+      "demographics",
+      "population"
+    ],
+    "geo_level": "district/state/national/unclear",
+    "values": {
+      "": "abdul.dmit@gmail.com",
+      "Officer,": "Sh Abdul Rasheed, DM(IT)"
+    },
+    "source": {
+      "pdf": "0231d310b509b2e1be2a94e63ef9de7d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "voters",
+      "demographics",
+      "population"
+    ],
+    "geo_level": "district/state/national/unclear",
+    "values": {
+      "": null,
+      "Officer,": "Asst. Electoral Regn. Officer"
+    },
+    "source": {
+      "pdf": "0231d310b509b2e1be2a94e63ef9de7d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "voters",
+      "demographics",
+      "population"
+    ],
+    "geo_level": "district/state/national/unclear",
+    "values": {
+      "": null,
+      "Officer,": "(HQ)"
+    },
+    "source": {
+      "pdf": "0231d310b509b2e1be2a94e63ef9de7d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "voters",
+      "demographics",
+      "population"
+    ],
+    "geo_level": "district/state/national/unclear",
+    "values": {
+      "abdul.dmit@gmail.com": ""
+    },
+    "source": {
+      "pdf": "0231d310b509b2e1be2a94e63ef9de7d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "voters",
+      "demographics",
+      "population"
+    ],
+    "geo_level": "district/state/national/unclear",
+    "values": {
+      "": "",
+      "Sl.\nNo.": "CEO’s office",
+      "Name of the Officers & Designation": null,
+      "null": null,
+      "Remuneration of Rs.\n(monthly)": null
+    },
+    "source": {
+      "pdf": "0231d310b509b2e1be2a94e63ef9de7d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "voters",
+      "demographics",
+      "population"
+    ],
+    "geo_level": "district/state/national/unclear",
+    "values": {
+      "": "",
+      "Sl.\nNo.": null,
+      "Name of the Officers & Designation": "Sh L Kumar, IAS\nChief Electoral Officer, ANI",
+      "null": null,
+      "Remuneration of Rs.\n(monthly)": "Salary being drawn from\nA&N Administration,\nSecretariat."
+    },
+    "source": {
+      "pdf": "0231d310b509b2e1be2a94e63ef9de7d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "voters",
+      "demographics",
+      "population"
+    ],
+    "geo_level": "district/state/national/unclear",
+    "values": {
+      "": "",
+      "Sl.\nNo.": null,
+      "Name of the Officers & Designation": "Sh Amit Kale Marutirao, IAS\nJoint Chief Electoral Officer, ANI",
+      "null": "",
+      "Remuneration of Rs.\n(monthly)": "Salary being drawn from\nDC office, Car Nicobar."
+    },
+    "source": {
+      "pdf": "0231d310b509b2e1be2a94e63ef9de7d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "voters",
+      "demographics",
+      "population"
+    ],
+    "geo_level": "district/state/national/unclear",
+    "values": {
+      "": "",
+      "Sl.\nNo.": null,
+      "Name of the Officers & Designation": "Sh Vinayak Chamadia, IAS\nDeputy Chief Electoral Officer, ANI",
+      "null": null,
+      "Remuneration of Rs.\n(monthly)": "Salary being drawn from\nDC office, South\nAndaman."
+    },
+    "source": {
+      "pdf": "0231d310b509b2e1be2a94e63ef9de7d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "voters",
+      "demographics",
+      "population"
+    ],
+    "geo_level": "district/state/national/unclear",
+    "values": {
+      "": "",
+      "Sl.\nNo.": "4.",
+      "Name of the Officers & Designation": "Sr. IT Analyst - 01 No.",
+      "null": "",
+      "Remuneration of Rs.\n(monthly)": "On additional charge"
+    },
+    "source": {
+      "pdf": "0231d310b509b2e1be2a94e63ef9de7d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "voters",
+      "demographics",
+      "population"
+    ],
+    "geo_level": "district/state/national/unclear",
+    "values": {
+      "": null,
+      "Sl.\nNo.": null,
+      "Name of the Officers & Designation": "HGC - 02",
+      "null": "",
+      "Remuneration of Rs.\n(monthly)": "On Diverted Capacity"
+    },
+    "source": {
+      "pdf": "0231d310b509b2e1be2a94e63ef9de7d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "voters",
+      "demographics",
+      "population"
+    ],
+    "geo_level": "district/state/national/unclear",
+    "values": {
+      "": "",
+      "Sl.\nNo.": null,
+      "Name of the Officers & Designation": "HGC – 01 No.",
+      "null": null,
+      "Remuneration of Rs.\n(monthly)": "Salary being drawn from\nCEO’s office, ANI"
+    },
+    "source": {
+      "pdf": "0231d310b509b2e1be2a94e63ef9de7d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "voters",
+      "demographics",
+      "population"
+    ],
+    "geo_level": "district/state/national/unclear",
+    "values": {
+      "": "",
+      "Sl.\nNo.": "7.",
+      "Name of the Officers & Designation": "Peon – 01 No.",
+      "null": "",
+      "Remuneration of Rs.\n(monthly)": "-do-"
+    },
+    "source": {
+      "pdf": "0231d310b509b2e1be2a94e63ef9de7d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "voters",
+      "demographics",
+      "population"
+    ],
+    "geo_level": "district/state/national/unclear",
+    "values": {
+      "": "",
+      "Sl.\nNo.": "8.",
+      "Name of the Officers & Designation": "TSM – 01 No.",
+      "null": "",
+      "Remuneration of Rs.\n(monthly)": "-do-"
+    },
+    "source": {
+      "pdf": "0231d310b509b2e1be2a94e63ef9de7d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "voters",
+      "demographics",
+      "population"
+    ],
+    "geo_level": "district/state/national/unclear",
+    "values": {
+      "": "",
+      "Sl.\nNo.": "9.",
+      "Name of the Officers & Designation": "DRM (1/30th) – 20 Nos.",
+      "null": "",
+      "Remuneration of Rs.\n(monthly)": "-do-"
+    },
+    "source": {
+      "pdf": "0231d310b509b2e1be2a94e63ef9de7d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "voters",
+      "demographics",
+      "population"
+    ],
+    "geo_level": "district/state/national/unclear",
+    "values": {
+      "": "",
+      "Sl.\nNo.": "DEO’s office",
+      "Name of the Officers & Designation": null,
+      "null": null,
+      "Remuneration of Rs.\n(monthly)": null
+    },
+    "source": {
+      "pdf": "0231d310b509b2e1be2a94e63ef9de7d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "voters",
+      "demographics",
+      "population"
+    ],
+    "geo_level": "district/state/national/unclear",
+    "values": {
+      "": "",
+      "Sl.\nNo.": null,
+      "Name of the Officers & Designation": "Sh Arjun Sharma, IAS\nDistrict Election Officer/RO, (SA),\nANIPC",
+      "null": "",
+      "Remuneration of Rs.\n(monthly)": "Salary being drawn from\nDC office, South\nAndaman."
+    },
+    "source": {
+      "pdf": "0231d310b509b2e1be2a94e63ef9de7d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "voters",
+      "demographics",
+      "population"
+    ],
+    "geo_level": "district/state/national/unclear",
+    "values": {
+      "": "",
+      "Sl.\nNo.": null,
+      "Name of the Officers & Designation": "Ms Nandini Maharaj, IAS\nDistrict Election Officer, N&M Andaman",
+      "null": null,
+      "Remuneration of Rs.\n(monthly)": "Salary being drawn from\nDC office, N&M\nAndaman."
+    },
+    "source": {
+      "pdf": "0231d310b509b2e1be2a94e63ef9de7d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "voters",
+      "demographics",
+      "population"
+    ],
+    "geo_level": "district/state/national/unclear",
+    "values": {
+      "": "",
+      "Sl.\nNo.": null,
+      "Name of the Officers & Designation": "Sh Amit Kale Marutiro, IAS\nDistrict Election Officer, Nicobar",
+      "null": "",
+      "Remuneration of Rs.\n(monthly)": "Salary being drawn from\nDC office, Car Nicobar."
+    },
+    "source": {
+      "pdf": "0231d310b509b2e1be2a94e63ef9de7d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "voters",
+      "demographics",
+      "population"
+    ],
+    "geo_level": "district/state/national/unclear",
+    "values": {
+      "": "",
+      "Sl.\nNo.": null,
+      "Name of the Officers & Designation": "Sh Vinayak Chamadia, IAS\nElectoral Registration Officer, ANIPC",
+      "null": null,
+      "Remuneration of Rs.\n(monthly)": "Salary being drawn from\nDC office, South\nAndaman."
+    },
+    "source": {
+      "pdf": "0231d310b509b2e1be2a94e63ef9de7d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "voters",
+      "demographics",
+      "population"
+    ],
+    "geo_level": "district/state/national/unclear",
+    "values": {
+      "": "",
+      "Sl.\nNo.": null,
+      "Name of the Officers & Designation": "Sh Shishir Kumar Mishra, AM(IT)\nNodal Officer (IT)/ERO-Net/Cyber\nSecurity/Electoral Roll/IT App",
+      "null": null,
+      "Remuneration of Rs.\n(monthly)": "Salary being drawn from\nDC office, South\nAndaman."
+    },
+    "source": {
+      "pdf": "0231d310b509b2e1be2a94e63ef9de7d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "voters",
+      "demographics",
+      "population"
+    ],
+    "geo_level": "district/state/national/unclear",
+    "values": {
+      "": "",
+      "Sl.\nNo.": null,
+      "Name of the Officers & Designation": "Sh Kamleshwar Rao S, IAS\nAsst. Electoral Regn. Officer,\nDiglipur",
+      "null": "",
+      "Remuneration of Rs.\n(monthly)": "Salary being drawn from\nDC office, N&M\nAndaman."
+    },
+    "source": {
+      "pdf": "0231d310b509b2e1be2a94e63ef9de7d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "voters",
+      "demographics",
+      "population"
+    ],
+    "geo_level": "district/state/national/unclear",
+    "values": {
+      "2.": null,
+      "": null,
+      "Sh Ashish Joon, DANICS": "Asst. Electoral Regn. Officer,",
+      "Salary being drawn from": "DC office, N&M"
+    },
+    "source": {
+      "pdf": "0231d310b509b2e1be2a94e63ef9de7d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "voters",
+      "demographics",
+      "population"
+    ],
+    "geo_level": "district/state/national/unclear",
+    "values": {
+      "2.": null,
+      "": null,
+      "Sh Ashish Joon, DANICS": "Mayabunder",
+      "Salary being drawn from": "Andaman."
+    },
+    "source": {
+      "pdf": "0231d310b509b2e1be2a94e63ef9de7d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "voters",
+      "demographics",
+      "population"
+    ],
+    "geo_level": "district/state/national/unclear",
+    "values": {
+      "2.": "3.",
+      "": "",
+      "Sh Ashish Joon, DANICS": "Sh Vikas Kumar, DANICS",
+      "Salary being drawn from": "Salary being drawn from"
+    },
+    "source": {
+      "pdf": "0231d310b509b2e1be2a94e63ef9de7d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "voters",
+      "demographics",
+      "population"
+    ],
+    "geo_level": "district/state/national/unclear",
+    "values": {
+      "2.": null,
+      "": null,
+      "Sh Ashish Joon, DANICS": "Asst. Electoral Regn. Officer,",
+      "Salary being drawn from": "DC office, N&M"
+    },
+    "source": {
+      "pdf": "0231d310b509b2e1be2a94e63ef9de7d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "voters",
+      "demographics",
+      "population"
+    ],
+    "geo_level": "district/state/national/unclear",
+    "values": {
+      "2.": null,
+      "": null,
+      "Sh Ashish Joon, DANICS": "Rangat",
+      "Salary being drawn from": "Andaman."
+    },
+    "source": {
+      "pdf": "0231d310b509b2e1be2a94e63ef9de7d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "voters",
+      "demographics",
+      "population"
+    ],
+    "geo_level": "district/state/national/unclear",
+    "values": {
+      "2.": "4.",
+      "": "",
+      "Sh Ashish Joon, DANICS": "Sh Vinayak Chamadia, IAS",
+      "Salary being drawn from": "Salary being drawn from"
+    },
+    "source": {
+      "pdf": "0231d310b509b2e1be2a94e63ef9de7d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "voters",
+      "demographics",
+      "population"
+    ],
+    "geo_level": "district/state/national/unclear",
+    "values": {
+      "2.": null,
+      "": null,
+      "Sh Ashish Joon, DANICS": "Asst. Electoral Regn. Officer,",
+      "Salary being drawn from": "DC office, South"
+    },
+    "source": {
+      "pdf": "0231d310b509b2e1be2a94e63ef9de7d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "voters",
+      "demographics",
+      "population"
+    ],
+    "geo_level": "district/state/national/unclear",
+    "values": {
+      "2.": null,
+      "": null,
+      "Sh Ashish Joon, DANICS": "Sri Vijaya Puram",
+      "Salary being drawn from": "Andaman."
+    },
+    "source": {
+      "pdf": "0231d310b509b2e1be2a94e63ef9de7d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "voters",
+      "demographics",
+      "population"
+    ],
+    "geo_level": "district/state/national/unclear",
+    "values": {
+      "2.": "5.",
+      "": "",
+      "Sh Ashish Joon, DANICS": "Sh Abhishek Gullia, DANICS",
+      "Salary being drawn from": "Salary being drawn from"
+    },
+    "source": {
+      "pdf": "0231d310b509b2e1be2a94e63ef9de7d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "voters",
+      "demographics",
+      "population"
+    ],
+    "geo_level": "district/state/national/unclear",
+    "values": {
+      "2.": null,
+      "": null,
+      "Sh Ashish Joon, DANICS": "Asst. Electoral Regn. Officer,",
+      "Salary being drawn from": "DC office, South"
+    },
+    "source": {
+      "pdf": "0231d310b509b2e1be2a94e63ef9de7d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "voters",
+      "demographics",
+      "population"
+    ],
+    "geo_level": "district/state/national/unclear",
+    "values": {
+      "2.": null,
+      "": null,
+      "Sh Ashish Joon, DANICS": "Ferrargunj",
+      "Salary being drawn from": "Andaman."
+    },
+    "source": {
+      "pdf": "0231d310b509b2e1be2a94e63ef9de7d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "voters",
+      "demographics",
+      "population"
+    ],
+    "geo_level": "district/state/national/unclear",
+    "values": {
+      "2.": "6.",
+      "": "",
+      "Sh Ashish Joon, DANICS": "Sh Abhishek Gullia, DANICS",
+      "Salary being drawn from": "Salary being drawn from"
+    },
+    "source": {
+      "pdf": "0231d310b509b2e1be2a94e63ef9de7d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "voters",
+      "demographics",
+      "population"
+    ],
+    "geo_level": "district/state/national/unclear",
+    "values": {
+      "2.": null,
+      "": null,
+      "Sh Ashish Joon, DANICS": "Asst. Electoral Regn. Officer,",
+      "Salary being drawn from": "DC office, South"
+    },
+    "source": {
+      "pdf": "0231d310b509b2e1be2a94e63ef9de7d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "voters",
+      "demographics",
+      "population"
+    ],
+    "geo_level": "district/state/national/unclear",
+    "values": {
+      "2.": null,
+      "": null,
+      "Sh Ashish Joon, DANICS": "Little Andaman",
+      "Salary being drawn from": "Andaman."
+    },
+    "source": {
+      "pdf": "0231d310b509b2e1be2a94e63ef9de7d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "voters",
+      "demographics",
+      "population"
+    ],
+    "geo_level": "district/state/national/unclear",
+    "values": {
+      "2.": "7.",
+      "": null,
+      "Sh Ashish Joon, DANICS": "Sh Muneer Ahmed, DANICS",
+      "Salary being drawn from": "Salary being drawn from"
+    },
+    "source": {
+      "pdf": "0231d310b509b2e1be2a94e63ef9de7d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "voters",
+      "demographics",
+      "population"
+    ],
+    "geo_level": "district/state/national/unclear",
+    "values": {
+      "2.": null,
+      "": null,
+      "Sh Ashish Joon, DANICS": "Asst. Electoral Regn. Officer,",
+      "Salary being drawn from": "DC office, Car Nicobar."
+    },
+    "source": {
+      "pdf": "0231d310b509b2e1be2a94e63ef9de7d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "voters",
+      "demographics",
+      "population"
+    ],
+    "geo_level": "district/state/national/unclear",
+    "values": {
+      "2.": null,
+      "": null,
+      "Sh Ashish Joon, DANICS": "Car Nicobar",
+      "Salary being drawn from": null
+    },
+    "source": {
+      "pdf": "0231d310b509b2e1be2a94e63ef9de7d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "voters",
+      "demographics",
+      "population"
+    ],
+    "geo_level": "district/state/national/unclear",
+    "values": {
+      "2.": "8.",
+      "": null,
+      "Sh Ashish Joon, DANICS": "Sh Aditya Sangotra, DANICS",
+      "Salary being drawn from": null
+    },
+    "source": {
+      "pdf": "0231d310b509b2e1be2a94e63ef9de7d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "voters",
+      "demographics",
+      "population"
+    ],
+    "geo_level": "district/state/national/unclear",
+    "values": {
+      "2.": null,
+      "": null,
+      "Sh Ashish Joon, DANICS": "Asst. Electoral Regn. Officer,",
+      "Salary being drawn from": null
+    },
+    "source": {
+      "pdf": "0231d310b509b2e1be2a94e63ef9de7d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "voters",
+      "demographics",
+      "population"
+    ],
+    "geo_level": "district/state/national/unclear",
+    "values": {
+      "2.": null,
+      "": null,
+      "Sh Ashish Joon, DANICS": "Nancowry",
+      "Salary being drawn from": null
+    },
+    "source": {
+      "pdf": "0231d310b509b2e1be2a94e63ef9de7d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "voters",
+      "demographics",
+      "population"
+    ],
+    "geo_level": "district/state/national/unclear",
+    "values": {
+      "2.": "9.",
+      "": null,
+      "Sh Ashish Joon, DANICS": "Sh Singh Keshav Narendra, DANICS",
+      "Salary being drawn from": null
+    },
+    "source": {
+      "pdf": "0231d310b509b2e1be2a94e63ef9de7d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "voters",
+      "demographics",
+      "population"
+    ],
+    "geo_level": "district/state/national/unclear",
+    "values": {
+      "2.": null,
+      "": null,
+      "Sh Ashish Joon, DANICS": "Asst. Electoral Regn. Officer,",
+      "Salary being drawn from": null
+    },
+    "source": {
+      "pdf": "0231d310b509b2e1be2a94e63ef9de7d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "voters",
+      "demographics",
+      "population"
+    ],
+    "geo_level": "district/state/national/unclear",
+    "values": {
+      "2.": null,
+      "": null,
+      "Sh Ashish Joon, DANICS": "Campbell Bay",
+      "Salary being drawn from": null
+    },
+    "source": {
+      "pdf": "0231d310b509b2e1be2a94e63ef9de7d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "voters",
+      "demographics",
+      "population"
+    ],
+    "geo_level": "district/state/national/unclear",
+    "values": {
+      "2.": "10.",
+      "": "",
+      "Sh Ashish Joon, DANICS": "Sh Abdul Rasheed, DM(IT)",
+      "Salary being drawn from": "Salary being drawn from"
+    },
+    "source": {
+      "pdf": "0231d310b509b2e1be2a94e63ef9de7d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "voters",
+      "demographics",
+      "population"
+    ],
+    "geo_level": "district/state/national/unclear",
+    "values": {
+      "2.": null,
+      "": null,
+      "Sh Ashish Joon, DANICS": "Asst. Electoral Regn. Officer (HQ)",
+      "Salary being drawn from": "DC office, South"
+    },
+    "source": {
+      "pdf": "0231d310b509b2e1be2a94e63ef9de7d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "voters",
+      "demographics",
+      "population"
+    ],
+    "geo_level": "district/state/national/unclear",
+    "values": {
+      "2.": null,
+      "": null,
+      "Sh Ashish Joon, DANICS": null,
+      "Salary being drawn from": "Andaman."
+    },
+    "source": {
+      "pdf": "0231d310b509b2e1be2a94e63ef9de7d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "voters",
+      "demographics",
+      "population"
+    ],
+    "geo_level": "district/state/national/unclear",
+    "values": {
+      "Salary being drawn from": "DC office, Car Nicobar."
+    },
+    "source": {
+      "pdf": "0231d310b509b2e1be2a94e63ef9de7d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "voters",
+      "demographics",
+      "population"
+    ],
+    "geo_level": "district/state/national/unclear",
+    "values": {
+      "Salary being drawn from": "DC office, Car Nicobar."
+    },
+    "source": {
+      "pdf": "0231d310b509b2e1be2a94e63ef9de7d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "voters",
+      "demographics",
+      "population"
+    ],
+    "geo_level": "district/state/national/unclear",
+    "values": {
+      "MH: 2015-Election": "",
+      "BE 2025-2026": null
+    },
+    "source": {
+      "pdf": "0231d310b509b2e1be2a94e63ef9de7d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "voters",
+      "demographics",
+      "population"
+    ],
+    "geo_level": "district/state/national/unclear",
+    "values": {
+      "MH: 2015-Election": "01 Salaries",
+      "BE 2025-2026": "20,00,000/-"
+    },
+    "source": {
+      "pdf": "0231d310b509b2e1be2a94e63ef9de7d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "voters",
+      "demographics",
+      "population"
+    ],
+    "geo_level": "district/state/national/unclear",
+    "values": {
+      "MH: 2015-Election": "",
+      "BE 2025-2026": null
+    },
+    "source": {
+      "pdf": "0231d310b509b2e1be2a94e63ef9de7d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "voters",
+      "demographics",
+      "population"
+    ],
+    "geo_level": "district/state/national/unclear",
+    "values": {
+      "MH: 2015-Election": "07 - Allowance",
+      "BE 2025-2026": "30,00,000/-"
+    },
+    "source": {
+      "pdf": "0231d310b509b2e1be2a94e63ef9de7d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "voters",
+      "demographics",
+      "population"
+    ],
+    "geo_level": "district/state/national/unclear",
+    "values": {
+      "MH: 2015-Election": "",
+      "BE 2025-2026": null
+    },
+    "source": {
+      "pdf": "0231d310b509b2e1be2a94e63ef9de7d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "voters",
+      "demographics",
+      "population"
+    ],
+    "geo_level": "district/state/national/unclear",
+    "values": {
+      "MH: 2015-Election": "28 - Professional charges",
+      "BE 2025-2026": "1,48,50,000/-"
+    },
+    "source": {
+      "pdf": "0231d310b509b2e1be2a94e63ef9de7d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "voters",
+      "demographics",
+      "population"
+    ],
+    "geo_level": "district/state/national/unclear",
+    "values": {
+      "MH: 2015-Election": "",
+      "BE 2025-2026": null
+    },
+    "source": {
+      "pdf": "0231d310b509b2e1be2a94e63ef9de7d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "voters",
+      "demographics",
+      "population"
+    ],
+    "geo_level": "district/state/national/unclear",
+    "values": {
+      "MH: 2015-Election": "Total",
+      "BE 2025-2026": "1,98,50,000/-"
+    },
+    "source": {
+      "pdf": "0231d310b509b2e1be2a94e63ef9de7d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "voters",
+      "demographics",
+      "population"
+    ],
+    "geo_level": "district/state/national/unclear",
+    "values": {
+      "MH: 2015-Election": "",
+      "BE 2025-2026": null
+    },
+    "source": {
+      "pdf": "0231d310b509b2e1be2a94e63ef9de7d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "voters",
+      "demographics",
+      "population"
+    ],
+    "geo_level": "district/state/national/unclear",
+    "values": {
+      "Sl.\nNo.": "1",
+      "Designation of\nthe officer\ndesignated as\nPIO": "Deputy Chief\nElectoral Officer,\nA&N Islands",
+      "Postal\nAddress": "O/o. the\nChief\nElectoral\nOfficer, ANI",
+      "Phone\nNo.": "233991",
+      "e-Mail ID": "ceo_andaman@\neci.gov.in",
+      "Demarcation\nof Area /\nActivities": "Matters\nrelating to\nElections\nDepartment"
+    },
+    "source": {
+      "pdf": "0231d310b509b2e1be2a94e63ef9de7d.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  }
+]

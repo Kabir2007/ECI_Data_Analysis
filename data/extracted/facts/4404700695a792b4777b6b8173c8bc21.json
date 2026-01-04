@@ -1,0 +1,1779 @@
+[
+  {
+    "category": [
+      "demographics",
+      "voters",
+      "admin_process"
+    ],
+    "geo_level": "district",
+    "values": {
+      "Sr.No.": "1",
+      "Particulars": "Basic Statistics Information",
+      "Page No.": "1"
+    },
+    "source": {
+      "pdf": "08089e72409a0f3e6fcf14804ec30d64.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "demographics",
+      "voters",
+      "admin_process"
+    ],
+    "geo_level": "district",
+    "values": {
+      "Sr.No.": "2",
+      "Particulars": "Electoral Roll Status And Statistical Analysis",
+      "Page No.": "2"
+    },
+    "source": {
+      "pdf": "08089e72409a0f3e6fcf14804ec30d64.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "demographics",
+      "voters",
+      "admin_process"
+    ],
+    "geo_level": "district",
+    "values": {
+      "Sr.No.": "3",
+      "Particulars": "List of Formats",
+      "Page No.": "3 – 10"
+    },
+    "source": {
+      "pdf": "08089e72409a0f3e6fcf14804ec30d64.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "demographics",
+      "voters",
+      "admin_process"
+    ],
+    "geo_level": "district",
+    "values": {
+      "Sr.No.": "4",
+      "Particulars": "Turnout figures : Legislative Assembly Elections",
+      "Page No.": "11"
+    },
+    "source": {
+      "pdf": "08089e72409a0f3e6fcf14804ec30d64.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "demographics",
+      "voters",
+      "admin_process"
+    ],
+    "geo_level": "district",
+    "values": {
+      "Sr.No.": "5",
+      "Particulars": "Turnout figures : Parliamentary Elections",
+      "Page No.": "12"
+    },
+    "source": {
+      "pdf": "08089e72409a0f3e6fcf14804ec30d64.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "demographics",
+      "voters",
+      "admin_process"
+    ],
+    "geo_level": "district",
+    "values": {
+      "Sr.No.": "6",
+      "Particulars": "Strategy & Approach",
+      "Page No.": "13 – 17"
+    },
+    "source": {
+      "pdf": "08089e72409a0f3e6fcf14804ec30d64.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "demographics",
+      "voters",
+      "admin_process"
+    ],
+    "geo_level": "district",
+    "values": {
+      "Sr.No.": "7",
+      "Particulars": "Matdar Sahayta Kendra (MSK)",
+      "Page No.": "18"
+    },
+    "source": {
+      "pdf": "08089e72409a0f3e6fcf14804ec30d64.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "demographics",
+      "voters",
+      "admin_process"
+    ],
+    "geo_level": "district",
+    "values": {
+      "Sr.No.": "8",
+      "Particulars": "Man Power Resources",
+      "Page No.": "19"
+    },
+    "source": {
+      "pdf": "08089e72409a0f3e6fcf14804ec30d64.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "demographics",
+      "voters",
+      "admin_process"
+    ],
+    "geo_level": "district",
+    "values": {
+      "Sr.No.": "9",
+      "Particulars": "Partnerships",
+      "Page No.": "20"
+    },
+    "source": {
+      "pdf": "08089e72409a0f3e6fcf14804ec30d64.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "demographics",
+      "voters",
+      "admin_process"
+    ],
+    "geo_level": "district",
+    "values": {
+      "Sr.No.": "10",
+      "Particulars": "Multi Media Campaign",
+      "Page No.": "21"
+    },
+    "source": {
+      "pdf": "08089e72409a0f3e6fcf14804ec30d64.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "demographics",
+      "voters",
+      "admin_process"
+    ],
+    "geo_level": "district",
+    "values": {
+      "Sr.No.": "11",
+      "Particulars": "Sveep Monitoring Team",
+      "Page No.": "22"
+    },
+    "source": {
+      "pdf": "08089e72409a0f3e6fcf14804ec30d64.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "demographics",
+      "voters",
+      "admin_process"
+    ],
+    "geo_level": "district",
+    "values": {
+      "Sr.No.": "12",
+      "Particulars": "Vulnerable P.S. and Hamlets",
+      "Page No.": "23"
+    },
+    "source": {
+      "pdf": "08089e72409a0f3e6fcf14804ec30d64.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "demographics",
+      "voters",
+      "admin_process"
+    ],
+    "geo_level": "district",
+    "values": {
+      "Sr.No.": "13",
+      "Particulars": "Our Aim",
+      "Page No.": "24"
+    },
+    "source": {
+      "pdf": "08089e72409a0f3e6fcf14804ec30d64.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "demographics",
+      "voters",
+      "admin_process"
+    ],
+    "geo_level": "district",
+    "values": {
+      "Sr.No.": "14",
+      "Particulars": "What would be actual plan to reach these target areas ?",
+      "Page No.": "25 - 27"
+    },
+    "source": {
+      "pdf": "08089e72409a0f3e6fcf14804ec30d64.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "demographics",
+      "voters",
+      "admin_process"
+    ],
+    "geo_level": "district",
+    "values": {
+      "Particulars": "Total Electors",
+      "Roll-2010": "1323756",
+      "Roll-2011": "1352173",
+      "Roll-2012": "1342025"
+    },
+    "source": {
+      "pdf": "08089e72409a0f3e6fcf14804ec30d64.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "demographics",
+      "voters",
+      "admin_process"
+    ],
+    "geo_level": "district",
+    "values": {
+      "Particulars": "Male Electors",
+      "Roll-2010": "687683",
+      "Roll-2011": "705066",
+      "Roll-2012": "698636"
+    },
+    "source": {
+      "pdf": "08089e72409a0f3e6fcf14804ec30d64.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "demographics",
+      "voters",
+      "admin_process"
+    ],
+    "geo_level": "district",
+    "values": {
+      "Particulars": "Female Electors",
+      "Roll-2010": "636073",
+      "Roll-2011": "647105",
+      "Roll-2012": "625389"
+    },
+    "source": {
+      "pdf": "08089e72409a0f3e6fcf14804ec30d64.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "demographics",
+      "voters",
+      "admin_process"
+    ],
+    "geo_level": "district",
+    "values": {
+      "Particulars": "PER",
+      "Roll-2010": "93.14%",
+      "Roll-2011": "93.39 %",
+      "Roll-2012": "98.19%"
+    },
+    "source": {
+      "pdf": "08089e72409a0f3e6fcf14804ec30d64.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "demographics",
+      "voters",
+      "admin_process"
+    ],
+    "geo_level": "district",
+    "values": {
+      "Particulars": "EPIC",
+      "Roll-2010": "95.29%",
+      "Roll-2011": "95.37 %",
+      "Roll-2012": "98.82%"
+    },
+    "source": {
+      "pdf": "08089e72409a0f3e6fcf14804ec30d64.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "demographics",
+      "voters",
+      "admin_process"
+    ],
+    "geo_level": "district",
+    "values": {
+      "Particulars": "No.of Polling Stations",
+      "Roll-2010": "1543",
+      "Roll-2011": "1575",
+      "Roll-2012": "1575"
+    },
+    "source": {
+      "pdf": "08089e72409a0f3e6fcf14804ec30d64.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "demographics",
+      "voters",
+      "admin_process"
+    ],
+    "geo_level": "district",
+    "values": {
+      "Particulars": "No.of Polling Statio Locations",
+      "Roll-2010": "1035",
+      "Roll-2011": "1046",
+      "Roll-2012": "1046"
+    },
+    "source": {
+      "pdf": "08089e72409a0f3e6fcf14804ec30d64.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "demographics",
+      "voters",
+      "admin_process"
+    ],
+    "geo_level": "district",
+    "values": {
+      "Particulars": "No. of BLOs",
+      "Roll-2010": "1543",
+      "Roll-2011": "1543",
+      "Roll-2012": "1575"
+    },
+    "source": {
+      "pdf": "08089e72409a0f3e6fcf14804ec30d64.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "demographics",
+      "voters",
+      "admin_process"
+    ],
+    "geo_level": "district",
+    "values": {
+      "Particulars": "Net change in rolls from\nprevious roll",
+      "Roll-2010": "+ 2.03%",
+      "Roll-2011": "+ 2.10%",
+      "Roll-2012": "- 0.76%"
+    },
+    "source": {
+      "pdf": "08089e72409a0f3e6fcf14804ec30d64.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "demographics",
+      "voters",
+      "admin_process"
+    ],
+    "geo_level": "district",
+    "values": {
+      "Format Number": "1B",
+      "Related to": "Gender Ratio"
+    },
+    "source": {
+      "pdf": "08089e72409a0f3e6fcf14804ec30d64.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "demographics",
+      "voters",
+      "admin_process"
+    ],
+    "geo_level": "district",
+    "values": {
+      "Format Number": "2B",
+      "Related to": "Elector Population Ratio"
+    },
+    "source": {
+      "pdf": "08089e72409a0f3e6fcf14804ec30d64.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "demographics",
+      "voters",
+      "admin_process"
+    ],
+    "geo_level": "district",
+    "values": {
+      "Format Number": "3B",
+      "Related to": "Age Cohort"
+    },
+    "source": {
+      "pdf": "08089e72409a0f3e6fcf14804ec30d64.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "demographics",
+      "voters",
+      "admin_process"
+    ],
+    "geo_level": "district",
+    "values": {
+      "Format Number": "4",
+      "Related to": "Inclusion and deletion in Current Roll over\nPrevious Roll"
+    },
+    "source": {
+      "pdf": "08089e72409a0f3e6fcf14804ec30d64.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "demographics",
+      "voters",
+      "admin_process"
+    ],
+    "geo_level": "district",
+    "values": {
+      "Format Number": "5B",
+      "Related to": "EPIC and Photo coverage in current roll"
+    },
+    "source": {
+      "pdf": "08089e72409a0f3e6fcf14804ec30d64.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "demographics",
+      "voters",
+      "admin_process"
+    ],
+    "geo_level": "district",
+    "values": {
+      "Format Number": "5C",
+      "Related to": "Photo coverage in current roll"
+    },
+    "source": {
+      "pdf": "08089e72409a0f3e6fcf14804ec30d64.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "demographics",
+      "voters",
+      "admin_process"
+    ],
+    "geo_level": "district",
+    "values": {
+      "Format Number": "5D",
+      "Related to": "EPIC coverage in current roll"
+    },
+    "source": {
+      "pdf": "08089e72409a0f3e6fcf14804ec30d64.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "demographics",
+      "voters",
+      "admin_process"
+    ],
+    "geo_level": "district",
+    "values": {
+      "Format Number": "6",
+      "Related to": "P.S. & P.S.L. (Urban/Rural)"
+    },
+    "source": {
+      "pdf": "08089e72409a0f3e6fcf14804ec30d64.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "demographics",
+      "voters",
+      "admin_process"
+    ],
+    "geo_level": "district",
+    "values": {
+      "Format Number": "7",
+      "Related to": "Information on Service Voters"
+    },
+    "source": {
+      "pdf": "08089e72409a0f3e6fcf14804ec30d64.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "demographics",
+      "voters",
+      "admin_process"
+    ],
+    "geo_level": "district",
+    "values": {
+      "Format Number": "8",
+      "Related to": "AC wise Information on Migrated Electors"
+    },
+    "source": {
+      "pdf": "08089e72409a0f3e6fcf14804ec30d64.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "demographics",
+      "voters",
+      "admin_process"
+    ],
+    "geo_level": "district",
+    "values": {
+      "Age Cohort": "18-19",
+      "As per Census\n(Projected-2012)": "4.11",
+      "Final Roll – 2012": "1.21"
+    },
+    "source": {
+      "pdf": "08089e72409a0f3e6fcf14804ec30d64.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "demographics",
+      "voters",
+      "admin_process"
+    ],
+    "geo_level": "district",
+    "values": {
+      "Age Cohort": "20-29",
+      "As per Census\n(Projected-2012)": "17.89",
+      "Final Roll – 2012": "14.77"
+    },
+    "source": {
+      "pdf": "08089e72409a0f3e6fcf14804ec30d64.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "demographics",
+      "voters",
+      "admin_process"
+    ],
+    "geo_level": "district",
+    "values": {
+      "Age Cohort": "30-39",
+      "As per Census\n(Projected-2012)": "15.03",
+      "Final Roll – 2012": "13.99"
+    },
+    "source": {
+      "pdf": "08089e72409a0f3e6fcf14804ec30d64.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "demographics",
+      "voters",
+      "admin_process"
+    ],
+    "geo_level": "district",
+    "values": {
+      "Age Cohort": "40-49",
+      "As per Census\n(Projected-2012)": "10.72",
+      "Final Roll – 2012": "11.17"
+    },
+    "source": {
+      "pdf": "08089e72409a0f3e6fcf14804ec30d64.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "demographics",
+      "voters",
+      "admin_process"
+    ],
+    "geo_level": "district",
+    "values": {
+      "Age Cohort": "50-59",
+      "As per Census\n(Projected-2012)": "6.32",
+      "Final Roll – 2012": "7.67"
+    },
+    "source": {
+      "pdf": "08089e72409a0f3e6fcf14804ec30d64.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "demographics",
+      "voters",
+      "admin_process"
+    ],
+    "geo_level": "district",
+    "values": {
+      "Age Cohort": "60-69",
+      "As per Census\n(Projected-2012)": "4.32",
+      "Final Roll – 2012": "4.44"
+    },
+    "source": {
+      "pdf": "08089e72409a0f3e6fcf14804ec30d64.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "demographics",
+      "voters",
+      "admin_process"
+    ],
+    "geo_level": "district",
+    "values": {
+      "Age Cohort": "70-79",
+      "As per Census\n(Projected-2012)": "1.85",
+      "Final Roll – 2012": "2.49"
+    },
+    "source": {
+      "pdf": "08089e72409a0f3e6fcf14804ec30d64.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "demographics",
+      "voters",
+      "admin_process"
+    ],
+    "geo_level": "district",
+    "values": {
+      "Age Cohort": "80 up",
+      "As per Census\n(Projected-2012)": "0.83",
+      "Final Roll – 2012": "0.87"
+    },
+    "source": {
+      "pdf": "08089e72409a0f3e6fcf14804ec30d64.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "demographics",
+      "voters",
+      "admin_process"
+    ],
+    "geo_level": "district",
+    "values": {
+      "Assembly\nConstituency": "No",
+      "null": "Female",
+      "Number of\nElectors\nin Last published\nFinal Roll - 2012\nw.r.t. 01/01/2012\nas\nthe qualifying\ndate": "Male",
+      "Number of\nElectors after\nCont. Revision\nRoll - 2012 w.r.t.\n01/01/2012\nas qualifying\ndate": "Male",
+      "Net\nchange\nover\nPrevious\nRoll": "(+/-)",
+      "%\nChange\nover\nPrevious\nRoll": "(+/-)"
+    },
+    "source": {
+      "pdf": "08089e72409a0f3e6fcf14804ec30d64.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "demographics",
+      "voters",
+      "admin_process"
+    ],
+    "geo_level": "district",
+    "values": {
+      "Assembly\nConstituency": "1",
+      "null": "23",
+      "Number of\nElectors\nin Last published\nFinal Roll - 2012\nw.r.t. 01/01/2012\nas\nthe qualifying\ndate": "3",
+      "Number of\nElectors after\nCont. Revision\nRoll - 2012 w.r.t.\n01/01/2012\nas qualifying\ndate": "22",
+      "Net\nchange\nover\nPrevious\nRoll": "20",
+      "%\nChange\nover\nPrevious\nRoll": "21"
+    },
+    "source": {
+      "pdf": "08089e72409a0f3e6fcf14804ec30d64.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "demographics",
+      "voters",
+      "admin_process"
+    ],
+    "geo_level": "district",
+    "values": {
+      "Assembly\nConstituency": "76",
+      "null": "89303",
+      "Number of\nElectors\nin Last published\nFinal Roll - 2012\nw.r.t. 01/01/2012\nas\nthe qualifying\ndate": "100140",
+      "Number of\nElectors after\nCont. Revision\nRoll - 2012 w.r.t.\n01/01/2012\nas qualifying\ndate": "100155",
+      "Net\nchange\nover\nPrevious\nRoll": "24",
+      "%\nChange\nover\nPrevious\nRoll": "0.01"
+    },
+    "source": {
+      "pdf": "08089e72409a0f3e6fcf14804ec30d64.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "demographics",
+      "voters",
+      "admin_process"
+    ],
+    "geo_level": "district",
+    "values": {
+      "Assembly\nConstituency": "77",
+      "null": "83218",
+      "Number of\nElectors\nin Last published\nFinal Roll - 2012\nw.r.t. 01/01/2012\nas\nthe qualifying\ndate": "95503",
+      "Number of\nElectors after\nCont. Revision\nRoll - 2012 w.r.t.\n01/01/2012\nas qualifying\ndate": "95461",
+      "Net\nchange\nover\nPrevious\nRoll": "-103",
+      "%\nChange\nover\nPrevious\nRoll": "-0.06"
+    },
+    "source": {
+      "pdf": "08089e72409a0f3e6fcf14804ec30d64.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "demographics",
+      "voters",
+      "admin_process"
+    ],
+    "geo_level": "district",
+    "values": {
+      "Assembly\nConstituency": "78",
+      "null": "80898",
+      "Number of\nElectors\nin Last published\nFinal Roll - 2012\nw.r.t. 01/01/2012\nas\nthe qualifying\ndate": "89289",
+      "Number of\nElectors after\nCont. Revision\nRoll - 2012 w.r.t.\n01/01/2012\nas qualifying\ndate": "89026",
+      "Net\nchange\nover\nPrevious\nRoll": "-552",
+      "%\nChange\nover\nPrevious\nRoll": "-0.33"
+    },
+    "source": {
+      "pdf": "08089e72409a0f3e6fcf14804ec30d64.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "demographics",
+      "voters",
+      "admin_process"
+    ],
+    "geo_level": "district",
+    "values": {
+      "Assembly\nConstituency": "79",
+      "null": "84034",
+      "Number of\nElectors\nin Last published\nFinal Roll - 2012\nw.r.t. 01/01/2012\nas\nthe qualifying\ndate": "90673",
+      "Number of\nElectors after\nCont. Revision\nRoll - 2012 w.r.t.\n01/01/2012\nas qualifying\ndate": "90583",
+      "Net\nchange\nover\nPrevious\nRoll": "-208",
+      "%\nChange\nover\nPrevious\nRoll": "-0.12"
+    },
+    "source": {
+      "pdf": "08089e72409a0f3e6fcf14804ec30d64.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "demographics",
+      "voters",
+      "admin_process"
+    ],
+    "geo_level": "district",
+    "values": {
+      "Assembly\nConstituency": "80",
+      "null": "81707",
+      "Number of\nElectors\nin Last published\nFinal Roll - 2012\nw.r.t. 01/01/2012\nas\nthe qualifying\ndate": "93109",
+      "Number of\nElectors after\nCont. Revision\nRoll - 2012 w.r.t.\n01/01/2012\nas qualifying\ndate": "93099",
+      "Net\nchange\nover\nPrevious\nRoll": "-27",
+      "%\nChange\nover\nPrevious\nRoll": "-0.02"
+    },
+    "source": {
+      "pdf": "08089e72409a0f3e6fcf14804ec30d64.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "demographics",
+      "voters",
+      "admin_process"
+    ],
+    "geo_level": "district",
+    "values": {
+      "Assembly\nConstituency": "81",
+      "null": "106235",
+      "Number of\nElectors\nin Last published\nFinal Roll - 2012\nw.r.t. 01/01/2012\nas\nthe qualifying\ndate": "117390",
+      "Number of\nElectors after\nCont. Revision\nRoll - 2012 w.r.t.\n01/01/2012\nas qualifying\ndate": "117084",
+      "Net\nchange\nover\nPrevious\nRoll": "-808",
+      "%\nChange\nover\nPrevious\nRoll": "-0.37"
+    },
+    "source": {
+      "pdf": "08089e72409a0f3e6fcf14804ec30d64.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "demographics",
+      "voters",
+      "admin_process"
+    ],
+    "geo_level": "district",
+    "values": {
+      "Assembly\nConstituency": "82",
+      "null": "99994",
+      "Number of\nElectors\nin Last published\nFinal Roll - 2012\nw.r.t. 01/01/2012\nas\nthe qualifying\ndate": "113271",
+      "Number of\nElectors after\nCont. Revision\nRoll - 2012 w.r.t.\n01/01/2012\nas qualifying\ndate": "113228",
+      "Net\nchange\nover\nPrevious\nRoll": "-148",
+      "%\nChange\nover\nPrevious\nRoll": "-0.07"
+    },
+    "source": {
+      "pdf": "08089e72409a0f3e6fcf14804ec30d64.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "demographics",
+      "voters",
+      "admin_process"
+    ],
+    "geo_level": "district",
+    "values": {
+      "Assembly\nConstituency": "Total of District :-",
+      "null": "625389",
+      "Number of\nElectors\nin Last published\nFinal Roll - 2012\nw.r.t. 01/01/2012\nas\nthe qualifying\ndate": "699375",
+      "Number of\nElectors after\nCont. Revision\nRoll - 2012 w.r.t.\n01/01/2012\nas qualifying\ndate": "698636",
+      "Net\nchange\nover\nPrevious\nRoll": "-1822",
+      "%\nChange\nover\nPrevious\nRoll": "-0.14"
+    },
+    "source": {
+      "pdf": "08089e72409a0f3e6fcf14804ec30d64.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "demographics",
+      "voters",
+      "admin_process"
+    ],
+    "geo_level": "district",
+    "values": {
+      "Detail": "Total Voters",
+      "2002": "11877789",
+      "2007": "1297338"
+    },
+    "source": {
+      "pdf": "08089e72409a0f3e6fcf14804ec30d64.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "demographics",
+      "voters",
+      "admin_process"
+    ],
+    "geo_level": "district",
+    "values": {
+      "Detail": "Total Turnout%",
+      "2002": "59.14%",
+      "2007": "55.73%"
+    },
+    "source": {
+      "pdf": "08089e72409a0f3e6fcf14804ec30d64.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "demographics",
+      "voters",
+      "admin_process"
+    ],
+    "geo_level": "district",
+    "values": {
+      "Detail": "Total Male Voters",
+      "2002": "610187",
+      "2007": "665060"
+    },
+    "source": {
+      "pdf": "08089e72409a0f3e6fcf14804ec30d64.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "demographics",
+      "voters",
+      "admin_process"
+    ],
+    "geo_level": "district",
+    "values": {
+      "Detail": "Male Turnout%",
+      "2002": "62.66%",
+      "2007": "59.48%"
+    },
+    "source": {
+      "pdf": "08089e72409a0f3e6fcf14804ec30d64.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "demographics",
+      "voters",
+      "admin_process"
+    ],
+    "geo_level": "district",
+    "values": {
+      "Detail": "Total Female Voters",
+      "2002": "577602",
+      "2007": "632278"
+    },
+    "source": {
+      "pdf": "08089e72409a0f3e6fcf14804ec30d64.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "demographics",
+      "voters",
+      "admin_process"
+    ],
+    "geo_level": "district",
+    "values": {
+      "Detail": "Female Turnout%",
+      "2002": "55.44%",
+      "2007": "51.79%"
+    },
+    "source": {
+      "pdf": "08089e72409a0f3e6fcf14804ec30d64.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "demographics",
+      "voters",
+      "admin_process"
+    ],
+    "geo_level": "district",
+    "values": {
+      "Detail": "AC with lowest turnout%",
+      "2002": "26-Jamnagar Rural (S.C.) 44.45%",
+      "2007": "31-Dwarka 46.32%"
+    },
+    "source": {
+      "pdf": "08089e72409a0f3e6fcf14804ec30d64.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "demographics",
+      "voters",
+      "admin_process"
+    ],
+    "geo_level": "district",
+    "values": {
+      "Detail": "AC with highest turnout%",
+      "2002": "28-Jamjodhpur 70.78%",
+      "2007": "24-Jodiya 70.76%"
+    },
+    "source": {
+      "pdf": "08089e72409a0f3e6fcf14804ec30d64.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "demographics",
+      "voters",
+      "admin_process"
+    ],
+    "geo_level": "district",
+    "values": {
+      "Detail": "AC with lowest female\nturnout%",
+      "2002": "26-Jamnagar Rural (S.C.) 40.94%",
+      "2007": "31-Dwarka 40.29%"
+    },
+    "source": {
+      "pdf": "08089e72409a0f3e6fcf14804ec30d64.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "demographics",
+      "voters",
+      "admin_process"
+    ],
+    "geo_level": "district",
+    "values": {
+      "Detail": "AC with highest female\nturnout%",
+      "2002": "28-Jamjodhpur 68.63%",
+      "2007": "24-Jodiya 67.68%"
+    },
+    "source": {
+      "pdf": "08089e72409a0f3e6fcf14804ec30d64.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "demographics",
+      "voters",
+      "admin_process"
+    ],
+    "geo_level": "district",
+    "values": {
+      "Detail": "AC with lowest Male\nturnout%",
+      "2002": "26-Jamnagar Rural (S.C.) 47.70%",
+      "2007": "26-Jamnagar Rural\n(S.C.) 50.23%"
+    },
+    "source": {
+      "pdf": "08089e72409a0f3e6fcf14804ec30d64.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "demographics",
+      "voters",
+      "admin_process"
+    ],
+    "geo_level": "district",
+    "values": {
+      "Detail": "AC with highest Male\nturnout%",
+      "2002": "29-Bhanvad 73.28%",
+      "2007": "24-Jodiya 73.72%"
+    },
+    "source": {
+      "pdf": "08089e72409a0f3e6fcf14804ec30d64.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "demographics",
+      "voters",
+      "admin_process"
+    ],
+    "geo_level": "district",
+    "values": {
+      "Detail": "Total Voters",
+      "2004": "1071055",
+      "2009": "1296877"
+    },
+    "source": {
+      "pdf": "08089e72409a0f3e6fcf14804ec30d64.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "demographics",
+      "voters",
+      "admin_process"
+    ],
+    "geo_level": "district",
+    "values": {
+      "Detail": "Total Turnout%",
+      "2004": "40.46%",
+      "2009": "45.88%"
+    },
+    "source": {
+      "pdf": "08089e72409a0f3e6fcf14804ec30d64.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "demographics",
+      "voters",
+      "admin_process"
+    ],
+    "geo_level": "district",
+    "values": {
+      "Detail": "Total Male Voters",
+      "2004": "549656",
+      "2009": "669498"
+    },
+    "source": {
+      "pdf": "08089e72409a0f3e6fcf14804ec30d64.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "demographics",
+      "voters",
+      "admin_process"
+    ],
+    "geo_level": "district",
+    "values": {
+      "Detail": "Male Turnout%",
+      "2004": "46.02%",
+      "2009": "51.45%"
+    },
+    "source": {
+      "pdf": "08089e72409a0f3e6fcf14804ec30d64.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "demographics",
+      "voters",
+      "admin_process"
+    ],
+    "geo_level": "district",
+    "values": {
+      "Detail": "Total Female Voters",
+      "2004": "521399",
+      "2009": "627379"
+    },
+    "source": {
+      "pdf": "08089e72409a0f3e6fcf14804ec30d64.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "demographics",
+      "voters",
+      "admin_process"
+    ],
+    "geo_level": "district",
+    "values": {
+      "Detail": "Female Turnout%",
+      "2004": "34.60%",
+      "2009": "39.94%"
+    },
+    "source": {
+      "pdf": "08089e72409a0f3e6fcf14804ec30d64.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "demographics",
+      "voters",
+      "admin_process"
+    ],
+    "geo_level": "district",
+    "values": {
+      "Detail": "AC with lowest turnout%",
+      "2004": "31-Dwarka 34.72%",
+      "2009": "82-Dwarka 42.27%"
+    },
+    "source": {
+      "pdf": "08089e72409a0f3e6fcf14804ec30d64.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "demographics",
+      "voters",
+      "admin_process"
+    ],
+    "geo_level": "district",
+    "values": {
+      "Detail": "AC with highest turnout%",
+      "2004": "29-Bhanvad 48.61",
+      "2009": "80-Jamjodhpur\n49.69%"
+    },
+    "source": {
+      "pdf": "08089e72409a0f3e6fcf14804ec30d64.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "demographics",
+      "voters",
+      "admin_process"
+    ],
+    "geo_level": "district",
+    "values": {
+      "Detail": "AC with lowest female\nturnout%",
+      "2004": "31-Dwarka 26.49%",
+      "2009": "82-Dwarka 35.50%"
+    },
+    "source": {
+      "pdf": "08089e72409a0f3e6fcf14804ec30d64.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "demographics",
+      "voters",
+      "admin_process"
+    ],
+    "geo_level": "district",
+    "values": {
+      "Detail": "AC with highest female\nturnout%",
+      "2004": "24-Jodiya 42.71%",
+      "2009": "80-Jamjodhpur\n43.55%"
+    },
+    "source": {
+      "pdf": "08089e72409a0f3e6fcf14804ec30d64.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "demographics",
+      "voters",
+      "admin_process"
+    ],
+    "geo_level": "district",
+    "values": {
+      "Detail": "AC with lowest Male\nturnout%",
+      "2004": "26-Jamnagar Rural (S.C.) 39.85%",
+      "2009": "78-Jamnagar North\n48.14%"
+    },
+    "source": {
+      "pdf": "08089e72409a0f3e6fcf14804ec30d64.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "demographics",
+      "voters",
+      "admin_process"
+    ],
+    "geo_level": "district",
+    "values": {
+      "Detail": "AC with highest Male\nturnout%",
+      "2004": "29-Bhanvad 54.76",
+      "2009": "80-Jamjodhpur\n55.35%"
+    },
+    "source": {
+      "pdf": "08089e72409a0f3e6fcf14804ec30d64.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "demographics",
+      "voters",
+      "admin_process"
+    ],
+    "geo_level": "district",
+    "values": {
+      "1. Banks.": "3. Different association.",
+      "2. Factory association / owner / G.I.D.C.": "4. Rotary club."
+    },
+    "source": {
+      "pdf": "08089e72409a0f3e6fcf14804ec30d64.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "demographics",
+      "voters",
+      "admin_process"
+    ],
+    "geo_level": "district",
+    "values": {
+      "1. Banks.": "5. Lion / lioness club.",
+      "2. Factory association / owner / G.I.D.C.": "6. Hotel association."
+    },
+    "source": {
+      "pdf": "08089e72409a0f3e6fcf14804ec30d64.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "demographics",
+      "voters",
+      "admin_process"
+    ],
+    "geo_level": "district",
+    "values": {
+      "1. Banks.": "7. Cinema association.",
+      "2. Factory association / owner / G.I.D.C.": "8. Cable connection association."
+    },
+    "source": {
+      "pdf": "08089e72409a0f3e6fcf14804ec30d64.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "demographics",
+      "voters",
+      "admin_process"
+    ],
+    "geo_level": "district",
+    "values": {
+      "1. Banks.": "9. NGOs.",
+      "2. Factory association / owner / G.I.D.C.": "10. Woman groups / Mahila Shamakhya / SHGs"
+    },
+    "source": {
+      "pdf": "08089e72409a0f3e6fcf14804ec30d64.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "demographics",
+      "voters",
+      "admin_process"
+    ],
+    "geo_level": "district",
+    "values": {
+      "1. Banks.": "11. NCC / NSS",
+      "2. Factory association / owner / G.I.D.C.": "12.Educational Institutes"
+    },
+    "source": {
+      "pdf": "08089e72409a0f3e6fcf14804ec30d64.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "demographics",
+      "voters",
+      "admin_process"
+    ],
+    "geo_level": "district",
+    "values": {
+      "1. Banks.": "13. Co-operative societies",
+      "2. Factory association / owner / G.I.D.C.": "14.FPS. (Fair Price Shops)"
+    },
+    "source": {
+      "pdf": "08089e72409a0f3e6fcf14804ec30d64.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "demographics",
+      "voters",
+      "admin_process"
+    ],
+    "geo_level": "district",
+    "values": {
+      "1. Banks.": "15. Gujarati News Paper",
+      "2. Factory association / owner / G.I.D.C.": "16.A.P.M.C."
+    },
+    "source": {
+      "pdf": "08089e72409a0f3e6fcf14804ec30d64.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "demographics",
+      "voters",
+      "admin_process"
+    ],
+    "geo_level": "district",
+    "values": {
+      "1. Banks.": "17. Banks",
+      "2. Factory association / owner / G.I.D.C.": "18. Reliance Industries Ltd., Essar Oil Ltd.,\nTata Chemical Ltd."
+    },
+    "source": {
+      "pdf": "08089e72409a0f3e6fcf14804ec30d64.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "demographics",
+      "voters",
+      "admin_process"
+    ],
+    "geo_level": "district",
+    "values": {
+      "General Election": "General Assembly Election – 2007",
+      "No. of Polling\nStations": "50",
+      "No. of Area": "33"
+    },
+    "source": {
+      "pdf": "08089e72409a0f3e6fcf14804ec30d64.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "demographics",
+      "voters",
+      "admin_process"
+    ],
+    "geo_level": "district",
+    "values": {
+      "General Election": "General Parliamentary Election – 2009",
+      "No. of Polling\nStations": "58",
+      "No. of Area": "35"
+    },
+    "source": {
+      "pdf": "08089e72409a0f3e6fcf14804ec30d64.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "demographics",
+      "voters",
+      "admin_process"
+    ],
+    "geo_level": "district",
+    "values": {
+      "Sr.\nno.": "1",
+      "Medium for\nSVEEP": "Appointmen\nt of BLA by\npolitical\nparties",
+      "Target area\n(whether whole\nDistrict/AC/Particula\nr Polling Booth": "AC / Polling Booth\nlevel",
+      "Target\nperiod\nFrom/To": "01/05/2012\nto\n30/06/2012",
+      "Partners\nhip if any": "-",
+      "Responsible\nofficer/office\nfor\nimplementatio\nn": "A meeting will\nbe arranged\nwith political\nparties for\nappointment of\nBLA."
+    },
+    "source": {
+      "pdf": "08089e72409a0f3e6fcf14804ec30d64.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "demographics",
+      "voters",
+      "admin_process"
+    ],
+    "geo_level": "district",
+    "values": {
+      "Sr.\nno.": "2",
+      "Medium for\nSVEEP": "Publicity\n* Publicity\nthrough.\n* Hoardings\n* Banners\n* Pamphlets\n* Scroll in\nlocal\ncable\nnetwork",
+      "Target area\n(whether whole\nDistrict/AC/Particula\nr Polling Booth": "AC / poling booth\nlevel.\n* Banks\n* Hospitals\n* Govt. Colonies\n* Different societies\n* School / Collage\n* Toll Plazas",
+      "Target\nperiod\nFrom/To": "20/05/2012\nto\n15/08/2012",
+      "Partners\nhip if any": "* Banks\n*\nDifferent\nassociati\non\n* NGO\n* Factory\nowner\n* Cable\nNetwork\nowners",
+      "Responsible\nofficer/office\nfor\nimplementatio\nn": "All EROs,\nLocal\nInformation\nDept., R & B\nDept.,\nMunicipalities"
+    },
+    "source": {
+      "pdf": "08089e72409a0f3e6fcf14804ec30d64.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "demographics",
+      "voters",
+      "admin_process"
+    ],
+    "geo_level": "district",
+    "values": {
+      "Sr.\nno.": "3",
+      "Medium for\nSVEEP": "Meeting\nwith\nprincipal &\nDesignated\nofficer",
+      "Target area\n(whether whole\nDistrict/AC/Particula\nr Polling Booth": "* Youth voters of\neducation institute",
+      "Target\nperiod\nFrom/To": "01/05/2012\nto\n30/05/2012",
+      "Partners\nhip if any": "",
+      "Responsible\nofficer/office\nfor\nimplementatio\nn": "District\nEducation\nOffcier"
+    },
+    "source": {
+      "pdf": "08089e72409a0f3e6fcf14804ec30d64.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "demographics",
+      "voters",
+      "admin_process"
+    ],
+    "geo_level": "district",
+    "values": {
+      "Sr.\nno.": "4",
+      "Medium for\nSVEEP": "Meeting\nwith public\n& privet\nbanks",
+      "Target area\n(whether whole\nDistrict/AC/Particula\nr Polling Booth": "for all ACs",
+      "Target\nperiod\nFrom/To": "",
+      "Partners\nhip if any": "",
+      "Responsible\nofficer/office\nfor\nimplementatio\nn": "Lead Bank\nofficers"
+    },
+    "source": {
+      "pdf": "08089e72409a0f3e6fcf14804ec30d64.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "demographics",
+      "voters",
+      "admin_process"
+    ],
+    "geo_level": "district",
+    "values": {
+      "Sr.\nno.": "5",
+      "Medium for\nSVEEP": "Meeting\nwith AC /\nTaluka\nlevel Govt. /\nCentral\nGovt.\nofficer for\ntheir\ninvolvement\nin SVEEP\nplan.",
+      "Target area\n(whether whole\nDistrict/AC/Particula\nr Polling Booth": "* for registration of\ntheir employees and\ntheir family\nmembers\n* Involvement in\nSVEEP",
+      "Target\nperiod\nFrom/To": "01/05/2012\nto\n30/05/2012",
+      "Partners\nhip if any": "",
+      "Responsible\nofficer/office\nfor\nimplementatio\nn": "D.E.O. & and\nall E.R.O.s"
+    },
+    "source": {
+      "pdf": "08089e72409a0f3e6fcf14804ec30d64.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "demographics",
+      "voters",
+      "admin_process"
+    ],
+    "geo_level": "district",
+    "values": {
+      "6": "7",
+      "Training &\nmotivation\nto Sector\nOfficers ,\nBLO & New\nBLO.": "Meeting\nwith other\nvillage level\nassistant\nagencies\nAnganvadi\n/MDM\norganizer/\nFPS/ health\n/ Sakhi\nMandal etc.",
+      "": "",
+      "01/05/2012\nto\n30/05/2012": "01/05/2012\nto\n30/05/2012",
+      "all ERO &\nAERO": "all ERO &\nAERO"
+    },
+    "source": {
+      "pdf": "08089e72409a0f3e6fcf14804ec30d64.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "demographics",
+      "voters",
+      "admin_process"
+    ],
+    "geo_level": "district",
+    "values": {
+      "6": "8",
+      "Training &\nmotivation\nto Sector\nOfficers ,\nBLO & New\nBLO.": "Meeting\nwith AC /\nTaluka level\npolitical\nleader, TP/\nDP &\ntaluka\npresident.",
+      "": "",
+      "01/05/2012\nto\n30/05/2012": "Once In a\nMonth",
+      "all ERO &\nAERO": "all ERO &\nAERO"
+    },
+    "source": {
+      "pdf": "08089e72409a0f3e6fcf14804ec30d64.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "demographics",
+      "voters",
+      "admin_process"
+    ],
+    "geo_level": "district",
+    "values": {
+      "6": "9",
+      "Training &\nmotivation\nto Sector\nOfficers ,\nBLO & New\nBLO.": "Meeting\nwith social\n& religion\nhead",
+      "": "",
+      "01/05/2012\nto\n30/05/2012": "01/05/2012\nto\n30/06/2012",
+      "all ERO &\nAERO": "all ERO &\nAERO"
+    },
+    "source": {
+      "pdf": "08089e72409a0f3e6fcf14804ec30d64.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "demographics",
+      "voters",
+      "admin_process"
+    ],
+    "geo_level": "district",
+    "values": {
+      "6": "10",
+      "Training &\nmotivation\nto Sector\nOfficers ,\nBLO & New\nBLO.": "Meeting\nwith NGO /\nRotary Club\n/ Lions club\n/ Mahila\nshamakay /\nHealth\nWorkers/\nAnganwadi\nWorkers",
+      "": "",
+      "01/05/2012\nto\n30/05/2012": "May - July",
+      "all ERO &\nAERO": "for District\nLevel – DEO\nand\nAC level -\nERO & AERO,\nT.D.O.,\nC.D.P.O.,\nA.D.H.O.,\nI.C.D.S."
+    },
+    "source": {
+      "pdf": "08089e72409a0f3e6fcf14804ec30d64.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "demographics",
+      "voters",
+      "admin_process"
+    ],
+    "geo_level": "district",
+    "values": {
+      "6": "11",
+      "Training &\nmotivation\nto Sector\nOfficers ,\nBLO & New\nBLO.": "Meeting\nwith Factory\nOwner's\nAssociation\n&\nIndustrialist",
+      "": "",
+      "01/05/2012\nto\n30/05/2012": "May",
+      "all ERO &\nAERO": "for District\nLevel – DEO\nand\nAC level -\nERO & AERO"
+    },
+    "source": {
+      "pdf": "08089e72409a0f3e6fcf14804ec30d64.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  },
+  {
+    "category": [
+      "demographics",
+      "voters",
+      "admin_process"
+    ],
+    "geo_level": "district",
+    "values": {
+      "12": "13",
+      "Bhavai /\nDayro /\nNukkad": "N.C.C. &\nN.S.S.",
+      "booths Level": "All ACs",
+      "May - June -\nJuly": "01-06-2012\nto 18-06-\n2012",
+      "Dairy,\nCultural\ngroup,\nBanks,\nCollages\n,\nCable": "with help\nof\nPrimary\nTeacher\ns",
+      "Dist.Education\nOfficer, DPEO\n& Dist. Sports\nOfficer": "District\nCommandant\nof N.C.C. &\nDist.\nEducation\nOfficer"
+    },
+    "source": {
+      "pdf": "08089e72409a0f3e6fcf14804ec30d64.pdf",
+      "task": "district_voters"
+    },
+    "confidence": "high"
+  }
+]

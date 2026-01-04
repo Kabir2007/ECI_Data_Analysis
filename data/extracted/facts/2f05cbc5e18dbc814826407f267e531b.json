@@ -1,0 +1,30 @@
+[
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "The application should be printed photograph is to be pasted if not printed, duly signed and": "posted to the address mentioned on the printed copy. The Acknowledgment No. generated"
+    },
+    "source": {
+      "pdf": "35ef85b6ef0317b5797283a62a00dedf.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "The application should be printed photograph is to be pasted if not printed, duly signed and": "after printing the application should be maintained for tracking the status of the application."
+    },
+    "source": {
+      "pdf": "35ef85b6ef0317b5797283a62a00dedf.pdf",
+      "task": "voter_migration"
+    },
+    "confidence": "low"
+  }
+]

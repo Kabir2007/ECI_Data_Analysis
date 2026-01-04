@@ -1,0 +1,632 @@
+[
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "ELECTION COMMISSION OF INDIA\nFORM-6\nAcknowledgement No.____________\n(See Rules 13(1) and 26) of Registration of Electors Rule-1960 (To be filled by office)": "Application for Inclusion of Name in Electoral Roll for First time Voter OR on Shifting\nfrom One Constituency to Another Constituency.",
+      "null": null
+    },
+    "source": {
+      "pdf": "41dec6db89d7d29cee0e0a722bbe36b5.pdf",
+      "task": "form6_additions"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "ELECTION COMMISSION OF INDIA\nFORM-6\nAcknowledgement No.____________\n(See Rules 13(1) and 26) of Registration of Electors Rule-1960 (To be filled by office)": "To, The Electoral Registration Officer, ………………..………………………………………...Assembly / Parliamentary Consitituency\nI request that my name be included in the electoral roll for the above Constituency.\n(Tick appropriate box)\nAs a first time voter or due to shifting from another constituency\nParticulars in support of my claim for inclusion in the electoral roll are given below:-\nMandatory Particulars\n(a) Name\n(b) Surname(if any)",
+      "null": null
+    },
+    "source": {
+      "pdf": "41dec6db89d7d29cee0e0a722bbe36b5.pdf",
+      "task": "form6_additions"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "ELECTION COMMISSION OF INDIA\nFORM-6\nAcknowledgement No.____________\n(See Rules 13(1) and 26) of Registration of Electors Rule-1960 (To be filled by office)": "(a) Name",
+      "null": null
+    },
+    "source": {
+      "pdf": "41dec6db89d7d29cee0e0a722bbe36b5.pdf",
+      "task": "form6_additions"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "ELECTION COMMISSION OF INDIA\nFORM-6\nAcknowledgement No.____________\n(See Rules 13(1) and 26) of Registration of Electors Rule-1960 (To be filled by office)": "(b) Surname(if any)",
+      "null": null
+    },
+    "source": {
+      "pdf": "41dec6db89d7d29cee0e0a722bbe36b5.pdf",
+      "task": "form6_additions"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "ELECTION COMMISSION OF INDIA\nFORM-6\nAcknowledgement No.____________\n(See Rules 13(1) and 26) of Registration of Electors Rule-1960 (To be filled by office)": "(c) Name and surname of Relative of\nApplicant [see item (d)]",
+      "null": null
+    },
+    "source": {
+      "pdf": "41dec6db89d7d29cee0e0a722bbe36b5.pdf",
+      "task": "form6_additions"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "ELECTION COMMISSION OF INDIA\nFORM-6\nAcknowledgement No.____________\n(See Rules 13(1) and 26) of Registration of Electors Rule-1960 (To be filled by office)": "(d) Type of Relation\n(Tick appropriate box)",
+      "null": ""
+    },
+    "source": {
+      "pdf": "41dec6db89d7d29cee0e0a722bbe36b5.pdf",
+      "task": "form6_additions"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "ELECTION COMMISSION OF INDIA\nFORM-6\nAcknowledgement No.____________\n(See Rules 13(1) and 26) of Registration of Electors Rule-1960 (To be filled by office)": "(e) Age [as on 1st January of current calendar year………………..]",
+      "null": null
+    },
+    "source": {
+      "pdf": "41dec6db89d7d29cee0e0a722bbe36b5.pdf",
+      "task": "form6_additions"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "ELECTION COMMISSION OF INDIA\nFORM-6\nAcknowledgement No.____________\n(See Rules 13(1) and 26) of Registration of Electors Rule-1960 (To be filled by office)": "(f) Date of Birth (in DD/MM/YYYY format)(if known)",
+      "null": null
+    },
+    "source": {
+      "pdf": "41dec6db89d7d29cee0e0a722bbe36b5.pdf",
+      "task": "form6_additions"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "ELECTION COMMISSION OF INDIA\nFORM-6\nAcknowledgement No.____________\n(See Rules 13(1) and 26) of Registration of Electors Rule-1960 (To be filled by office)": "(g) Gender of Applicant (Tick appropriate box)",
+      "null": null
+    },
+    "source": {
+      "pdf": "41dec6db89d7d29cee0e0a722bbe36b5.pdf",
+      "task": "form6_additions"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "ELECTION COMMISSION OF INDIA\nFORM-6\nAcknowledgement No.____________\n(See Rules 13(1) and 26) of Registration of Electors Rule-1960 (To be filled by office)": "(h)Current address where applicant is ordinarily resident",
+      "null": null
+    },
+    "source": {
+      "pdf": "41dec6db89d7d29cee0e0a722bbe36b5.pdf",
+      "task": "form6_additions"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "ELECTION COMMISSION OF INDIA\nFORM-6\nAcknowledgement No.____________\n(See Rules 13(1) and 26) of Registration of Electors Rule-1960 (To be filled by office)": "Street/Area/Locality",
+      "null": null
+    },
+    "source": {
+      "pdf": "41dec6db89d7d29cee0e0a722bbe36b5.pdf",
+      "task": "form6_additions"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "ELECTION COMMISSION OF INDIA\nFORM-6\nAcknowledgement No.____________\n(See Rules 13(1) and 26) of Registration of Electors Rule-1960 (To be filled by office)": "Town/Village",
+      "null": null
+    },
+    "source": {
+      "pdf": "41dec6db89d7d29cee0e0a722bbe36b5.pdf",
+      "task": "form6_additions"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "ELECTION COMMISSION OF INDIA\nFORM-6\nAcknowledgement No.____________\n(See Rules 13(1) and 26) of Registration of Electors Rule-1960 (To be filled by office)": "Post Office",
+      "null": null
+    },
+    "source": {
+      "pdf": "41dec6db89d7d29cee0e0a722bbe36b5.pdf",
+      "task": "form6_additions"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "ELECTION COMMISSION OF INDIA\nFORM-6\nAcknowledgement No.____________\n(See Rules 13(1) and 26) of Registration of Electors Rule-1960 (To be filled by office)": "District",
+      "null": null
+    },
+    "source": {
+      "pdf": "41dec6db89d7d29cee0e0a722bbe36b5.pdf",
+      "task": "form6_additions"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "ELECTION COMMISSION OF INDIA\nFORM-6\nAcknowledgement No.____________\n(See Rules 13(1) and 26) of Registration of Electors Rule-1960 (To be filled by office)": "(i) Permanent address of applicant",
+      "null": null
+    },
+    "source": {
+      "pdf": "41dec6db89d7d29cee0e0a722bbe36b5.pdf",
+      "task": "form6_additions"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "ELECTION COMMISSION OF INDIA\nFORM-6\nAcknowledgement No.____________\n(See Rules 13(1) and 26) of Registration of Electors Rule-1960 (To be filled by office)": "Street/Area/Locality",
+      "null": null
+    },
+    "source": {
+      "pdf": "41dec6db89d7d29cee0e0a722bbe36b5.pdf",
+      "task": "form6_additions"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "ELECTION COMMISSION OF INDIA\nFORM-6\nAcknowledgement No.____________\n(See Rules 13(1) and 26) of Registration of Electors Rule-1960 (To be filled by office)": "Town/Village",
+      "null": null
+    },
+    "source": {
+      "pdf": "41dec6db89d7d29cee0e0a722bbe36b5.pdf",
+      "task": "form6_additions"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "ELECTION COMMISSION OF INDIA\nFORM-6\nAcknowledgement No.____________\n(See Rules 13(1) and 26) of Registration of Electors Rule-1960 (To be filled by office)": "Post Office",
+      "null": null
+    },
+    "source": {
+      "pdf": "41dec6db89d7d29cee0e0a722bbe36b5.pdf",
+      "task": "form6_additions"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "ELECTION COMMISSION OF INDIA\nFORM-6\nAcknowledgement No.____________\n(See Rules 13(1) and 26) of Registration of Electors Rule-1960 (To be filled by office)": "District",
+      "null": null
+    },
+    "source": {
+      "pdf": "41dec6db89d7d29cee0e0a722bbe36b5.pdf",
+      "task": "form6_additions"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "ELECTION COMMISSION OF INDIA\nFORM-6\nAcknowledgement No.____________\n(See Rules 13(1) and 26) of Registration of Electors Rule-1960 (To be filled by office)": "(j)EPIC No. (if issued)",
+      "null": null
+    },
+    "source": {
+      "pdf": "41dec6db89d7d29cee0e0a722bbe36b5.pdf",
+      "task": "form6_additions"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "ELECTION COMMISSION OF INDIA\nFORM-6\nAcknowledgement No.____________\n(See Rules 13(1) and 26) of Registration of Electors Rule-1960 (To be filled by office)": "Optional Particulars",
+      "null": null
+    },
+    "source": {
+      "pdf": "41dec6db89d7d29cee0e0a722bbe36b5.pdf",
+      "task": "form6_additions"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "ELECTION COMMISSION OF INDIA\nFORM-6\nAcknowledgement No.____________\n(See Rules 13(1) and 26) of Registration of Electors Rule-1960 (To be filled by office)": "(k) Disability (if any)\n(Tick appropriate box)",
+      "null": null
+    },
+    "source": {
+      "pdf": "41dec6db89d7d29cee0e0a722bbe36b5.pdf",
+      "task": "form6_additions"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "ELECTION COMMISSION OF INDIA\nFORM-6\nAcknowledgement No.____________\n(See Rules 13(1) and 26) of Registration of Electors Rule-1960 (To be filled by office)": "(l) Email id (optional)",
+      "null": null
+    },
+    "source": {
+      "pdf": "41dec6db89d7d29cee0e0a722bbe36b5.pdf",
+      "task": "form6_additions"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "ELECTION COMMISSION OF INDIA\nFORM-6\nAcknowledgement No.____________\n(See Rules 13(1) and 26) of Registration of Electors Rule-1960 (To be filled by office)": "(m) Mobile No. (optional)",
+      "null": null
+    },
+    "source": {
+      "pdf": "41dec6db89d7d29cee0e0a722bbe36b5.pdf",
+      "task": "form6_additions"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "ELECTION COMMISSION OF INDIA\nFORM-6\nAcknowledgement No.____________\n(See Rules 13(1) and 26) of Registration of Electors Rule-1960 (To be filled by office)": "DECLARATION - I hereby declare that to the best of knowledge and belief –\n(i) I am a citizen of India and place of my birth is Village/Town…………………………..…….District………………………..……State…………………………………\n(ii) I am ordinarily resident at the address given at (h) above since ……………………………….……………………………….………(date, month, year).\n(iii)I have not applied for the inclusion of my name in the electoral roll for any other constituency.\n*(iv)My name has not already been included in the electoral roll for this or any other assembly/ parliamentary constituency\nOR\n*My name may have been included in the electoral roll for___________________________ Constituency in _________________________\nState in which I was ordinarily resident earlier at the address mentioned below and if so, I request that the same may be deleted from that\nelectoral roll.\n* strike off the option not appropriate",
+      "null": null
+    },
+    "source": {
+      "pdf": "41dec6db89d7d29cee0e0a722bbe36b5.pdf",
+      "task": "form6_additions"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Address of earlier place of ordinary residence (if applying due to shifting from another constituency)": "House No.",
+      "null": null
+    },
+    "source": {
+      "pdf": "41dec6db89d7d29cee0e0a722bbe36b5.pdf",
+      "task": "form6_additions"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Address of earlier place of ordinary residence (if applying due to shifting from another constituency)": "Town/Village",
+      "null": null
+    },
+    "source": {
+      "pdf": "41dec6db89d7d29cee0e0a722bbe36b5.pdf",
+      "task": "form6_additions"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Address of earlier place of ordinary residence (if applying due to shifting from another constituency)": "Post Office",
+      "null": ""
+    },
+    "source": {
+      "pdf": "41dec6db89d7d29cee0e0a722bbe36b5.pdf",
+      "task": "form6_additions"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Address of earlier place of ordinary residence (if applying due to shifting from another constituency)": "District",
+      "null": null
+    },
+    "source": {
+      "pdf": "41dec6db89d7d29cee0e0a722bbe36b5.pdf",
+      "task": "form6_additions"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Address of earlier place of ordinary residence (if applying due to shifting from another constituency)": "I am aware that making a statement or declaration which is false and which I know or believe to be false or do not believe to be true, is\npunishable under Section 31 of the Representation of the People Act, 1950 (43 of 1950).\nPlace……………..........................\nDate……………………………………….. Signature of Applicant……….………………………………………..",
+      "null": null
+    },
+    "source": {
+      "pdf": "41dec6db89d7d29cee0e0a722bbe36b5.pdf",
+      "task": "form6_additions"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Address of earlier place of ordinary residence (if applying due to shifting from another constituency)": "Remarks of Field Level Verifying Officer:",
+      "null": null
+    },
+    "source": {
+      "pdf": "41dec6db89d7d29cee0e0a722bbe36b5.pdf",
+      "task": "form6_additions"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Address of earlier place of ordinary residence (if applying due to shifting from another constituency)": "Details of action taken\n(To be filled by Electoral Registration Officer of the constituency)",
+      "null": null
+    },
+    "source": {
+      "pdf": "41dec6db89d7d29cee0e0a722bbe36b5.pdf",
+      "task": "form6_additions"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Address of earlier place of ordinary residence (if applying due to shifting from another constituency)": "The application of Shri / Shrimati/ Kumari ……………………………………………………………………………………..for inclusion of name in the\nelectoral roll in Form 6 has been accepted/ rejected. Detailed reasons for acceptance [under or in pursuance of rule\n18/20/26(4)] or rejection [under or in pursuance of rule 17/20/26(4)] are given below:\nPlace:\nDate: Signature of ERO Seal of the ERO",
+      "null": null
+    },
+    "source": {
+      "pdf": "41dec6db89d7d29cee0e0a722bbe36b5.pdf",
+      "task": "form6_additions"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Address of earlier place of ordinary residence (if applying due to shifting from another constituency)": "Intimation of decision taken (to be filled by Electoral Registration Officer of the constituency and to be posted to the\napplicant on the address as given by the applicant)",
+      "null": null
+    },
+    "source": {
+      "pdf": "41dec6db89d7d29cee0e0a722bbe36b5.pdf",
+      "task": "form6_additions"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Address of earlier place of ordinary residence (if applying due to shifting from another constituency)": "The application in Form 6 of Shri/Shrimati/Kumari………………………………………………………………………………………………",
+      "null": null
+    },
+    "source": {
+      "pdf": "41dec6db89d7d29cee0e0a722bbe36b5.pdf",
+      "task": "form6_additions"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Address of earlier place of ordinary residence (if applying due to shifting from another constituency)": "Current address where applicant is ordinarily resident",
+      "null": null
+    },
+    "source": {
+      "pdf": "41dec6db89d7d29cee0e0a722bbe36b5.pdf",
+      "task": "form6_additions"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Address of earlier place of ordinary residence (if applying due to shifting from another constituency)": "Street/Area/Locality",
+      "null": null
+    },
+    "source": {
+      "pdf": "41dec6db89d7d29cee0e0a722bbe36b5.pdf",
+      "task": "form6_additions"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Address of earlier place of ordinary residence (if applying due to shifting from another constituency)": "Town/Village",
+      "null": null
+    },
+    "source": {
+      "pdf": "41dec6db89d7d29cee0e0a722bbe36b5.pdf",
+      "task": "form6_additions"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Address of earlier place of ordinary residence (if applying due to shifting from another constituency)": "Post Office",
+      "null": ""
+    },
+    "source": {
+      "pdf": "41dec6db89d7d29cee0e0a722bbe36b5.pdf",
+      "task": "form6_additions"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Address of earlier place of ordinary residence (if applying due to shifting from another constituency)": "District",
+      "null": null
+    },
+    "source": {
+      "pdf": "41dec6db89d7d29cee0e0a722bbe36b5.pdf",
+      "task": "form6_additions"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Address of earlier place of ordinary residence (if applying due to shifting from another constituency)": "Has been (a) accepted and the name of Shri/Shrimati/Kumari…………………………………………………………………………………………………\nHas been registered at Serial No………………….in Part No…………………….. of AC No…………………………………………………………………….\n(b) rejected for the reason……………………………………………………………………………………………………………………………………………………….\nDate: Electoral Registration Officer\nAddress….…………………………………………….",
+      "null": null
+    },
+    "source": {
+      "pdf": "41dec6db89d7d29cee0e0a722bbe36b5.pdf",
+      "task": "form6_additions"
+    },
+    "confidence": "low"
+  },
+  {
+    "category": [
+      "none"
+    ],
+    "geo_level": "unclear",
+    "values": {
+      "Address of earlier place of ordinary residence (if applying due to shifting from another constituency)": "Acknowledgement/Receipt\nAcknowledgement Number _ _ _ _ _ _ _ _ _ _ _ _ _ _ Date __ _ _ _ _ _ _ _ _ _ _ _ _\nReceived the application in form 6 of Shri / Smt. / Ms. ___________________ ______________________________________\n[ Applicant can refer the Acknowledgement No. to check the status of application].\nName/Signature of ERO/AERO/BLO",
+      "null": null
+    },
+    "source": {
+      "pdf": "41dec6db89d7d29cee0e0a722bbe36b5.pdf",
+      "task": "form6_additions"
+    },
+    "confidence": "low"
+  }
+]
